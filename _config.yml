@@ -1,0 +1,10 @@
+# Dependencies
+highlighter: pygments
+markdown: redcarpet
+gems:
+  - jekyll-redirect-from
+
+
+# Setup
+title: Open Bioinformatics Foundation
+baseurl: /
