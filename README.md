@@ -1,9 +1,13 @@
 ---
 title: README
 ---
-# Note: this repo is now obsolete--please go to https://github.com/OBF/homepage
+# Note: this repo is now obsolete
 
-This is an attempt to automatically convert a Mediawiki XML export
+**Please see https://github.com/OBF/homepage for the styling etc for
+the current WordPress site, and https://github.com/OBF/wiki for
+a later successful conversion of the Mediawiki XML export to markdown.**
+
+This was an attempt to automatically convert a Mediawiki XML export
 from http://www.open-bio.org into markdown (using pandoc) as a git
 repository to be hosted using GitHub Pages (rendered using Jekyll).
 https://help.github.com/articles/using-jekyll-with-pages/
