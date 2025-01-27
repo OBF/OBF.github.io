@@ -9,17 +9,23 @@ the WordPress site used until 2025.
 This repository will host:
 
 * The front-page ``index.html``
-* The ``/board/`` and other misc content originally in WordPress
+* ``/board/``
+* ``/event-awards/``
+* ``/membership/``
+* ``/code-of-conduct/``
+* Other small misc. content originally in WordPress
 
-Separate repositories handle other parts of the website:
+Separate repositories handle other parts of the website, most of which
+will be static:
 
 * https://github.com/OBF/wiki hosts the historical ``/wiki/`` content,
   originally hosted in MediaWiki but converted to Markdown.
 * https://github.com/OBF/bosc2000 to https://github.com/OBF/bosc2016
   host the ``/bosc2000/`` to ``/bosc2016`` content, static HTML in the
   earlier meetings, later on just the PDFs like abstracts.
+* https://github.com/OBF/wp-content hosts the historical ``/wp-content/``
+  files uploaded via WordPress (mostly photos for blog posts etc).
 
 Pending:
 
 * The ``/bosc/`` content originally in WordPress
-* The ``/wp-content/`` like photos
