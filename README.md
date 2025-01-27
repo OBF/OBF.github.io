@@ -9,10 +9,12 @@ the WordPress site used until 2025.
 This repository will host:
 
 * The front-page ``index.html``
-* ``/board/``
-* ``/event-awards/``
-* ``/membership/``
-* ``/code-of-conduct/``
+* The board of directors ``/board/``
+* Member projects ``/projects/``
+* Event Award (originally called the OBF Travel Fellowship), ``/event-awards/``
+* Membership ``/membership/``
+* Code of contact ``/code-of-conduct/``
+* Dontations ``/donate/``
 * Other small misc. content originally in WordPress
 
 Separate repositories handle other parts of the website, most of which
@@ -29,3 +31,4 @@ will be static:
 Pending:
 
 * The ``/bosc/`` content originally in WordPress
+
