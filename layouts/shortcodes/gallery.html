@@ -1,0 +1,5 @@
+
+{{ $p := .Page }}
+<div class="gallery gallery-cols-{{ .Get "cols" | default 1 }}">
+{{- print .Inner | $p.RenderString  -}}
+</div>

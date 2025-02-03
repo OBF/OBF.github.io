@@ -1,0 +1,5 @@
+
+<audio controls preload="metadata">
+  <source src="{{ .Get "src" }}" type="audio/{{ replace (path.Ext (.Get "src")) "." ""}}">
+  Your browser does not support the audio element.
+</audio>

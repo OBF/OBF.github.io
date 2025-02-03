@@ -1,0 +1,24 @@
+{{ $category := .Get "category" }}
+{{ $catLink := .Get "catlink" | default true }}
+{{ $count := .Get "count" | default 5 }}
+
+{{ $p := site.AllPages }}
+{{ $p = where $p "Params.category" "intersect" (slice $category) }}
+
+{{ $categoryTitle := title $category }}
+{{ $categoryTitle = strings.Replace $categoryTitle "-" " " }}
+
+<h3>
+  {{ if $catLink }}
+    <a href="/category/{{ urlquery $category }}"> {{$categoryTitle }} </a>
+  {{ else }}
+    {{ $categoryTitle }}
+  {{ end }}
+
+</h3>
+<ul>
+  {{ range first $count $p}}
+      <li><a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      </li>
+  {{ end }}
+</ul>

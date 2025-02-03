@@ -1,0 +1,19 @@
+.column {
+  float: left;
+  width: 50%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+imagerow::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+/* Stack image & text if screen too small */
+@media screen and (max-width: 500px) {
+  .column {
+    width: 100%;
+  }
+}

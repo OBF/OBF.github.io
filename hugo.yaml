@@ -1,0 +1,68 @@
+baseURL: https://OBF.github.io
+languageCode: en-US
+title: Open Bioinformatics Foundation
+
+theme: beautifulhugo
+
+taxonomies:
+  category: category
+  tag: tag
+params:
+  description: Open Bioinformatics Foundation - test migration
+  defaultTheme: auto
+  disableThemeToggle: true
+  showShareButtons: true
+  showReadingTime: true
+  showToc: false
+  showBreadCrumbs: true
+  showCodeCopyButtons: true
+  comments: true
+  hideFooter: true
+  assets:
+    favicon: /favicon.ico
+    disableHLJS: true
+  logo: 'obf_logo_icon-circle-tr.png'
+markup:
+  highlight:
+    codeFences: true
+    guessSyntax: true
+    style: monokai
+  goldmark:
+    renderer:
+      unsafe: true
+    parser:
+      attribute:
+        block: true
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+outputFormats:
+  RSS:
+    mediaType: application/rss+xml
+    baseName: feed
+menu:
+  main:
+    - name: 'News'
+      url: 'posts'
+      weight: 3
+    - name: 'About OBF'
+      url: 'events/bosc-2021/about-2'
+      identifier: 'about'
+      weight: 1
+    - name: 'Membership'
+      parent: 'about'
+      url: 'membership'
+    - name: 'Donate'
+      parent: 'about'
+      url: 'donate'
+    - name: 'Board'
+      parent: 'about'
+      url: 'board'
+    - name: 'Events'
+      identifier: 'events'
+      weight: 2
+    - name: 'BOSC 2025'
+      parent: 'events'
+      url: 'events/bosc-2025/'
