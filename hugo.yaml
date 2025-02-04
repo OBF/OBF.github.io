@@ -22,6 +22,7 @@ params:
     favicon: /favicon.ico
     disableHLJS: true
   logo: 'obf_logo_icon-circle-tr.png'
+  bosc_logo: 'bosc_logo_square.png'
 markup:
   highlight:
     codeFences: true
