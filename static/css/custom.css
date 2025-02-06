@@ -17,3 +17,42 @@ imagerow::after {
     width: 100%;
   }
 }
+
+/* Gallery code */
+
+.gallery {
+    overflow: hidden;
+    margin: 10px;
+    max-width: 768px;
+}
+.gallery .box {
+    float: left;
+    position: relative;
+    /* Default: 1 tile wide */
+    width: 100%;
+}
+@media only screen and (min-width : 365px) {
+    /* Tablet view: 2 tiles */
+    .gallery .box {
+        width: 50%;
+    }
+}
+@media only screen and (min-width : 480px) {
+    /* Small desktop / ipad view: 3 tiles */
+    .gallery .box {
+        width: 33.3%;
+    }
+}
+@media only screen and (min-width : 9999px) {
+   /* Medium desktop: 4 tiles */
+   .box {
+      width: 25%;
+   }
+}
+
+.gallery figure {
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
