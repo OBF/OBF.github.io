@@ -24,6 +24,11 @@ params:
   logo: 'obf_logo_icon-circle-tr.png'
   bosc_logo: 'bosc_logo_square.png'
   homeTitle: Open Bioinformatics Foundation
+  author:
+    name: 'Open Bioinformatics Foundation'
+    email: 'board@open-bio.org'
+    github: 'obf'
+    mastodon: 'genomic.social/@openbio'
 markup:
   highlight:
     codeFences: true
