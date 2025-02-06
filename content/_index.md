@@ -11,6 +11,8 @@ url: /
 ---
 # About the OBF
 
+{{< columns >}}
+
 The Open Bioinformatics Foundation (OBF) is a non-profit, volunteer-run group that promotes open source software development and Open Science within the biological research community. [Membership](/membership/) in the OBF is free and open to anyone who wants to help promote open source or open science in a biological field.
 
 OBF runs the annual [Bioinformatics Open Source Conference (BOSC)](events/about).
@@ -19,48 +21,29 @@ OBF runs the annual [Bioinformatics Open Source Conference (BOSC)](events/about)
 
 [Learn More](/about/)
 
+{{< column >}}
+
 ![Poster session at GCCBOSC2018](/wp/wp-content/uploads/2019/03/people-at-poster-session-GCC2018-1.jpg)
-
-
-{{< leftimagewithtext
-    img="/wp/wp-content/uploads/2019/03/people-at-poster-session-GCC2018-1.jpg" 
-    alt="Poster session at GCCBOSC2018"
-    text="Here is some **short** text that is still parsed as *markdown*, including formatting and [links](https://example.org)"
->}}
-
-{{< rightimagewithtext
-    img="/wp-content/uploads/2024/08/Heather-presenting-1.jpeg" 
-    alt="OBF Treasurer Heather Wiencko introducing OBF at BOSC 2024"
-    text="Here is some **short** text that is still parsed as *markdown*, including formatting and [links](https://example.org)"
->}}
 
  
 ![OBF Treasurer Heather Wiencko introducing OBF at BOSC 2024](/wp-content/uploads/2024/08/Heather-presenting-1.jpeg)
 
-Let's try making a gallery:
-
-{{< gallery class="content-gallery" >}}
-  {{< figure src="/wp-content/uploads/2024/08/Heather-presenting-1.jpeg" >}}
-  {{< figure src="/wp/wp-content/uploads/2019/03/people-at-poster-session-GCC2018-1.jpg" >}}
-  {{< figure src="/wp-content/uploads/2024/08/Heather-presenting-1.jpeg" >}}
-  {{< figure src="/wp/wp-content/uploads/2019/03/people-at-poster-session-GCC2018-1.jpg" >}}
-{{< /gallery >}}
-
-
-
-# Latest News
-
-[Read more](blog)
+{{< endcolumns >}}
 
 # OBF Event Awards
 
+{{< columns >}}
+
 The OBF Event Fellowship program aims to increase diverse participation at events promoting open source bioinformatics software development and open science in the biological research community.
 
-- [What are the selection criteria?](travel-awards/#fellowships-selection-criteria)
-- [What does the fellowship cover?](travel-awards#fellowships-coverage)
-- [What do you require of applicants?](travel-awards#fellowships-requirements)
-- [Who will review the applicants?](travel-awards#fellowships-applications)
+- [What are the selection criteria?](event-awards/#fellowships-selection-criteria)
+- [What does the fellowship cover?](event-awards#fellowships-coverage)
+- [What do you require of applicants?](event-awards#fellowships-requirements)
+- [Who will review the applicants?](event-awards#fellowships-applications)
 
-[Apply](travel-awards/#fellowships-applications)
+[Apply](event-awards/#fellowships-applications)
+
+{{< column >}}
 
 ![Ruth Najala, an OBF Travel Award winner, by her poster](/wp-content/uploads/2023/03/Ruth-Nanjala-cropped-OBF-event-fellowship-winner.jpg)
+{{< endcolumns >}}
