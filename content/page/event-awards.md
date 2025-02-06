@@ -18,37 +18,48 @@ _The OBF Event Fellowship was previously offered under the title OBF Travel Fell
 
 # WHAT ARE THE SELECTION CRITERIA?
 
-## 1
+## 1. Does the event qualify?
 
-## Does the event qualify?
 
+{{< columns >}}
 Does the event you want to attend promote open source bioinformatics software development or open science in the biological research community?
-
+{{< column >}}
 ![](/wp/wp-content/uploads/2019/01/deadline.png)
+{{< endcolumns >}}
 
 Events can include (but are not limited to) conferences, workshops, code fests, and hackathons. The event can occur anytime in a one-year window starting one month after the application deadline. For example, if you are applying for the April 1 deadline, the event you are hoping to attend should take place between May 1 and the following May 1.
 
-## 2
 
-## What is your participation?
+## 2 What is your participation?
+
+{{< columns >}}
 
 We look at your role at the event, your past participation in the project that you are representing, and also your general involvement in open source development or open science.
 
+{{< column >}}
+
 ![](/wp/wp-content/uploads/2019/01/filter.png)
+
+{{< endcolumns >}}
 
 We give a slight preference to OBF events and member projects.
 
-## 3
+## 3 Increasing diversity
 
-## Increasing diversity
+{{< columns >}}
 
 Does your attendance increase diversity at the event and/or in the overall open source bioinformatics community?
 
+{{< column >}}
+
 ![](/wp/wp-content/uploads/2019/01/select-diversity.png)
 
+{{< endcolumns >}}
 We understand increasing diversity as increasing participation from groups otherwise underrepresented in the community or at the event, including but not limited to underrepresented demographic groups, ethnic origins, career stages, and disabilities.
 
 # What does the fellowship cover?
+
+{{< columns >}}
 
 ### Items covered for in-person participation
 
@@ -56,12 +67,15 @@ We understand increasing diversity as increasing participation from groups other
 - Note that rental car expenses and personal car mileage are **not eligible for reimbursement.** We anticipate that these awards will supplement travel costs, **not cover all expenses.**
 - If you anticipate that **you would require more than USD 1,000** in order to attend the event, please **include that information on the application form.**
 
+{{< column >}}
+
 ### Items covered for remote participation
 
-- The fellowship can be used to cover conference **registration fees** and the **costs of small hardware** (such as a microphone, speaker and webcam), **childcare for the duration of the event** and/or other supporting materials up to a value of **USD 1,000.   
-**
+- The fellowship can be used to cover conference **registration fees** and the **costs of small hardware** (such as a microphone, speaker and webcam), **childcare for the duration of the event** and/or other supporting materials up to a value of **USD 1,000.**
 - Applicants are eligible to apply for the cost of a communication platform only if they are **hosting a virtual event** and will require a paid subscription to access the necessary premium features of the software used in their event.
 - The cost of remote participation will be evaluated on a case-by-case basis. please note that this fellowship will not cover the cost of buying laptops and computers. However, this fellowship may cover the rental cost of the large hardware.
+
+{{< endcolumns >}}
 
 ### Reimbursement
 
