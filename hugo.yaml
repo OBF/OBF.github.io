@@ -23,6 +23,7 @@ params:
     disableHLJS: true
   logo: 'obf_logo_icon-circle-tr.png'
   bosc_logo: 'bosc_logo_square.png'
+  homeTitle: Open Bioinformatics Foundation
 markup:
   highlight:
     codeFences: true
@@ -61,9 +62,38 @@ menu:
     - name: 'Board'
       parent: 'about'
       url: 'board'
-    - name: 'Events'
-      identifier: 'events'
+    - name: 'BOSC'
+      identifier: 'bosc'
       weight: 2
     - name: 'BOSC 2025'
-      parent: 'events'
+      parent: 'bosc'
       url: 'events/bosc-2025/'
+      weight: 1
+    - name: 'Submit abstract'
+      parent: 'bosc'
+      url: 'events/bosc-2025/submit/'
+      weight: 2
+    - name: 'Schedule (2024)'
+      parent: 'bosc'
+      url: 'events/bosc-2024/bosc-2024-schedule/'
+      weight: 3
+    - name: 'Sponsors'
+      weight: 4
+      parent: 'bosc'
+      url: 'events/sponsors/'
+    - name: "CoFest (2024)"
+      weight: 5
+      parent: 'bosc'
+      url: 'events/bosc-2024/obf-bosc-collaborationfest-2024/'
+    - name: 'DEI'
+      weight: 6 
+      parent: 'bosc'
+      url: 'bosc-dei'
+    - name: 'BOSC News'
+      weight: 7
+      parent: 'bosc'
+      url: 'category/bosc/ismb/'
+    - name: 'About BOSC'
+      parent: 'bosc'
+      weight: 8
+      url: 'events/about/'

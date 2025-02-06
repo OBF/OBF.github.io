@@ -7,6 +7,7 @@ date: "2024-04-19T00:09:44+00:00"
 guid: https://www.open-bio.org/?page_id=7826
 title: BOSC 2024 Schedule
 url: /events/bosc-2024/bosc-2024-schedule/
+bosc: yes
 
 ---
 #### BOSC 2024 Schedule

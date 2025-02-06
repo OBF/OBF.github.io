@@ -7,6 +7,7 @@ date: "2019-02-08T16:46:51+00:00"
 guid: https://www.open-bio.org/wp/?page_id=2705
 title: About BOSC
 url: /events/about/
+bosc: yes 
 
 ---
 # What is BOSC?

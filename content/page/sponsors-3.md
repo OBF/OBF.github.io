@@ -7,7 +7,7 @@ date: "2023-03-27T19:05:24+00:00"
 guid: https://www.open-bio.org/?page_id=6961
 title: Sponsors
 url: /events/sponsors/
-
+bosc: yes
 ---
 # Sponsoring BOSC 2024
 

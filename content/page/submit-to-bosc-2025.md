@@ -7,6 +7,7 @@ date: "2024-01-24T16:09:52+00:00"
 guid: https://www.open-bio.org/?page_id=7623
 title: Submit to BOSC 2025
 url: /events/bosc-2025/submit/
+bosc: yes
 
 ---
 # BOSC 2025 Abstract Submission

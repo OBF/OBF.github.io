@@ -7,7 +7,7 @@ date: "2023-11-09T17:43:01+00:00"
 guid: https://www.open-bio.org/?page_id=7453
 title: OBF/BOSC CollaborationFest 2024
 url: /events/bosc-2024/obf-bosc-collaborationfest-2024/
-
+bosc: yes
 ---
 # CollaborationFest 2024
 
