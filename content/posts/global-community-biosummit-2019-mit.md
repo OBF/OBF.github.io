@@ -35,7 +35,7 @@ Conferences can be an incredible opportunity for people to learn from and connec
 
 A day before the conference many participants could sign up for lab tours in and around Boston. This included visits to [Gingko Bioworks](https://www.ginkgobioworks.com/)' labs, Boslab (a local community lab in Somerville), Makers' Asylum (hacker lab in Cambridge, MA), etc. This gave participants a better idea of the overall DIY scene and ecosystem in the area that co-exists with the big-name universities.
 
-![](/wp/wp-content/uploads/2019/12/cambridge-1024x768.jpg)Cambridge, Massachusetts, USA. Photo by Arunav Konwar
+![](/wp-content/uploads/2019/12/cambridge-1024x768.jpg)Cambridge, Massachusetts, USA. Photo by Arunav Konwar
 
 **DAY 1**
 
@@ -44,7 +44,7 @@ The conference was opened with opening remarks by David Sun Kong (Director of Co
 
 It was followed by participants introducing themselves and their projects in under 30 seconds each, in a segment called 'Hello World'.
 
-![](/wp/wp-content/uploads/2019/12/david-kong-intro.jpg)David Sun Kong welcoming the attendees with his opening speech.
+![](/wp-content/uploads/2019/12/david-kong-intro.jpg)David Sun Kong welcoming the attendees with his opening speech.
 
 
 The day consisted of plenary talks in the first half of the day followed by parallel sessions after lunch. Notable sessions were: “Global Gender Representation in Biotech / Community Bio” and “Building and Sustaining Community Labs”. There were hands-on workshops ranging from bio-sensors to full-blown introduction labs to CRISPR, all of which were extremely popular and were overbooked by the attendees. These workshops were crucial in building a deeper connection between the attendees and everyone involved.
@@ -70,7 +70,7 @@ The rest of the day involved attending parallel tracks that participants could s
 
 Day 2 of the summit ended with a party named 99Biohackers party (appropriately named after Media Lab's weekend parties called 99Fridays).
 
-![](/wp/wp-content/uploads/2019/12/biosummit-party.jpg)Scenes from the Biosummit party Day 2 at the MIT Media Lab (Photo Courtesy: David Sun Kong)
+![](/wp-content/uploads/2019/12/biosummit-party.jpg)Scenes from the Biosummit party Day 2 at the MIT Media Lab (Photo Courtesy: David Sun Kong)
 
 
 **DAY 3**
@@ -83,14 +83,14 @@ There was a plenary meeting from 11-12 pm which involved the whole community to 
 
 The closing session was between 5-6 pm which brought back all the attendees to the main conference space for a final vote of thanks and reflections from the community.
 
-![](/wp/wp-content/uploads/2019/12/all-attendee-group-pic.jpg)All attendee group picture GCBS 3.0
+![](/wp-content/uploads/2019/12/all-attendee-group-pic.jpg)All attendee group picture GCBS 3.0
 
 
 **Unconferences and parallel tracks**
 
 Along with many hardware enthusiasts, the conference includes people who work on computational biology, bioinformatics, and software as well. I was able to unconference with a bunch of people working on writing and contributing to open-source software for biology and beyond. Timothy Stiles from the Boslab in Somerville, MA happened to introduce his new project [Genepool](https://genepool.me/) to a broader crowd during the summit. More such projects were shared with the attendees by Keoni Gandall (BioBricks Foundation), Sebastian Cocioba, etc.
 
-![](/wp/wp-content/uploads/2019/12/biosummit-attendees-continents-1024x594.png)Attendees came from almost every continent (except for Antarctica) Pic courtesy: Pat Pataranutaporn
+![](/wp-content/uploads/2019/12/biosummit-attendees-continents-1024x594.png)Attendees came from almost every continent (except for Antarctica) Pic courtesy: Pat Pataranutaporn
 
 
 **Thoughts on the venue and MIT**

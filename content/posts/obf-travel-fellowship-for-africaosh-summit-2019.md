@@ -20,7 +20,7 @@ The Africa Open Science Hardware Summit 2019 brought citizens from about 10 Afri
 
 This auspicious summit was carried out in the beautiful city of Dar es Salaam in Tanzania at three venues. The first was the [D-Lab](https://dlab.or.tz/) within the University of Dar es Salaam (UDSM) courtesy of Dr. Christine Mwase, an assistant lecturer in telecommunications and a co-founder of [UDICTI](https://www.coict.udsm.ac.tz/index.php/about-us), the first ICT incubator in the university. The second host was [BuniHub](https://twitter.com/bunihub). The third host was [SticLab](http://sticlab.co.tz/).
 
-![](/wp/wp-content/uploads/2019/05/keynote1-2.jpg)
+![](/wp-content/uploads/2019/05/keynote1-2.jpg)
 
 **Day 1**
 
@@ -28,7 +28,7 @@ The team started the summit by touring Buni Innovation hub, open space at the Co
 
 Later, we visited SticLab – the House of Innovation, an open maker space co-founded by AfricaOSHers: Paul Nyakyi and Eng. Valerian Sanga. We saw the various on-going projects such as green farming using hydroponics, green fish farming, the MAJIPesa – water vending pump and the e-waste 3D printers and the SangaBoard they designed. They support open science by making the prototype, blueprints and codes available for the public to use and modify. As a result of embracing openness, several collaborations from other innovators enabled then redesign and modify SangaBoard v1.0 to the more improved version 2.0. I led a breakout session on Open Access Journals. During that discussion, we highlighted the various principles of Open Science which are accessibility, sharing, inclusiveness, collaboration, quality and integrity. We agreed that open is not necessarily free but can also mean that open innovations are more affordable than the traditional models thus making them easier to access, and in addition, the prototypes are available for modification. This was the motivation behind the innovation of the OpenFlexure Microscope. We covered various topic such as types of open access – green and gold, open access versus predatory journals, methods of identifying genuine open access journals, among other issues.
 
-![](/wp/wp-content/uploads/2019/05/keynote2-3-1024x1024.jpg)
+![](/wp-content/uploads/2019/05/keynote2-3-1024x1024.jpg)
 
 **Day 2**
 
@@ -38,10 +38,10 @@ The day started with a powerful presentation from Prof. Jeremy de Beer, a lectur
 
 Dr EliAmani, an associate professor at the [Nelson Mandela African Institution of Science and Technology](https://www.4icu.org/reviews/15060.htm) expounded on the types of property rights legally recognized: Patents, Trademarks, Copyrights, Trade secrets. He mentioned the use of open licensing as one of the policies used to protect open innovations. He leads the discussion on the fears that arise from the use of open innovations where the following were a few mentioned: challenges of sustainability of open innovations, the uncertainty of trust/goodwill, compounding effects of community ownership of innovations whereby consistent contribution to support and maintain the innovations is not guaranteed. It was established that in the African context, the greatest challenge with open innovations is that they are only used and embraced up to some time and then they are abandoned. In rare occasions, open innovations are improved and eventually commercialized.
 
-![](/wp/wp-content/uploads/2019/05/slide-1.png)
+![](/wp-content/uploads/2019/05/slide-1.png)
 
 Inclusivity was discussed focusing mainly on the role of women in open science during a breakout session and also a panel discussion in which I participated. We discussed how we can, as the scientific community, increase the interest of girls to STEM subjects. One solution was to increase mentorship to them through achieved female scientists o cab be their role models. In terms of open science, we discussed that as open science philosophy, principles and policies are being gradually developed, they should not inherit the exclusive tendencies that affect the scientific world.
 
-![](/wp/wp-content/uploads/2019/05/groupphotot-1024x682.jpg)
+![](/wp-content/uploads/2019/05/groupphotot-1024x682.jpg)
 
 Overall, I had a beautiful experience visiting my neighbor country, Tanzania, for the first time. I can hardly wait for next year's in Cameroon! I wish to thank the Open Bioinformatics Foundation for supporting me with a Travel fellowship.

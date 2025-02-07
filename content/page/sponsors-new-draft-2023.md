@@ -43,11 +43,11 @@ Most years, BOSC has been part of the Intelligent Systems for Molecular Biology 
 
 [BOSC 2023](/events/bosc-2023/), the 24th annual Bioinformatics Open Source Conference, will take place July 24-25 as part of ISMB/ECCB 2023 in Lyon, France and online. Like last year, we will join forces with Bio-Ontologies for part of a day!
 
-![](/wp/wp-content/uploads/2019/03/OBF-BoF-2018-25-300x225.jpg)
+![](/wp-content/uploads/2019/03/OBF-BoF-2018-25-300x225.jpg)
 
-![](/wp/wp-content/uploads/2019/03/43248502932_2395bc3cc6_z-300x200.jpg)
+![](/wp-content/uploads/2019/03/43248502932_2395bc3cc6_z-300x200.jpg)
 
-![](/wp/wp-content/uploads/2019/03/BOSC2017-panel-1.jpg)![](/wp/wp-content/uploads/2019/03/BOSC2015-panel-1-1024x521.jpg)
+![](/wp-content/uploads/2019/03/BOSC2017-panel-1.jpg)![](/wp-content/uploads/2019/03/BOSC2015-panel-1-1024x521.jpg)
 
 ![](/wp-content/uploads/2022/01/Jason-PeterSelby-FotisPsomopoulos-DhrithiDespande.png)
 
@@ -85,7 +85,7 @@ We gratefully accept sponsorships from private companies and organizations. In t
 
 Sponsorships from private companies and organizations help to defray some of our costs and allow us to offer registration fee waivers to some attendees. If you are interested in becoming a BOSC sponsor, please contact us at bosc@open-bio.org!
 
-![](/wp/wp-content/uploads/2019/08/BOSC2019-audience1-1.jpg)
+![](/wp-content/uploads/2019/08/BOSC2019-audience1-1.jpg)
 
 # Benefits of Sponsorship
 

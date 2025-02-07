@@ -14,7 +14,7 @@ The 2021 BOSC CoFest, which will follow ISMB/ECCB 2021, will take place July 31 
 
 Please add yourself to this [spreadsheet](https://docs.google.com/spreadsheets/d/12liEMy5QL1UAG-PrqQgjEaizVqAUMgfS1-uS9Vr97bw/edit#gid=0) to help gauge interest and coordinate topic groups. Please stay tuned as more details are worked out!
 
-![Attendees at the 2018 GCCBOSC CoFest](/wp/wp-content/uploads/2019/02/attendees_stairs.jpg)
+![Attendees at the 2018 GCCBOSC CoFest](/wp-content/uploads/2019/02/attendees_stairs.jpg)
 
 ## History
 

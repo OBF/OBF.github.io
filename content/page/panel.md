@@ -17,4 +17,4 @@ For the past several years, BOSC has included a panel discussion that offers att
 - 2012: Should we have standard bioinformatics review criteria?
 - 2011: Meeting the challenges of inter-institutional collaboration
 
-![](/wp/wp-content/uploads/2019/03/BOSC2015-panel-1-1024x521.jpg)Panelists at BOSC 2015
+![](/wp-content/uploads/2019/03/BOSC2015-panel-1-1024x521.jpg)Panelists at BOSC 2015

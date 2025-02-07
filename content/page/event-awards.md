@@ -14,7 +14,7 @@ These fellowships are available to support both in-person and remote (virtual) p
 
 _The OBF Event Fellowship was previously offered under the title OBF Travel Fellowship._
 
-![](/wp/wp-content/uploads/2019/02/anisha-keshavan-conf-1024x755.jpg)
+![](/wp-content/uploads/2019/02/anisha-keshavan-conf-1024x755.jpg)
 
 # WHAT ARE THE SELECTION CRITERIA?
 
@@ -24,7 +24,7 @@ _The OBF Event Fellowship was previously offered under the title OBF Travel Fell
 {{< columns >}}
 Does the event you want to attend promote open source bioinformatics software development or open science in the biological research community?
 {{< column >}}
-![](/wp/wp-content/uploads/2019/01/deadline.png)
+![](/wp-content/uploads/2019/01/deadline.png)
 {{< endcolumns >}}
 
 Events can include (but are not limited to) conferences, workshops, code fests, and hackathons. The event can occur anytime in a one-year window starting one month after the application deadline. For example, if you are applying for the April 1 deadline, the event you are hoping to attend should take place between May 1 and the following May 1.
@@ -38,7 +38,7 @@ We look at your role at the event, your past participation in the project that y
 
 {{< column >}}
 
-![](/wp/wp-content/uploads/2019/01/filter.png)
+![](/wp-content/uploads/2019/01/filter.png)
 
 {{< endcolumns >}}
 
@@ -52,7 +52,7 @@ Does your attendance increase diversity at the event and/or in the overall open 
 
 {{< column >}}
 
-![](/wp/wp-content/uploads/2019/01/select-diversity.png)
+![](/wp-content/uploads/2019/01/select-diversity.png)
 
 {{< endcolumns >}}
 We understand increasing diversity as increasing participation from groups otherwise underrepresented in the community or at the event, including but not limited to underrepresented demographic groups, ethnic origins, career stages, and disabilities.

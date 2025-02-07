@@ -13,13 +13,13 @@ url: /events/bosc-2021/about-2/
 
 ## 2000
 
-![](/wp/wp-content/uploads/2019/02/pear-transparent.png)
+![](/wp-content/uploads/2019/02/pear-transparent.png)
 
 First Bioinformatics Open Source Conference (BOSC).
 
 ## 2001
 
-![](/wp/wp-content/uploads/2019/02/bioperl.jpg)![](/wp/wp-content/uploads/2019/02/biojava-1.jpg)![](/wp/wp-content/uploads/2019/02/biopython.png)
+![](/wp-content/uploads/2019/02/bioperl.jpg)![](/wp-content/uploads/2019/02/biojava-1.jpg)![](/wp-content/uploads/2019/02/biopython.png)
 
 OBF grows out of volunteer projects BioPerl, BioJava and BioPython and is formally incorporated.
 
@@ -31,7 +31,7 @@ Bylaws enacted for the first time and formal membership created.
 
 OBF becomes an associate project of Software in the Public Interest, Inc., a fiscal sponsorship organization.
 
-![](/wp/wp-content/uploads/2019/02/attendees_stairs-1024x683.jpg)
+![](/wp-content/uploads/2019/02/attendees_stairs-1024x683.jpg)
 
 # Who we are
 

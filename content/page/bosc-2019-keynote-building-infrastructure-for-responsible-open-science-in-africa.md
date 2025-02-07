@@ -11,7 +11,7 @@ url: /events/bosc-2019/bosc-2019-keynote/
 ---
 _We're excited to announce that Nicola Mulder will be delivering the keynote at BOSC 2019. Read the abstract below for a taster of the talk to come..._
 
-![Dr. Nicola Mulder](/wp/wp-content/uploads/2019/03/nicky-mulder.jpg)Dr Nicola Mulder
+![Dr. Nicola Mulder](/wp-content/uploads/2019/03/nicky-mulder.jpg)Dr Nicola Mulder
 
 Due to a history of exploitation and inequitable scientific partnerships, many African researchers are reluctant to fully embrace open science practices. Recent investment in genomics research on the continent and associated capacity development initiatives have enabled the development of research infrastructures and data related skills. This is helping to narrow the gap in expertise and access to data analysis capacity and facilitate more equitable engagement in international collaboration or more importantly, more independent research.
 

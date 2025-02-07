@@ -19,7 +19,7 @@ url: /2012/03/02/cross-links-in-genomediagram/
 ---
 I've just finished writing up an example for the Biopython Tutorial of the new GenomeDiagram functionality added in [Biopython 1.59](http://news.open-bio.org/news/2012/02/biopython-1-59-released/). You can now control the start and end points of individual tracks, and you can add cross-links between regions of different tracks, as shown here:
 
-[![GenomeDiagram with cross-links between tracks](https://news.obf.io/wp-content/uploads/2012/03/three_track_cl2-1024x724.png)](/wp/wp-content/uploads/2012/03/three_track_cl2.png)
+[![GenomeDiagram with cross-links between tracks](https://news.obf.io/wp-content/uploads/2012/03/three_track_cl2-1024x724.png)](/wp-content/uploads/2012/03/three_track_cl2.png)
 
 This example attempts a simplified reproduction of Figure 6 in [Proux et al. (2002)](http://dx.doi.org/10.1128/​JB.184.21.6026-6036.2002), and shows three related phage genomes one above the other. Different classes of genes have been given different colors, while the strength of the red shaded cross-links indicates the percentage identity of the linked genes. Note there are some minor differences in the GenBank annotation we've used and the genes shown in the original figure.
 

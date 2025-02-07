@@ -17,7 +17,7 @@ title: BCC2020 pre-conference open house
 url: /2020/07/08/bcc2020-pre-conference-open-house/
 
 ---
-![virtual open house](/wp/wp-content/uploads/2020/07/Screen-Shot-2020-07-07-at-9.53.48-PM.png)
+![virtual open house](/wp-content/uploads/2020/07/Screen-Shot-2020-07-07-at-9.53.48-PM.png)
 
 After much discussion, the [BCC2020](https://bcc2020.github.io/) organizing committee has decided to hold the meeting on [Remo.co](https://remo.co/remo-101/), which is similar to Zoom but offers a more conference-like experience, with "floors" and "tables" where you can mingle with other attendees. It has great small group and presentation support, including for posters and demos. It's also more fun than most online conference platforms.
 

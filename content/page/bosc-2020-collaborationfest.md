@@ -6,7 +6,7 @@ title: BOSC 2020 CollaborationFest
 url: /events/bosc-2020/bosc-2020-collaborationfest/
 
 ---
-![Attendees at the 2018 GCCBOSC CoFest](/wp/wp-content/uploads/2019/02/attendees_stairs.jpg)
+![Attendees at the 2018 GCCBOSC CoFest](/wp-content/uploads/2019/02/attendees_stairs.jpg)
 
 # CollaborationFest 2020
 

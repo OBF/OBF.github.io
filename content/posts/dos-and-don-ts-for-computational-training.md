@@ -50,7 +50,7 @@ To encourage attendees to contribute to reducing impact on the environment at th
 
 > Guess who won?
 
-![](/wp/wp-content/uploads/2019/08/Sara-Elgebali-we-won-1024x768.jpg)We won!
+![](/wp-content/uploads/2019/08/Sara-Elgebali-we-won-1024x768.jpg)We won!
 
 After learning about the Carpentries and their inspiring work on day 1. I carried out my workshop titled Dos and Don’ts for computational training on day 2. I was joined by 10 participants, all of whom have experience in delivering training.
 

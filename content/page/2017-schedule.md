@@ -37,9 +37,9 @@ We are grateful to and welcome [The Hyve](http://thehyve.nl/) (open source sol
 
 If you would like to be a sponsor of BOSC, please contact us at bosc@open-bio.org.
 
-- ![](/wp/wp-content/uploads/2019/02/200px-Thehyve-logo-small-1.png)
-- ![](/wp/wp-content/uploads/2019/02/220px-MSLLogo_small-1.png)
-- ![](/wp/wp-content/uploads/2019/02/220px-Repositive_logo_long-1.png)
-- ![](/wp/wp-content/uploads/2019/02/200px-Gigascience-07-1.png)
-- ![](/wp/wp-content/uploads/2019/02/220px-SB_logo_navy-1.png)
-- ![](/wp/wp-content/uploads/2019/02/200px-ELife-1.png)
+- ![](/wp-content/uploads/2019/02/200px-Thehyve-logo-small-1.png)
+- ![](/wp-content/uploads/2019/02/220px-MSLLogo_small-1.png)
+- ![](/wp-content/uploads/2019/02/220px-Repositive_logo_long-1.png)
+- ![](/wp-content/uploads/2019/02/200px-Gigascience-07-1.png)
+- ![](/wp-content/uploads/2019/02/220px-SB_logo_navy-1.png)
+- ![](/wp-content/uploads/2019/02/200px-ELife-1.png)

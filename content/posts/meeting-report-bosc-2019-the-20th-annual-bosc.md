@@ -29,13 +29,13 @@ The two days after BOSC, about 50 people participated in the OBF-run [Collaborat
 
 The OBF/BOSC thank our [sponsors](https://www.google.com/url?q=/events/bosc/sponsors/&sa=D&ust=1564688159139000) for helping to support BOSC, the CoFest and our ongoing [Travel Fellowship](https://www.google.com/url?q=/travel-awards/&sa=D&ust=1564688159139000) program: [AWS](https://www.google.com/url?q=https://aws.amazon.com/hpc&sa=D&ust=1564688159139000), [Google Cloud](https://www.google.com/url?q=https://cloud.google.com/&sa=D&ust=1564688159139000),[eLIFE](https://www.google.com/url?q=https://elifesciences.org/&sa=D&ust=1564688159140000), [PLOS Comp. Biol.](https://www.google.com/url?q=https://journals.plos.org/ploscompbiol/&sa=D&ust=1564688159140000), [GigaScience](https://www.google.com/url?q=https://academic.oup.com/gigascience&sa=D&ust=1564688159140000), [The Hyve](https://www.google.com/url?q=https://thehyve.nl/&sa=D&ust=1564688159140000), [KNIME](https://www.google.com/url?q=https://www.knime.com/&sa=D&ust=1564688159140000). and the [Software Sustainability Institute](https://www.google.com/url?q=https://www.software.ac.uk/&sa=D&ust=1564688159140000).
 
-![](/wp/wp-content/uploads/2019/08/BOSC2019-organizers-1.jpg)
+![](/wp-content/uploads/2019/08/BOSC2019-organizers-1.jpg)
 Figure 1: The BOSC 2019 Organizing Committee (from left to right: Peter Cock, Karsten Hokamp, Yo Yehudi, Nomi Harris, Monica Munoz-Torres, Heather Wiencko, Michael Heuer, Bastian Greshake Tzovaras; not shown: Chris Fields)
 
-![](/wp/wp-content/uploads/2019/08/BOSC2019-audience1-1.jpg)
+![](/wp-content/uploads/2019/08/BOSC2019-audience1-1.jpg)
 Figure 2: A rapt audience at BOSC 2019
 
-![](/wp/wp-content/uploads/2019/08/Rhine-swimmers-1.jpg)
+![](/wp-content/uploads/2019/08/Rhine-swimmers-1.jpg)
 Figure 3: Many people escaped from the heat by swimming in the Rhine, which runs right through the middle of Basel
 
 * * *

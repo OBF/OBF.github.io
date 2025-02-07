@@ -12,31 +12,31 @@ url: /events/bosc-2020/panel-2/
 
 Every year, BOSC includes a panel discussion that offers attendees the chance to engage in conversation with the panelists and each other. This year, our panel discussion will focus on open data: how it can help to catalyze scientific and preserve knowledge, standards for sharing data, and some of the challenges (for example, protecting privacy of human health data).
 
-![](/wp/wp-content/uploads/2018/12/member2-1.png)
+![](/wp-content/uploads/2018/12/member2-1.png)
 
 #### Name of panel member
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
-![](/wp/wp-content/uploads/2018/12/member2-1.png)
+![](/wp-content/uploads/2018/12/member2-1.png)
 
 #### Name of panel member
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
-![](/wp/wp-content/uploads/2018/12/member2-1.png)
+![](/wp-content/uploads/2018/12/member2-1.png)
 
 #### Name of panel member
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
-![](/wp/wp-content/uploads/2018/12/member2-1.png)
+![](/wp-content/uploads/2018/12/member2-1.png)
 
 #### Name of panel member
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
-![](/wp/wp-content/uploads/2018/12/member2-1.png)
+![](/wp-content/uploads/2018/12/member2-1.png)
 
 #### Name of panel member
 

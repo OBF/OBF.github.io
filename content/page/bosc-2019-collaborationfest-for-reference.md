@@ -6,7 +6,7 @@ title: BOSC 2019 CollaborationFest (for reference)
 url: /events/bosc-2019/bosc-2019-collaborationfest/
 
 ---
-![Attendees at the 2018 GCCBOSC CoFest](/wp/wp-content/uploads/2019/02/attendees_stairs.jpg)
+![Attendees at the 2018 GCCBOSC CoFest](/wp-content/uploads/2019/02/attendees_stairs.jpg)
 
 # CollaborationFest 2019
 
@@ -53,7 +53,7 @@ The CoFest will be covered by [ISMB’s Code of Conduct](https://www.iscb.org/i
 
 ## Logistics
 
-[![DayOne logo](/wp/wp-content/uploads/2019/05/dayone_logo.png)](https://www.dayone.swiss/dayone.html)
+[![DayOne logo](/wp-content/uploads/2019/05/dayone_logo.png)](https://www.dayone.swiss/dayone.html)
 
 The host venue for CoFest will be:
 

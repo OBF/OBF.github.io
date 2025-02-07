@@ -9,7 +9,7 @@ title: Birds of a Feather (BoFs)
 url: /events/bosc-2021/bofs/
 
 ---
-![](/wp/wp-content/uploads/2019/03/OBF-BoF-2018-25.jpg)
+![](/wp-content/uploads/2019/03/OBF-BoF-2018-25.jpg)
 
 ## Birds of a Feather (BoFs)
 
