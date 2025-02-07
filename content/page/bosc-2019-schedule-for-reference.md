@@ -13,9 +13,9 @@ url: /events/bosc-2019/bosc-2019-schedule/
 
 #### Schedule at a glance
 
-![](/wp/wp-content/uploads/2019/06/bosc-schedule-15june.jpg)
+![](/wp-content/uploads/2019/06/bosc-schedule-15june.jpg)
 
-[Download the program without the abstracts \[PDF, 15 pages\]](/wp/wp-content/uploads/2019/07/BOSC2019-program-no-abstracts-17Jul2019.pdf)
+[Download the program without the abstracts \[PDF, 15 pages\]](/wp-content/uploads/2019/07/BOSC2019-program-no-abstracts-17Jul2019.pdf)
 
 [Download the complete program including abstracts \[PDF, 147 pages\]](https://drive.google.com/open?id=16jt37tmTXG4z6JqBKJ0TYGDPrdzcyyND)
 

@@ -47,7 +47,7 @@ I knew I wanted to attend, especially my favorite ISMB/ECCB COSI on the Regulato
 
 Basel was on fire (~40°C), compared with 20°C in Oslo. While walking from the train station towards the hotel, we passed through a bridge (Basel has many bridges over the river Rhine) and saw many people floating down the Rhine to escape from the heat. For a while, it felt like liquid-liquid phase separation in biology, or maybe solid-liquid!
 
-![](/wp/wp-content/uploads/2019/08/Rhine-swimmers-1.jpg)
+![](/wp-content/uploads/2019/08/Rhine-swimmers-1.jpg)
 
 _People are escaping from the heat by floating down the Rhine. [Picture credit](/2019/08/01/meeting-report-bosc-2019/)_
 

@@ -51,11 +51,11 @@ Most years, BOSC has been part of the Intelligent Systems for Molecular Biology 
 
 [BOSC 2024](/events/bosc-2024/), the 25th annual Bioinformatics Open Source Conference, will take place July 15-16, 2024 as part of [ISMB 2024](https://www.iscb.org/ismb2024/home) in Montreal, Canada and online.
 
-![](/wp/wp-content/uploads/2019/03/OBF-BoF-2018-25-300x225.jpg)
+![](/wp-content/uploads/2019/03/OBF-BoF-2018-25-300x225.jpg)
 
-![](/wp/wp-content/uploads/2019/03/43248502932_2395bc3cc6_z-300x200.jpg)
+![](/wp-content/uploads/2019/03/43248502932_2395bc3cc6_z-300x200.jpg)
 
-![](/wp/wp-content/uploads/2019/03/BOSC2017-panel-1.jpg)![](/wp/wp-content/uploads/2019/03/BOSC2015-panel-1-1024x521.jpg)
+![](/wp-content/uploads/2019/03/BOSC2017-panel-1.jpg)![](/wp-content/uploads/2019/03/BOSC2015-panel-1-1024x521.jpg)
 
 ![](/wp-content/uploads/2022/01/Jason-PeterSelby-FotisPsomopoulos-DhrithiDespande.png)
 
@@ -97,7 +97,7 @@ We gratefully accept sponsorships from private companies and organizations. In t
 
 Sponsorships from private companies and organizations help to defray some of our costs and allow us to offer registration fee waivers to some attendees. If you are interested in becoming a BOSC sponsor, please contact us at bosc@open-bio.org!
 
-![](/wp/wp-content/uploads/2019/08/BOSC2019-audience1-1.jpg)
+![](/wp-content/uploads/2019/08/BOSC2019-audience1-1.jpg)
 
 # Benefits of Sponsorship
 

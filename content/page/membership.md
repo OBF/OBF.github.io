@@ -15,7 +15,7 @@ The Open Bioinformatics Foundation invites anyone who is involved in or plans to
 
 [Join the OBF now!](https://docs.google.com/forms/d/e/1FAIpQLSflxafcgc7BOLEgppy3h_yMWCIkV_9lJB3Z0a0Y2cJ63sRK-Q/viewform)
 
-![](/wp/wp-content/uploads/2019/02/obf_membership.jpg)
+![](/wp-content/uploads/2019/02/obf_membership.jpg)
 
 # History and Bylaws
 

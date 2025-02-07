@@ -18,10 +18,10 @@ Our other awardee, Michael Thompson of the [Kwame Nkrumah University of Science 
 
 ### OBF Travel Fellowship Review Chair changes
 
-![](/wp/wp-content/uploads/2019/12/farah-768x1024.jpg)Farah Zaib Khan
+![](/wp-content/uploads/2019/12/farah-768x1024.jpg)Farah Zaib Khan
 
 In addition to congratulating our latest awardees, we wish to thank Farah Khan (above) for serving as our Travel Fellowship Review Chair throughout 2019. This role will now be assumed by [Malvika Sharan](https://malvikasharan.github.io/) (below).
 
-![](/wp/wp-content/uploads/2019/08/Malvika-801x1024.jpeg)Incoming Travel Fellowship Review Chair Malvika Sharan
+![](/wp-content/uploads/2019/08/Malvika-801x1024.jpeg)Incoming Travel Fellowship Review Chair Malvika Sharan
 
 As always, we encourage community members who are planning to attend events that promote open source software development and/or open science in biology to apply for an [OBF Travel Fellowship](/travel-awards/). We particularly welcome applications from people who are members of historically underrepresented groups and/or who work in low-income research environments. In 2020, there will be two application calls that will close on 1 March and 1 September 2020.

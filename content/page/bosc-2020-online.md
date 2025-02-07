@@ -66,7 +66,7 @@ BOSC is usually preceded or followed by what we now call [CollaborationFest (CoF
 
 See the BCC [Partners](https://bcc2020.github.io/partners/) page for information about the BCC sponsors and how you can become one!
 
-![](/wp/wp-content/uploads/2019/08/BOSC2019-audience1-1.jpg)
+![](/wp-content/uploads/2019/08/BOSC2019-audience1-1.jpg)
 
 ![](/wp-content/uploads/2020/09/BOSC2020-org-committee.png)Members of the BOSC 2020 organizing committee
 
@@ -94,7 +94,7 @@ BOSC has been held yearly since 2000. See [information about the first 19 BOSC c
 
 [BOSC 2018](/wiki/BOSC_2018) was held June 26-27, 2018 (with training days June 24-25 and a CollaborationFest June 28-29) at Reed College in Portland, Oregon as part of [the GCCBOSC 2018 bioinformatics community conference](https://gccbosc2018.sched.com/) co-hosted with the Galaxy Community Conference.
 
-![](/wp/wp-content/uploads/2019/03/farah-yo-angel-GCCBOSC-1024x683.jpg)
+![](/wp-content/uploads/2019/03/farah-yo-angel-GCCBOSC-1024x683.jpg)
 
 # Code of Conduct
 

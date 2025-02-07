@@ -20,7 +20,7 @@ We are currently accepting applications for the **first application round for th
 
 **Apply for [round 1 of 2020 here](https://docs.google.com/forms/d/e/1FAIpQLScCYMt_Id9FSKzHtOxyBgiOIXa61CLiveqh5JLx5rQsFoW8fA/viewform).**
 
-![](/wp/wp-content/uploads/2020/02/open-1-1-3.jpeg)
+![](/wp-content/uploads/2020/02/open-1-1-3.jpeg)
 
 (Image on [Unsplash by @timmossholder](https://unsplash.com/photos/ZYBl6VnUd_0))
 

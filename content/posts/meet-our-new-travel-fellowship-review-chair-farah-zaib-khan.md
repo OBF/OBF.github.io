@@ -14,7 +14,7 @@ title: 'Meet our new Travel Fellowship Review Chair: Farah Zaib Khan'
 url: /2019/01/09/meet-our-new-travel-fellowship-review-chair-farah-zaib-khan/
 
 ---
-![](/wp/wp-content/uploads/2019/02/farah-presentation.jpg)Farah presents _CWLProv_ at GCCBOSC 2018
+![](/wp-content/uploads/2019/02/farah-presentation.jpg)Farah presents _CWLProv_ at GCCBOSC 2018
 
 The [next round of our OBF Travel Fellowships just ended](https://github.com/OBF/obf-docs/blob/master/Travel_fellowships.md) on the 15th of December! This round we have introduced a Review Chair coming from the midst of our community that will help us in reviewing the applications. The role will be filled by Farah Zaib Khan, one of our OBF Travel Fellowship alumni. Farah has successfully applied for the Fellowship twice before. Thanks in part to this support, she has become a central community member both of the Bioinformatics Open Source Conference and the Open Bioinformatics Foundation itself.   
 

@@ -13,11 +13,11 @@ url: /events/bosc-2020/schedule/
 
 #### BCC2020 overview (complete BCC2020 schedule [here](https://bcc2020.sched.com/))
 
-![](/wp/wp-content/uploads/2020/06/Screen-Shot-2020-06-20-at-5.40.19-PM.png)
+![](/wp-content/uploads/2020/06/Screen-Shot-2020-06-20-at-5.40.19-PM.png)
 
-![](/wp/wp-content/uploads/2020/06/Screen-Shot-2020-06-23-at-4.41.27-PM.png)
+![](/wp-content/uploads/2020/06/Screen-Shot-2020-06-23-at-4.41.27-PM.png)
 
-![](/wp/wp-content/uploads/2020/06/Screen-Shot-2020-06-20-at-5.41.09-PM.png)
+![](/wp-content/uploads/2020/06/Screen-Shot-2020-06-20-at-5.41.09-PM.png)
 
 #### BOSC 2020 Talk Schedule
 

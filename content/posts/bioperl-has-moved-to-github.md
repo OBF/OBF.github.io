@@ -18,7 +18,7 @@ url: /2010/05/14/bioperl-has-moved-to-github/
 ---
 BioPerl has migrated to [git](http://git-scm.com/) and [GitHub](http://github.com/bioperl)!  We have also set up a mirror set of several key repositories at the great public git hosting site [repo.or.cz](http://repo.or.cz/w).
 
-If you are a current BioPerl developer (had a previous account for direct access to our prior Subversion repository), please sign up for a GitHub account and let us know your user ID.  Also, add the extra email [![](/wp/wp-content/uploads/2010/05/generic.jpg)](/wp/wp-content/uploads/2010/05/generic.jpg) (where 'DEVNAME' is your **original Subversion account ID**).  This should map any previous commits from the older Subversion and CVS repository to your new GitHub account.
+If you are a current BioPerl developer (had a previous account for direct access to our prior Subversion repository), please sign up for a GitHub account and let us know your user ID.  Also, add the extra email [![](/wp-content/uploads/2010/05/generic.jpg)](/wp-content/uploads/2010/05/generic.jpg) (where 'DEVNAME' is your **original Subversion account ID**).  This should map any previous commits from the older Subversion and CVS repository to your new GitHub account.
 
 The following are ways everyone can download the latest code.
 

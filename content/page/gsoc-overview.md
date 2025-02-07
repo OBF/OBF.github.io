@@ -10,7 +10,7 @@ url: /events/gsoc/gsoc-overview/
 
 Google Summer of Code (GSoC) is an internship program for open-source projects. The program offers eligible GSoC contributors stipends to write code for open source projects over a period of 3 summer months ("flip bits, not burgers"). See the [Google Summer of Code Main Site](http://code.google.com/soc) for general information about the Google Summer of Code program, how to apply, frequently asked general questions, and more.
 
-![](/wp/wp-content/uploads/2019/02/GSoC-icon-192.png)
+![](/wp-content/uploads/2019/02/GSoC-icon-192.png)
 
 # GSoC 2022
 
@@ -32,7 +32,7 @@ Info from Google:
 - Aside from the stipend and mentorship aspects, the GSoC contributor's experience in the internship closely mirrors normal work on distributed development projects. Effective work habits for distributed development are typically not taught as part of computer science curricula, yet are highly desired in the increasingly global and distributed software, IT, and biotechnology industries.
 - From the viewpoint of each open-source project, the program not only offers to pay GSoC contributors for their participation, but more importantly, offers an opportunity to recruit new developers who will hopefully go on to become regular, sustaining contributors.
 
-![](/wp/wp-content/uploads/2019/01/mentorship-300x300.png)![](/wp/wp-content/uploads/2019/01/global-300x300.png)![](/wp/wp-content/uploads/2019/01/dev-experience-300x300.png)
+![](/wp-content/uploads/2019/01/mentorship-300x300.png)![](/wp-content/uploads/2019/01/global-300x300.png)![](/wp-content/uploads/2019/01/dev-experience-300x300.png)
 
 # GSoC Contributor Progress Reports
 

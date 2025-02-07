@@ -25,7 +25,7 @@ The OBF travel fellowship is now offered 2 times a year to multiple awardees tow
 
 In response to the current COVID-19 outbreak, as most conferences have moved online, this fellowship will support our awardees in attending virtual conferences ( [see our last blog](/2020/03/13/obf-travel-fellowships-update-in-light-of-the-coronavirus-covid-19-%ef%bb%bf/)) by helping them pay any costs related to their participation such as registration fees, headset, internet and other small hardware needs. With this step, we also want to urge our community members to consider ways that minimise the impact of global health emergencies being caused by this pandemic.
 
-![A person attending an online call/course and taking down notes. There is a cup coffee, reading glasses, diary and books on next to their laptop.](/wp/wp-content/uploads/2020/05/OBF-fellow-2020-1-1024x683.jpeg)Image on Unsplash by @thoughtcatalog: https://unsplash.com/photos/505eectW54k
+![A person attending an online call/course and taking down notes. There is a cup coffee, reading glasses, diary and books on next to their laptop.](/wp-content/uploads/2020/05/OBF-fellow-2020-1-1024x683.jpeg)Image on Unsplash by @thoughtcatalog: https://unsplash.com/photos/505eectW54k
 
 Read more about our awardees below:
 

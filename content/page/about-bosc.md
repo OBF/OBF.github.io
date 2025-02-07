@@ -71,7 +71,7 @@ There are many ways to get involved with the conference:
 
 There's no conference without attendees! Your presence is crucial to the success of the event, and we're always happy to see new faces. We encourage everyone to attend the main meeting and/or CoFest, interact with other attendees, and tweet about their experience.
 
-![](/wp/wp-content/uploads/2019/03/Sehrish-Kanwal-poster-1-1.jpg)
+![](/wp-content/uploads/2019/03/Sehrish-Kanwal-poster-1-1.jpg)
 
 ## Present your Work
 
@@ -81,7 +81,7 @@ In the early days of BOSC, an abstract that was basically "I wrote some bioinfor
 
 Even with the hard requirement of openness, we do try to provide a platform to everyone who wants to present. We have "long" talks (17 minutes + 3 minutes for questions), short/"lightning" talks (5 minutes), posters and Birds of a Feather sessions.
 
-![](/wp/wp-content/uploads/2019/03/obf-bof-3.jpg)
+![](/wp-content/uploads/2019/03/obf-bof-3.jpg)
 
 ## Organize a BoF
 

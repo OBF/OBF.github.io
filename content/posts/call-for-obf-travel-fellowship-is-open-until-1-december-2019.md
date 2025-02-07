@@ -19,7 +19,7 @@ The call for [OBF travel fellowship](/travel-awards/) to select the next round o
 
 This fellowship aims to support our community members in attending events that promote open source software development and/or open science in the biological research fields. As the organiser of [Bioinformatics Open Source Conference (BOSC)](/wiki/BOSC) since 2000, OBF understands the role of such conferences and wants to support people who can benefit from showcasing their work, learn from each other and promote open science at BOSC or similar events.
 
-[![](/wp/wp-content/uploads/2019/11/obftf-1.png)](https://docs.google.com/forms/d/e/1FAIpQLScCYMt_Id9FSKzHtOxyBgiOIXa61CLiveqh5JLx5rQsFoW8fA/viewform)
+[![](/wp-content/uploads/2019/11/obftf-1.png)](https://docs.google.com/forms/d/e/1FAIpQLScCYMt_Id9FSKzHtOxyBgiOIXa61CLiveqh5JLx5rQsFoW8fA/viewform)
 
 Applications are particularly encouraged from members from historically underrepresented groups, who work in low-income research environments and strive to promote diversity and inclusion in their communities. The conference or event that the applicants intend to attend must take place in 2020 (preferably during the first half of the year) and should provide them with a platform to learn or promote open science.
 

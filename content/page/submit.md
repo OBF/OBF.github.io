@@ -22,7 +22,7 @@ June 3, 2021: Late poster submission deadline
 July 29-30, 2021: **BOSC 2021**, part of [ISMB/ECCB 2021](https://www.iscb.org/ismbeccb2021)
 [CoFest](/events/bosc-2021/collaborationfest/): July 31-Aug 1, 2021 (online)
 
-![BOSC Chair Nomi Harris speaking at BOSC 2017](/wp/wp-content/uploads/2019/03/nomi-at-podium-open-data-slide-gigascience.jpg-1.jpg)
+![BOSC Chair Nomi Harris speaking at BOSC 2017](/wp-content/uploads/2019/03/nomi-at-podium-open-data-slide-gigascience.jpg-1.jpg)
 
 # Submission guidelines
 
@@ -75,7 +75,7 @@ In addition to the requirements listed at left, we consider the following when s
 - If you want to be considered for a talk, you also MUST submit a 1-2 page "long abstract" as a PDF. (Yes, we did suggest to ISMB that calling both of these things "abstracts" was confusing.)
 - If you submit for a talk but your abstract is not chosen for a talk, it will automatically be considered for a poster.
 - If your work is accepted for a talk, you can decide later whether you also want to present it as a poster.
-- Abstract template (optional): [bosc2020-abstract-template](/wp/wp-content/uploads/2020/04/bosc2020-abstract-template.docx) (MS Word)
+- Abstract template (optional): [bosc2020-abstract-template](/wp-content/uploads/2020/04/bosc2020-abstract-template.docx) (MS Word)
 - Submission is free, but to present your talk you need to register for ISMB/ECCB 2021 (see [www.iscb.org/ismbeccb2021-registration](https://www.iscb.org/ismbeccb2021-registration#registrationfee) for registration fees and note about fellowships below).
 
 If you missed the abstract parties on April 15 and April 22, 2021, you can watch a video of [BOSC organizer Jason Williams discussing how to write a great BOSC abstract](https://youtu.be/DwJRrh1Tpew).
