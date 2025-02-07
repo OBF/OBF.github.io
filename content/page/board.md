@@ -52,9 +52,70 @@ Representing [BioPerl](http://www.bioperl.org/), Director of Informatics at the 
 `
 >}}
 
+{{< figure
+  src="/wp-content/uploads/2019/01/Peter-Cock-1.jpg"
+  alt="Image of Peter Cock"
+  title= "[Peter Cock](#)"
+  caption=`
+_President_ 
+[Biopython](https://biopython.org/) core developer, bioinformatician at the James Hutton Institute. [BOSC 2016 co-chair](https://www.open-bio.org/wiki/BOSC_2016).
+`
+>}}
+
+{{< figure
+  src="/wp-content/uploads/2019/01/Chris-Fields.jpg"
+  alt="Image of Chris Fields"
+  title= "[Chris Fields](#)"
+  caption=`
+_At-large Member_
+[BioPerl](http://bioperl.org/) core developer, Assoc. Dir. of HPCBio, Carver Biotechnology Center and [The Institute for Genomic Biology](http://www.igb.illinois.edu/) at the [University of Illinois at Urbana-Champaign](http://www.uiuc.edu/).
+`
+>}}
+
+{{< figure
+  src="/wp-content/uploads/2019/01/NH-Sept2022-square-1.png"
+  alt="Image of Nomi Harris"
+  title= "[Nomi Harris](https://www.linkedin.com/in/nomiharris)"
+  caption=`
+_Secretary_
+Program Manager at the Lawrence Berkeley National Laboratory; [BOSC chair](https://www.open-bio.org/events/bosc/).
+`
+>}}
+
+{{< figure
+  src="/wp-content/uploads/2019/01/Heather-Wiencko-1.jpg"
+  alt="Image of Heather Wiencko"
+  title= "[Heather Wiencko](https://twitter.com/hlwiencko)"
+  caption=`
+_Treasurer_
+Software engineer at Hosted Graphite.
+`
+>}}
+
+{{< figure
+  src="/img/BastianGreshakeTzovaras.jpg"
+  alt="Image of Bastian Greshake Tzovaras"
+  title= "[Bastian Greshake Tzovaras](https://tzovar.as)"
+  caption=`
+_At-large Member_
+Co-founder of [openSNP](https://opensnp.org) and Director of Research at [Open Humans](https://www.openhumans.org).
+`
+>}}
 
 
 {{< /gallery >}}
+
+# Past board members
+
+* [Malvika Sharan](https://malvikasharan.github.io/) - Former at-large member
+* [Ewan Birney](https://www.ebi.ac.uk/about/people/ewan-birney) - Former OBF President
+* [Andrew Dalke](http://www.dalkescientific.com/) - Former Secretary
+* [Steven E. Brenner](http://plantandmicrobiology.berkeley.edu/profile/brenner) - Former At-large member
+* [Kam Dahlquist](http://kdahlquist.github.io/DahlquistLab/) - Former At-large member
+* [Chris Dagdigian](https://bioteam.net/bio/chris-dagdigian/) - Former Treasurer
+* [Jason Stajich](http://stajichlab.fungalgenomes.org/) - Former OBF President
+* [Karen Cranston](https://github.com/kcranston) - Former At-large member
+* [Yo Yehudi](https://twitter.com/yoyehudi) - Former At-large member
 
 # Joining the Board
 
@@ -67,3 +128,5 @@ The Board tries on an ongoing basis to create opportunities for members of the c
 - Participate in **public Board meetings**, including **voting in elections** and on matters brought before the OBF Board for approval. Public Board meetings take place about **once a year** via conference call, are about 1 hour in duration, and are usually scheduled in place of a Board hangout.
 - Help **promote the causes and objectives** of the OBF, as set and approved by the Board, such as **lobbying funders, employers, and other decision makers** in your network about these objectives and ways to achieve them, as well as promoting the causes of the OBF at community gatherings you attend.
 - Contribute to identifying strategies, opportunities, and mechanisms to better **sustain the OBF**, to **grow its member communities**, and to increase its overall **diversity**, including demographic diversity.
+
+You can [find more information in the bylaws of the OBF](https://github.com/OBF/obf-docs/blob/master/OBF%20Bylaws.md).
