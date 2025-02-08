@@ -24,6 +24,7 @@ git push    (or you might need to do git push --set-upstream origin BRANCH_NAME)
 5. Once the PR is merged, your changes should be visible on [https://obf.github.io/](https://obf.github.io/)
 
 ### Using hugo
+0. Hugo documentation: https://gohugo.io/getting-started/quick-start/
 1. [Install hugo](https://gohugo.io/installation/)
 2. Initialize hugo
 ```
