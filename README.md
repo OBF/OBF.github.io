@@ -16,6 +16,7 @@ git clone  https://github.com/YOUR_GITHUB_ID/OBF.github.io
 ```
 4. After you edit files on your desktop as desired, do:
 ```
+cd OBF.github.io
 git checkout -b BRANCH_NAME
 git add FILES
 git commit -m "my changes"
