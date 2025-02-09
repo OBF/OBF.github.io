@@ -5,6 +5,8 @@ Migration of the OBF WP site to a static site generator (Hugo)
 ## Running hugo server locally
 
 ### Setting up a GitHub fork so you can make changes on your desktop
+(Instructions for those who are not git gurus)
+
 1. To make changes to web pages on your desktop and commit them from the command line to GH, you will need a
 [GitHub personal access token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens).
 2. Go to https://github.com/OBF/OBF.github.io and make a fork
@@ -20,8 +22,18 @@ git commit -m "my changes"
 git push    (or you might need to do git push --set-upstream origin BRANCH_NAME)
 ```
 
-4. Then go to https://github.com/YOUR_GITHUB_ID/OBF.github.io to make a PR
-5. Once the PR is merged, your changes should be visible on [https://obf.github.io/](https://obf.github.io/)
+5. Then go to https://github.com/YOUR_GITHUB_ID/OBF.github.io to make a PR
+6. Once the PR is merged, your changes should be visible on
+[https://obf.github.io/](https://obf.github.io/)
+
+8. Next time you want to make more changes, first update your local
+copy to pull in any changes others may have committed:
+```
+git checkout main
+git pull
+```
+Then do the steps in #4 (with a new branch name) to commit your changes.
+
 
 ### Using hugo
 0. Hugo documentation: https://gohugo.io/getting-started/quick-start/
