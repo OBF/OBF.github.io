@@ -27,13 +27,17 @@ git push    (or you might need to do git push --set-upstream origin BRANCH_NAME)
 6. Once the PR is merged, your changes should be visible on
 [https://obf.github.io/](https://obf.github.io/)
 
-8. Next time you want to make more changes, first update your local
-copy to pull in any changes others may have committed:
+7. Next time you want to make more changes, first update your fork
+(because others may have committed changes). Go to
+https://github.com/YOUR_GITHUB_ID/OBF.github.io and click the "Sync
+fork" button.
+
+8. Then update your local copy to get the latest version.
 ```
 git checkout main
 git pull
 ```
-Then do the steps in #4 (with a new branch name) to commit your changes.
+9. Edit your local copy as desired. Then do the steps in #4 (with a new branch name) to commit your latest changes.
 
 
 ### Using hugo
