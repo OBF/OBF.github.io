@@ -13,9 +13,8 @@ bosc: yes
 # BOSC 2025 Abstract Submission
 
 
-
+{{< columns >}}
 BOSC 2025, the 26th annual Bioinformatics Open Source Conference, will take place July 21-22, 2025 in Liverpool, UK (as part of [ISMB/ECCB 2025](https://www.iscb.org/ismbeccb2025/home)). BOSC covers all aspects of open source bioinformatics and open science.
-
 
 
 Abstract submission is now open! We welcome submission of your 1-2 page abstract for consideration as a talk or poster.
@@ -24,9 +23,15 @@ The second day of BOSC will be a joint session with the newly renamed Bio-Ontolo
 
 Please see below for submission instructions.
 
+{{< column >}}
+
 ![Poster from BOSC 2022](/wp-content/uploads/2022/11/Festus-Nyastimi-poster-BOSC2022.png)
 
 ![Photo of some speakers at BOSC 2024](/wp-content/uploads/2024/08/speakers-in-Standards-and-frameworks-for-open-science-session-1.jpeg)
+
+{{< endcolumns >}}
+
+<div class='well'>
 
 ### Key Dates
 
@@ -38,6 +43,8 @@ Please see below for submission instructions.
 - **July 21-22, 2025:** **BOSC 2025** (part of ISMB/ECCB 2025)
 - July 23-24: ISMB CollaborationFest
 
+</div>
+
 # ISMB rules
 
 **In-person presentation**: "For a variety of reasons, ISCB strongly prefers that scientific research accepted for oral presentation be presented in-person at the conference venue. ISCB will grant remote presentation options for reasons associated with maternity/paternity leave, care for a family member, personal/medical disability, sickness, financial hardship, or potential visa problems."
@@ -46,39 +53,40 @@ Please see below for submission instructions.
 
 # Submission guidelines
 
+{{< columns >}}
+
 ### What to submit
 
-Please describe how your work fits into the open source bioinformatics / open science ecosystem. We like to see examples of biological applications of your work, and a summary of the current and/or projected community aspect of your project.
+- Please describe how your work fits into the open source bioinformatics / open science ecosystem. We like to see examples of biological applications of your work, and a summary of the current and/or projected community aspect of your project.
+- A 250-word short abstract (text only) is required for ALL submissions (talk and/or poster).
+- If you want to be considered for a talk, you also MUST attach a 1-2 page "long abstract" as a PDF. Figures welcome as long as the total length is 2 pages or less.
+- Your abstract PDF should include the title, author name(s), open source license, and code or project URL (even though this information is also requested on the submission form).
 
-A 250-word short abstract (text only) is required for ALL submissions (talk and/or poster).
-
-If you want to be considered for a talk, you also MUST attach a 1-2 page "long abstract" as a PDF. Figures welcome as long as the total length is 2 pages or less.
-
-Your abstract PDF should include the title, author name(s), open source license, and code or project URL (even though this information is also requested on the submission form).
+{{< column >}}
 
 ### Requirements
 
 To be accepted (even for poster presentation), abstracts submitted to BOSC must be:
 
-**Relevant**: Your abstract must describe how your work relates to some aspect of open source software, open science or open data applied to biology or biomedical science.
+- **Relevant**: Your abstract must describe how your work relates to some aspect of open source software, open science or open data applied to biology or biomedical science.
+- **Available**: Your code / data / materials must be available at the URL you list **at the time of review**.
+- **Open Content**: Work discussed in BOSC presentations must be open source / open content, with a recognized license (which must be included in the repository). For abstracts about non-software products or projects (e.g., educational materials), these should also be made freely available with an appropriate open license. See below for more information.
+- **Updated**: If you presented this work at a previous BOSC in any form (talk, demo, poster), your abstract must describe progress since the last BOSC presentation.
 
-**Available**: Your code / data / materials must be available at the URL you list **at the time of review**.
-
-**Open Content**: Work discussed in BOSC presentations must be open source / open content, with a recognized license (which must be included in the repository). For abstracts about non-software products or projects (e.g., educational materials), these should also be made freely available with an appropriate open license. See below for more information.
-
-**Updated**: If you presented this work at a previous BOSC in any form (talk, demo, poster), your abstract must describe progress since the last BOSC presentation.
+{{< endcolumns >}}
 
 ### Additional criteria
 
-In addition to the requirements listed at left, we consider the following when selecting abstracts for short or long talks.
+In addition to the requirements listed above, we consider the following when selecting abstracts for short or long talks.
 
-**Community impact**: Please describe how your work fits into the open source bioinformatics / open science ecosystem. A summary of the current and/or projected community aspect of your project is very helpful.
+- **Community impact**: Please describe how your work fits into the open source bioinformatics / open science ecosystem. A summary of the current and/or projected community aspect of your project is very helpful.
+- **Novelty**: Innovative approaches are interesting to hear about, but it’s fine to build on existing technology! If you can compare your approach with existing approaches, that’s a plus.
+- **Examples**: We like abstracts with examples of how your approach works (e.g. a figure showing the output of a visualization tool, an example of software input/output, or benchmarks on relevant data).
+- **Runnable**: Although we are happy to consider abstracts that describe early-phase projects, our reviewers are likely to look at your code and try to run it. Reviewers like projects that they are able to download and run, and that are well-documented and easy to use.
 
-**Novelty**: Innovative approaches are interesting to hear about, but it’s fine to build on existing technology! If you can compare your approach with existing approaches, that’s a plus.
+<div class="well">
 
-**Examples**: We like abstracts with examples of how your approach works (e.g. a figure showing the output of a visualization tool, an example of software input/output, or benchmarks on relevant data).
-
-**Runnable**: Although we are happy to consider abstracts that describe early-phase projects, our reviewers are likely to look at your code and try to run it. Reviewers like projects that they are able to download and run, and that are well-documented and easy to use.
+{{< columns >}}
 
 ### How to Submit
 
@@ -92,11 +100,17 @@ In addition to the requirements listed at left, we consider the following when s
 - Abstract template (optional): [bosc-abstract-template](/wp-content/uploads/2022/04/bosc2022-abstract-template.docx) (MS Word)
 - You don't need to register before you submit your abstract, but to present your talk or poster you will need to register for ISMB.
 
+{{< column >}}
+
 ![](/wp-content/uploads/2022/01/Screen-Shot-2022-01-19-at-3.59.31-PM.png)
 
 Watch a video of [BOSC organizing committee member Jason Williams discussing how to write a great BOSC abstract](https://youtu.be/DwJRrh1Tpew)!  
 
-[Submit Abstract](https://easychair.org/conferences/?conf=ismbeccb2025)
+{{< endcolumns >}}
+
+<a href="https://easychair.org/conferences/?conf=ismbeccb2025" class="btn btn-lg btn-primary">Submit Abstract</a>
+
+</div>
 
 # BOSC Open Content Requirement
 
@@ -127,4 +141,5 @@ Abstracts submitted to BOSC are reviewed by at least three reviewers. Our review
 
 We realize that the cost of ISMB may be prohibitive for some. If you are submitting an abstract to BOSC and would have difficulty covering the cost of registration, you can request registration fee assistance. To make it easy, this request can be made right on the abstract submission form. (Only the conference chairs will see these fee assistance requests -- the abstract reviewers will not.) Last year, thanks to help from our [sponsors](/events/bosc-2024-sponsors/), we were able to grant free registration to 15 participants.
 
-[Submit Abstract]( https://easychair.org/conferences/?conf=ismbeccb2025)
+<a href="https://easychair.org/conferences/?conf=ismbeccb2025" class="btn btn-lg btn-primary">Submit Abstract</a>
+
