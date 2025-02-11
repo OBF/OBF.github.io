@@ -9,7 +9,8 @@ title: BOSC 2024 Keynotes
 url: /events/bosc-2024/bosc-2024-keynotes/
 
 ---
-![Mélanie Courtot](/wp-content/uploads/2024/03/Melanie-Courtot-1-1.png)
+
+<img src="/wp-content/uploads/2024/03/Melanie-Courtot-1-1.png" style="width:40%"/>
 
 ### Mélanie Courtot (Ontario Institute for Cancer Research)
 
