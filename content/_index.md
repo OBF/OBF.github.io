@@ -45,5 +45,5 @@ The OBF Event Fellowship program aims to increase diverse participation at event
 
 {{< column >}}
 
-![Ruth Najala, an OBF Travel Award winner, by her poster](/wp-content/uploads/2023/03/Ruth-Nanjala-cropped-OBF-event-fellowship-winner.jpg)
+![Ruth Nanjala, an OBF Travel Award winner, by her poster](/wp-content/uploads/2023/03/Ruth-Nanjala-cropped-OBF-event-fellowship-winner.jpg)
 {{< endcolumns >}}
