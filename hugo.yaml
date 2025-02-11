@@ -31,7 +31,7 @@ params:
     github: 'obf'
     mastodon: 'genomic.social/@openbio'
     slack: 'https://join.slack.com/t/open-bio/shared_invite/zt-1pnswao9y-8igcckVxBXhQHCMweHt_NA'
-    bluesky: '@openbio.bsky.social'
+    bluesky: 'openbio.bsky.social'
     linkedin: 'https://www.linkedin.com/groups/9539620/'
 markup:
   highlight:
