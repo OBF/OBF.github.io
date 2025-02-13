@@ -102,8 +102,8 @@ menu:
     - name: 'About BOSC'
       parent: 'bosc'
       weight: 8
-      url: 'events/about/'
-    - name: 'Event Fellowships'
+      url: 'events/bosc/about/'
+    - name: 'OBF Event Fellowships'
       weight: 3
       url: 'event-awards/'
     - name: 'News'
