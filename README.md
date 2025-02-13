@@ -53,8 +53,19 @@ git submodule update
 hugo server &
 ```
 5. View the site in your web browser by going to [http://localhost:1313/](http://localhost:1313/)
-6. When you make changes, you should be able to reload http://localhost:1313/ to instantly see the changes!
+6. When you save edits to the web page files,
+   http://localhost:1313/ will reload seconds later so you can instantly see the changes!
 
+
+#### Seeing images on localhost
+
+At the moment (2025-02-12), the images live in a separate repo,
+https://github.com/OBF/wp-content/. If you want to view images in the
+web pages on localhost:1313, you will need to clone that repo and then
+make a symbolic link to it in the content directory of your
+checked-out copy of OBF.github.io.
+
+This may change.
 
 ## Steps taken to port content from old WP site
 
