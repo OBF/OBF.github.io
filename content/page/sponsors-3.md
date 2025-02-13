@@ -95,7 +95,7 @@ We acknowledge our sponsors before, during and after the event in multiple ways:
 We gratefully accept sponsorships from private companies and organizations. In the past these sponsorships have enabled us to
 
 - offer free registration to some BOSC participants
-- support the [OBF's Event Fellowship program](/travel-awards/), increasing participation from underrepresented groups
+- support the [OBF's Event Fellowship program](/event-awards/), increasing participation from underrepresented groups
 - provide child care at the conference
 - underwrite the cost of conference events such as dinners or refreshments at poster sessions
 - help defray the cost of videography
