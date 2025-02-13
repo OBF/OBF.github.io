@@ -15,11 +15,11 @@ url: /
 
 The Open Bioinformatics Foundation (OBF) is a non-profit, volunteer-run group that promotes open source software development and Open Science within the biological research community. [Membership](/membership/) in the OBF is free and open to anyone who wants to help promote open source or open science in a biological field.
 
-OBF runs the annual [Bioinformatics Open Source Conference (BOSC)](events/about).
+OBF runs the annual [Bioinformatics Open Source Conference (BOSC)](events/bosc/about).
 
 [BOSC 2025](events/bosc-2025/) will be July 21-22, 2025, in Liverpool, UK (as part of [ISMB/ECCB 2025](https://www.iscb.org/ismbeccb2025/home)). [BOSC 2024](events/bosc-2024/) took place July 15-16, 2024, as part of ISMB 2024 in Montréal, Canada.
 
-[Learn More](events/about/)
+[Learn More](events/bosc/about/)
 
 {{< column >}}
 

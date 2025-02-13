@@ -102,7 +102,7 @@ menu:
     - name: 'About BOSC'
       parent: 'bosc'
       weight: 8
-      url: 'events/about/'
+      url: 'events/bosc/about/'
     - name: 'Event Fellowships'
       weight: 3
       url: 'event-awards/'

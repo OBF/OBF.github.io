@@ -70,7 +70,7 @@ In 2018, BOSC partnered with the Galaxy Community Conference (GCC) in a very suc
 
 <br/>
 
-![Seqera booth at BOSC 2024](/wp-content/uploads/2025/01/seqera-booth-2024.jpg)
+![Seqera booth at BOSC 2024](/wp-content/uploads/2025/01/Seqera-booth-2024.jpg)
 
 ## Benefits of Sponsorship
 
