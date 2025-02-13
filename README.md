@@ -37,7 +37,7 @@ fork" button.
 git checkout main
 git pull
 ```
-9. Edit your local copy as desired. Then do the steps in #4 (with a new branch name) to commit your latest changes.
+9. Edit your local copy as desired. Then do the steps in #4 (with a NEW branch name) to commit your latest changes.
 
 
 ### Using hugo

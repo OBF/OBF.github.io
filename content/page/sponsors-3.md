@@ -23,7 +23,7 @@ Sponsorships from companies and non-profit organizations help to defray some of 
 
 {{< column >}}
 
-![Nomi by BOSC 2024 poster](/wp-content/uploads/2025/01/nomi-by-bosc2024-poster.jpg)
+![Nomi by BOSC 2024 poster](/wp-content/uploads/2025/01/nomi-by-BOSC2024-poster.jpg)
 
 {{< endcolumns >}}
 
