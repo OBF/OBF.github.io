@@ -149,7 +149,7 @@ Abstracts submitted to BOSC are reviewed by at least three reviewers. Our review
 
 {{< columns >}}
 
-We realize that the cost of ISMB may be prohibitive for some. If you are submitting an abstract to BOSC and would have difficulty covering the cost of registration, you can request registration fee assistance. To make it easy, this request can be made right on the abstract submission form. (Only the conference chairs will see these fee assistance requests -- the abstract reviewers will not.) Last year, thanks to help from our [sponsors](/events/bosc-2024-sponsors/), we were able to grant free registration to 15 participants.
+We realize that the cost of ISMB may be prohibitive for some. If you are submitting an abstract to BOSC and would have difficulty covering the cost of registration, you can request registration fee assistance. To make it easy, this request can be made right on the abstract submission form. (Only the conference chairs will see these fee assistance requests -- the abstract reviewers will not.) Last year, thanks to help from our [sponsors](/events/bosc/sponsors/), we were able to grant free registration to 15 participants.
 
 {{< column >}}
 ![Farah Khan and her poster](/wp-content/uploads/2019/02/farah-presentation.jpg)

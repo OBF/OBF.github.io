@@ -86,7 +86,7 @@ menu:
     - name: 'Sponsors'
       weight: 4
       parent: 'bosc'
-      url: 'events/sponsors/'
+      url: 'events/bosc/sponsors/'
     - name: "CoFest (2024)"
       weight: 5
       parent: 'bosc'
