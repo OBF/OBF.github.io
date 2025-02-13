@@ -6,7 +6,7 @@ cover:
 date: "2023-03-27T19:05:24+00:00"
 guid: https://www.open-bio.org/?page_id=6961
 title: Sponsors
-url: /events/sponsors/
+url: /events/bosc/sponsors/
 bosc: yes
 ---
 # Sponsoring BOSC 2025
@@ -23,7 +23,7 @@ Sponsorships from companies and non-profit organizations help to defray some of 
 
 {{< column >}}
 
-![Nomi by BOSC 2024 poster](/wp-content/uploads/2025/01/nomi-by-BOSC2024-poster.jpg)
+![Nomi by BOSC 2024 poster](/wp-content/uploads/2025/01/Nomi-by-BOSC2024-poster.jpg)
 
 {{< endcolumns >}}
 
