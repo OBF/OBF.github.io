@@ -1,5 +1,5 @@
 ---
-author: kushinauwu
+author: bastian
 cover:
   alt: farah-presentation
   image: /wp-content/uploads/2019/02/farah-presentation.jpg
