@@ -9,7 +9,7 @@ url: /events/bosc-2025/ismb-collaborationfest-2025/
 bosc: yes
 ---
 
-In conjunction with our annual meeting, [BOSC](/events/bosc/), the [OBF](/) will this year run a joint collaborative event organised by volunteers from four different COSIs: BOSC, Bio-Ontologies and Knowledge Representation (BOKR), Function COSI, and 3DSIG. At these events, participants work together to contribute code, documentation, training materials, and challenging analysis problems and use cases. If you are interested in learning and contributing in an intensely collaborative environment, then CollaborationFest is for you.
+In conjunction with our annual meeting, [BOSC](/events/bosc-2025/), the [OBF](/) will this year run a joint collaborative event organised by volunteers from four different COSIs: BOSC, Bio-Ontologies and Knowledge Representation (BOKR), Function COSI, and 3DSIG. At these events, participants work together to contribute code, documentation, training materials, and challenging analysis problems and use cases. If you are interested in learning and contributing in an intensely collaborative environment, then CollaborationFest is for you.
 
 BOSC has organized CollaborationFests (aka CoFests) every year before or after ISMB since 2010. (See, for example, [the 2024 CoFest](https://www.open-bio.org/events/bosc-2024/obf-bosc-collaborationfest-2024/).) This year, we are excited to hold CollaborationFest as part of ISMB/ECCB, opening it to all registered ISMB/ECCB participants.
 
@@ -25,4 +25,4 @@ Wednesday July 25 to Thursday July 26.
 
 
 
-As part of ISMB 2024, BOSC 2024 is covered by the [ISCB Code of Ethics and Professional Conduct](https://www.iscb.org/iscb-policy-statements/iscb-code-of-ethics-and-professional-conduct).
+As part of ISMB 2025, BOSC 2025 is covered by the [ISCB Code of Ethics and Professional Conduct](https://www.iscb.org/iscb-policy-statements/iscb-code-of-ethics-and-professional-conduct).
