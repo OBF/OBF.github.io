@@ -4,7 +4,6 @@ cover:
   alt: CoFest-2022
   image: https://www.open-bio.org/wp-content/uploads/2022/08/image4.jpg
 date: "2025-02-16T09:35:44+00:00" #creation date
-guid: https://www.open-bio.org/?page_id=7453
 title: ISMB CollaborationFest 2025
 url: /events/bosc-2025/ismb-collaborationfest-2025/
 bosc: yes
@@ -24,4 +23,6 @@ Wednesday July 25 to Thursday July 26.
 
 ### Code of Conduct
 
-This event is under the [OBF Code of Conduct](/code-of-conduct/).
+
+
+As part of ISMB 2024, BOSC 2024 is covered by the [ISCB Code of Ethics and Professional Conduct](https://www.iscb.org/iscb-policy-statements/iscb-code-of-ethics-and-professional-conduct).
