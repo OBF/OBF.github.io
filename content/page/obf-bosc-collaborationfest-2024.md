@@ -7,6 +7,8 @@ date: "2023-11-09T17:43:01+00:00"
 guid: https://www.open-bio.org/?page_id=7453
 title: OBF/BOSC CollaborationFest 2024
 url: /events/bosc-2024/obf-bosc-collaborationfest-2024/
+aliases:
+  - /events/bosc/collaborationfest/
 bosc: yes
 ---
 In conjunction with our annual meeting, [BOSC](/events/bosc/), the [OBF](/) runs a collaborative event (formerly called CodeFest, short for coding festival, and now called CollaborationFest, or CoFest for short). At these events, participants work together to contribute code, documentation, training materials, and challenging analysis problems and use cases. If you are interested in learning and contributing in an intensely collaborative environment, then CollaborationFest is for you.

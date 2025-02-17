@@ -83,26 +83,26 @@ menu:
       parent: 'bosc'
       url: 'events/bosc-2024/bosc-2024-schedule/'
       weight: 3
-    - name: 'Sponsors'
-      weight: 4
+    - name: 'Keynotes (2024)'
+      weight: 4 
       parent: 'bosc'
-      url: 'events/bosc/sponsors/'
-    - name: "CoFest (2024)"
+      url: 'events/bosc-2024/bosc-2024-keynotes/'
+    - name: "CollaborationFest"
       weight: 5
       parent: 'bosc'
-      url: 'events/bosc-2024/obf-bosc-collaborationfest-2024/'
-    - name: 'DEI'
-      weight: 6 
-      parent: 'bosc'
-      url: 'bosc-dei'
+      url: 'events/bosc-2025/ismb-collaborationfest-2025/'
     - name: 'BOSC News'
-      weight: 7
+      weight: 6
       parent: 'bosc'
       url: 'category/bosc/ismb/'
     - name: 'About BOSC'
       parent: 'bosc'
-      weight: 8
+      weight: 7
       url: 'events/bosc/about/'
+    - name: 'Sponsors'
+      weight: 8
+      parent: 'bosc'
+      url: 'events/bosc/sponsors/'
     - name: 'OBF Event Fellowships'
       weight: 3
       url: 'event-awards/'
