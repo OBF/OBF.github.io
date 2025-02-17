@@ -36,7 +36,7 @@ Sponsorships from companies and non-profit organizations help to defray some of 
 
 BOSC is an annual meeting organized by the [Open Bioinformatics Foundation (OBF)](/), a non-profit, volunteer-run group dedicated to promoting the practice and philosophy of Open Source software development and Open Science within the biological research community.
 
-Each BOSC ​includes ​talks,​ ​poster​ ​sessions,​ ​panel, and ​lots​ ​of​ ​opportunities​ ​for​ ​networking. It is followed by​ ​collaborative​ ​working​ ​sessions​ ​at the CollaborationFest.​ ​These​ ​events​ ​bring​ ​together​ ​software​ ​engineers,​ ​bioinformaticians,​ ​and​ ​researchers​ ​to collaborate​ ​and​ ​extend​ ​open​ ​source​ ​bioinformatics​ ​tools.
+Each BOSC ​includes ​talks,​ ​poster​ ​sessions,​ ​panel, and ​lots​ ​of​ ​opportunities​ ​for​ ​networking. It is followed by​ ​collaborative​ ​working​ ​sessions​ ​at the [CollaborationFest](/events/bosc/collaborationfest/).​ ​These​ ​events​ ​bring​ ​together​ ​software​ ​engineers,​ ​bioinformaticians,​ ​and​ ​researchers​ ​to collaborate​ ​and​ ​extend​ ​open​ ​source​ ​bioinformatics​ ​tools.
 
 ![Panel at BOSC 2015](/wp-content/uploads/2019/03/BOSC2015-panel-1-1024x521.jpg)
 
@@ -62,9 +62,16 @@ In 2018, BOSC partnered with the Galaxy Community Conference (GCC) in a very suc
 
 [BOSC 2023](/events/bosc-2023/) took place July 24-25, 2023 as part of [ISMB/ECCB 2023](https://www.iscb.org/ismbeccb2023) in Lyon, France and online. Like the previous year, we joined forces with Bio-Ontologies for part of a day!
 
-[BOSC 2024](/events/bosc-2024/), the 25th annual Bioinformatics Open Source Conference, took place July 15-16, 2024 as part of [ISMB 2024](https://www.iscb.org/ismb2024/home) in Montreal, Canada and online.
+[BOSC 2024](/events/bosc-2024/), the 25th annual Bioinformatics Open
+Source Conference, took place July 15-16, 2024 as part of
+[ISMB 2024](https://www.iscb.org/ismb2024/home) in Montreal, Canada
+and online. It was followed by [CoFest 2024](/events/bosc-2024/ismb-collaborationfest-2024/).
 
-[BOSC 2025](/events/bosc-2025/) will be held in Liverpool, UK, as part of the large [ISMB/ECCB 2025](https://www.iscb.org/ismbeccb2025/home) conference.
+[BOSC 2025](/events/bosc-2025/) will be held in Liverpool, UK, as part
+of the large [ISMB/ECCB 2025](https://www.iscb.org/ismbeccb2025/home)
+conference. This year, for the first time,
+[CollaborationFest](/events/bosc-2025/ismb-collaborationfest-2025/)
+will be part of the main ISMB/ECCB conference and will be open to all.
 
 <a href="/events/bosc/about" class="btn btn-lg btn-primary">More about BOSC</a>
 

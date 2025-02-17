@@ -67,6 +67,37 @@ checked-out copy of OBF.github.io.
 
 This may change.
 
+#### Some Hugo tips
+
+- To set up a URL redirect, add an alias to the page you want to
+  redirect *to*. This goes in the header part of the .md (the part
+  between the three dashes) and looks like this:
+[code]
+ aliases:
+  - /events/bosc/
+  [/code]
+  - To include an image, you can use this markdown format:
+  [code]
+  ![alt text](image-path)
+  [/code]
+- Images take up the full width of the page. If you want to scale an
+image, use this html:
+[code]
+<img src="image-path" style="width:75%" alt="alt text" />
+[/code]
+- When testing changes on localhost:1313, note that changes that
+  involve .pngs take effect right away, but for some reason, if you're
+  using .jpg or .jpeg images, it takes a while (20 min or so?) for
+  them to show up on localhost. No idea why.
+  - To enclose a section of text in a gray box use
+  [code]<div class="well">[/code]
+- To make two columns (e.g. to run text next to an image), use
+"columns" (look for an example in one of our .mds)
+- You can make a button like this:
+[code]
+<a href="URL" class="btn btn-lg btn-primary">text on button</a>
+[/code]
+
 ## Steps taken to port content from old WP site
 
 1. Create XML export of existing WP site with all pages & posts
