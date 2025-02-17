@@ -67,7 +67,7 @@ checked-out copy of OBF.github.io.
 
 This may change.
 
-#### Some Hugo tips
+#### Some other random tips
 
 - To set up a URL redirect, add an alias to the page you want to
   redirect *to*. This goes in the header part of the .md (the part
@@ -92,7 +92,8 @@ image, use this html:
   involve .pngs take effect right away, but for some reason, if you're
   using .jpg or .jpeg images, it takes a while (20 min or so?) for
   them to show up on localhost. No idea why.
-  - To enclose a section of text in a gray box use
+
+- To enclose a section of text in a gray box use
   ```
   <div class="well">
   ```
