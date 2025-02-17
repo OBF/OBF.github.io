@@ -5,18 +5,18 @@ cover:
   image: /wp-content/uploads/2023/08/2023-panel-1-1.png
 date: "2023-08-19T17:48:09+00:00"
 guid: https://www.open-bio.org/?page_id=7251
-title: How BOSC supports diversity, inclusion and accessibility
+title: How OBF supports diversity, inclusion and accessibility
 url: /bosc-dei/
 bosc: yes
 
 ---
-Diversity, inclusion and accessibility (also known as Diversity, Equity and Inclusion, DEI) are a major part of [BOSC's](/?obf-events=bosc-2023) mission and core values.
+Diversity, inclusion and accessibility (also known as Diversity, Equity and Inclusion, DEI) are a major part of OBF and [BOSC's](/?obf-events=bosc-2023) mission and core values.
 
-Below are some of the ways we have worked to promote DEI at BOSC as well as at ISMB (our host conference) and in the broader open bioinformatics community.
+Below are some of the ways we have worked to promote DEI at OBF, BOSC as well as at ISMB (our host conference) and in the broader open bioinformatics community.
 
 ![](/wp-content/uploads/2023/03/Ruth-Nanjala-cropped-OBF-event-fellowship-winner-260x300.jpg)
 
-\- Our parent organization, the Open Bioinformatics Foundation, funds the [OBF event fellowships](/event-awards/), which aim to increase diversity at events (including, but not limited to, BOSC) that promote open science as a research practice. These fellowships fund participants whose attendance will contribute to increase the diversity of such events (e.g. underrepresented demographic groups, ethnic origins, career stages, and disabilities).
+\- The Open Bioinformatics Foundation, funds the [OBF event fellowships](/event-awards/), which aim to increase diversity at events (including, but not limited to, BOSC) that promote open science as a research practice. These fellowships fund participants whose attendance will contribute to increase the diversity of such events (e.g. underrepresented demographic groups, ethnic origins, career stages, and disabilities).
 
 ![](/wp-content/uploads/2023/08/Nomi-Deepak-Vasundra-1-1024x782.jpeg)![](/wp-content/uploads/2022/12/Farica-Zhuang-and-Matthew-Gazzara-1-284x300.jpeg)
 
