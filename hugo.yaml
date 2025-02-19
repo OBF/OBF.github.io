@@ -64,7 +64,7 @@ menu:
       url: 'membership'
     - name: 'Diversity, Equity & Inclusion'
       parent: 'about' 
-      url: '/bosc-dei/'
+      url: '/obf-dei/'
     - name: 'Donate'
       parent: 'about'
       url: 'donate'
