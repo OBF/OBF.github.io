@@ -7,7 +7,7 @@ date: "2023-08-19T17:48:09+00:00"
 guid: https://www.open-bio.org/?page_id=7251
 title: How OBF supports diversity, inclusion and accessibility
 url: /obf-dei/
-alias: 
+aliases: 
   - /bosc-dei/
 ---
 Diversity, inclusion and accessibility (also known as Diversity, Equity and Inclusion, DEI) are a major part of OBF and [BOSC's](/?obf-events=bosc-2023) mission and core values.
