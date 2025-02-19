@@ -13,7 +13,7 @@ The Board can be contacted via email at board@open-bio.org (or, in case of maili
 {{< gallery class="content-gallery" cols='2' >}}
 
 {{< figure
-  src="/wp-content/uploads/2022/10/Friedberg_Iddo_0817_square.jpg"
+  src="/img/Friedberg_Iddo_0817_square.jpg"
   alt="Image of Iddo Friedberg"
   title= "Iddo Friedberg"
   caption=`
@@ -23,7 +23,7 @@ Associate Professor at Iowa State University. Chair, Function COSI. Early contri
 >}}
 
 {{< figure
-  src="/wp-content/uploads/2021/11/Hilya.jpg"
+  src="/img/Hilya.jpg"
   alt="Image of Hilyatuz Zahroh"
   title= "[Hilyatuz Zahroh](https://www.linkedin.com/in/hilyatuz-zahroh-6671ab100/)"
   caption=`
@@ -33,7 +33,7 @@ _At-large Member_
 >}}
 
 {{< figure
-  src="/wp-content/uploads/2021/11/Caleb_Kibet_pic.jpg"
+  src="/img/Caleb_Kibet_pic.jpg"
   alt="Image of Caleb Kibet"
   title= "[Caleb Kibet](https://kipkurui.github.io/)"
   caption=`
@@ -43,7 +43,7 @@ Bioinformatician at the [International Center of Insect Physiology and Ecology, 
 >}}
 
 {{< figure
-  src="/wp-content/uploads/2019/01/Hilmar-Lapp-1.jpg"
+  src="/img/Hilmar-Lapp-1.jpg"
   alt="Image of Hilmar Lapp"
   title= "[Hilmar Lapp](https://lappland.io/)"
   caption=`
@@ -53,7 +53,7 @@ Representing [BioPerl](http://www.bioperl.org/), Director of Informatics at the 
 >}}
 
 {{< figure
-  src="/wp-content/uploads/2019/01/Peter-Cock-1.jpg"
+  src="/img/Peter-Cock-1.jpg"
   alt="Image of Peter Cock"
   title= "[Peter Cock](#)"
   caption=`
@@ -63,7 +63,7 @@ _President_
 >}}
 
 {{< figure
-  src="/wp-content/uploads/2019/01/Chris-Fields.jpg"
+  src="/img/Chris-Fields.jpg"
   alt="Image of Chris Fields"
   title= "[Chris Fields](#)"
   caption=`
@@ -73,7 +73,7 @@ _At-large Member_
 >}}
 
 {{< figure
-  src="/wp-content/uploads/2019/01/NH-Sept2022-square-1.png"
+  src="/img/NH-Sept2022-square-1.png"
   alt="Image of Nomi Harris"
   title= "[Nomi Harris](https://www.linkedin.com/in/nomiharris)"
   caption=`
@@ -83,7 +83,7 @@ Program Manager at the Lawrence Berkeley National Laboratory; [BOSC chair](https
 >}}
 
 {{< figure
-  src="/wp-content/uploads/2019/01/Heather-Wiencko-1.jpg"
+  src="/img/Heather-Wiencko-1.jpg"
   alt="Image of Heather Wiencko"
   title= "[Heather Wiencko](https://twitter.com/hlwiencko)"
   caption=`
