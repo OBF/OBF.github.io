@@ -55,10 +55,12 @@ outputFormats:
     baseName: feed
 menu:
   main:
-    - name: 'About OBF'
-      url: 'events/bosc-2021/about-2'
+    - name: 'OBF'
       identifier: 'about'
       weight: 1
+    - name: 'About OBF'
+      url: 'about'
+      parent: 'about'
     - name: 'Membership'
       parent: 'about'
       url: 'membership'
@@ -106,7 +108,7 @@ menu:
       weight: 8
       parent: 'bosc'
       url: 'events/bosc/sponsors/'
-    - name: 'OBF Event Fellowships'
+    - name: 'Event Awards'
       weight: 3
       url: 'event-awards/'
     - name: 'News'

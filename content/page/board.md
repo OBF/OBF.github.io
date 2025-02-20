@@ -26,6 +26,7 @@ Associate Professor at Iowa State University. Chair, Function COSI. Early contri
   src="/img/Hilya.jpg"
   alt="Image of Hilyatuz Zahroh"
   title= "[Hilyatuz Zahroh](https://www.linkedin.com/in/hilyatuz-zahroh-6671ab100/)"
+  link= "https://www.linkedin.com/in/hilyatuz-zahroh-6671ab100"
   caption=`
 _At-large Member_ 
 [APBioNET](https://www.apbionet.org/current-exco-officers-2020-2022/) ExCo
@@ -36,6 +37,7 @@ _At-large Member_
   src="/img/Caleb_Kibet_pic.jpg"
   alt="Image of Caleb Kibet"
   title= "[Caleb Kibet](https://kipkurui.github.io/)"
+  link= "https://kipkurui.github.io"
   caption=`
 _At-large Member_ 
 Bioinformatician at the [International Center of Insect Physiology and Ecology, Kenya](http://www.icipe.org/research/research-support-units/molecular-biology-bioinformatics-and-biostatistics); Founder [OpenScienceKE](https://medium.com/openscienceke).
@@ -45,6 +47,7 @@ Bioinformatician at the [International Center of Insect Physiology and Ecology, 
 {{< figure
   src="/img/Hilmar-Lapp-1.jpg"
   alt="Image of Hilmar Lapp"
+  link= "https://lappland.io"
   title= "[Hilmar Lapp](https://lappland.io/)"
   caption=`
 _At-large Member_ 
@@ -76,6 +79,7 @@ _At-large Member_
   src="/img/NH-Sept2022-square-1.png"
   alt="Image of Nomi Harris"
   title= "[Nomi Harris](https://www.linkedin.com/in/nomiharris)"
+  link= "https://www.linkedin.com/in/nomiharris"
   caption=`
 _Secretary_
 Program Manager at the Lawrence Berkeley National Laboratory; [BOSC chair](https://www.open-bio.org/events/bosc/).
@@ -86,6 +90,7 @@ Program Manager at the Lawrence Berkeley National Laboratory; [BOSC chair](https
   src="/img/Heather-Wiencko-1.jpg"
   alt="Image of Heather Wiencko"
   title= "[Heather Wiencko](https://twitter.com/hlwiencko)"
+  link= "https://twitter.com/hlwiencko"
   caption=`
 _Treasurer_
 Software engineer at Hosted Graphite.
@@ -96,6 +101,7 @@ Software engineer at Hosted Graphite.
   src="/img/BastianGreshakeTzovaras.jpg"
   alt="Image of Bastian Greshake Tzovaras"
   title= "[Bastian Greshake Tzovaras](https://tzovar.as)"
+  link= "https://tzovar.as"
   caption=`
 _At-large Member_
 Co-founder of [openSNP](https://opensnp.org) and Director of Research at [Open Humans](https://www.openhumans.org).
