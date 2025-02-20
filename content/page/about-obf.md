@@ -6,20 +6,30 @@ cover:
 date: "2019-02-22T08:44:22+00:00"
 guid: https://www.open-bio.org/wp/?page_id=2950
 title: About OBF
-url: /events/bosc-2021/about-2/
+url: /about/
+aliaes:
+  - /events/bosc-2021/about-2/
 
 ---
 # History
 
-## 2000
+{{< columns >}}
 
 ![](/wp-content/uploads/2019/02/pear-transparent.png)
+
+{{< columns >}}
+![](/wp-content/uploads/2019/02/bioperl.jpg)
+![](/wp-content/uploads/2019/02/biojava-1.jpg)
+{{< column >}}
+![](/wp-content/uploads/2019/02/biopython.png)
+{{< endcolumns >}}
+
+{{< column >}}
+## 2000
 
 First Bioinformatics Open Source Conference (BOSC).
 
 ## 2001
-
-![](/wp-content/uploads/2019/02/bioperl.jpg)![](/wp-content/uploads/2019/02/biojava-1.jpg)![](/wp-content/uploads/2019/02/biopython.png)
 
 OBF grows out of volunteer projects BioPerl, BioJava and BioPython and is formally incorporated.
 
@@ -31,9 +41,11 @@ Bylaws enacted for the first time and formal membership created.
 
 OBF becomes an associate project of Software in the Public Interest, Inc., a fiscal sponsorship organization.
 
-![](/wp-content/uploads/2019/02/attendees_stairs-1024x683.jpg)
-
+{{< endcolumns >}}
 # Who we are
+
+
+![](/wp-content/uploads/2019/02/attendees_stairs-1024x683.jpg)
 
 The Open Bioinformatics Foundation (OBF) is a non-profit, volunteer-run group dedicated to promoting the practice and philosophy of Open Source software development and Open Science within the biological research community.
 

@@ -19,7 +19,7 @@ OBF runs the annual [Bioinformatics Open Source Conference (BOSC)](events/bosc/a
 
 [BOSC 2025](events/bosc-2025/) will be July 21-22, 2025, in Liverpool, UK (as part of [ISMB/ECCB 2025](https://www.iscb.org/ismbeccb2025/home)). [BOSC 2024](events/bosc-2024/) took place July 15-16, 2024, as part of ISMB 2024 in Montréal, Canada.
 
-[Learn More](events/bosc/about/)
+[Learn More](/about/)
 
 {{< column >}}
 
