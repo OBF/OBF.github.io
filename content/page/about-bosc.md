@@ -67,17 +67,16 @@ Since it launched in 2000, BOSC has been part of ISMB every year except for 2018
 - [BOSC 2000](/wiki/BOSC_2000) San Diego, CA USA
 
 {{< column >}}
-
 ![Marcin Joachimiak and Susannah Tringe at BOSC 2024](/wp-content/uploads/2025/01/Marcin-talking-to-Susannah-Tringe.jpg)
 
 {{< endcolumns >}}
 
 
-#### CollaborationFest
+### CollaborationFest
 
-In recent years, the BOSC meetings have been preceded or followed by a two day [CollaborationFest](/events/bosc-2024/obf-bosc-collaborationfest-2024/), an informal collaborative work event. Initially called CodeFest, the event was renamed CollaborationFest in 2018 to reflect the fact that it's not just about coding.
+In recent years, the BOSC meetings have been preceded or followed by a two day [CollaborationFest](/events/bosc/collaborationfest/), an informal collaborative work event. Initially called CodeFest, the event was renamed CollaborationFest in 2018 to reflect the fact that it's not just about coding.
 
-![A full room at BOSC 2023](/wp-content/uploads/2023/08/BOSC2023-crowded-room-Jason-standing-1.png)
+![Part of the audience of BOSC 2024](/wp-content/uploads/2024/12/BOSC-audience-with-Jessica-1.jpeg)
 
 ## Get involved
 
