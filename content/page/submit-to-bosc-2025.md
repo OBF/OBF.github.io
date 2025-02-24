@@ -36,7 +36,6 @@ Please see below for submission instructions.
 
 ### Key Dates
 
-- January 20, 2025: Call for abstracts opens
 - April 17, 2025: Abstract submission deadline (talks and posters) - no extensions
 - May 13: Talk and/or poster acceptance notifications
 - May 15: Late poster submission deadline
@@ -66,11 +65,13 @@ Please see below for submission instructions.
 To be accepted, abstracts submitted to BOSC must be:
 
 - **Relevant**: Your abstract must describe how your work relates to some aspect of open source software, open science or open data applied to biology or biomedical science.
-- **Available**: Your code / data / materials must be available at the URL you list **at the time of review**.
-- **Open Content**: Work discussed in BOSC presentations must be open source / open content, with a recognized license (which must be included in the repository). For abstracts about non-software products (e.g., educational materials), these should also be made freely available with an appropriate open license (see below).
-- **Updated**: If you presented this work at a previous BOSC in any form (talk/poster), your abstract must describe progress since the last BOSC presentation.
+- **Available**: Your code / data / materials must be available **at the time of review** at the URL you list.
+- **Open Content**: Work discussed in BOSC presentations must be open source / open content, with a recognized license (which must be included in the repository). For abstracts about non-software products (e.g., educational materials), these should also be freely available with an appropriate open license (see below).
+- **Updated**: If you presented this work at a previous BOSC in any form, your abstract must describe progress since the last BOSC presentation.
 
 {{< endcolumns >}}
+
+![Panel at BOSC 2024](/wp-content/uploads/2024/08/Panel-only-1.jpeg)
 
 ### Additional criteria
 
