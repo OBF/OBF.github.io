@@ -2,7 +2,7 @@
 author: nlharris
 category:
   - bcc
-  - bosc/ismb
+  - bosc
   - events
   - humor
   - uncategorized

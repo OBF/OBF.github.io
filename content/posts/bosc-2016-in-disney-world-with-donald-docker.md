@@ -1,7 +1,7 @@
 ---
 author: dimitras
 category:
-  - bosc/ismb
+  - bosc
   - community
   - obf
   - travel-fellowship

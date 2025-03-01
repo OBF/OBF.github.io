@@ -2,14 +2,14 @@
 author: peterc
 category:
   - blogroll
-  - bosc/ismb
+  - bosc
   - community
   - obf
 date: "2014-03-19T18:21:22+00:00"
 guid: http://news.open-bio.org/news/?p=1148
 tag:
   - bosc
-  - bosc/ismb
+  - bosc
 title: Free registration to student presenters at BOSC 2014
 url: /2014/03/19/free-student-presenters-bosc-2014/
 

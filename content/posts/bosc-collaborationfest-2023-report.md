@@ -1,7 +1,7 @@
 ---
 author: jeremy.just
 category:
-  - bosc/ismb
+  - bosc
   - cofest
   - community
   - events
@@ -13,7 +13,7 @@ date: "2023-09-29T22:08:37+00:00"
 guid: https://www.open-bio.org/?p=7341
 tag:
   - bosc
-  - bosc/ismb
+  - bosc
   - codefest
   - cofest
   - europe

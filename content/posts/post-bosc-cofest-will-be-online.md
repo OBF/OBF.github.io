@@ -1,7 +1,7 @@
 ---
 author: admin
 category:
-  - bosc/ismb
+  - bosc
   - community
 cover:
   alt: online-collaboration - 1

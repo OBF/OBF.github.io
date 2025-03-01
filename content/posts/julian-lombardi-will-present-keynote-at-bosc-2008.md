@@ -1,7 +1,7 @@
 ---
 author: hilmar
 category:
-  - bosc/ismb
+  - bosc
 date: "2008-05-18T19:23:50+00:00"
 guid: http://news.open-bio.org/news/?p=148
 title: Julian Lombardi will present keynote at BOSC 2008

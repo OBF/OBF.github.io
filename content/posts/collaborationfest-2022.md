@@ -1,7 +1,7 @@
 ---
 author: admin
 category:
-  - bosc/ismb
+  - bosc
   - community
   - obf
 date: "2022-05-17T18:53:30+00:00"

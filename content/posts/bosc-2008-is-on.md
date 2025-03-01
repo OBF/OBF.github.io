@@ -1,7 +1,7 @@
 ---
 author: hilmar
 category:
-  - bosc/ismb
+  - bosc
 date: "2008-02-18T15:35:07+00:00"
 guid: http://news.open-bio.org/news/?p=145
 summary: Our application to hold BOSC as a two-day SIG (Special Interest Group) meeting in conjunction with ISMB has been accepted for this year. BOSC will take place July 18 and 19 in Toronto, Canada.

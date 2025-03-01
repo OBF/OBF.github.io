@@ -1,7 +1,7 @@
 ---
 author: kdahlquist
 category:
-  - bosc/ismb
+  - bosc
   - community
   - obf
 date: "2010-12-21T19:29:42+00:00"

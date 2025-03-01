@@ -2,7 +2,7 @@
 author: peterc
 category:
   - blogroll
-  - bosc/ismb
+  - bosc
   - community
   - development
   - obf
@@ -10,7 +10,7 @@ date: "2016-03-01T17:42:48+00:00"
 guid: https://news.obf.io/?p=1460
 tag:
   - bosc
-  - bosc/ismb
+  - bosc
   - codefest
   - community
 title: BOSC 2016 Call for Abstracts

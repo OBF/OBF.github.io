@@ -1,7 +1,7 @@
 ---
 author: kcranstn
 category:
-  - bosc/ismb
+  - bosc
   - community
   - obf
   - travel-fellowship

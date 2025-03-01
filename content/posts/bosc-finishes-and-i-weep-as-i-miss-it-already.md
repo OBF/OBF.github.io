@@ -1,7 +1,7 @@
 ---
 author: brad
 category:
-  - bosc/ismb
+  - bosc
 date: "2003-06-28T11:08:51+00:00"
 guid: http://news.open-bio.org/news/?p=103
 summary: BOSC always comes and goes so fast. I am a melancholy kind of guy so whenever things finish up I get a little misty eyed with regrets at the things I could have done and the people I could have met. But it was all so great it makes me smile with the understanding of the entire world. Plus weeping really gets you the women -- makes you look quite sensitive. And I am all about sensitivity. But before I got into this mindset, I tried to write down what happened. Read and feel my joy.

@@ -1,7 +1,7 @@
 ---
 author: nlharris
 category:
-  - bosc/ismb
+  - bosc
   - community
 cover:
   alt: Sierra Moxon

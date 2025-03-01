@@ -1,7 +1,7 @@
 ---
 author: azizk
 category:
-  - bosc/ismb
+  - bosc
   - travel-fellowship
 cover:
   alt: Basel-bridge
@@ -10,7 +10,7 @@ date: "2019-10-15T20:52:03+00:00"
 guid: https://www.open-bio.org/?p=3850
 tag:
   - bosc
-  - bosc/ismb
+  - bosc
   - community
   - conferences
   - open-source

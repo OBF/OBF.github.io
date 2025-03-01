@@ -1,7 +1,7 @@
 ---
 author: fnyasimi
 category:
-  - bosc/ismb
+  - bosc
   - event-fellowship
   - travel-fellowship
 cover:

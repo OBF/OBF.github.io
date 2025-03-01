@@ -1,14 +1,14 @@
 ---
 author: kdahlquist
 category:
-  - bosc/ismb
+  - bosc
   - community
   - obf
 date: "2009-06-02T02:09:18+00:00"
 guid: http://news.open-bio.org/news/2009/06/bosc-schedule-posted-2/
 tag:
   - bosc
-  - bosc/ismb
+  - bosc
 title: BOSC Schedule Posted
 url: /2009/06/01/bosc-schedule-posted-2/
 

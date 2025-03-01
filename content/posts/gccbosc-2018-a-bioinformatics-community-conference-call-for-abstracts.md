@@ -2,7 +2,7 @@
 author: peterc
 category:
   - blogroll
-  - bosc/ismb
+  - bosc
   - community
   - obf
 date: "2018-02-21T10:07:04+00:00"
@@ -13,7 +13,7 @@ summary: |-
   We are pleased to announce that abstract submission and early registration for [GCCBOSC2018](https://gccbosc2018.sched.com/) are now open. This event brings our annual **Bioinformatics Open Source Conference** and the **Galaxy Community Conference** together into a unified week-long event. If you work in open source life science or data-intensive biomedical research, then there is no better place than **GCCBOSC 2018** to present your work and to learn from others.
 tag:
   - bosc
-  - bosc/ismb
+  - bosc
   - codefest
   - community
   - conferences

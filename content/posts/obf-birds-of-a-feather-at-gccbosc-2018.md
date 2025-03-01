@@ -2,7 +2,7 @@
 author: nlharris
 category:
   - blogroll
-  - bosc/ismb
+  - bosc
   - community
 date: "2018-06-14T18:11:25+00:00"
 guid: https://news.open-bio.org/?p=1972

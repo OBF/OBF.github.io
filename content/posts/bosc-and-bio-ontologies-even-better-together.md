@@ -1,7 +1,7 @@
 ---
 author: nlharris
 category:
-  - bosc/ismb
+  - bosc
   - community
 cover:
   alt: ISMB-Bio-Ontologies-BOSC
@@ -10,7 +10,7 @@ date: "2022-03-02T04:52:45+00:00"
 guid: https://www.open-bio.org/?p=6267
 tag:
   - bosc
-  - bosc/ismb
+  - bosc
   - conferences
   - ontologies
   - open-source

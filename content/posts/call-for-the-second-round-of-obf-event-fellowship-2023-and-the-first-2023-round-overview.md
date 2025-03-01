@@ -10,7 +10,7 @@ cover:
 date: "2023-07-05T05:05:05+00:00"
 guid: https://www.open-bio.org/?p=7164
 tag:
-  - bosc/ismb
+  - bosc
   - travel-fellowship
 title: Call for the second round of OBF Event Fellowship 2023 and the first 2023 round overview.
 url: /2023/07/05/call-for-event-fellowship-round-2-2023/

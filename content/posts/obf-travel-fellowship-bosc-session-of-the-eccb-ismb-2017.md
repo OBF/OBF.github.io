@@ -2,7 +2,7 @@
 author: cjfields
 category:
   - blogroll
-  - bosc/ismb
+  - bosc
   - community
   - travel-fellowship
 date: "2017-08-28T14:43:53+00:00"
@@ -10,7 +10,7 @@ guid: https://news.open-bio.org/?p=1746
 summary: _This blog post is syndicated from a [post on Jonathan Sobel's blog](https://jonathansobel1.wordpress.com/2017/07/27/bosc-session-of-the-eccbismb-2017/), originally published July 27, 2017. Jonathan was supported by the ongoing [OBF travel fellowship program](https://github.com/OBF/obf-docs/blob/master/Travel_fellowships.md) to attend the 2017 Bioinformatics Open Source Conference (BOSC), held as part of the 2017 ISMB/ECCB meeting in Prague, Czech Republic, in July 2017._ _The OBF's Travel Fellowship program continues to help open source bioinformatics software developers with funding to attend conferences, workshops, or training events. The next call closes 15 December 2017._
 tag:
   - bosc
-  - bosc/ismb
+  - bosc
   - community
   - travel-fellowship
 title: OBF Travel Fellowship - BOSC session of the ECCB/ISMB 2017

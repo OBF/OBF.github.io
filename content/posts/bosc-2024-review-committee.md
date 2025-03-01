@@ -1,7 +1,7 @@
 ---
 author: nlharris
 category:
-  - bosc/ismb
+  - bosc
 cover:
   alt: pear-reviewers
   image: /wp-content/uploads/2024/04/pear-reviewers.jpg

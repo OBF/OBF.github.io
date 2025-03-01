@@ -3,7 +3,7 @@ author: andreas
 category:
   - biojava
   - blogroll
-  - bosc/ismb
+  - bosc
   - community
   - development
   - obf
@@ -14,7 +14,7 @@ guid: https://news.open-bio.org/?p=1517
 tag:
   - biojava
   - bosc
-  - bosc/ismb
+  - bosc
   - community
   - development
   - obf

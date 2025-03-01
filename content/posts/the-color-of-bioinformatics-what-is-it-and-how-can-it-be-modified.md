@@ -2,7 +2,7 @@
 author: tendai
 category:
   - blogroll
-  - bosc/ismb
+  - bosc
   - community
   - obf
   - travel-fellowship

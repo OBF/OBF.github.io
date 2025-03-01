@@ -1,7 +1,7 @@
 ---
 author: nlharris
 category:
-  - bosc/ismb
+  - bosc
   - community
 date: "2016-05-27T16:45:21+00:00"
 guid: https://news.open-bio.org/?p=1506

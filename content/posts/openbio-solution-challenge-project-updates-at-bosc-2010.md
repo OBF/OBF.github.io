@@ -1,7 +1,7 @@
 ---
 author: brad
 category:
-  - bosc/ismb
+  - bosc
   - obf-projects
 date: "2010-01-28T20:45:59+00:00"
 guid: http://news.open-bio.org/news/?p=609

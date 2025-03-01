@@ -1,7 +1,7 @@
 ---
 author: nlharris
 category:
-  - bosc/ismb
+  - bosc
   - cofest
 cover:
   alt: CoFest2023-lunch - 1

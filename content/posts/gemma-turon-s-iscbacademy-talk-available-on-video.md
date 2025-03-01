@@ -1,7 +1,7 @@
 ---
 author: nlharris
 category:
-  - bosc/ismb
+  - bosc
   - uncategorized
 cover:
   alt: Gemma-screenshot - 1

@@ -1,7 +1,7 @@
 ---
 author: beatricemiha
 category:
-  - bosc/ismb
+  - bosc
   - event-fellowship
 cover:
   alt: Beatrice Mihalache with BOSC poster

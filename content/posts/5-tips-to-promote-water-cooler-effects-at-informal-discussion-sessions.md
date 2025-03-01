@@ -2,7 +2,7 @@
 author: malvikasharan
 category:
   - blogroll
-  - bosc/ismb
+  - bosc
   - community
   - travel-fellowship
 cover:

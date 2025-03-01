@@ -1,7 +1,7 @@
 ---
 author: yo
 category:
-  - bosc/ismb
+  - bosc
   - community
 cover:
   alt: Hilmar, Peter, and Yo

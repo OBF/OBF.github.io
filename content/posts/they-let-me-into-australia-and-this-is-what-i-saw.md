@@ -1,7 +1,7 @@
 ---
 author: brad
 category:
-  - bosc/ismb
+  - bosc
 date: "2003-06-28T09:26:53+00:00"
 guid: http://news.open-bio.org/news/?p=102
 summary: If you are not lucky enough to be here in wonderfully beautiful Brisbane with beaches next to the river and where every man and woman is a perfect physical specimen, then you can read all about BOSC colored through my mind. Enjoy.

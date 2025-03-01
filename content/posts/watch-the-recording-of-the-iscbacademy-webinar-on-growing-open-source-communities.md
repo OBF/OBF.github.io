@@ -1,7 +1,7 @@
 ---
 author: bgreshake
 category:
-  - bosc/ismb
+  - bosc
   - community
 date: "2022-02-23T08:27:54+00:00"
 guid: https://www.open-bio.org/?p=6211

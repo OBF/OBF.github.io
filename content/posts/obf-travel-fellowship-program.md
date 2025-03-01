@@ -1,7 +1,7 @@
 ---
 author: hilmar
 category:
-  - bosc/ismb
+  - bosc
   - community
   - obf
   - travel-fellowship

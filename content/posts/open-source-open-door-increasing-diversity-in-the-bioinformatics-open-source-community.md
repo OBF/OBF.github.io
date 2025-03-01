@@ -2,14 +2,14 @@
 author: nlharris
 category:
   - blogroll
-  - bosc/ismb
+  - bosc
   - community
   - obf
 date: "2015-04-02T22:09:39+00:00"
 guid: http://news.open-bio.org/news/?p=1297
 tag:
   - bosc
-  - bosc/ismb
+  - bosc
   - community
   - conferences
   - obf

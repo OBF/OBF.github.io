@@ -2,14 +2,14 @@
 author: peterc
 category:
   - blogroll
-  - bosc/ismb
+  - bosc
   - community
   - obf
 date: "2014-03-04T18:18:57+00:00"
 guid: http://news.open-bio.org/news/?p=1133
 tag:
   - bosc
-  - bosc/ismb
+  - bosc
 title: BOSC 2014 call for abstracts
 url: /2014/03/04/bosc-2014-call-for-abstracts/
 

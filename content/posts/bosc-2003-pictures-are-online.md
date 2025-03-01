@@ -2,7 +2,7 @@
 author: dag
 category:
   - bioperl
-  - bosc/ismb
+  - bosc
   - general
 date: "2003-07-02T04:59:11+00:00"
 guid: http://news.open-bio.org/news/?p=105

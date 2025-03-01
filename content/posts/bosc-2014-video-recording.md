@@ -6,7 +6,7 @@ date: "2014-06-19T15:56:18+00:00"
 guid: http://news.open-bio.org/news/?p=1189
 tag:
   - bosc
-  - bosc/ismb
+  - bosc
   - conferences
 title: BOSC 2014 video recording
 url: /2014/06/19/bosc-2014-video-recording/

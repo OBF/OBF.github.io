@@ -1,7 +1,7 @@
 ---
 author: nlharris
 category:
-  - bosc/ismb
+  - bosc
   - events
 date: "2017-10-28T23:01:19+00:00"
 guid: https://news.open-bio.org/?p=1771
