@@ -73,7 +73,10 @@ We understand increasing diversity as increasing participation from groups other
 
 - The fellowship can be used to cover conference **registration fees** and the **costs of small hardware** (such as a microphone, speaker and webcam), **childcare for the duration of the event** and/or other supporting materials up to a value of **USD 1,500.**
 - Applicants are eligible to apply for the cost of a communication platform only if they are **hosting a virtual event** and will require a paid subscription to access the necessary premium features of the software used in their event.
-- The cost of remote participation will be evaluated on a case-by-case basis. please note that this fellowship will not cover the cost of buying laptops and computers. However, this fellowship may cover the rental cost of the large hardware.
+- The cost of remote participation will be evaluated on a case-by-case
+  basis. Please note that this fellowship will not cover the cost of
+  buying laptops and computers. However, the rental cost of hardware
+  that is needed in order to participate in the event may be covered.
 
 {{< endcolumns >}}
 

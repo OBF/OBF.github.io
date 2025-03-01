@@ -88,6 +88,11 @@ image, use this html:
 <img src="image-path" style="width:75%" alt="alt text" />
 ```
 
+- There's also a "gallery" option (I haven't tried it):
+```
+{{< gallery class="content-gallery" >}}
+```
+
 - When testing changes on localhost:1313, note that changes that
   involve .pngs take effect right away, but for some reason, if you're
   using .jpg or .jpeg images, it takes a while (20 min or so?) for
@@ -104,6 +109,10 @@ image, use this html:
 ```
 <a href="URL" class="btn btn-lg btn-primary">text on button</a>
 ```
+
+- Posts: you can create new posts by creating a file in the content/posts directory (you can copy and modify an older post). Note the date field - if you set that to a date that's in the future, your post won't show up on the posts page or the OBF homepage.
+  - To get posts to show up on the BOSC news page, include the category "bosc" (the tag doesn't seem to matter).
+  - Note that new posts may not show up on the main OBF home page until you kill and restart hugo.
 
 ## Steps taken to port content from old WP site
 
