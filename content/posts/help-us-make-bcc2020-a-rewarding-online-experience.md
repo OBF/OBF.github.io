@@ -2,7 +2,7 @@
 author: nlharris
 category:
   - bcc
-  - bosc/ismb
+  - bosc
   - community
 cover:
   alt: glowing-laptop-cropped - 1

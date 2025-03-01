@@ -2,7 +2,7 @@
 author: peterc
 category:
   - blogroll
-  - bosc/ismb
+  - bosc
   - community
   - general
   - obf
@@ -11,7 +11,7 @@ date: "2016-03-22T12:10:51+00:00"
 guid: https://news.open-bio.org/?p=1479
 tag:
   - bosc
-  - bosc/ismb
+  - bosc
   - community
   - obf
 title: BOSC 2016 Keynote Speakers

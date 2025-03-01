@@ -1,7 +1,7 @@
 ---
 author: nlharris
 category:
-  - bosc/ismb
+  - bosc
   - events
 cover:
   alt: BOSC audience with Jessica - 1
@@ -10,7 +10,7 @@ date: "2025-01-09T06:33:54+00:00"
 guid: https://www.open-bio.org/?p=8410
 tag:
   - bosc
-  - bosc/ismb
+  - bosc
   - conferences
 title: Announcing BOSC 2025; seeking keynote speaker nominations
 url: /2025/01/09/nominate-keynotes-bosc2025/

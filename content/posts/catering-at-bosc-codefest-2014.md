@@ -2,7 +2,7 @@
 author: peterc
 category:
   - blogroll
-  - bosc/ismb
+  - bosc
   - code
   - community
   - development
@@ -13,7 +13,7 @@ date: "2014-04-02T11:13:25+00:00"
 guid: http://news.open-bio.org/news/?p=1153
 tag:
   - bosc
-  - bosc/ismb
+  - bosc
   - code
   - codefest
   - community

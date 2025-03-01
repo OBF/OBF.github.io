@@ -2,14 +2,14 @@
 author: peterc
 category:
   - blogroll
-  - bosc/ismb
+  - bosc
   - community
   - obf
 date: "2015-06-05T10:29:46+00:00"
 guid: http://news.open-bio.org/news/?p=1320
 tag:
   - bosc
-  - bosc/ismb
+  - bosc
   - community
 title: BOSC 2015 Panel - increasing diversity
 url: /2015/06/05/bosc-2015-panel-increasing-diversity/

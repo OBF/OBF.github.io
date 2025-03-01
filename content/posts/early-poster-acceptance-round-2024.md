@@ -1,7 +1,7 @@
 ---
 author: nlharris
 category:
-  - bosc/ismb
+  - bosc
 cover:
   alt: pears-with-posters1
   image: /wp-content/uploads/2024/02/pears-with-posters1.jpg
@@ -9,7 +9,7 @@ date: "2024-02-18T23:20:16+00:00"
 guid: https://www.open-bio.org/?p=7670
 tag:
   - bosc
-  - bosc/ismb
+  - bosc
 title: Early Poster Acceptance Round 2024
 url: /2024/02/18/early-poster-acceptance-2024/
 

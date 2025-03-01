@@ -2,7 +2,7 @@
 author: peterc
 category:
   - blogroll
-  - bosc/ismb
+  - bosc
   - community
   - general
   - obf
@@ -11,7 +11,7 @@ date: "2015-03-26T16:05:48+00:00"
 guid: http://news.open-bio.org/news/?p=1291
 tag:
   - bosc
-  - bosc/ismb
+  - bosc
   - community
   - obf
 title: BOSC 2015 Keynote Speakers

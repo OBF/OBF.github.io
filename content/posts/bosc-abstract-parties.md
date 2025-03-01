@@ -1,7 +1,7 @@
 ---
 author: nlharris
 category:
-  - bosc/ismb
+  - bosc
   - community
 cover:
   alt: Screen Shot 2021-04-09 at 9.08.02 AM

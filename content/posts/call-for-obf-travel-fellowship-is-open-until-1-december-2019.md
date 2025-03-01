@@ -1,7 +1,7 @@
 ---
 author: malvikasharan
 category:
-  - bosc/ismb
+  - bosc
   - community
   - travel-fellowship
 cover:

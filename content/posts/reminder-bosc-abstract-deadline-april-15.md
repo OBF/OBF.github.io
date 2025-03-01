@@ -1,7 +1,7 @@
 ---
 author: kdahlquist
 category:
-  - bosc/ismb
+  - bosc
   - community
   - general
   - mailing-lists

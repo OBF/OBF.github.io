@@ -2,13 +2,13 @@
 author: peterc
 category:
   - blogroll
-  - bosc/ismb
+  - bosc
   - community
 date: "2017-04-13T10:28:24+00:00"
 guid: https://news.open-bio.org/?p=1611
 tag:
   - bosc
-  - bosc/ismb
+  - bosc
   - community
   - conferences
 title: BOSC 2017 keynote speakers

@@ -1,7 +1,7 @@
 ---
 author: nlharris
 category:
-  - bosc/ismb
+  - bosc
 cover:
   alt: partridge-and-pears-stamp
   image: /wp-content/uploads/2021/06/partridge-and-pears-stamp.png

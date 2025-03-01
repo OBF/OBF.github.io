@@ -2,7 +2,7 @@
 author: nlharris
 category:
   - bcc
-  - bosc/ismb
+  - bosc
   - community
 cover:
   alt: abby-chris-yo-greenroom-whole-room

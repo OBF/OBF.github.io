@@ -2,14 +2,14 @@
 author: nlharris
 category:
   - blogroll
-  - bosc/ismb
+  - bosc
   - community
   - obf
 date: "2018-08-02T16:55:44+00:00"
 guid: https://news.open-bio.org/?p=2022
 tag:
   - bosc
-  - bosc/ismb
+  - bosc
   - codefest
   - gccbosc
   - meeting

@@ -1,7 +1,7 @@
 ---
 author: nlharris
 category:
-  - bosc/ismb
+  - bosc
 cover:
   alt: Jason-Williams-keynote2022
   image: /wp-content/uploads/2022/08/image5-e1675318372322.jpg

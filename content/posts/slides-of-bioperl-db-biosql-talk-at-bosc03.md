@@ -2,7 +2,7 @@
 author: hilmar
 category:
   - bioperl
-  - bosc/ismb
+  - bosc
   - obda-/-biosql
 date: "2003-09-21T09:36:00+00:00"
 guid: http://news.open-bio.org/news/?p=114

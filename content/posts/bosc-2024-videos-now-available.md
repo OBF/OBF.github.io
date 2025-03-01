@@ -1,7 +1,7 @@
 ---
 author: nlharris
 category:
-  - bosc/ismb
+  - bosc
 cover:
   alt: BOSC-room - 1
   image: /wp-content/uploads/2024/08/BOSC-room-1.jpeg

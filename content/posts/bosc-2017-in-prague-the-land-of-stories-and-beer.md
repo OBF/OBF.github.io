@@ -2,7 +2,7 @@
 author: farahzk
 category:
   - blogroll
-  - bosc/ismb
+  - bosc
   - community
   - essays
   - obf
@@ -12,7 +12,7 @@ guid: https://news.open-bio.org/?p=1767
 summary: _This is a guest blog post from Farah Zaib Khan, who was supported by the ongoing [Open Bioinformatics Foundation travel fellowship program](https://github.com/OBF/obf-docs/blob/master/Travel_fellowships.md) to attend our annual conference BOSC 2017 and its preceding Codefest in Prague, July 2017. The OBF’s Travel Fellowship program continues to help open source bioinformatics software developers with funding to attend conferences or workshops. The current call closes 15 December 2017, you might want to apply?_
 tag:
   - bosc
-  - bosc/ismb
+  - bosc
   - community
   - conferences
   - meeting

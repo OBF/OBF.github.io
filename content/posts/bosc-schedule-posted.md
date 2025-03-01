@@ -1,7 +1,7 @@
 ---
 author: stajich
 category:
-  - bosc/ismb
+  - bosc
 date: "2005-06-16T23:52:45+00:00"
 guid: http://news.open-bio.org/news/?p=132
 title: BOSC Schedule Posted

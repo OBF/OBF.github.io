@@ -1,12 +1,12 @@
 ---
 author: hilmar
 category:
-  - bosc/ismb
+  - bosc
 date: "2009-01-07T17:07:10+00:00"
 guid: http://news.open-bio.org/news/?p=226
 tag:
   - bosc
-  - bosc/ismb
+  - bosc
 title: BOSC 2009 accepted by ISMB
 url: /2009/01/07/bosc-2009-accepted-by-ismb/
 

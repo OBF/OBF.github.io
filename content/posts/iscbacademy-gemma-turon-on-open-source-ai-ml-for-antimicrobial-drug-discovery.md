@@ -1,7 +1,7 @@
 ---
 author: nlharris
 category:
-  - bosc/ismb
+  - bosc
 cover:
   alt: Gemma-Turon - 1
   image: /wp-content/uploads/2024/02/Gemma-Turon-1.png

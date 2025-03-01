@@ -1,7 +1,7 @@
 ---
 author: saketkc
 category:
-  - bosc/ismb
+  - bosc
   - travel-fellowship
 cover:
   alt: cordon-bleu

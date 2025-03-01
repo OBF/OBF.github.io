@@ -1,7 +1,7 @@
 ---
 author: nlharris
 category:
-  - bosc/ismb
+  - bosc
   - community
 cover:
   alt: Presenters and attendees mingle at the GCCBOSC 2018 poster/demo session

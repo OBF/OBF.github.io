@@ -1,7 +1,7 @@
 ---
 author: vdauwera
 category:
-  - bosc/ismb
+  - bosc
   - cofest
   - event-fellowship
 cover:
@@ -11,7 +11,7 @@ date: "2022-08-16T00:08:42+00:00"
 guid: https://www.open-bio.org/?p=6592
 tag:
   - bosc
-  - bosc/ismb
+  - bosc
   - cofest
   - community
   - conferences

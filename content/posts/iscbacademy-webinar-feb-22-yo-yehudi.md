@@ -2,7 +2,7 @@
 author: nlharris
 category:
   - blogroll
-  - bosc/ismb
+  - bosc
   - community
   - uncategorized
 cover:

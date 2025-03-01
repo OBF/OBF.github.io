@@ -1,7 +1,7 @@
 ---
 author: malvikasharan
 category:
-  - bosc/ismb
+  - bosc
   - event-fellowship
   - events
 cover:

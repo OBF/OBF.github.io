@@ -1,7 +1,7 @@
 ---
 author: peterc
 category:
-  - bosc/ismb
+  - bosc
   - community
   - obf
 date: "2011-03-04T15:42:59+00:00"

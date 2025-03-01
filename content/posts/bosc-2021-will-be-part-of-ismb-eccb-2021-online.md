@@ -1,7 +1,7 @@
 ---
 author: nlharris
 category:
-  - bosc/ismb
+  - bosc
   - events
   - uncategorized
 cover:
@@ -11,7 +11,7 @@ date: "2021-02-12T06:22:49+00:00"
 guid: https://www.open-bio.org/?p=5271
 tag:
   - bosc
-  - bosc/ismb
+  - bosc
 title: BOSC 2021 will be part of ISMB/ECCB 2021 (online)
 url: /2021/02/12/bosc-2021-will-be-part-of-ismb-eccb-2021-online/
 

@@ -1,7 +1,7 @@
 ---
 author: twesigomwedavid
 category:
-  - bosc/ismb
+  - bosc
   - community
   - event-fellowship
 cover:

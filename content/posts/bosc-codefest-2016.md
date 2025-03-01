@@ -2,7 +2,7 @@
 author: brad
 category:
   - blogroll
-  - bosc/ismb
+  - bosc
   - community
   - development
   - general
@@ -13,7 +13,7 @@ date: "2016-03-28T13:56:07+00:00"
 guid: https://news.open-bio.org/?p=1484
 tag:
   - bosc
-  - bosc/ismb
+  - bosc
   - community
   - development
   - meeting

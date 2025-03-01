@@ -2,7 +2,7 @@
 author: farahzk
 category:
   - blogroll
-  - bosc/ismb
+  - bosc
   - community
   - obf
   - travel-fellowship

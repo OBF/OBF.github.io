@@ -12,7 +12,7 @@ date: "2024-01-10T13:46:10+00:00"
 guid: https://www.open-bio.org/?p=7593
 tag:
   - biopython
-  - bosc/ismb
+  - bosc
   - open-source
 title: Biopython 1.83 released
 url: /2024/01/10/biopython-1-83-released/

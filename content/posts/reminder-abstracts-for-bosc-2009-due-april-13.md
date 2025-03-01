@@ -1,13 +1,13 @@
 ---
 author: kdahlquist
 category:
-  - bosc/ismb
+  - bosc
   - obf
   - obf-projects
 date: "2009-04-10T20:41:27+00:00"
 guid: http://news.open-bio.org/news/?p=316
 tag:
-  - bosc/ismb
+  - bosc
   - code
   - community
   - development

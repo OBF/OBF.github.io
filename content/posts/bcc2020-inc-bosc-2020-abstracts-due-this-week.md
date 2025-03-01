@@ -1,7 +1,7 @@
 ---
 author: peterc
 category:
-  - bosc/ismb
+  - bosc
   - community
 date: "2020-05-03T12:28:23+00:00"
 guid: https://www.open-bio.org/?p=4724

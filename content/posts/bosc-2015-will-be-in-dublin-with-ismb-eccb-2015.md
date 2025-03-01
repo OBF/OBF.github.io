@@ -2,14 +2,14 @@
 author: peterc
 category:
   - blogroll
-  - bosc/ismb
+  - bosc
   - community
   - obf
 date: "2014-09-18T09:42:06+00:00"
 guid: http://news.open-bio.org/news/?p=1203
 tag:
   - bosc
-  - bosc/ismb
+  - bosc
   - community
   - conferences
 title: BOSC 2015 will be in Dublin with ISMB/ECCB 2015

@@ -1,7 +1,7 @@
 ---
 author: nlharris
 category:
-  - bosc/ismb
+  - bosc
   - community
 cover:
   alt: Jason at mic cropped - 1
@@ -10,7 +10,7 @@ date: "2025-01-18T00:19:29+00:00"
 guid: https://www.open-bio.org/?p=8444
 tag:
   - bosc
-  - bosc/ismb
+  - bosc
   - conferences
 title: BOSC 2025 potential keynote speakers–community comment period open
 url: /2025/01/18/2025-keynote-community-comment/

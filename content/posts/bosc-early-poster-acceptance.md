@@ -1,7 +1,7 @@
 ---
 author: nlharris
 category:
-  - bosc/ismb
+  - bosc
 cover:
   alt: accepted
   image: /wp-content/uploads/2023/03/accepted.jpeg

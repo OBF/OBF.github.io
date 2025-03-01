@@ -2,7 +2,7 @@
 author: peterc
 category:
   - biopython
-  - bosc/ismb
+  - bosc
   - code
   - community
   - development

@@ -2,7 +2,7 @@
 author: cjfields
 category:
   - bioperl
-  - bosc/ismb
+  - bosc
   - code
   - community
   - development

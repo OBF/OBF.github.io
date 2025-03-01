@@ -1,7 +1,7 @@
 ---
 author: nlharris
 category:
-  - bosc/ismb
+  - bosc
   - events
 cover:
   alt: bosc-crowd-nh-at-podium-by-berenice-batut - 1
@@ -10,7 +10,7 @@ date: "2019-05-09T23:48:35+00:00"
 guid: https://www.open-bio.org/?p=3543
 tag:
   - bosc
-  - bosc/ismb
+  - bosc
   - open-source
 title: BOSC late-round abstract submission closes May 15!
 url: /2019/05/09/bosc-2019-late-round/

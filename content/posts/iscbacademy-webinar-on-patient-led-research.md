@@ -1,7 +1,7 @@
 ---
 author: nlharris
 category:
-  - bosc/ismb
+  - bosc
   - events
 cover:
   alt: Hannah_Wei_Profile
