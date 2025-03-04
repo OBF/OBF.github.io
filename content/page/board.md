@@ -8,7 +8,7 @@ url: /board/
 ---
 # Board of Directors 
 
-The Board can be contacted via email at board@open-bio.org (or, in case of mailing list problems, try obf-board@googlegroups.com as a fallback) You can also find us on [LinkedIn](https://www.linkedin.com/groups/9539620/). The minutes of the previous public Board meetings can be found on our [GitHub repository](https://github.com/OBF/obf-docs/tree/master/minutes) ([pre-2019 meeting minutes are linked here](https://www.open-bio.org/board/meeting-minutes/)).
+The Board can be contacted via email at board@open-bio.org (or, in case of mailing list problems, try obf-board@googlegroups.com as a fallback) You can also find us on [LinkedIn](https://www.linkedin.com/groups/9539620/). The minutes of the previous public Board meetings can be found on our [GitHub repository](https://github.com/OBF/obf-docs/tree/master/minutes) ([pre-2019 meeting minutes are linked here](https://open-bio.org/board/meeting-minutes/)).
 
 {{< gallery class="content-gallery" cols='2' >}}
 
@@ -61,7 +61,7 @@ Representing [BioPerl](http://www.bioperl.org/), Director of Informatics at the 
   title= "[Peter Cock](#)"
   caption=`
 _President_ 
-[Biopython](https://biopython.org/) core developer, bioinformatician at the James Hutton Institute for 16 years, currently at the University of Strathclyde. [BOSC 2016 co-chair](https://www.open-bio.org/wiki/BOSC_2016).
+[Biopython](https://biopython.org/) core developer, bioinformatician at the James Hutton Institute for 16 years, currently at the University of Strathclyde. [BOSC 2016 co-chair](https://open-bio.org/wiki/BOSC_2016).
 `
 >}}
 
@@ -82,7 +82,7 @@ _At-large Member_
   link= "https://www.linkedin.com/in/nomiharris"
   caption=`
 _Secretary_
-Program Manager at the Lawrence Berkeley National Laboratory; [BOSC chair](https://www.open-bio.org/events/bosc/).
+Program Manager at the Lawrence Berkeley National Laboratory; [BOSC chair](https://open-bio.org/events/bosc/).
 `
 >}}
 
