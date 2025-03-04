@@ -8,7 +8,7 @@ cover:
   alt: Crowded room in the joint BOSC/Bio-Ontologies session in 2023
   image: /wp-content/uploads/2023/08/BOSC2023-crowded-room-Bastian-1-1.png
 
-date: "2025-02-26T21:30:32+00:00"
+date: "2025-03-09T21:30:32+00:00"
 tag:
   - bosc
   - ismb
