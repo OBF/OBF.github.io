@@ -12,7 +12,7 @@ url: /
 ---
 # Sponsoring BOSC
 
-Page with BOSC 2023 Sponsors: [www.open-bio.org/events/sponsors/](/events/sponsors/)
+Page with BOSC 2023 Sponsors: [open-bio.org/events/sponsors/](/events/sponsors/)
 
 ## BOSC 2022 Platinum Sponsors
 
