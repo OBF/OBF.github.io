@@ -2,7 +2,7 @@
 author: hmenager
 cover:
   alt: CoFest-2022
-  image: https://www.open-bio.org/wp-content/uploads/2022/08/image4.jpg
+  image: https://open-bio.org/wp-content/uploads/2022/08/image4.jpg
 date: "2025-02-16T09:35:44+00:00" #creation date
 title: ISMB CollaborationFest 2025
 url: /events/bosc-2025/ismb-collaborationfest-2025/
@@ -15,7 +15,7 @@ ISMB CollaborationFest 2025 will be a collaborative work event at which particip
 
 ![Participants at CoFest 2024](/wp-content/uploads/2025/01/cofest2024-1.jpeg)
 
-BOSC has organized CollaborationFests (aka CoFests) every year before or after ISMB since 2010 (see, for example, [the 2024 CoFest page](https://www.open-bio.org/events/bosc-2024/obf-bosc-collaborationfest-2024/).). This year, we are excited to hold **CollaborationFest as part of ISMB/ECCB, opening it to all registered ISMB/ECCB participants**. The organizers are affiliated with four different COSIs: BOSC, Bio-Ontologies and Knowledge Representation (BOKR), Function COSI, and 3DSIG.
+BOSC has organized CollaborationFests (aka CoFests) every year before or after ISMB since 2010 (see, for example, [the 2024 CoFest page](https://open-bio.org/events/bosc-2024/obf-bosc-collaborationfest-2024/).). This year, we are excited to hold **CollaborationFest as part of ISMB/ECCB, opening it to all registered ISMB/ECCB participants**. The organizers are affiliated with four different COSIs: BOSC, Bio-Ontologies and Knowledge Representation (BOKR), Function COSI, and 3DSIG.
 
 ### Dates
 
