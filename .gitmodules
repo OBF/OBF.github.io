@@ -1,3 +1,6 @@
 [submodule "themes/beautifulhugo"]
 	path = themes/beautifulhugo
 	url = https://github.com/halogenica/beautifulhugo.git
+[submodule "static/wp-content"]
+	path = static/wp-content
+	url = https://github.com/OBF/wp-content

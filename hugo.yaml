@@ -48,7 +48,6 @@ outputs:
   home:
     - HTML
     - RSS
-    - JSON
 outputFormats:
   RSS:
     mediaType: application/rss+xml
