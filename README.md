@@ -75,6 +75,15 @@ Getting the files can take a while (the `wp-content` repo is ~500 MB).
 
 
 This may change.
+#### Adding new images
+
+For new images, you can place these into the `static/img` folder of this repository (you can also make sub-folders there if useful).  
+
+When compiling the website during the build, Hugo will move everything in `static/` into the website root, i.e. to `open-bio.org/`. This means that when linking images you do not have to include the `static/` as part of the media/image link. 
+
+As an example: A file that resides in `static/img/test-image.jpg` should be linked in the markdown files like this: `![an image](/img/test-image.jpg)`
+
+It is also good practice to name media files with the date you add them/the date of the page/post you want to add them to, i.e. `2025-03-04-blogpost-image.jpg`
 
 #### Some other random tips
 
