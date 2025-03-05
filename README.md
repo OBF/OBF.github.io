@@ -59,11 +59,10 @@ hugo server &
 
 #### Seeing images on localhost
 
-At the moment (2025-02-12), the images live in a separate repo,
-https://github.com/OBF/wp-content/. If you want to view images in the
-web pages on localhost:1313, you will need to clone that repo and then
-make a symbolic link to it in the content directory of your
-checked-out copy of OBF.github.io.
+At the moment (2025-03-05), historic images live in a large separate repo
+https://github.com/OBF/wp-content/ which is included as a git submodule.
+If you want to view images in the web pages on localhost:1313, you will need
+to have cloned that repo via the `git submodule update` command above.
 
 This may change.
 
