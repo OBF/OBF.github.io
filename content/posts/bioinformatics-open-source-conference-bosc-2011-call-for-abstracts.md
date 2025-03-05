@@ -10,7 +10,7 @@ title: Bioinformatics Open Source Conference (BOSC 2011) Call for Abstracts
 url: /2011/03/04/bosc-2011-abstract-call/
 
 ---
-![[BOSC Logo]](/w/images/b/b0/Pear.png)Call for Abstracts for the 12th Annual Bioinformatics Open Source Conference ( [BOSC 2011](/wiki/BOSC_2011)), an [ISMB 2011 Special Interest Group (SIG)](http://www.iscb.org/ismbeccb2011-program/satellite-meetings).
+![[BOSC Logo]](/wiki/Pear.png)Call for Abstracts for the 12th Annual Bioinformatics Open Source Conference ( [BOSC 2011](/wiki/BOSC_2011)), an [ISMB 2011 Special Interest Group (SIG)](http://www.iscb.org/ismbeccb2011-program/satellite-meetings).
 
 Dates: July 15-16, 2011
 Location: Vienna, Austria

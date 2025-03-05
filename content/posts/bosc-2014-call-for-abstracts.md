@@ -16,7 +16,7 @@ url: /2014/03/04/bosc-2014-call-for-abstracts/
 ---
 Call for Abstracts for the 15th Annual Bioinformatics Open Source Conference (BOSC 2014), a Special Interest Group (SIG) of ISMB 2014.
 
-[![[BOSC Logo]](/w/images/b/b0/Pear.png)](/wiki/BOSC_2014)
+[![[BOSC Logo]](/wiki/Pear.png)](/wiki/BOSC_2014)
 
 - Dates: July 11-12, 2014
 - Location: Boston, MA, USA

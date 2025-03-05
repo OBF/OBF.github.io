@@ -10,7 +10,7 @@ url: /events/bosc-2020/2017-bosc-schedule/
 
 This page has links to all the publicly available talk slides, videos and posters. Most of the slides and posters are on our [BOSC F1000 Research Collection](http://f1000research.com/collections/BOSC)(others are on SlideShare and FigShare), while the videos are on the [BOSC 2017 YouTube playlist](https://www.youtube.com/watch?v=tV6hAWreTSY&list=PLir-OOQiOhXZX_2zmUJz0fx8RLALi3tkK).
 
-- [Download the complete program (including all talk and poster abstracts) as a PDF](/w/images/4/42/BOSC2017-complete-program-compressed.pdf)
+- [Download the complete program (including all talk and poster abstracts) as a PDF](/wiki/BOSC2017-complete-program-compressed.pdf)
 - [ISMB/ECCB schedule for BOSC, including brief descriptions of each talk topic](https://www.iscb.org/cms_addon/conferences/ismbeccb2017/bosc.php)
 
 ## Pre-BOSC: Codefest 2017
@@ -23,13 +23,13 @@ This page has links to all the publicly available talk slides, videos and poster
 
 ## Complete Program
 
-- [Download the complete program (including all talk and poster abstracts) as a PDF](/w/images/4/42/BOSC2017-complete-program-compressed.pdf)
+- [Download the complete program (including all talk and poster abstracts) as a PDF](/wiki/BOSC2017-complete-program-compressed.pdf)
 - [ISMB/ECCB schedule for BOSC, including brief descriptions of each talk topic](https://www.iscb.org/cms_addon/conferences/ismbeccb2017/bosc.php)
 
 ## Posters
 
 - [BOSC posters at ISMB/ECCB 2017](https://www.iscb.org/cms_addon/conferences/ismbeccb2017/posterlist.php?cat=B)
-- [PDF poster list](/w/images/8/82/BOSC2017-PosterOverview.pdf)
+- [PDF poster list](/wiki/BOSC2017-PosterOverview.pdf)
 
 ## Sponsors
 

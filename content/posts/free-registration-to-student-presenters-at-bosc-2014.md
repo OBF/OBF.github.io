@@ -14,7 +14,7 @@ title: Free registration to student presenters at BOSC 2014
 url: /2014/03/19/free-student-presenters-bosc-2014/
 
 ---
-[![](/w/images/b/b0/Pear.png)](/wiki/BOSC_2014) To encourage more student presentations at the Bioinformatics Open Source Conference (BOSC), this year we're waiving the registration fee for accepted student presenters. When you submit your abstract ( [BOSC abstract call open until 4th April](http://news.open-bio.org/news/2014/03/bosc-2014-call-for-abstracts/)), you must tick the student box:
+[![](/wiki/Pear.png)](/wiki/BOSC_2014) To encourage more student presentations at the Bioinformatics Open Source Conference (BOSC), this year we're waiving the registration fee for accepted student presenters. When you submit your abstract ( [BOSC abstract call open until 4th April](http://news.open-bio.org/news/2014/03/bosc-2014-call-for-abstracts/)), you must tick the student box:
 
 _Student submissions must have a full-time student as the first named and presenting author, and be mostly written by students._
 

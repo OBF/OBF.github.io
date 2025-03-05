@@ -22,7 +22,7 @@ url: /2015/03/05/bosc-2015-call-for-abstracts/
 ---
 Call for Abstracts for the 16th Annual Bioinformatics Open Source Conference (BOSC 2015), a Special Interest Group (SIG) of ISMB/ECCB 2015.
 
-[![[BOSC Logo]](/w/images/b/b0/Pear.png)](/wiki/BOSC_2015)
+[![[BOSC Logo]](/wiki/Pear.png)](/wiki/BOSC_2015)
 
 - Dates: 10-11 July, 2015
 - Location: Dublin, Ireland

@@ -19,7 +19,7 @@ url: /2016/03/01/bosc-2016-call-for-abstracts/
 ---
 Call for Abstracts for the 17th Annual Bioinformatics Open Source Conference (BOSC 2016), a Special Interest Group (SIG) of [ISMB 2016](https://www.iscb.org/ismb2016).
 
-[![[BOSC Logo]](/w/images/b/b0/Pear.png)](/wiki/BOSC_2016)
+[![[BOSC Logo]](/wiki/Pear.png)](/wiki/BOSC_2016)
 
 - Dates: July 8-9, 2016
 - Location: Orlando, FL
