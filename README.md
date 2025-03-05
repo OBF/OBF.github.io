@@ -62,7 +62,17 @@ hugo server &
 At the moment (2025-03-05), historic images live in a large separate repo
 https://github.com/OBF/wp-content/ which is included as a git submodule.
 If you want to view images in the web pages on localhost:1313, you will need
-to have cloned that repo via the `git submodule update` command above.
+to also initialise this repository, which is currently setup using the 
+`git submodule` workflow. **By default the `wp-content` submodule is not cloned**
+
+To load it you can run: 
+
+* `cd OBF.github.io/`
+* `git submodule init`
+* `git submodule update`
+
+Getting the files can take a while (the `wp-content` repo is ~500 MB).
+
 
 This may change.
 
