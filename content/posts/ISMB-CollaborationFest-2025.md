@@ -7,7 +7,7 @@ category:
 cover:
   alt: People at CoFest 2024
   image: /wp-content/uploads/2025/01/cofest2024-1.jpeg
-date: "2025-03-07T21:30:32+00:00"
+date: "2025-03-07T01:30:32+00:00"
 tag:
   - bosc
   - ismb
