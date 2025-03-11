@@ -26,18 +26,19 @@ url: /2025/02/26/ISMB-CollaborationFest-2025
  
 BOSC has held CollaborationFests (aka CoFests) every year before or after ISMB since 2010. This year, we decided to hold the CollaborationFest as part of ISMB/ECCB and open it to all registered ISMB/ECCB participants. It will take place during the last two days of ISMB/ECCB. 
 
-[ISMB CollaborationFest 2025]((/events/bosc/collaborationfest/) is co-organized by volunteers from four COSIs:
+[ISMB CollaborationFest 2025](/events/bosc/collaborationfest/) is co-organized by volunteers from four COSIs:
 - Bioinformatics Open Source Conference (BOSC)
 - Bio-Ontologies and Knowledge Representation (BOKR)
 - Function COSI
 - 3DSig
 
-Due to space constraints, participation in CollaborationFest is limited. To indicate your interest in participating, **[register for ISMB/ECCB 2025]((https://www.iscb.org/ismbeccb2025/register)) by June 20 and sign up for CollaborationFest as an “add-on”** during the registration process. We will contact you by June 23 to request a few pieces of information to help us organize the event. Last-minute walk-ins may be possible for ISMB participants if we are not at capacity.
+Due to space constraints, participation in CollaborationFest is limited. To indicate your interest in participating, **[register for ISMB/ECCB 2025](https://www.iscb.org/ismbeccb2025/register) by June 20 and sign up for CollaborationFest as an “add-on”** during the registration process. We will contact you by June 23 to request a few pieces of information to help us organize the event. Last-minute walk-ins may be possible for ISMB participants if we are not at capacity.
 
 A limited number of ISMB registration waivers will be available for
 trainees (students and postdocs) who would like to participate in the
 CollaborationFest and are willing to work as volunteers during the
-first few days of ISMB--[more info here](https://www.iscb.org/ismbeccb2025/general-info/apply-to-be-event-staff).
+first two days of ISMB. [More info here about applying to volunteer at ISMB](https://www.iscb.org/ismbeccb2025/general-info/apply-to-be-event-staff).
 
-Limited remote participation will be possible but the amount of
-interaction that is possible will be highly dependent on the people and projects active on the day. We expect to have a video feed from the room available; joining will require you to have [registered as a (virtual or in-person) ISMB/ECCB attendee](https://www.iscb.org/ismbeccb2025/register).
+Limited remote participation in CollaborationFest will be possible, but the amount of
+interaction that is possible will be highly dependent on the people and projects active on the day.
+We expect to have a video feed from the room available; joining will require you to have [registered as a (virtual or in-person) ISMB/ECCB attendee](https://www.iscb.org/ismbeccb2025/register).
