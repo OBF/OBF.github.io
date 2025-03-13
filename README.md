@@ -39,6 +39,11 @@ git pull
 ```
 9. Edit your local copy as desired. Then do the steps in #4 (with a NEW branch name) to commit your latest changes.
 
+NOTE: if your git push fails with a 400 error, it could be because the files you were trying to push were too big (I had this problem with just three image files!). To fix that, type:
+````
+git config --global http.postBuffer 157286400
+````
+
 
 ### Using hugo
 0. Hugo documentation: https://gohugo.io/getting-started/quick-start/
@@ -129,6 +134,7 @@ image, use this html:
 ```
 
 - Posts: you can create new posts by creating a file in the content/posts directory (you can copy and modify an older post). Note the date field - if you set that to a date that's in the future, your post won't show up on the posts page or the OBF homepage.
+  - If you want to preview posts on localhost, set the date to the current date and add a line "draft: true". Then kill your hugo server and start it again with the argument "--buildDrafts". This allows you to commit the blog post to the repo without having it show up on the live site (you'll have to remove "draft: true" to make it show up).
   - To get posts to show up on the BOSC news page, include the category "bosc" (the tag doesn't seem to matter).
   - Note that new posts may not show up on the main OBF home page until you kill and restart hugo.
 
