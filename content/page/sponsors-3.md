@@ -9,6 +9,15 @@ title: Sponsors
 url: /events/bosc/sponsors/
 bosc: yes
 ---
+<div class="well">
+
+### 2025 Gold Sponsor:
+
+<a target="_new" href="https://seqera.io/"><img src="/wp-content/uploads/2024/04/Logo_Seqera-Color.png" style="width:75%" alt="Seqera" /></a>
+<center>Seqera, developed by the creators of Nextflow, empowers researchers to develop and deploy scalable bioinformatics pipelines faster</center>
+
+</div>
+
 # Sponsoring BOSC 2025
 
 <div class="well">
@@ -17,9 +26,10 @@ bosc: yes
 
 Sponsorships from companies and non-profit organizations help to defray some of our costs and enable us to offer free registration for some conference participants. In 2024, thanks to our sponsors’ generous support, we were able to grant free registration to 15 participants, offer honoraria to keynote speakers, and cover other expenses.
 
-<br/>
 
-#### Interested in sponsoring BOSC? Please contact us at bosc@open-bio.org!
+#### Interested in sponsoring BOSC?
+
+#### Please contact us at bosc@open-bio.org!
 
 {{< column >}}
 
@@ -28,9 +38,6 @@ Sponsorships from companies and non-profit organizations help to defray some of 
 {{< endcolumns >}}
 
 </div>
-
-<br/>
-
 
 ## What is BOSC?
 
@@ -184,8 +191,10 @@ In 2021, sponsorships enabled us to offer free registration to 20 participants f
 <br/>
 
 <div class="well">
+<center>
 
-**If you are interested in becoming a BOSC sponsor, please contact us at bosc@open-bio.org!**
+<b>If you are interested in becoming a BOSC sponsor, please contact us at bosc@open-bio.org!</b>
+</center>
 
 
 </div>
