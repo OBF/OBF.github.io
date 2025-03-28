@@ -9,18 +9,27 @@ title: Sponsors
 url: /events/bosc/sponsors/
 bosc: yes
 ---
+
+### 2025 Platinum Sponsor:
+
+<a target="_new" href="https://chanzuckerberg.com/science/"><img src="/wp-content/uploads/2021/06/CZI_Logotype_RGB.jpg" style="width:60%" alt="CZI" /></a>
+
+<br/>
+
+#### 2025 Gold Sponsor:
+
+<a target="_new" href="https://seqera.io/"><img src="/wp-content/uploads/2024/04/Logo_Seqera-Color.png" style="width:50%" alt="Seqera" /></a>
+<center><small>Seqera, developed by the creators of Nextflow, empowers researchers to develop and deploy scalable bioinformatics pipelines faster</small></center>
+
+**2025 Silver Sponsor:**
+
+<a target="_new" href="https://academic.oup.com/gigascience"><img src="/wp-content/uploads/2019/05/Gigascience.png" style="width:30%" alt="GigaScience" /></a>
+
+<br/>
+
 <div class="well">
 
-### 2025 Gold Sponsor:
-
-<a target="_new" href="https://seqera.io/"><img src="/wp-content/uploads/2024/04/Logo_Seqera-Color.png" style="width:75%" alt="Seqera" /></a>
-<center>Seqera, developed by the creators of Nextflow, empowers researchers to develop and deploy scalable bioinformatics pipelines faster</center>
-
-</div>
-
-# Sponsoring BOSC 2025
-
-<div class="well">
+### Sponsoring BOSC 2025
 
 {{< columns >}}
 
