@@ -8,8 +8,8 @@ cover:
   alt: Crowded room in the joint BOSC/Bio-Ontologies session in 2023
   image: /wp-content/uploads/2023/08/BOSC2023-crowded-room-Bastian-1-1.png
 
-date: "2025-03-05T02:30:32+00:00"
-draft: true
+date: "2025-03-30T02:30:32+00:00"
+draft: false
 tag:
   - bosc
   - ismb
@@ -21,23 +21,6 @@ url: /posts/financial-support-BOSC2025/
 ---
 
 We recognize that the high price of travel and registration can make it hard for some people to attend BOSC/ISMB. Below are some ways to apply for financial assistance to present your work at BOSC 2025.
-
-## BOSC registration fee waiver
-
-{{< columns >}}
-
-Authors who [submit their work to BOSC](/events/bosc-2025/submit/) can request ISMB registration fee support on the abstract submission form (these requests are not seen by reviewers). This initiative is funded by [sponsorships](/events/sponsors/).
-
-Only presenting authors whose abstracts are accepted for talk or poster presentation are eligible for this fee waiver, and depending on the number of applicants, not all requests will be granted.
-
-{{< column >}}
-
-![Beatrice Mihalache presenting a poster at BOSC 2024](/img/Beatrice-Mihalache-with-BOSC-poster.jpg)
-
-{{< endcolumns >}}
-
-Requests from early-career applicants and people from underrepresented geographical areas will be given priority. 
-Applicants will be notified about whether their fee waiver request was granted around the same time that abstract acceptance notifications go out (May 14).
 
 
 {{< columns >}}
@@ -58,12 +41,29 @@ Awards are made three times a year; the next **deadline is April 1, 2025** (note
 *Left: 
 [Awardee Ruth Nanjala and her poster at ICHG 2023](/2023/03/21/ruth-nanjala-experience-at-the-ichg-2023-conference/)*
 
-
 {{< endcolumns >}}
+
+
+## BOSC registration fee waiver
 
 {{< columns >}}
 
+Authors who [submit their work to BOSC](/events/bosc-2025/submit/) can request ISMB registration fee support on the abstract submission form (these requests are not seen by reviewers). This initiative is funded by [sponsorships](/events/sponsors/).
+
+Only presenting authors whose abstracts are accepted for talk or poster presentation are eligible for this fee waiver, and depending on the number of applicants, not all requests will be granted.
+
+{{< column >}}
+
+![Beatrice Mihalache presenting a poster at BOSC 2024](/img/Beatrice-Mihalache-with-BOSC-poster.jpg)
+
+{{< endcolumns >}}
+
+Requests from early-career applicants and people from underrepresented geographical areas will be given priority. 
+Applicants will be notified about whether their fee waiver request was granted around the same time that abstract acceptance notifications go out (May 14).
+
 <br/>
+
+{{< columns >}}
 
 ## ISCB Conference Fellowships
 
