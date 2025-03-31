@@ -25,7 +25,7 @@ We recognize that the high price of travel and registration can make it hard for
 
 {{< columns >}}
 
-![OBF Event awardee Ruth Nanjala and her poster at ICHG 2023](/img/Ruth-Nanjala-OBF-travel-awardee.png)
+![OBF Event awardee Ruth Nanjala and her poster at ICHG 2023](/img/2025/2025-03-11-Ruth-Nanjala-OBF-travel-awardee.png)
 
 {{< column >}}
 
@@ -54,7 +54,7 @@ Only presenting authors whose abstracts are accepted for talk or poster presenta
 
 {{< column >}}
 
-![Beatrice Mihalache presenting a poster at BOSC 2024](/img/Beatrice-Mihalache-with-BOSC-poster.jpg)
+![Beatrice Mihalache presenting a poster at BOSC 2024](/img/2025/2025-03-11-Beatrice-Mihalache-with-BOSC-poster.jpg)
 
 {{< endcolumns >}}
 
@@ -75,22 +75,21 @@ Rules for the ISCB conference fellowships (these are not BOSC-specific):
 
 <br/>
 
-![ISCB logo](/img/Iscb_logo.png)
+![ISCB logo](/img/2025/2025-03-11-Iscb_logo.png)
 
 {{< endcolumns >}}
 
 - Eligibility is limited to students or postdocs, plus early career researchers from Low through Upper-Middle Economic countries. Postdocs and employees of any US federal agency are not eligible.
-- Only open to those who have a Proceeding, Talk, or Poster (not late poster) accepted for presentation at ISMB/ECCB.
+- Only open to those who have a **Proceeding, Talk, or Poster (not late poster) accepted for presentation at ISMB/ECCB**.
 - The applicant must be the presenting author of the work.
 - Applicant must be a current ISCB member
 - Applicant must be able to pay all expenses of attending the conference up front, including conference registration fee, travel, accommodations, and meals.
-- The application will be sent automatically to eligible people on May 14 (the day after talk/poster acceptances go out).
-- The number of awards is limited; not all eligible applicants will be awarded.
+- **The application will be sent automatically to eligible people on May 14** (the day after talk/poster acceptances go out).
+- The number of awards is limited; not all eligible applicants will
+  receive awards.
 
 ## Apply to be Event Staff at ISMB/ECCB
 
 ![ISCB logo](/img/2025/banner.ConferenceBanner.ISMBECCB.2025.png)
 
-You can [apply to work at ISMB/ECCB 2025 for approximately 20-24 hours](https://www.iscb.org/ismbeccb2025/general-info/apply-to-be-event-staff) in exchange for free registration and time-based pay. (When you're not working, you can attend talks.) The application deadline is May 9, 2025. Note that Event Staff have to already be ISCB members.
-
-
+You can [apply to work at ISMB/ECCB 2025 for approximately 20-24 hours](https://www.iscb.org/ismbeccb2025/general-info/apply-to-be-event-staff) in exchange for free registration and time-based pay. (When you're not working, you can attend talks.) The **application deadline is May 9, 2025**. Note that Event Staff have to already be ISCB members.
