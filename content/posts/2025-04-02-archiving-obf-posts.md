@@ -20,4 +20,4 @@ _Rogue Scholar_ makes use of open technologies to both archive the full-text of 
 To ensure the long-term findability, _Rogue Scholar_'s archive contains rich metadata and also assigns a DOI for each blog post enlisted.
 Thanks to this, blog posts don't only have a stable identifier that can perpetually link to the correct places, this also means that our blog posts will have a stable and **citable identifier**, which allows them to become objects that are more easily citable within the scientific record. 
 
-In the future, we plan to surface those DOI more easily through our blog itself, but [already now you can find all of our posts listed on Rogue Scholar](https://rogue-scholar.org/communities/obf/records?q=&l=list&p=1&s=10&sort=newest).
+In the future, we plan to expose those DOIs more easily through our blog itself, but [already now you can find all of our posts listed on Rogue Scholar](https://rogue-scholar.org/communities/obf/records?q=&l=list&p=1&s=10&sort=newest).
