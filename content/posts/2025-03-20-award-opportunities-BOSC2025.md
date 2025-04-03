@@ -92,4 +92,5 @@ Rules for the ISCB conference fellowships (these are not BOSC-specific):
 
 ![ISCB logo](/img/2025/banner.ConferenceBanner.ISMBECCB.2025.png)
 
-You can [apply to work at ISMB/ECCB 2025 for approximately 20-24 hours](https://www.iscb.org/ismbeccb2025/general-info/apply-to-be-event-staff) in exchange for free registration and time-based pay. (When you're not working, you can attend talks.) The **application deadline is May 9, 2025**. Note that Event Staff have to already be ISCB members.
+You can [apply to work at ISMB/ECCB 2025 for approximately 20-24 hours](https://www.iscb.org/ismbeccb2025/general-info/apply-to-be-event-staff) in exchange for free registration and time-based pay. (When you're not working, you can attend talks.) The **application deadline is May 9, 2025**.
+Note that Event Staff have to already be ISCB members.
