@@ -12,6 +12,8 @@ The Open Bioinformatics Foundation ([OBF](https://open-bio.org)) promotes open s
 
 These fellowships are available to support both in-person and remote (virtual) participation at events such as conferences, workshops, training courses or collaborative development sprints.
 
+This page is a summary of the [official rules and procedures](https://github.com/OBF/obf-docs/blob/master/Travel_fellowships.md), which includes the rubric used to evaluate applications.
+
 _The OBF Event Fellowship was previously offered under the title OBF Travel Fellowship._
 
 ![](/wp-content/uploads/2019/02/anisha-keshavan-conf-1024x755.jpg)
