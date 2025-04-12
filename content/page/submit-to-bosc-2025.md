@@ -49,16 +49,23 @@ Please see below for submission instructions.
 
 # Submission guidelines
 
-{{< columns >}}
+{{< columns>}}
 
 ### What to submit
 
-- Please describe how your work fits into the open source / open science ecosystem. We like to see examples of biological applications of your work, and a summary of the current and/or projected community aspects of your project.
 - A 250-word short abstract (text only) is required for ALL submissions (talk and/or poster).
 - If you want to be considered for a talk, you also MUST attach a 1-2 page "long abstract" as a PDF. Figures welcome as long as the total length is 2 pages or less.
-- Your abstract PDF should include the title, author name(s), open source license, and code or project URL (even though this information is also requested on the submission form).
+- In your long abstract, please describe how your work fits into the open source / open science ecosystem. We like to see examples of biological applications of your work, and a summary of the current and/or projected community aspects of your project.
 
-{{< column >}}
+<div class="well">
+
+Watch a video of [BOSC organizing committee member Jason Williams discussing how to write a great BOSC abstract](https://youtu.be/DwJRrh1Tpew)!
+
+<a target="_new" href="https://youtu.be/DwJRrh1Tpew"><img src="/wp-content/uploads/2022/01/Screen-Shot-2022-01-19-at-3.59.31-PM.png" style="width:60%" alt="Jason Williams" /></a>
+
+</div>
+
+{{< column>}}
 
 ### Requirements
 
@@ -81,18 +88,6 @@ In addition to the requirements listed above, we consider the following when sel
 - **Novelty**: Innovative approaches are interesting to hear about, but it’s fine to build on existing technology! If you can compare your approach with existing approaches, that’s a plus.
 - **Examples**: We like abstracts with examples of how your approach works (e.g. a figure showing the output of a visualization tool, an example of software input/output, or benchmarks on relevant data).
 - **Runnable**: Although we are happy to consider abstracts that describe early-phase projects, our reviewers are likely to look at your code and try to run it. Reviewers like projects that they are able to download and run, and that are well-documented and easy to use.
-
-<div class="well">
-
-{{< columns >}}
-
-![](/wp-content/uploads/2022/01/Screen-Shot-2022-01-19-at-3.59.31-PM.png)
-
-{{< column >}}
-Watch a video of [BOSC organizing committee member Jason Williams discussing how to write a great BOSC abstract](https://youtu.be/DwJRrh1Tpew)!  
-
-{{< endcolumns >}}
-</div>
 
 ### How to Submit
 
