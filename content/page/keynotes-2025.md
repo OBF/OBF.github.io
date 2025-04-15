@@ -11,7 +11,8 @@ url: /events/bosc-2025/bosc-2025-keynotes/
 
 ### Chris Mungall (Lawrence Berkeley National Laboratory)
 
-#### _Keynote talk for [joint BOSC/BOKR session](/2025/03/17/BOSC-BOKR-2025/) (title TBA)_
+#### _Open Knowledge Bases in the Age of Generative AI_
+#### (Keynote talk for [joint BOSC/BOKR session](/2025/03/17/BOSC-BOKR-2025/))
 
 Dr. Chris Mungall is a Senior Scientist at Berkeley Lab, where he heads the [Biosystems Data Science department](https://biosciences.lbl.gov/egsb/biosystems-data-science/) in the Environmental Genomics and Systems Biology Division. Chris’s research interests center around the capture, computational integration, and dissemination of biological research data, and the development of methods for using this data to elucidate biological mechanisms underpinning the health of humans and of the planet. He and his team have led the creation of key biological ontologies for the integration of resources covering gene function, anatomy, phenotypes and the environment, including the the Uberon anatomy ontology, the Cell Ontology (CL), and the Mondo disease ontology. He is also one of the cofounders of the [OBO Foundry](https://obofoundry.org/).
 
@@ -26,7 +27,7 @@ In 2017, Chris was the first person to be awarded the [Exceptional Contributions
 
 ### Catalina Lopez-Correa (Genome Canada)
 
-#### _Talk Title TBA_
+#### _Genomics Without Borders: Toward Equitable Access for All_
 
 With more than 20 years of international experience in both the academic and private sectors, Dr. Catalina Lopez-Correa’s deep understanding of genomics and innovation has inspired leaders in science and industry to collaborate toward solving some of the world’s greatest challenges.
 
