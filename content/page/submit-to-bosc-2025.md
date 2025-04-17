@@ -14,9 +14,11 @@ bosc: yes
 
 
 {{< columns >}}
-BOSC 2025, the 26th annual Bioinformatics Open Source Conference, will take place July 21-22, 2025 in Liverpool, UK (as part of [ISMB/ECCB 2025](https://www.iscb.org/ismbeccb2025/home)). BOSC covers all aspects of open source bioinformatics and open science.
+BOSC 2025, the 26th annual Bioinformatics Open Source Conference, will take place July 21-22, 2025 in Liverpool, UK (as part of [ISMB/ECCB 2025](https://www.iscb.org/ismbeccb2025/home)).
 
-**Abstract submission is now open!** We welcome submission of your 1-2 page abstract for consideration as a talk or poster.
+**Abstract submission is now open!** We welcome submission of your 1-2 page abstract for consideration as a talk (if submitted before April 17) or poster.
+
+Missed the April 17 talk submission deadline? You can still submit your short abstract in the Late Poster round, which closes May 15.
 
 The second day of BOSC 2025 will be a joint session with the newly renamed Bio-Ontologies and Knowledge Representation COSI (BOKR). Abstracts submitted to either BOSC and BOKR that fall into the overlapping topic area will be considered for this joint session.
 
@@ -127,7 +129,7 @@ See the following websites for further information and examples of recognized Op
 
 **In-person presentation**: "For a variety of reasons, ISCB strongly prefers that scientific research accepted for oral presentation be presented in-person at the conference venue. ISCB will grant remote presentation options for reasons associated with maternity/paternity leave, care for a family member, personal/medical disability, sickness, financial hardship, or potential visa problems."
 
-**One presentation per author**: a presenting author is only allowed to present ONE talk or poster. If your project want to present both a talk and a poster, you have to do a separate poster submission with a different author.
+**Talk OR poster**: The same abstract can't be presented as both a talk and a poster.
 
 ### Presentation formats
 
