@@ -170,4 +170,4 @@ Thank your funders, mentors, collaborators, or community members.
 ---
 
 Ready to Submit?  
-Follow the pull request steps above under “✅ How to Submit Your Blog Post”
+Follow the pull request steps above under “ How to Submit Your Blog Post”
