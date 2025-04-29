@@ -27,7 +27,7 @@ Do NOT edit this template file directly. Instead, follow the steps below to subm
 
 ---
 
-## ✅ How to Submit Your Blog Post
+## How to Submit Your Blog Post
 
 ### 1. Create a GitHub Account (if needed)
 
@@ -155,7 +155,7 @@ Example:
 
 ---
 
-## 💬 Reflections
+## Reflections
 
 What did you learn? Who did you connect with? How will you promote open science in Bioinformatics?
 
