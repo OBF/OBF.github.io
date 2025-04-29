@@ -62,19 +62,21 @@ hugo server &
    http://localhost:1313/ will reload seconds later so you can instantly see the changes!
 
 
-#### Seeing images on localhost
+#### Seeing historic images on localhost
 
-At the moment (2025-03-05), historic images live in a large separate repo
-https://github.com/OBF/wp-content/ which is included as a git submodule.
-If you want to view images in the web pages on localhost:1313, you will need
+Historic images from when the website was on WordPress live in a large separate
+repo https://github.com/OBF/wp-content/ which is included as a git submodule.
+If you want to view images in the web pages on `localhost:1313`, you will need
 to also initialise this repository, which is currently setup using the 
 `git submodule` workflow. **By default the `wp-content` submodule is not cloned**
 
 To load it you can run: 
 
-* `cd OBF.github.io/`
-* `git submodule init`
-* `git submodule update`
+```
+cd OBF.github.io/
+git submodule init
+git submodule update
+```
 
 Getting the files can take a while (the `wp-content` repo is ~500 MB).
 
@@ -82,11 +84,11 @@ This may change.
 
 #### Adding new images
 
-For new images, you can place these into the `static/img` folder of this repository, ideally in a subfolder based on the four digit year.
+For new images, you can place these into the `static/img/yyyy/` folder of this repository, where `yyyy` means the four digit year as a subfolder.
 
 When compiling the website during the build, Hugo will move everything in `static/` into the website root, i.e. to `open-bio.org/`. This means that when linking images you do not have to include the `static/` as part of the media/image link. 
 
-As an example: A file that resides in `static/img/test-image.jpg` should be linked in the markdown files like this: `![an image](/img/test-image.jpg)`
+As an example: A file that resides in `static/img/2025/test-image.jpg` should be linked in the markdown files like this: `![an image](/img/2025/test-image.jpg)`
 
 It is also good practice to name media files with the date you add them/the date of the page/post you want to add them to, e.g. `static/img/2025/2025-03-04-blogpost-image.jpg` (using `yyyy-mm-dd` as the start of the filename).
 
