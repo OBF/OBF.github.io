@@ -54,7 +54,7 @@ In your forked repository:
  `YYYY-MM-DD-your-name-blog-title.md`  
  _Example:_ `2025-04-29-your-name-nfcore-nextflow-hackathon.md`
 
-4. Copy and paste all the contents of this template into the new file.
+4. View template raw, and Copy and paste all the contents of this template into the new file.
 5. Replace the placeholder text (title, author, content, image name, etc.) with your actual blog content.
 
 ---
