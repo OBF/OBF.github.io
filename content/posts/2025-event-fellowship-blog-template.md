@@ -7,7 +7,7 @@ category:
  - event-fellowship
  - travel-fellowship
 cover:
-  image: /wp-content/uploads/YYYY/your-cover-image.png
+  image: /wp-content/uploads/YYYY/YYYY-MM-DD-cover-image-name.png
   alt: "Image description for accessibility"
 
 tag:
@@ -63,12 +63,12 @@ In your forked repository:
 
 1. Navigate to the folder: `static/img/2025/`
 2. Click **"Add file" → "Upload files"**
-3. Upload your image(s) here.
+3. Upload your image(s) here using the format YYYY-MM-DD-image-name.jpg
 
 To insert images in your blog post, use the following format:
 
 ```markdown
-![Your image caption](/wp-content/uploads/YYYY/your-image-name.jpg)
+![Your image caption](/wp-content/uploads/YYYY/YYYY-MM-DD-image-name.jpg)
 ```
 
 ---
@@ -122,7 +122,7 @@ Upload your images to `static/img/2025/`
 Then use:
 
 ```markdown
-![Alt text](/wp-content/uploads/YYYY/your-photo.jpg)
+![Alt text](/wp-content/uploads/YYYY/YYYY-MM-DD-image-name.jpg)
 ```
 
 Example:
