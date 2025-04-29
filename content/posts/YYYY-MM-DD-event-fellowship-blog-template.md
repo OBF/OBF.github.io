@@ -1,6 +1,6 @@
 ---
 author: yourusername
-date: yyyy-mm-dd
+date: YYYY-MM-DD
 draft: true
 category: 
  - community
@@ -50,25 +50,25 @@ In your forked repository:
 
 1. Navigate to `content/posts/`
 2. Click **"Add file" → "Create new file"**
-3. Name your file using the format:  
+3. Name your file based on the date using the format:  
  `YYYY-MM-DD-your-name-blog-title.md`  
  _Example:_ `2025-04-29-your-name-nfcore-nextflow-hackathon.md`
 
 4. View template raw, and Copy and paste all the contents of this template into the new file.
-5. Replace the placeholder text (title, author, content, image name, etc.) with your actual blog content.
+5. Replace the placeholder text (date, title, author, content, image name, etc.) with your actual blog content.
 
 ---
 
 ### 4. Upload Your Images
 
-1. Navigate to the folder: `static/img/2025/`
+1. Navigate to the folder: `static/img/YYYY/` for the current year
 2. Click **"Add file" → "Upload files"**
 3. Upload your image(s) here using the format YYYY-MM-DD-image-name.jpg
 
-To insert images in your blog post, use the following format:
+To insert images in your blog post, use the following format (without the static prefix):
 
 ```markdown
-![Your image caption](/wp-content/uploads/YYYY/YYYY-MM-DD-image-name.jpg)
+![Your image caption](/img/YYYY/YYYY-MM-DD-image-name.jpg)
 ```
 
 ---
@@ -118,11 +118,11 @@ Describe the sessions, people, activities, or discoveries that stood out, emphas
 
 ### Add Images
 
-Upload your images to `static/img/2025/`  
-Then use:
+Upload your images to `static/img/YYYY/` for the current year.
+Then use the following without the static prefix:
 
 ```markdown
-![Alt text](/wp-content/uploads/YYYY/YYYY-MM-DD-image-name.jpg)
+![Alt text](/img/YYYY/YYYY-MM-DD-image-name.jpg)
 ```
 
 Example:
