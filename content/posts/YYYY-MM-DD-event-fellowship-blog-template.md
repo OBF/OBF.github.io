@@ -94,7 +94,7 @@ We will review your post, help with final edits, and publish it for you.
 Delete the instructions above once you are ready to submit your blog post. Feel free to structure your content as you like, but here are some suggestions to get you started.
 
 
-# Your Blog Post
+# Your Blog Post (do not inlude this line or repeat the title here)
 
 **_The_** [**_Open Bioinformatics Foundation (OBF) Event Fellowship program_**](/travel-awards) **_aims to promote diverse participation at events promoting open-source bioinformatics software development and open science practices in the biological research community. [FULL NAME],_** _**a [YOUR POSITION, e.g., MSc/PhD researcher] at**_ _**[YOUR INSTITUTION]**_, **_was awarded an OBF Event Fellowship to attend_** _**the**_ **_[EVENT NAME](EVENT URL)_**.
 
