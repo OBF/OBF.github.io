@@ -48,10 +48,10 @@ git config --global http.postBuffer 157286400
 ### Using hugo
 0. Hugo documentation: https://gohugo.io/getting-started/quick-start/
 1. [Install hugo](https://gohugo.io/installation/)
-2. Initialize hugo
+2. Initialize hugo (but not the other submodule, see below)
 ```
-git submodule init
-git submodule update
+cd OBF.github.io/
+git submodule update --init themes/beautifulhugo
 ```
 4. Run `hugo server` from the root folder of the project to launch a local server that automatically rebuilds:
 ```
@@ -68,7 +68,7 @@ Historic images from when the website was on WordPress live in a large separate
 repo https://github.com/OBF/wp-content/ which is included as a git submodule.
 If you want to view images in the web pages on `localhost:1313`, you will need
 to also initialise this repository, which is currently setup using the 
-`git submodule` workflow. **By default the `wp-content` submodule is not cloned**
+`git submodule` workflow.
 
 To load it you can run: 
 
