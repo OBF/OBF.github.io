@@ -14,9 +14,7 @@ title: "The 2025 International Statistical Genetics Workshop - a goldmine of ope
 url: /2025/04/30/2025-04-30-Kyra-Feuer-2025-International-Statistical-Genetics-Workshop/
 ---
 
-# The 2025 International Statistical Genetics Workshop - a goldmine of open-source genetic analysis tools and tutorials
-
-Thanks to the Event Fellowship from Open Bioinformatics Foundation (OBF), I was privileged to attend the 2025 International Statistical Genetics Workshop (ISG). ISG is an intensive, week-long workshop held annually in Boulder, Colorado that provides hands-on training in the principles and application of over a dozen open-access bioinformatics tools for analysis of genomic data. This workshop has been running since 1987 and boasts a faculty of world-renowned experts in statistical genetics from around the globe. The curriculum switches annually between family-based and population-based genetic studies. The focus this year was on the theory, performance, and interpretation of genome-wide association studies (GWAS) and their downstream analyses.
+Thanks to the Event Fellowship from Open Bioinformatics Foundation (OBF), I was privileged to attend the [2025 International Statistical Genetics Workshop (ISG)](https://www.colorado.edu/ibg/workshop-2025). ISG is an intensive, week-long workshop held annually in Boulder, Colorado that provides hands-on training in the principles and application of over a dozen open-access bioinformatics tools for analysis of genomic data. This workshop has been running since 1987 and boasts a faculty of world-renowned experts in statistical genetics from around the globe. The curriculum switches annually between family-based and population-based genetic studies. The focus this year was on the theory, performance, and interpretation of genome-wide association studies (GWAS) and their downstream analyses.
 
 ![Images of the workshop welcome sign and the room in which the workshop took place](/img/2025/2025-04-30-Kyra-Feuer-01.jpg)
 *The workshop was a combination of lectures and collaborative hands-on practicals*
