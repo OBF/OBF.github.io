@@ -1,7 +1,6 @@
 ---
 author: Kyra-Feuer
 date: 2025-04-30
-draft: true
 category: 
  - community
  - event-fellowship
