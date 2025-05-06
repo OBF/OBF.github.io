@@ -23,20 +23,8 @@ In 2017, Chris was the first person to be awarded the [Exceptional Contributions
 
 <br/>
 
-<img src="/img/2025/catalina-headshot.png" alt ="Dr. Catalina Lopez-Correa" style="width:55%"/>
+### (Second keynote speaker TBA)
 
-### Catalina Lopez-Correa (Genome Canada)
-
-#### _Genomics Without Borders: Toward Equitable Access for All_
-
-With more than 20 years of international experience in both the academic and private sectors, Dr. Catalina Lopez-Correa’s deep understanding of genomics and innovation has inspired leaders in science and industry to collaborate toward solving some of the world’s greatest challenges.
-
-Dr. Lopez-Correa holds an M.D. from the Universidad Pontificia Bolivariana in Colombia and a PhD in Medical Biosciences from the KULeuven in Belgium. Before becoming the Chief Scientific Officer of [Genome Canada](https://genomecanada.ca/) in 2021, she served as Executive Director and CSO of the [Canadian COVID-19 Genomics Network (CanCOGeN)](https://genomecanada.ca/challenge-areas/cancogen). Before that, she was COO at Ruta N Medellín, where she coordinated the operations of a world-class innovation hub that uses cutting edge technologies and approaches to solve the most pressing social and economic challenges of Medellín, Colombia.
-
-Before becoming one of Canada’s leading advocates for genomics, Dr. Lopez-Correa held senior research positions with pharmaceutical giant Eli Lilly in the US, the deCODE genetics lab in Iceland, and two biotech companies in the UK (Genomica and Informax).
-As part of her commitment to international development, Dr. Lopez-Correa has championed several initiatives aimed at demonstrating the impact of genomics and innovation in developing countries and is the founder of Global Gene, a genomics awareness initiative for the Global South. She is committed to advancing equity, diversity and inclusion, with a particular interest in gender equity in science that led her to be a co-founder of the IWS Network (International and Immigrant Women in Science).
-
-In 2017 Dr. Lopez-Correa received the Canadian Senate 150th Anniversary Medal. In 2013 she was recognized by Colombia's National Order of Merit Award in the Rank of Officer.
 
 <br/>
 
