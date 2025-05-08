@@ -23,8 +23,18 @@ In 2017, Chris was the first person to be awarded the [Exceptional Contributions
 
 <br/>
 
-### (Second keynote speaker TBA)
+<img src="/img/2025/2025-05-08-P30626-Christine-Orengo.jpg" alt ="Christine Orengo" style="width:50%"/>
 
+### Christine Orengo (University College London)
+
+#### (Title TBA)
+
+Dr. Christine Orengo is a Professor of Bioinformatics at University College London (UCL).
+Her research focuses on the development of algorithms to capture relationships between protein structures, sequences and functions.
+She has built one of the most comprehensive protein classifications, CATH. CATH structural and functional data for hundreds of millions of proteins has enabled studies that revealed essential universal proteins and their biological roles, and extended characterisation of biological systems implicated in disease e.g. in cell division, cancer and aging.
+Dr. Orengo is known for her support of FAIR and open data and data sharing practices.
+
+Dr. Orengo is a Vice President of the International Society of Computational Biology (ISCB) and was previously the ISCB's first female President. She is a Fellow of the Royal Society of Biology and Elected member of EMBO since 2014, and a Fellow of ISCB since 2016. 
 
 <br/>
 
