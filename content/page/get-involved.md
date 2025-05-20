@@ -27,7 +27,7 @@ The OBF community has a number of different online spaces that are open to every
 
 ## Come to our in-person and virtual events
 
-We organize an annual conference, the [_Bioinformatics Open Source Conference_](https://www.open-bio.org/events/bosc) (BOSC) and the associated _Collaboration Fest_ (e.g., see the [2025 event](https://www.open-bio.org/events/bosc-2025/ismb-collaborationfest-2025/)).
+We organize an annual conference, the [_Bioinformatics Open Source Conference_](https://www.open-bio.org/events/bosc) (BOSC) and the associated [_Collaboration Fest_](/events/bosc/collaborationfest/).
 These events are a great way to meet others engaged in open source/science around biology.
 BOSC features talks, posters and panel discussions on the latest research in open bioinformatics, while 
 Collaboration Fest offers the chance to work together with others on improving open bioinformatics tools, by coding but also writing documentation and other non-coding tasks.
