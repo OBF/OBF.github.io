@@ -14,20 +14,20 @@ aliases:
 # Join the OBF community
 
 The OBF invites anyone who is involved or plans to become involved in promoting open source and/or open science in a biological field to join its community.
-There are many ways you can become part of our growing community, regardless of your career state, experience with open source/science.
+There are many ways you can become part of our growing community, regardless of your career stage and experience with open source and open science.
 
 ## Join our online spaces
 
 The OBF community has a number of different online spaces that are open to everyone and can be used to network and discuss anything related to open bioinformatics. You can:
 
-* [Subscribe to our regular OBF newsletter](https://mailman.open-bio.org/mailman/listinfo/open-bio-l/) (and if you have news to share, you can [also suggest topics](https://github.com/OBF/newsletter/issues).
+* [Subscribe to our OBF newsletter](https://mailman.open-bio.org/mailman/listinfo/open-bio-l/) (and if you have news to share, you can [also suggest topics](https://github.com/OBF/newsletter/issues).
 * You can [join our community _Slack_](https://join.slack.com/t/open-bio/shared_invite/zt-1pnswao9y-8igcckVxBXhQHCMweHt_NA), where you will find fellow open bioinformatics folks to chat with.
 * We also have an open [_LinkedIn_ group](https://www.linkedin.com/groups/9539620/), where one can get in touch with folks, find interesting job opportunities and more.
 * Last but not least, we also have active presences on social media, on both [BlueSky](https://bsky.app/profile/openbio.bsky.social) and [Mastodon](https://genomic.social/@openbio).
 
 ## Come to our in-person and virtual events
 
-We organize an annual conference, the [_Bioinformatics Open Source Conference_](https://www.open-bio.org/events/bosc) (BOSC) and the associated [_Collaboration Fest_](https://www.open-bio.org/events/bosc-2025/ismb-collaborationfest-2025/).
+We organize an annual conference, the [_Bioinformatics Open Source Conference_](https://www.open-bio.org/events/bosc) (BOSC) and the associated _Collaboration Fest_ (e.g., see the [2025 event](https://www.open-bio.org/events/bosc-2025/ismb-collaborationfest-2025/)).
 These events are a great way to meet others engaged in open source/science around biology.
 BOSC features talks, posters and panel discussions on the latest research in open bioinformatics, while 
 Collaboration Fest offers the chance to work together with others on improving open bioinformatics tools, by coding but also writing documentation and other non-coding tasks.
@@ -35,7 +35,7 @@ Collaboration Fest offers the chance to work together with others on improving o
 
 # Applying to become a voting member of OBF
 
-You can also apply to become a voting member of the Open Bioinformatics Foundation, which allows voting on larger OBF issues. 
+You can also apply to become a voting member of the Open Bioinformatics Foundation, which allows voting on larger OBF issues, including changes to the OBF's governing document, the [bylaws](https://github.com/OBF/obf-docs/blob/master/OBF%20Bylaws.pdf). 
 To be considered as a voting member, you must already be actively and demonstrably engaged in open bioinformatics work in some form.
 Examples of such engagement could include contributing to existing open bioinformatics projects, publishing in the field, or attending open source bioinformatics conferences such as BOSC.
 The reason for this requirement is that we expect voting members to have a long-term engagement with both the field and the OBF itself.
