@@ -1,5 +1,5 @@
 ---
-author: kushinauwu
+author: The OBF
 cover:
   alt: obf_membership
   image: /wp-content/uploads/2019/02/obf_membership.jpg
