@@ -13,7 +13,7 @@ aliases:
 ---
 # Join the OBF community
 
-The OBF is a community that invites anyone who is involved in or plans to become involved in promoting open source or open science in a biological field to get involved.
+The OBF invites anyone who is involved or plans to become involved in promoting open source and/or open science in a biological field to join its community.
 There are many ways you can become part of our growing community, regardless of your career state, experience with open source/science.
 
 ## Join our online spaces
