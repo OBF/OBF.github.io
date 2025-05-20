@@ -1,6 +1,6 @@
 ---
 author: yourusername
-date: YYYY-MM-DD
+date: 2025-05-20 # format is YYYY-MM-DD
 draft: true
 category: 
  - community
