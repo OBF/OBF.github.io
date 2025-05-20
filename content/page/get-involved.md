@@ -38,7 +38,7 @@ Collaboration Fest offers the chance to work together with others on improving o
 You can also apply to become a voting member of the Open Bioinformatics Foundation, which allows voting on larger OBF issues. 
 To be considered as a voting member, you must already be actively and demonstrably engaged in open bioinformatics work in some form.
 Examples of such engagement could include contributing to existing open bioinformatics projects, publishing in the field, or attending open source bioinformatics conferences such as BOSC.
-The reason for this requirement is that we expect members to have a long-term engagement with both the field and the OBF itself.
+The reason for this requirement is that we expect voting members to have a long-term engagement with both the field and the OBF itself.
 The OBF requires a quorum for voting, so we want OBF members to remain actively involved.
 
 The best time and place to join is at the annual [BOSC](/events/bosc/) conference, because attendees are automatically deemed eligible based on the fact that they attended BOSC, but you can apply for membership at any time. 
