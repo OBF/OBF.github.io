@@ -61,9 +61,9 @@ menu:
       url: 'about'
       parent: 'about'
       weight: 1
-    - name: 'Membership'
+    - name: 'Get Involved'
       parent: 'about'
-      url: 'membership'
+      url: 'get-involved'
     - name: 'Diversity, Equity & Inclusion'
       parent: 'about' 
       url: '/obf-dei/'
