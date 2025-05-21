@@ -27,7 +27,7 @@ The OBF community has a number of different online spaces that are open to every
 
 ## Come to our in-person and virtual events
 
-We organize an annual conference, the [_Bioinformatics Open Source Conference_](https://www.open-bio.org/events/bosc) (BOSC) and the associated [_Collaboration Fest_](/events/bosc/collaborationfest/).
+We organize an annual conference, the [_Bioinformatics Open Source Conference_](/events/bosc) (BOSC) and the associated [_Collaboration Fest_](/events/bosc/collaborationfest/).
 These events are a great way to meet others engaged in open source/science around biology.
 BOSC features talks, posters and panel discussions on the latest research in open bioinformatics, while 
 Collaboration Fest offers the chance to work together with others on improving open bioinformatics tools, by coding but also writing documentation and other non-coding tasks.
@@ -47,7 +47,7 @@ The best time and place to join is at the annual [BOSC](/events/bosc/) conferenc
 
 ## History and Bylaws
 
-The OBF membership body was formally established at the 2005 Board of Directors meeting. As laid out in the [OBF Bylaws](https://github.com/OBF/obf-docs/blob/master/OBF%20Bylaws.md), the Board of Directors  elects new Directors when terms expire or new seats are added. The membership of the OBF can nominate candidates for these elections. 
+The OBF membership body was formally established at the 2005 Board of Directors meeting. As laid out in the [OBF Bylaws](https://github.com/OBF/obf-docs/blob/master/OBF%20Bylaws.md), the Board of Directors elects new Directors when terms expire or new seats are added. The membership of the OBF can nominate candidates for these elections. 
 
 Voting members are invited to attend the annual public Board meetings, which are announced via the (low-traffic) OBF members mailing list, as well as on our blog and via our social media channels.
 
