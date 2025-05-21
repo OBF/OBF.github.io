@@ -47,7 +47,7 @@ The best time and place to join is at the annual [BOSC](/events/bosc/) conferenc
 
 ## History and Bylaws
 
-The OBF membership body was formally established at the 2005 Board of Directors meeting. As laid out in the [OBF Bylaws](https://github.com/OBF/obf-docs/blob/master/OBF%20Bylaws.md), officers in the Board of Directors will be elected from the nominees by the membership, and candidates for future Directors will be nominated from the membership when seats are added or a term expires.
+The OBF membership body was formally established at the 2005 Board of Directors meeting. As laid out in the [OBF Bylaws](https://github.com/OBF/obf-docs/blob/master/OBF%20Bylaws.md), the Board of Directors  elects new Directors when terms expire or new seats are added. The membership of the OBF can nominate candidates for these elections. 
 
 Voting members are invited to attend the annual public Board meetings, which are announced via the (low-traffic) OBF members mailing list, as well as on our blog and via our social media channels.
 
