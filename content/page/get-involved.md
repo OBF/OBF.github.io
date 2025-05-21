@@ -13,7 +13,7 @@ aliases:
 ---
 # Join the OBF community
 
-The OBF invites anyone who is involved or plans to become involved in promoting open source and/or open science in a biological field to join its community.
+The OBF welcomes anyone who is involved or plans to become involved in promoting [open source](https://opensource.org/osd) [open science](https://plos.org/open-science/) or both in a biological field to join its community.
 There are many ways you can become part of our growing community, regardless of your career stage and experience with open source and open science.
 
 ## Join our online spaces
@@ -37,7 +37,7 @@ Collaboration Fest offers the chance to work together with others on improving o
 # Applying to become a voting member of OBF
 
 You can also apply to become a voting member of the Open Bioinformatics Foundation, which allows voting on larger OBF issues, including changes to the OBF's governing document, the [bylaws](https://github.com/OBF/obf-docs/blob/master/OBF%20Bylaws.pdf). 
-To be considered as a voting member, you must already be actively and demonstrably engaged in open bioinformatics work in some form.
+To be considered as a voting member, you must already be actively and demonstrably engaged in biology-related open science or open source in some form.
 Examples of such engagement could include contributing to existing open bioinformatics projects, publishing in the field, or attending open source bioinformatics conferences such as BOSC.
 The reason for this requirement is that we expect voting members to have a long-term engagement with both the field and the OBF itself.
 The OBF requires a quorum for voting, so we want OBF members to remain actively involved.
