@@ -60,6 +60,7 @@ menu:
     - name: 'About OBF'
       url: 'about'
       parent: 'about'
+      weight: 1
     - name: 'Get Involved'
       parent: 'about'
       url: 'get-involved'
@@ -72,6 +73,11 @@ menu:
     - name: 'Board'
       parent: 'about'
       url: 'board'
+      weight: 2
+    - name: 'Projects'
+      parent: 'about'
+      url: '/projects'
+      weight: 3
     - name: 'BOSC'
       identifier: 'bosc'
       weight: 2
