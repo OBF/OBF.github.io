@@ -13,26 +13,28 @@ aliases:
 ---
 # Join the OBF community
 
-The OBF welcomes anyone who is involved or plans to become involved in promoting [open source](https://opensource.org/osd) [open science](https://plos.org/open-science/) or both in a biological field to join its community.
+The OBF welcomes anyone who is involved or plans to become involved in
+biology-related [open source](https://opensource.org/osd) or [open science](https://plos.org/open-science/)
+join our community.
 There are many ways you can become part of our growing community, regardless of your career stage and experience with open source and open science.
 
 ## Join our online spaces
 
 The OBF community has a number of different online spaces that are open to everyone and can be used to network and discuss anything related to open bioinformatics. You can:
 
+* Follow our [blog](https://www.open-bio.org/posts/)
 * [Subscribe to our OBF newsletter](https://mailman.open-bio.org/mailman/listinfo/open-bio-l/) (and if you have news to share, you can [also suggest topics](https://github.com/OBF/newsletter/issues).
-* You can [join our community _Slack_](https://join.slack.com/t/open-bio/shared_invite/zt-1pnswao9y-8igcckVxBXhQHCMweHt_NA), where you will find fellow open bioinformatics folks to chat with.
-* We also have an open [_LinkedIn_ group](https://www.linkedin.com/groups/9539620/), where one can get in touch with folks, find interesting job opportunities and more.
-* We also have active presences on social media, on both [BlueSky](https://bsky.app/profile/openbio.bsky.social) and [Mastodon](https://genomic.social/@openbio).
+* [Join our community _Slack_](https://join.slack.com/t/open-bio/shared_invite/zt-1pnswao9y-8igcckVxBXhQHCMweHt_NA), where you will find fellow open bioinformatics folks to chat with.
+* We also have an open [_LinkedIn_ group](https://www.linkedin.com/groups/9539620/), where you can hear about open bioinformatics events, job opportunities and more.
+* We also have active presences on social media, including [BlueSky](https://bsky.app/profile/openbio.bsky.social) and [Mastodon](https://genomic.social/@openbio).
 * Last but not least, our [member projects](/projects) like BioPython also have their own communication channels.
 
 ## Come to our in-person and virtual events
 
-We organize an annual conference, the [_Bioinformatics Open Source Conference_](/events/bosc) (BOSC) and the associated [_Collaboration Fest_](/events/bosc/collaborationfest/).
+We organize an annual conference, the [_Bioinformatics Open Source Conference_](/events/bosc) (BOSC), and the associated [_CollaborationFest_](/events/bosc/collaborationfest/).
 These events are a great way to meet others engaged in open source/science around biology.
 BOSC features talks, posters and panel discussions on the latest research in open bioinformatics, while 
-Collaboration Fest offers the chance to work together with others on improving open bioinformatics tools, by coding but also writing documentation and other non-coding tasks.
-
+CollaborationFest offers the chance to work together with others on improving open bioinformatics tools, by coding but also writing documentation and other non-coding tasks.
 
 # Applying to become a voting member of OBF
 
