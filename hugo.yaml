@@ -89,9 +89,9 @@ menu:
       parent: 'bosc'
       url: 'events/bosc-2025/submit/'
       weight: 2
-    - name: 'Schedule (2024)'
+    - name: 'Schedule'
       parent: 'bosc'
-      url: 'events/bosc-2024/bosc-2024-schedule/'
+      url: 'events/bosc-2025/bosc-2025-schedule/'
       weight: 3
     - name: 'Keynotes'
       weight: 4 
