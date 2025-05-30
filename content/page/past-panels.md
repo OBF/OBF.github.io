@@ -2,11 +2,11 @@
 author: kushinauwu
 date: "2019-02-08T16:50:23+00:00"
 guid: https://www.open-bio.org/wp/?page_id=2716
-title: Panel
+title: Past BOSC panels
 url: /events/bosc-2020/panel/
 
 ---
-For the past several years, BOSC has included a panel discussion that offers attendees the chance to engage in conversation with the panelists and each other. Past panel topics have included:
+BOSC typically includes a panel discussion that offers attendees the chance to engage in conversation with the panelists and each other. Past panel topics have included:
 
 - 2018: Training and documentation in bioinformatics
 - 2017: Open Data: Standards, Opportunities and Challenges
