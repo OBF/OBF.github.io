@@ -37,7 +37,7 @@ Working together to develop, promote and protect our data resources: Lessons lea
 
 ## Schedule of talks
 <div style="position: relative; padding-top: 90%;">
-  <iframe style="position: absolute; top: 0; left: 0; width:95%; height: 100%" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTzyut-NfEtyeZ6jVgRJbi1ug8uua_OH7eXmZLUXeM7pJBxoEcu0mCMo6DevvFeHTx1mMCN3Zc93xSn/pubhtml?gid=1729310258&amp;single=true&amp;widget=true&amp;headers=false" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+  <iframe style="position: absolute; top: 0; left: 0; width:110%; height:100%" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTzyut-NfEtyeZ6jVgRJbi1ug8uua_OH7eXmZLUXeM7pJBxoEcu0mCMo6DevvFeHTx1mMCN3Zc93xSn/pubhtml?gid=1729310258&amp;single=true&amp;widget=true&amp;headers=false" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
 </div>
 
 ## Poster list coming soon!
