@@ -50,6 +50,19 @@ His research centers around the capture, computational integration, and dissemin
 
 {{< endcolumns >}}
 
+### Varsha Khodiyar
+
+{{< columns >}}
+
+Over the past two decades, Dr. Varsha Khodiyar, PhD, has shaped many of the data curation, open science and data sharing practices now commonly adopted by research institutes, scientific publishers and beyond. Varsha contributed to the development of the Nature Research Academies international workshops on research data sharing and management.
+As a Scientific Advisory Committee member for the Global Biodata Coalition (GBC), and as Executive Advisor for FAIRsharing.org, Varsha provides governance input to these important components of the international data repository infrastructure. 
+
+{{< column >}}
+
+<img src="/img/2025/2025-06-02_Varsha-Khodiyar.png" alt ="Varsha Khodiyar" style="width:90%"/>
+
+{{< endcolumns >}}
+
 ### *** Additional panelists will be announced soon! ***
 
 ### MODERATOR: Monica Munoz-Torres
