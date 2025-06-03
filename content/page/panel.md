@@ -56,7 +56,7 @@ For decades, he has been a strong advocate for open-source bioinformatics softwa
 {{< columns >}}
 
 Over the past two decades, Dr. Varsha Khodiyar, PhD, has shaped many of the data curation, open science and data sharing practices now commonly adopted by research institutes, scientific publishers and beyond.
-After receiving her PhD in Molecular Biology from the University of Leicester, Dr. Khodiyar began her data curation career working on the Human Genome Project (HGP) as part of the Human Gene Nomenclature Committee, and then worked on Gene Ontology annotation at University College London (UCL).
+After receiving her PhD in Molecular Biology from the University of Leicester, Dr. Khodiyar began her data curation career working on the Human Genome Project (HGP) as part of the Human Gene Nomenclature Committee, and then worked on Gene Ontology annotation.
 She contributed to the development of the [Nature Research Academies international workshops on research data sharing and management](https://masterclasses.nature.com/online-course-in-managing-data/18365540).
 As a Scientific Advisory Committee member for the [Global Biodata Coalition (GBC)](https://globalbiodata.org/), and as Executive Advisor for FAIRsharing.org, Dr. Khodiyar provides governance input to these important components of the international data repository infrastructure. 
 
