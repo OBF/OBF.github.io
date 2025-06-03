@@ -42,7 +42,8 @@ She has worked since 2001 in the areas of data interoperability and reproducibil
 {{< columns >}}
 
 Dr. Chris Mungall, a Senior Scientist at Berkeley Lab, has led the creation of key biological ontologies for the integration of resources covering gene function, anatomy, phenotypes and the environment, including the Gene Ontology, the Uberon anatomy ontology, the Cell Ontology (CL), and the Mondo disease ontology.
-His research centers around the capture, computational integration, and dissemination of biological research data, and the development of methods for using this data to elucidate biological mechanisms underpinning the health of humans and of the planet.  For decades, he has been a strong advocate for open-source bioinformatics software, open standards, and open science.
+His research centers around the capture, computational integration, and dissemination of biological research data, and the development of methods for using this data to elucidate biological mechanisms underpinning the health of humans and of the planet.
+For decades, he has been a strong advocate for open-source bioinformatics software, open standards, and open science.
 
 {{< column >}}
 
@@ -54,12 +55,14 @@ His research centers around the capture, computational integration, and dissemin
 
 {{< columns >}}
 
-Over the past two decades, Dr. Varsha Khodiyar, PhD, has shaped many of the data curation, open science and data sharing practices now commonly adopted by research institutes, scientific publishers and beyond. Varsha contributed to the development of the Nature Research Academies international workshops on research data sharing and management.
-As a Scientific Advisory Committee member for the Global Biodata Coalition (GBC), and as Executive Advisor for FAIRsharing.org, Varsha provides governance input to these important components of the international data repository infrastructure. 
+Over the past two decades, Dr. Varsha Khodiyar, PhD, has shaped many of the data curation, open science and data sharing practices now commonly adopted by research institutes, scientific publishers and beyond.
+After receiving her PhD in Molecular Biology from the University of Leicester, Dr. Khodiyar began her data curation career working on the Human Genome Project (HGP) as part of the Human Gene Nomenclature Committee, and then worked on Gene Ontology annotation at University College London (UCL).
+She contributed to the development of the [Nature Research Academies international workshops on research data sharing and management](https://masterclasses.nature.com/online-course-in-managing-data/18365540).
+As a Scientific Advisory Committee member for the [Global Biodata Coalition (GBC)](https://globalbiodata.org/), and as Executive Advisor for FAIRsharing.org, Dr. Khodiyar provides governance input to these important components of the international data repository infrastructure. 
 
 {{< column >}}
 
-<img src="/img/2025/2025-06-02_Varsha-Khodiyar.png" alt ="Varsha Khodiyar" style="width:90%"/>
+<img src="/img/2025/2025-06-02_Varsha-Khodiyar.png" alt ="Varsha Khodiyar" style="width:85%"/>
 
 {{< endcolumns >}}
 
@@ -69,7 +72,9 @@ As a Scientific Advisory Committee member for the Global Biodata Coalition (GBC)
 
 {{< columns >}}
 
-Dr. Munoz-Torres is an Associate Professor at the University of Colorado Anschutz Medical Campus. She leads the Standards Team and is the Co-chair of the Steering Committee for the NIH-funded Bridge to Artificial Intelligence (Bridge2AI) Program. She is also Co-Lead of the Clinical & Phenotypic Data Capture Work Stream of the Global Alliance for Genomics and Health (GA4GH). Dr. Munoz-Torres's expertise spans genomics, biocuration, knowledge representation, and data harmonization, and the development of software tools and standards to advance these fields.
+Dr. Munoz-Torres is an Associate Professor at the University of Colorado Anschutz Medical Campus. She leads the Standards Team and is the Co-chair of the Steering Committee for the NIH-funded Bridge to Artificial Intelligence (Bridge2AI) Program.
+She is also Co-Lead of the Clinical & Phenotypic Data Capture Work Stream of the Global Alliance for Genomics and Health (GA4GH).
+Dr. Munoz-Torres's expertise spans genomics, biocuration, knowledge representation, and data harmonization, as well as the development of software tools and standards to advance these fields.
 
 {{< column >}}
 
