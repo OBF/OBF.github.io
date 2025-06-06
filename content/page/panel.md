@@ -60,7 +60,7 @@ She currently serves on the Scientific Advisory Committee of the [Global Biodata
 
 {{< column >}}
 
-<img src="/img/2025/2025-06-02_Varsha-Khodiyar.png" alt ="Varsha Khodiyar" style="width:85%"/>
+<img src="/img/2025/2025-06-06_Varsha-Khodiyar.png" alt ="Varsha Khodiyar" style="width:90%"/>
 
 {{< endcolumns >}}
 
