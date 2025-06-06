@@ -54,7 +54,8 @@ For decades, he has been a strong advocate for open-source bioinformatics softwa
 ### Varsha Khodiyar
 
 {{< columns >}}
-Dr. Varsha Khodiyar is a recognised leader in data curation and open science, with over 25 years shaping best practices in data sharing. Her contributions span from her early roles with the Human Gene Nomenclature Committee and the Gene Ontology project to leading initiatives as Data Curation Manager at Springer Nature, including the [Nature Research Academies on data management](https://masterclasses.nature.com/online-course-in-managing-data/18365540). She currently serves on the Scientific Advisory Committee of the [Global Biodata Coalition (GBC)](https://globalbiodata.org/) and as Executive Advisor to [FAIRsharing.org](https://fairsharing.org/), providing governance to these important components of the international data repository infrastructure.
+Dr. Varsha Khodiyar is a recognised leader in data curation and open science, with over 25 years shaping best practices in data sharing. Her contributions span from her early roles with the Human Gene Nomenclature Committee and the Gene Ontology project to leading initiatives as Data Curation Manager at Springer Nature, including the [Nature Research Academies on data management](https://masterclasses.nature.com/online-course-in-managing-data/18365540).
+She currently serves on the Scientific Advisory Committee of the [Global Biodata Coalition (GBC)](https://globalbiodata.org/) and as Executive Advisor to [FAIRsharing.org](https://fairsharing.org/), providing governance to these important components of the international data repository infrastructure.
 
 {{< column >}}
 
