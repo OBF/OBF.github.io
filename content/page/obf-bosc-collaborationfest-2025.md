@@ -35,6 +35,12 @@ Limited remote participation will be possible, but engagement opportunities will
 
 {{< endcolumns >}}
 
+### CollaborationFest News and Activities
+
+As we get closer to ISMB/ECCB 2025 and the CollaborationFest, we will add relevant news and activities here. Note that some of
+these activities are on dynamically updated Github pages, and will only be fully ready "the day of", or shortly before.
+
+
 ### Code of Conduct
 
 As part of ISMB/ECCB 2025, CollaborationFest 2025 is covered by the [ISCB Code of Ethics and Professional Conduct](https://www.iscb.org/iscb-policy-statements/iscb-code-of-ethics-and-professional-conduct).
