@@ -23,20 +23,6 @@ We will discuss practical strategies and address pressing questions on the topic
 
 # Panelists
 
-### Susanna-Assunta Sansone
-
-{{<columns >}}
-
-At the University of Oxford, Professor Susanna-Assunta Sansone holds three roles: Academic Lead for Research Practice, Professor of Data Readiness in the Department of Engineering Science, and Director of the Oxford e-Research Centre, where she leads the Data Readiness Group to develop open-source software, community standards, and educational resources, enhancing collection, representation, sharing, publication, and reuse of multi-dimensional data.
-She has worked since 2001 in the areas of data interoperability and reproducibility, research integrity, and the evolution of scholarly publishing. her team of data engineers researches and develops new methods and tools to make digital research objects (including data, software, model and workflows) FAIR.
-
-{{< column >}}
-
-<img src="/img/2025/2025-06-01_Susanna-Sansone.png" alt ="Susanna-Assunta Sansone" style="width:95%"/>
-
-
-{{< endcolumns >}}
-
 ### Chris Mungall
 
 {{< columns >}}
