@@ -16,11 +16,7 @@ bosc: yes
 {{< columns >}}
 BOSC 2025, the 26th annual Bioinformatics Open Source Conference, will take place July 21-22, 2025 in Liverpool, UK (as part of [ISMB/ECCB 2025](https://www.iscb.org/ismbeccb2025/home)).
 
-**Abstract submission is now open!** We welcome submission of your 1-2 page abstract for consideration as a talk (if submitted before April 17) or poster.
-
-Missed the April 17 talk submission deadline? You can still submit your short abstract in the Late Poster round, which closes May 15.
-
-The second day of BOSC 2025 will be a joint session with the newly renamed Bio-Ontologies and Knowledge Representation COSI (BOKR). Abstracts submitted to either BOSC and BOKR that fall into the overlapping topic area will be considered for this joint session.
+SUBMISSION IS NOW CLOSED. The full lineup of talks for 2025 is available on our [Schedule page](/events/bosc-2025/bosc-2025-schedule/).
 
 Please see below for submission instructions.
 
@@ -46,7 +42,6 @@ Please see below for submission instructions.
 - July 23-24: ISMB CollaborationFest
 
 </div>
-
 
 
 # Submission guidelines
@@ -104,10 +99,6 @@ In addition to the requirements listed above, we consider the following when sel
 - Abstract template for formatting your PDF (optional): [bosc-abstract-template](/wp-content/uploads/2022/04/bosc2022-abstract-template.docx) (MS Word)
 - You don't need to register before you submit your abstract, but to present your talk or poster you will need to register for ISMB.
 
-<center>
-<a href="https://easychair.org/conferences/?conf=ismbeccb2025" class="btn btn-lg btn-primary">Submit Abstract</a>
-</center>
-
 ## BOSC Open Content Requirement
 
 The [Open Bioinformatics Foundation](/), which coordinates BOSC, is dedicated to promoting the practice and philosophy of Open Source Software Development and Open Science within the biological research community.
@@ -154,7 +145,3 @@ We realize that the cost of ISMB may be prohibitive for some. If you are submitt
 
 {{< endcolumns >}}
 </div>
-
-<center>
-<a href="https://easychair.org/conferences/?conf=ismbeccb2025" class="btn btn-lg btn-primary">Submit Abstract</a></center>
-
