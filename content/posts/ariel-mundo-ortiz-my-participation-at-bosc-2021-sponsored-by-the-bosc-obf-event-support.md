@@ -4,6 +4,7 @@ category:
   - bosc
   - community
   - event-fellowship
+  - travel-fellowship
 date: "2021-09-08T02:43:46+00:00"
 guid: https://www.open-bio.org/?p=5841
 tag:

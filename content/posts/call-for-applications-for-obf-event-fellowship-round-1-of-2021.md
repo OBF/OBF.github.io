@@ -3,6 +3,7 @@ author: malvikasharan
 category:
   - bosc
   - event-fellowship
+  - travel-fellowship
   - events
 cover:
   alt: Call for application is open

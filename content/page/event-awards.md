@@ -93,7 +93,7 @@ We expect that your participation in the event will
 - promote open source software development and/or open science in the biological research community
 - promote diversity in this community.
 
-Awardees are required to write a [post on the OBF blog](/category/travel-fellowship/) about their experience attending the event. This should be completed within three weeks after the event ends, and is a prerequisite before the awardee can receive payment.
+Awardees are required to write a [post on the OBF blog](/category/event-fellowship/) about their experience attending the event. This should be completed within three weeks after the event ends, and is a prerequisite before the awardee can receive payment.
 
 # Applications
 

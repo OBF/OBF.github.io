@@ -4,6 +4,7 @@ category:
   - bosc
   - community
   - event-fellowship
+  - travel-fellowship
 cover:
   alt: 2021-sponsors-horiz
   image: /wp-content/uploads/2021/06/2021-sponsors-horiz.png
