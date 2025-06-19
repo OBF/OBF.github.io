@@ -40,14 +40,14 @@ Limited remote participation will be possible, but engagement opportunities will
 As we get closer to ISMB/ECCB 2025 and the CollaborationFest, we will add relevant news and activities here. Note that some of
 these activities are on dynamically updated Github pages, and will only be fully ready "the day of", or shortly before.
 
-#### Genomic Safe Harbor Sites in Zebrafish
+#### 1. Genomic Safe Harbor Sites in Zebrafish
 
 This challenge invites participants to identify potential genomic safe harbor (GSH) sites in the zebrafish genome using an
 integrative omics approach.
 
 https://github.com/parnaljoshi/gsh-zebrafish-hackathon
 
-#### How much funding per protein?
+#### 2. How much funding per protein?
 
 Quantifying the financial investment in specific areas of biomedical research is challenging. While NIH funding is extensive,
 directly attributing grant dollars to individual proteins studied is non-trivial. Approximating the dollar amount of funding
