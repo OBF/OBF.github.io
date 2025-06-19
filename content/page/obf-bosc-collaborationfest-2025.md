@@ -54,9 +54,12 @@ directly attributing grant dollars to individual proteins studied is non-trivial
 allocated to the proteins help us to:
 
     + Assess funding distribution across different biological targets.
-    + Identify potentially under-funded or over-concentrated areas of protein research.
-    + Track the financial trajectory of research on specific proteins over time.
-    + Provide researchers and funding agencies with data about financial resource allocation at the protein level.
+    + Identify potentially under-funded or over-concentrated areas of protein
+      research.
+    + Track the financial trajectory of research on specific proteins over
+      time.
+    + Provide researchers and funding agencies with data about financial
+      resource allocation at the protein level.
 
 
 https://github.com/anphan0828/funding-per-protein-hackathon
