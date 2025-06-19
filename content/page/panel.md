@@ -18,22 +18,38 @@ Enabling data to be efficiently preserved, shared, and reused accelerates discov
 In a challenging funding landscape where critical biomedical datasets can be at risk of being deprioritized, censored, or lost, the need to champion sustainable data practices is paramount.
 Lost or inaccessible data represents a setback to scientific advancement, leading to wasted resources and the costly repetition of already completed research and analyses.
 
-This panel will bring together a variety of perspectives to explore the various challenges and possible solutions for achieving data sustainability.
+This panel will bring together a variety of perspectives to explore the challenges and possible solutions for achieving data sustainability.
 We will discuss practical strategies and address pressing questions on the topics of FAIR and CARE principles in action (and their limitations for sustainability), sustainable funding and infrastructure models, the role of open source and open science in long-term sustainability, data lifecycle management and stewardship, technical and scalability challenges, and ethical considerations.
 
 # Panelists
 
-### Chris Mungall
+### Tony Burdett
 
 {{< columns >}}
 
-Dr. Chris Mungall, a Senior Scientist at Berkeley Lab, has led the creation of key biological ontologies for the integration of resources covering gene function, anatomy, phenotypes and the environment, including the Gene Ontology, the Uberon anatomy ontology, the Cell Ontology (CL), and the Mondo disease ontology.
-His research centers around the capture, computational integration, and dissemination of biological research data, and the development of methods for using this data to elucidate biological mechanisms underpinning the health of humans and of the planet.
-For decades, he has been a strong advocate for open-source bioinformatics software, open standards, and open science.
+Tony Burdett is the Director of [BioFAIR](https://biofair.uk/), a UKRI-funded federated digital research infrastructure for UK life sciences.
+He has more than 20 years experience in life sciences and bioinformatics research infrastructure, and has been a long-standing advocate for FAIR data and the corresponding culture change that is needed to promote sustainable, open, data-driven research.
+His background is medical, biological and software engineering: he has a BSc in Biomedical Science and an MRes in Bioinformatics.
+Across his career, Tony has built up extensive experience of leading teams that run large scale, FAIR-enabling biological data management solutions, public repositories, and research infrastructure.
 
 {{< column >}}
 
-<img src="/img/2025/2025-03-26-Chris-Mungall-2022-square.jpg" alt ="Chris Mungall" style="width:90%"/>
+<img src="/img/2025/2025-06-18_Tony-Burdett.jpg" alt ="Tony Burdett" style="width:90%"/>
+
+{{< endcolumns >}}
+
+### Nicky Mulder
+
+{{< columns >}}
+
+<img src="/img/2025/2025-06-18_Nicky-Mulder.jpg" alt ="Nicky Mulder" style="width:90%"/>
+
+{{< column >}}
+
+Nicola (Nicky) Mulder, PhD, is Professor and head of the Computational Biology (CBIO) division at the University of Cape Town, and Principal investigator of the Harnessing Data Science for Health in Africa eLwazi Open Data Science Platform.
+For 12 years, she led [H3ABioNet](https://www.h3abionet.org/), a Pan-African bioinformatics network for H3Africa, which built bioinformatics capacity on the continent.
+Her group provides bioinformatics services and develops new algorithms for the analysis of complex African genetic data.
+Prof. Mulder is actively involved in bioinformatics capacity development globally and sits on a number of international scientific advisory boards, including the board of directors of the International Society for Computational Biology (ISCB),
 
 {{< endcolumns >}}
 
@@ -50,7 +66,19 @@ She currently serves on the Scientific Advisory Committee of the [Global Biodata
 
 {{< endcolumns >}}
 
-### *** Additional panelists will be announced soon! ***
+### Chris Mungall
+
+{{< columns >}}
+
+<img src="/img/2025/2025-03-26-Chris-Mungall-2022-square.jpg" alt ="Chris Mungall" style="width:90%"/>
+
+{{< column >}}
+
+Dr. Chris Mungall, a Senior Scientist at Berkeley Lab, has led the creation of key biological ontologies for the integration of resources covering gene function, anatomy, phenotypes and the environment, including the Gene Ontology, the Uberon anatomy ontology, the Cell Ontology (CL), and the Mondo disease ontology.
+His research centers around the capture, computational integration, and dissemination of biological research data, and the development of methods for using this data to elucidate biological mechanisms underpinning the health of humans and of the planet.
+For decades, he has been a strong advocate for open-source bioinformatics software, open standards, and open science.
+
+{{< endcolumns >}}
 
 ### MODERATOR: Monica Munoz-Torres
 
