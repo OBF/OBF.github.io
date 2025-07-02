@@ -30,7 +30,7 @@ Working together to develop, promote and protect our data resources: Lessons lea
 
 ## BOSC 2025 Schedule at a Glance
 <div style="position: relative; padding-top: 90%;">
-  <iframe style="position: absolute; top: 0; left: 0; width:95%; height: 100%" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTzyut-NfEtyeZ6jVgRJbi1ug8uua_OH7eXmZLUXeM7pJBxoEcu0mCMo6DevvFeHTx1mMCN3Zc93xSn/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+  <iframe style="position: absolute; top: 0; left: -5; width:100%; height: 100%" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTzyut-NfEtyeZ6jVgRJbi1ug8uua_OH7eXmZLUXeM7pJBxoEcu0mCMo6DevvFeHTx1mMCN3Zc93xSn/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
 </div>
 
 ## Schedule of Talks
@@ -38,6 +38,10 @@ Working together to develop, promote and protect our data resources: Lessons lea
   <iframe style="position: absolute; top: 0; left: -20; width:120%; height:100%" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTzyut-NfEtyeZ6jVgRJbi1ug8uua_OH7eXmZLUXeM7pJBxoEcu0mCMo6DevvFeHTx1mMCN3Zc93xSn/pubhtml?gid=1729310258&amp;single=true&amp;widget=true&amp;headers=false" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
 </div>
 
-## Poster list coming soon!
+## Schedule of Posters
+Please see the [ISMB/ECCB poster page](https://www.iscb.org/ismbeccb2025/programme-agenda/posters).
+Some posters are scheduled for the first day of BOSC (Session A) and some for the second (Session B).
+To see the list of posters for each day, click on the BOSC link under Session A or Session B and then scroll down to see the list.
+(BOSC did not design that UX. 🙂)
 
 <br/>
