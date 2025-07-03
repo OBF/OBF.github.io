@@ -28,11 +28,11 @@ Working together to develop, promote and protect our data resources: Lessons lea
 
 <br/>
 
-## Panel: Data Sustainability ([more info](events/bosc-2025/panel/)
+## Panel: Data Sustainability ([more info](events/bosc-2025/panel/))
 
 ## BOSC 2025 Schedule at a Glance
 <div style="position: relative; padding-top: 90%;">
-  <iframe style="position: absolute; top: 0; left: -5; width:100%; height: 100%" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTzyut-NfEtyeZ6jVgRJbi1ug8uua_OH7eXmZLUXeM7pJBxoEcu0mCMo6DevvFeHTx1mMCN3Zc93xSn/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+  <iframe style="position: absolute; top: 0; left: -5; width:102%; height: 100%" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTzyut-NfEtyeZ6jVgRJbi1ug8uua_OH7eXmZLUXeM7pJBxoEcu0mCMo6DevvFeHTx1mMCN3Zc93xSn/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
 </div>
 
 ## Schedule of Talks
@@ -48,5 +48,5 @@ BOSC posters will be up for both days of BOSC. Each presenter is assigned to pre
 ⏺ [Session B: July 22 at 10:00-11:20 and 16:00-16:40](https://www.iscb.org/cms_addon/conferences/ismbeccb2025/posters.php?track=BOSC&session=B#search)
 
 <div style="position: relative; padding-top: 90%;">
-  <iframe style="position: absolute; top: 0; left: -20; width:120%; height:100%" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTzyut-NfEtyeZ6jVgRJbi1ug8uua_OH7eXmZLUXeM7pJBxoEcu0mCMo6DevvFeHTx1mMCN3Zc93xSn/pubhtml?gid=1094351563&single=true&amp;widget=true&amp;headers=false" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+  <iframe style="position: absolute; top: 0; left: -20; width:122%; height:100%" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTzyut-NfEtyeZ6jVgRJbi1ug8uua_OH7eXmZLUXeM7pJBxoEcu0mCMo6DevvFeHTx1mMCN3Zc93xSn/pubhtml?gid=1094351563&single=true&amp;widget=true&amp;headers=false" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
 </div>
