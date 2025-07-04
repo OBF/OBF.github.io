@@ -61,6 +61,18 @@ allocated to the proteins help us to:
 
 https://github.com/anphan0828/funding-per-protein-hackathon
 
+#### 3. Enhancing Protein Knowledge Curation using Gene Ontology Annotations and Large Language Models for Community Literature Submissions
+
+Data-driven biomedical discovery depends on effective data curation - a time-consuming process that involves identifying relevant literature, extracting experimental knowledge, and validating information into structured formats suitable for databases like UniProt.
+
+The emergence of generative AI and large language models (LLMs) presents new opportunities to assist human-driven data curation workflows. These technologies can support curators in searching ontologies and extracting knowledge from scientific literature, potentially streamlining the entire curation process.
+
+**Objective**
+
+Learn how to manually assign Gene Ontology terms or develop innovative approaches using LLM tools to enhance the curation workflow, enabling efficient and accurate extraction of experimental data from scientific literature. 
+
+https://github.com/anphan0828/ISMB_CollaborationFest_EBI
+
 ### Code of Conduct
 
 As part of ISMB/ECCB 2025, CollaborationFest 2025 is covered by the [ISCB Code of Ethics and Professional Conduct](https://www.iscb.org/iscb-policy-statements/iscb-code-of-ethics-and-professional-conduct).
