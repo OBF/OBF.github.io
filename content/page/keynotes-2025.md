@@ -4,6 +4,7 @@ date: "2025-03-26T04:29:08+00:00"
 guid: https://www.open-bio.org/?page_id=7706
 title: BOSC 2025 Keynotes
 url: /events/bosc-2025/bosc-2025-keynotes/
+bosc: yes
 
 ---
 
