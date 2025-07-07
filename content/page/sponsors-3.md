@@ -13,6 +13,8 @@ bosc: yes
 ### 2025 Platinum Sponsor:
 
 <a target="_new" href="https://chanzuckerberg.com/science/"><img src="/wp-content/uploads/2021/06/CZI_Logotype_RGB.jpg" style="width:60%" alt="CZI" /></a>
+<center>The aim of CZI’s Open Science program is the universal and immediate open sharing of all scientific knowledge, processes, and outputs.
+</center>
 
 <br/>
 
