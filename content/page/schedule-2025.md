@@ -6,6 +6,9 @@ url: /events/bosc-2025/bosc-2025-schedule/
 bosc: yes
 
 ---
+
+<div class="well">
+
 ## [BOSC 2025 keynote speakers](/events/bosc-2025/bosc-2025-keynotes/)
 
 {{< columns >}}
@@ -26,9 +29,9 @@ Working together to develop, promote and protect our data resources: Lessons lea
 
 {{< endcolumns >}}
 
-<br/>
+</div>
 
-## Panel: Data Sustainability ([more info](events/bosc-2025/panel/))
+## Panel: Data Sustainability ([more info](/events/bosc-2025/panel/))
 
 ## BOSC 2025 Schedule at a Glance
 <div style="position: relative; padding-top: 90%;">
