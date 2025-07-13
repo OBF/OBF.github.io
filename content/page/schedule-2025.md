@@ -29,11 +29,12 @@ Working together to develop, promote and protect our data resources: Lessons lea
 
 {{< endcolumns >}}
 
-</div>
-
 ## Panel: Data Sustainability ([more info](/events/bosc-2025/panel/))
 
+</div>
+
 ## BOSC 2025 Schedule at a Glance
+(Keep scrolling to see the full schedule of talks and posters!)
 <div style="position: relative; padding-top: 90%;">
   <iframe style="position: absolute; top: 0; left: -5; width:102%; height: 100%" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTzyut-NfEtyeZ6jVgRJbi1ug8uua_OH7eXmZLUXeM7pJBxoEcu0mCMo6DevvFeHTx1mMCN3Zc93xSn/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
 </div>
@@ -47,8 +48,9 @@ Working together to develop, promote and protect our data resources: Lessons lea
 Please see the [ISMB/ECCB poster page](https://www.iscb.org/ismbeccb2025/programme-agenda/posters) for more information, including poster abstracts.
 BOSC posters will be up for both days of BOSC. Each presenter is assigned to present their poster during Session A or B on Monday, July 21, or Tuesday, July 22, respectively.
 
-⏺ [Session A: July 21 at 10:00-11:20 and 16:00-16:40](https://www.iscb.org/cms_addon/conferences/ismbeccb2025/posters.php?track=BOSC&session=A#search)
-⏺ [Session B: July 22 at 10:00-11:20 and 16:00-16:40](https://www.iscb.org/cms_addon/conferences/ismbeccb2025/posters.php?track=BOSC&session=B#search)
+⏺ [Session A: July 21 at 10:00-11:20 and 16:00-16:40](https://www.iscb.org/cms_addon/conferences/ismbeccb2025/posters.php?track=BOSC&session=A#search) <br />
+⏺ [Session B: July 22 at 10:00-11:20 and 16:00-16:40](https://www.iscb.org/cms_addon/conferences/ismbeccb2025/posters.php?track=BOSC&session=B#search) <br />
+⏺ [Virtual posters](https://www.iscb.org/cms_addon/conferences/ismbeccb2025/posters.php?track=BOSC&session=E#search)
 
 <div style="position: relative; padding-top: 90%;">
   <iframe style="position: absolute; top: 0; left: -20; width:122%; height:100%" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTzyut-NfEtyeZ6jVgRJbi1ug8uua_OH7eXmZLUXeM7pJBxoEcu0mCMo6DevvFeHTx1mMCN3Zc93xSn/pubhtml?gid=1094351563&single=true&amp;widget=true&amp;headers=false" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
