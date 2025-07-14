@@ -15,7 +15,7 @@ aliases:
 
 The OBF welcomes anyone who is involved or plans to become involved in
 biology-related [open source](https://opensource.org/osd) or [open science](https://plos.org/open-science/)
-join our community.
+to join our community.
 There are many ways you can become part of our growing community, regardless of your career stage and experience with open source and open science.
 
 ## Join our online spaces
