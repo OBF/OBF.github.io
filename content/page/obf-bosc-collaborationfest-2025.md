@@ -69,7 +69,7 @@ The emergence of generative AI and large language models (LLMs) presents new opp
 
 #### 4.  BioPython-GPU: Accelerate BioPython Using RAPIDS and RAPIDS single cell
 
-Integrate drop in GPU-accelerated pandas, sklearn and numpy into biopython for acceleration and/or integrate https://github.com/scverse/rapids_singlecell -- as much as an 80 fold speedup for single cell -- into BioPython.  
+Integrate drop in GPU-accelerated MMseq2 into biopython for acceleration and/or integrate https://github.com/scverse/rapids_singlecell -- as much as an 80 fold speedup for single cell -- into BioPython.
 
 **Objective**
 
