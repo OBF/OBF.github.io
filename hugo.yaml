@@ -119,4 +119,8 @@ menu:
     - name: 'News'
       url: 'posts'
       weight: 4
- 
+
+permalinks:
+  section:
+    posts: /news/
+    posts: /blog/
