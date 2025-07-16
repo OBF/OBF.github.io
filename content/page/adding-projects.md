@@ -7,7 +7,10 @@ url: /adding-projects/
 
 ---
 
-This page provides the OBFs affiliated project policy (as [also found here](https://github.com/OBF/obf-docs/blob/master/Affiliated-Project-Policy.md), alongside an FAQ around what it means to be a member project.
+This page provides the OBFs affiliated project policy, alongside an FAQ around what it means to be a member project.
+
+You can always find [the binding documents on our official Git repo](https://github.com/OBF/obf-docs/blob/master/Affiliated-Project-Policy.md) (alongside [the FAQ](https://github.com/OBF/obf-docs/blob/master/Affiliated-project-FAQ.md)).
+
 
 ## Contents
 
