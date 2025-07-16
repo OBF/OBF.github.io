@@ -67,6 +67,10 @@ Data-driven biomedical discovery depends on effective data curation - a time-con
 
 The emergence of generative AI and large language models (LLMs) presents new opportunities to assist human-driven data curation workflows. These technologies can support curators in searching ontologies and extracting knowledge from scientific literature, potentially streamlining the entire curation process.
 
+#### 4.  BioPython-GPU: Accelerate BioPython Using RAPIDS and RAPIDS single cell
+
+Integrate drop in GPU-accelerated pandas, sklearn and numpy into biopython for acceleration and/or integrate https://github.com/scverse/rapids_singlecell -- as much as an 80 fold speedup for single cell -- into BioPython.  
+
 **Objective**
 
 Learn how to manually assign Gene Ontology terms or develop innovative approaches using LLM tools to enhance the curation workflow, enabling efficient and accurate extraction of experimental data from scientific literature. 
