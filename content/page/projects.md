@@ -7,7 +7,7 @@ url: /projects/
 
 ---
 
-The OBF has [a process for different projects in the open bioinformatics real to become members or affiliated members](https://github.com/OBF/obf-docs/blob/master/Affiliated-Project-Policy.md). Here you can find the existing member projects, affiliated projects and other related open bioinformatics projects.
+The OBF has [a process for different projects in the open bioinformatics real to become members or affiliated members](/adding-projects/). Here you can find the existing member projects, affiliated projects and other related open bioinformatics projects.
 
 # Member Projects
 
