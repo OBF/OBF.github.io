@@ -85,18 +85,18 @@ menu:
       parent: 'bosc'
       url: 'events/bosc-2025/'
       weight: 1
-    - name: 'Submit abstract'
-      parent: 'bosc'
-      url: 'events/bosc-2025/submit/'
-      weight: 2
     - name: 'Schedule'
       parent: 'bosc'
       url: 'events/bosc-2025/bosc-2025-schedule/'
-      weight: 3
+      weight: 2
     - name: 'Keynotes'
-      weight: 4 
+      weight: 3 
       parent: 'bosc'
       url: 'events/bosc-2025/bosc-2025-keynotes/'
+    - name: 'Panel'
+      weight: 4 
+      parent: 'bosc'
+      url: 'events/bosc-2025/panel/'
     - name: "CollaborationFest"
       weight: 5
       parent: 'bosc'
@@ -113,9 +113,6 @@ menu:
       weight: 8
       parent: 'bosc'
       url: 'events/bosc/sponsors/'
-    - name: 'Event Awards'
-      weight: 3
-      url: 'event-awards/'
     - name: 'News'
       url: 'posts'
       weight: 4
