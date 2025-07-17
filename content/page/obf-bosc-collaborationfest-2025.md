@@ -71,7 +71,7 @@ https://github.com/anphan0828/ISMB_CollaborationFest_EBI
 
 #### 4.  BioPython-GPU: Accelerate BioPython Using RAPIDS and RAPIDS single cell
 
-Integrate drop in GPU-accelerated MMseq2 into biopython for acceleration and/or integrate https://github.com/scverse/rapids_singlecell -- as much as an 80 fold speedup for single cell -- into BioPython.
+Integrate drop in GPU-accelerated MMseq2 into biopython for acceleration.
 
 **Objective**
 
