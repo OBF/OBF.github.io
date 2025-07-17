@@ -3,6 +3,7 @@ author: nlharris
 date: "2025-05-30T16:50:23+00:00"
 title: BOSC 2025 Panel
 url: /events/bosc-2025/panel/
+bosc: yes
 
 ---
 
@@ -98,7 +99,7 @@ He has also taught data management and curation at Hong Kong University.
 
 {{< columns >}}
 
-<img src="/wp-content/uploads/2022/05/Monica_Munoz-Torres-2.jpeg" alt ="Monica Munzo-Torresl" style="width:75%"/>
+<img src="/wp-content/uploads/2022/05/Monica_Munoz-Torres-2.jpeg" alt ="Monica Munoz-Torres" style="width:75%"/>
 
 {{< column >}}
 
