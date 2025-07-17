@@ -77,6 +77,29 @@ https://github.com/anphan0828/ISMB_CollaborationFest_EBI
 
 Integrate drop in GPU-accelerated MMseq2 into biopython for acceleration.
 
+#### 5. Integrate iCn3D viewer with Jalview MSA  
+
+Jalview shows MSA and structure alignment with Jmol. Jalview could also link to iCn3D to show MSA together with structure alignment.
+https://github.com/jiywang3/Integrate-iCn3D-viewer-with-Jalview-MSA
+
+#### 6. The world’s biomedical knowledge in less than a gram: introducing the PGP incubator
+
+The PGPincubator is an effort to create a distribution of open data, tools, workflows, AI models, and learning materials that support validation, benchmarking, and education in bioinformatics and biomedicine for precision health and (pre-clinical) biomedical AI. In addition, the incubator is a distributed network of physical computing infrastructure used to test components included in the distribution, such as validating genomics workflows or benchmarking AI models.
+
+To help hatch this network, PGPincubator is creating a network (using Tailscale) of “h-grams.” A h-gram is 1-4 microSD cards (3-4 weigh about a gram!) each flashed with a bootable operating system image and pre-loaded with data and tools. The PGPincubator open source project develops and maintains the scripts, process documentation and data resources required to build/test the h-gram image. These h-grams can then be booted on compatible commodity PC hardware. The operating system (Ubuntu) is pre-configured to act as a server suitable for home, office or lab and is accessed by other devices through a browser. Each h-gram will be pre-loaded with hundreds of gigabytes of openly licensed infrastructure software, bioinformatics tools, genomic datasets, AI models, and learning resources, making them ideal for education, validation, and benchmarking in biomedical research.
+
+We'll be demoing how to use the PGPincubator live!
+https://github.com/PGPinformatics/PGPincubator
+
+#### 7. Collaborative development of gRINN (get Residue Interaction Energies and Networks) for interaction energy based analysis of biomolecular simulation trajectories
+
+This project focuses on enhancing gRINN, a Python tool for analyzing protein energy networks from molecular dynamics simulations. gRINN calculates amino acid interaction energies from GROMACS trajectories and constructs Protein Energy Networks to identify key residues in protein communication pathways.
+
+We invite contributors to test the tool with diverse protein systems, identify bugs, develop tutorials, and optimize performance. Testers, developers, and documentation contributors at all skill levels are welcome.
+
+https://github.com/osercinoglu/grinn-ismb-2025
+
+
 
 ### Code of Conduct
 
