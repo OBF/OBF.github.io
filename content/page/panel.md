@@ -4,6 +4,7 @@ date: "2025-05-30T16:50:23+00:00"
 guid: https://www.open-bio.org/wp/?page_id=2716
 title: BOSC 2025 Panel
 url: /events/bosc-2025/panel/
+bosc: yes
 
 ---
 
@@ -90,6 +91,6 @@ Dr. Munoz-Torres's expertise spans genomics, biocuration, knowledge representati
 
 {{< column >}}
 
-<img src="/wp-content/uploads/2022/05/Monica_Munoz-Torres-2.jpeg" alt ="Monica Munzo-Torresl" style="width:75%"/>
+<img src="/wp-content/uploads/2022/05/Monica_Munoz-Torres-2.jpeg" alt ="Monica Munoz-Torres" style="width:75%"/>
 
 {{< endcolumns >}}
