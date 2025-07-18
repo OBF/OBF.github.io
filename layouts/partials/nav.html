@@ -66,7 +66,7 @@
 	{{ if isset .Site.Params "bosc_logo" }}
     	  <div class="avatar-container">
     	    <div class="avatar-img-border">
-    	      <a title="{{ .Site.Title }}" href="{{ "" | absLangURL }}">
+    	      <a title="{{ .Site.Title }}" href="{{ "events/bosc/" | absLangURL }}">
     	      {{- $image := resources.Get ( $.Site.Params.bosc_logo) -}}
     	      {{ if $image }}
     	        <img class="avatar-img" src="{{ ($image.Fit "300x300 webp q100").Permalink }}" alt="{{ .Site.Title }}" />
