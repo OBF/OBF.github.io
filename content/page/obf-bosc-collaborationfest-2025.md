@@ -99,6 +99,16 @@ We invite contributors to test the tool with diverse protein systems, identify b
 
 https://github.com/osercinoglu/grinn-ismb-2025
 
+#### 8. Improving how we describe and discover Bioinformatics tools
+
+Bioconductor hosts over 3,000 R packages, but finding the right one can be challenging. biocEDAM is an experimental tool that uses large language models and the EDAM ontology to suggest meaningful package tags. 
+
+At CoFest, we’ll work on integrating Gemini (a free, key‑free option) and testing the tool on more packages. We also welcome input on Model Context Protocols (MCPs), exploring how they might help surface package metadata in the future.
+
+Who should join: R developers, ontology experts, LLM/NLP enthusiasts, and anyone with domain knowledge keen to improve software discoverability.
+
+https://github.com/mblue9/biocedam-cofest-2025
+
 
 
 ### Code of Conduct
