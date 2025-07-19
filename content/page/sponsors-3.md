@@ -23,6 +23,8 @@ bosc: yes
 <a target="_new" href="https://seqera.io/"><img src="/wp-content/uploads/2024/04/Logo_Seqera-Color.png" style="width:50%" alt="Seqera" /></a>
 <center><small>Seqera, developed by the creators of Nextflow, empowers researchers to develop and deploy scalable bioinformatics pipelines faster</small></center>
 
+<p align="center"><iframe src="https://drive.google.com/file/d/1V1BbVcCPQHWN-8eMr4-yZ19xAK1p0Tfd/preview" width="640" height="480" allow="autoplay" ></iframe></p>
+
 **2025 Silver Sponsor:**
 
 <a target="_new" href="https://academic.oup.com/gigascience"><img src="/wp-content/uploads/2019/05/Gigascience.png" style="width:30%" alt="GigaScience" /></a>
