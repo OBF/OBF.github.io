@@ -111,6 +111,16 @@ Who should join: R developers, ontology experts, LLM/NLP enthusiasts, and anyone
 
 https://github.com/mblue9/biocedam-cofest-2025
 
+### 9.  Extracting metadata from proteomics publications
+
+Many proteomics studies share raw data, but their experimental details remain buried in free-text methods and supplementary tables, making reuse and meta-analysis difficult. This project invites you to build models or pipelines that extract structured metadata—like organism, instrument, or disease—from paper abstracts and methods sections, using a gold-standard training set and clear evaluation tools.
+
+You'll work with a curated training set of 100+ annotated papers and compare your results to a GPT-o4-mini baseline. In the second phase, test your model on recent, unannotated publications to assess generalizability.
+
+Ideal for: NLP practitioners, proteomics researchers, or anyone interested in making scientific metadata more accessible and machine-readable.
+
+https://github.com/SparkyDaBear/Intelligent_MetaData_ISMB_collaboration_fest_2025
+
 
 
 ### Code of Conduct
