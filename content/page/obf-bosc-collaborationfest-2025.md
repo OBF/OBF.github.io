@@ -73,9 +73,11 @@ Learn how to manually assign Gene Ontology terms or develop innovative approache
 
 https://github.com/anphan0828/ISMB_CollaborationFest_EBI
 
-#### 4.  BioPython-GPU: Accelerate BioPython Using RAPIDS and RAPIDS single cell
+#### 4.  BioPython-GPU: Accelerate BioPython MSA-GPU Protein Aligner
 
 Integrate drop in GPU-accelerated MMseq2 into biopython for acceleration.
+
+https://github.com/collaborativebioinformatics/GPU_MSA_Integration
 
 #### 5. Integrate iCn3D viewer with Jalview MSA  
 
