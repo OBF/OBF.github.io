@@ -64,6 +64,11 @@ menu:
     - name: 'Get Involved'
       parent: 'about'
       url: 'get-involved'
+      weight: 5
+    - name: 'OBF Event Awards"
+      parent: 'about'
+      url: /event-awards/
+      weight: 4
     - name: 'Diversity, Equity & Inclusion'
       parent: 'about' 
       url: '/obf-dei/'
