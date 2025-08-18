@@ -121,10 +121,9 @@ menu:
       parent: 'bosc'
       url: 'events/bosc/sponsors/'
     - name: 'News'
-      url: 'posts'
+      url: 'blog'
       weight: 4
 
 permalinks:
   section:
-    posts: /news/
     posts: /blog/
