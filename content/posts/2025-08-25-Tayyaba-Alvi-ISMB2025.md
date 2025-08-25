@@ -19,7 +19,7 @@ url: /2025-08-25-Tayyaba-Alvi-ISMB2025/
 
 
 
-## Introduction
+## ISMB 2025: A Week of Learning, Teaching, and Connecting in Liverpool
 
 Thanks to the Event Fellowship from the Open Bioinformatics Foundation (OBF), I had the chance to attend the 33rd Conference on Intelligent Systems for Molecular Biology (ISMB 2025) in Liverpool. It’s the annual meeting of the International Society for Computational Biology (ISCB) and the biggest conference in the field. This year, it brought together over 2,000 researchers from all over the world at ACC Liverpool, a beautiful venue right by the Albert Dock.
 
