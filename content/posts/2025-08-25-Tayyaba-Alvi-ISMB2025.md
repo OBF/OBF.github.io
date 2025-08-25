@@ -31,7 +31,7 @@ Thanks to the Event Fellowship from the Open Bioinformatics Foundation (OBF), I 
 The conference started with workshops and tutorials, along with the ISCB Student Council Symposium. I was excited (and a little nervous!) to help organize and lead a tutorial on Mendelian Randomization (MR), together with two colleagues from my group. We had around 17 participants from different backgrounds and career stages join us for an interactive session on causal inference. We covered key assumptions, common pitfalls like pleiotropy, and hands-on examples in R. It was really rewarding to see people engage, ask questions, and reflect on how these methods might apply to their own work. If you are interested, you can find the tutorial slides and other information here: 
 
 ```markdown
-[Tutorial Page](hhttps://donertas-group.github.io/ismb2025_mr_tutorial/)
+![Tutorial Page](hhttps://donertas-group.github.io/ismb2025_mr_tutorial/)
 ```
 ```markdown
 ![Ongoing Tutorial on Causal Inference](/img/2025/2025-08-25-TA3.png)
@@ -60,7 +60,7 @@ The conference wrapped up with a conversation with David Baker, who shared his i
 In between conference sessions, I made sure to explore a bit of Liverpool. The dockside area near the venue was lovely to walk around—full of history, great views of the Mersey, and a surprisingly peaceful vibe despite all the conference hustle. 
 
 ```markdown
-!John Lennon Peace Monument on the left, and the Wheel of Liverpool on the right](/img/2025/2025-08-25-TA5.png)
+![John Lennon Peace Monument on the left, and the Wheel of Liverpool on the right](/img/2025/2025-08-25-TA5.png)
 ```
 
 ---
