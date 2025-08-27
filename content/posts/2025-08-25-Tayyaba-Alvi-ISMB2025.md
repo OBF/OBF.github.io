@@ -12,10 +12,10 @@ tag:
  - travel-fellowship
 
 title: "ISMB 2025: A Week of Learning, Teaching, and Connecting in Liverpool"
-url: /2025-08-25-Tayyaba-Alvi-ISMB2025/
+url: /2025/08/25/2025-08-25-Tayyaba-Alvi-ISMB2025/ 
 ---
 
-**_The_** [**_Open Bioinformatics Foundation (OBF) Event Fellowship program_**](/travel-awards) **_aims to promote diverse participation at events promoting open-source bioinformatics software development and open science practices in the biological research community. Tayyaba Alvi,_** _**a [PhD student] at**_ _**[Fritz Lipmann Institute on Aging]**_, **_was awarded an OBF Event Fellowship to attend_** _**the**_ **_[ISMB2025](https://www.iscb.org/ismbeccb2025/home)_**.
+**_The_** [**_Open Bioinformatics Foundation (OBF) Event Fellowship program_**](/travel-awards) **_aims to promote diverse participation at events promoting open-source bioinformatics software development and open science practices in the biological research community. Tayyaba Alvi,_** _**a PhD student at**_ _**Fritz Lipmann Institute on Aging**_, **_was awarded an OBF Event Fellowship to attend_** _**the**_ **_[ISMB2025](https://www.iscb.org/ismbeccb2025/home)_**.
 
 ## ISMB 2025: A Week of Learning, Teaching, and Connecting in Liverpool
 
