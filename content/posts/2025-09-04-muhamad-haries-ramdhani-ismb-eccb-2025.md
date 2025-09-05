@@ -1,7 +1,6 @@
 ---
 author: hariesramdhani
 date: 2025-09-04 # format is YYYY-MM-DD
-draft: true
 category: 
  - community
  - event-fellowship
@@ -30,7 +29,7 @@ I had heard about ISMB before, but I wasn't entirely clear on its joint conferen
 As a PhD student, attending my first major international conference was a significant goal. My research focuses on benchmarking and cell-to-cell communication and the ISMB/ECCB program felt perfectly aligned with my work. I was particularly drawn to the **DREAM Challenges** track, as it offered a chance to see a wide variety of approaches to benchmarking, which is central to my own projects. Furthermore, the conference provided an ideal venue to present my own poster and receive feedback from experts in the field. Beyond the formal sessions, I was very excited about **CollaborationFest**. The opportunity to contribute directly to open-source projects and network with the developers behind the tools we use every day was a major motivation for me to apply and attend.
 
 ### **Navigating a Massive Conference**
-![Keynote speakers and DREAM challenges talks at the ISMB/ECCB]("img/2025/2025-09-04-haries-ramdhani-1.png")
+![Keynote speakers and DREAM challenges talks at the ISMB/ECCB](/img/2025/2025-09-04-haries-ramdhani-1.png)
 
 Upon arriving, I realised the main conference didn't formally kick off until Monday. Sunday's schedule was composed mostly of tutorials and the student council symposium, both of which required extra payment to attend. However, the scientific energy began to build that evening with an incredible opening keynote from Nobel Prize winner **Dr. John Jumper**. In his talk, "Predicting the universe of biomolecular interactions with artificial intelligence," Dr. Jumper walked attendees through the evolution of the AlphaFold project. He shared insights into the technical and conceptual milestones behind each generation of AlphaFold, including innovations like rawMSA masked language models, Evoformer modules and the importance of self-distillation. He emphasised that no single breakthrough carried the project, instead, AlphaFold’s success came from a steady accumulation of improvements and a methodology rooted in biological intuition and empirical iteration.
 
@@ -45,11 +44,11 @@ The keynotes each provided a masterclass in a different corner of our field:
 - **Charlotte Deane** offered a dose of critical realism in her keynote, "Building the future of AI-driven structure-based drug discovery," examining both the hype and the hurdles. While showcasing powerful tools from her own lab, she cautioned that the field is hampered by biased training data and flawed benchmarks. Her talk served as a crucial reminder that new AI models do not always outperform traditional methods on realistic test sets, raising serious questions about their true ability to generalize.
 
 ### **Posters, Serendipity and Collaboration**
-![From left to right: Haries and his poster, Collaboration Fest and the code Haries was working on for Schema.science during the Collaboration Fest]("img/2025/2025-09-04-haries-ramdhani-2.png")
+![From left to right: Haries and his poster, Collaboration Fest and the code Haries was working on for Schema.science during the Collaboration Fest](/img/2025/2025-09-04-haries-ramdhani-2.png)
 
 The poster sessions were immense, with what I estimated to be around 500 posters presented each day in a massive venue. I came prepared with a list of posters I wanted to see and enjoyed many engaging conversations with the authors. The hall was also a hub of serendipitous networking. While wandering the aisles, I met a new friend, a fellow PhD student from Indonesia who is now at Nottingham.
 
-![Haries’ Collaboration Fest project working on the automation of generating training guides using LLM]("img/2025/2025-09-04-haries-ramdhani-3.png")
+![Haries’ Collaboration Fest project working on the automation of generating training guides using LLM](/img/2025/2025-09-04-haries-ramdhani-3.png)
 
 The final day brought an event I had been looking forward to with great anticipation: **Collaboration Fest**. I have always wanted to join a Collaboration Fest and I was very excited for the opportunity to engage directly with the community in a hands-on setting dedicated to advancing open-source projects. It represented the perfect way to cap off a week of intense learning, shifting the focus from listening to actively participating and networking with developers to contribute to the tools that are so vital to our field. In Collaboration Fest, I worked with Phil Reed from schemas.science which is an initiative to improve the findability on the web of scientific research data, products and resources. [I worked on improving the process of generating training guides for domain-agnostic schemas.science using LLM](https://github.com/schemas-science/schemas-science.github.io/tree/ismbeccb2025-cofest). I also had the chance to present my own poster on [benCCChmarker](https://github.com/MorganResearchLab/benccchmarker), which is a software to benchmark multiple single-cell RNA-seq cell-to-cell communication algorithms. benCCChmarker provides an easy to use framework to compare different algorithms using simulated cell-to-cell communication single-cell RNA-sequencing data and curated data. I received a very interesting visit from people who work directly in the field, which led to a fantastic discussion about my work.
 
