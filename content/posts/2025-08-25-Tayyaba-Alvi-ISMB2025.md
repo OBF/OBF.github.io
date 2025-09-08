@@ -1,7 +1,7 @@
 ---
 author: alviitayyaba
 date: 2025-08-25 # format is YYYY-MM-DD
-draft: true
+
 category: 
  - community
  - event-fellowship
