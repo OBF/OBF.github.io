@@ -7,7 +7,7 @@ url: /projects/
 
 ---
 
-The OBF has [a process for different projects in the open bioinformatics real to become members or affiliated members](/adding-projects/). Here you can find the existing member projects, affiliated projects and other related open bioinformatics projects.
+The OBF has [a process for projects in the open bioinformatics realm to become members or affiliated members](/adding-projects/). Here you can find the existing member projects, affiliated projects and other related open bioinformatics projects.
 
 # Member Projects
 
@@ -20,13 +20,13 @@ The OBF has [a process for different projects in the open bioinformatics real to
 
 # Affiliated Projects
 
-* [**GBrowse**](https://gmod.org/) (Generic Genome Browser), a part of GMOD is a combination of database and interactive web pages for manipulating and displaying annotations on genomes.
+* [**GBrowse**](https://gmod.org/) (Generic Genome Browser), part of GMOD, is a combination of database and interactive web pages for manipulating and displaying annotations on genomes.
 * [**Chado**](https://gmod.org/wiki/Chado) is a relational database schema that underlies many GMOD installations.
 
 # Other Related Projects
 
 * [BioJS](http://biojs.net/): An open-source library of JavaScript components to visualise biological data.
-* [BioHaskell](http://biohaskell.org/): Bioinformatic libraries in Haskell.
+* [BioHaskell](http://biohaskell.org/): Bioinformatics libraries in Haskell.
 * [Biocaml](http://biocaml.org/): Bioinformatics library in the functional programming language OCaml.
 * [BioPHP](http://biophp.org/): Collection of open-source PHP code, with classes for DNA and protein sequence analysis, alignment, database parsing, and other bioinformatics tools.
 * [BioSmallTalk](https://biosmalltalk.github.io/): Bioinformatics in a pure objects environment.
