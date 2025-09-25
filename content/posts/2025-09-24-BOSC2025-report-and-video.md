@@ -24,4 +24,4 @@ Whether you attended BOSC 2025 or missed it, you can read about it (with lots of
 in our [report published in F1000Research](https://f1000research.com/articles/14-887).
 
 We are also pleased to announce that videos of the BOSC 2025 talks are now available on our
-[https://www.open-bio.org/events/bosc-2025/bosc-2025-schedule/](schedule page). Enjoy!
+[schedule page](https://www.open-bio.org/events/bosc-2025/bosc-2025-schedule/). Enjoy!
