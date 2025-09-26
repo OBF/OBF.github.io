@@ -20,7 +20,7 @@ url: /2025/09/24/2025-09-24-BOSC2025-report-and-videos/
 
 ---
 
-[A full room at BOSC 2025](/img/2025/2025-07-BOSC-room.png)
+![A full room at BOSC 2025](/img/2025/2025-07-BOSC-room.png)
 
 Whether you attended BOSC 2025 or missed it, you can read about it (with lots of photos!)
 in our [report published in F1000Research](https://f1000research.com/articles/14-887).
