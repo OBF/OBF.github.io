@@ -15,9 +15,7 @@ title: "ISMB 2025: A Week of Learning, Teaching, and Connecting in Liverpool"
 url: /2025/08/25/2025-08-25-Tayyaba-Alvi-ISMB2025/ 
 ---
 
-**_The_** [**_Open Bioinformatics Foundation (OBF) Event Fellowship program_**](/travel-awards) **_aims to promote diverse participation at events promoting open-source bioinformatics software development and open science practices in the biological research community. Tayyaba Alvi,_** _**a PhD student at**_ _**Fritz Lipmann Institute on Aging**_, **_was awarded an OBF Event Fellowship to attend_** _**the**_ **_[ISMB2025](https://www.iscb.org/ismbeccb2025/home)_**.
-
-## ISMB 2025: A Week of Learning, Teaching, and Connecting in Liverpool
+**_The_** [**_Open Bioinformatics Foundation (OBF) Event Fellowship program_**](/travel-awards) **_aims to promote diverse participation at events promoting open-source bioinformatics software development and open science practices in the biological research community. Tayyaba Alvi,_** _**a PhD student at**_ _**Fritz Lipmann Institute on Aging**_, **_was awarded an OBF Event Fellowship to attend_** **_[ISMB/ECCB2025](https://www.iscb.org/ismbeccb2025/home)_**.
 
 Thanks to the Event Fellowship from the Open Bioinformatics Foundation (OBF), I had the chance to attend the 33rd Conference on Intelligent Systems for Molecular Biology (ISMB 2025) in Liverpool. It’s the annual meeting of the International Society for Computational Biology (ISCB) and the biggest conference in the field. This year, it brought together over 2,000 researchers from all over the world at ACC Liverpool, a beautiful venue right by the Albert Dock.
 
