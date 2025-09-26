@@ -18,9 +18,7 @@ title: "ISMB/ECCB 2025: Liverpool, LLMs and Lessons in Open Science"
 url: /2025/09/04/2025-09-04-muhamad-haries-ramdhani-ismb-eccb-2025/
 ---
 
-**ISMB/ECCB 2025: Liverpool, LLMs and Lessons in Open Science**
-
-**_The_** [**_Open Bioinformatics Foundation (OBF) Event Fellowship program_**](https://github.com/OBF/OBF.github.io/blob/main/travel-awards) **_aims to promote diverse participation at events promoting open-source bioinformatics software development and open science practices in the biological research community. Muhamad Haries Ramdhani,_** **_a PhD Student at the_** **_University of Aberdeen_**, **_was awarded an OBF Event Fellowship to attend_** **_the_** [**_ISMB/ECCB 2025_**](https://www.iscb.org/ismbeccb2025).
+**_The_** [**_Open Bioinformatics Foundation (OBF) Event Fellowship program_**](https://github.com/OBF/OBF.github.io/blob/main/travel-awards) **_aims to promote diverse participation at events promoting open-source bioinformatics software development and open science practices in the biological research community. Muhamad Haries Ramdhani,_** **_a PhD Student at the_** **_University of Aberdeen_**, **_was awarded an OBF Event Fellowship to attend_** [**_ISMB/ECCB 2025_**](https://www.iscb.org/ismbeccb2025).
 
 ### **The Journey to Liverpool**
 
