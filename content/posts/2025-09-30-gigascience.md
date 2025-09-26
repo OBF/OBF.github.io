@@ -67,6 +67,7 @@ You can add your name via a pull request:
 * Tazro Ohta
 * Nomi Harris
 * Peter Cock
+* Chris Fields
 
 Post-publication signatories (alphabetical, please [make a pull request](https://github.com/OBF/OBF.github.io/edit/main/content/posts/2025-09-30-gigascience.md) by the end of October if you wish to add your name):
 
