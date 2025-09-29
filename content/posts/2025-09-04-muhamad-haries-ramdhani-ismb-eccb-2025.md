@@ -18,9 +18,8 @@ title: "ISMB/ECCB 2025: Liverpool, LLMs and Lessons in Open Science"
 url: /2025/09/04/2025-09-04-muhamad-haries-ramdhani-ismb-eccb-2025/
 ---
 
-**ISMB/ECCB 2025: Liverpool, LLMs and Lessons in Open Science**
-
-**_The_** [**_Open Bioinformatics Foundation (OBF) Event Fellowship program_**](https://github.com/OBF/OBF.github.io/blob/main/travel-awards) **_aims to promote diverse participation at events promoting open-source bioinformatics software development and open science practices in the biological research community. Muhamad Haries Ramdhani,_** **_a PhD Student at the_** **_University of Aberdeen_**, **_was awarded an OBF Event Fellowship to attend_** **_the_** [**_ISMB/ECCB 2025_**](https://www.iscb.org/ismbeccb2025).
+**_The_** [**_Open Bioinformatics Foundation (OBF) Event Fellowship program_**](https://github.com/OBF/OBF.github.io/blob/main/travel-awards) **_aims to promote diverse participation at events promoting open-source bioinformatics software development and open science practices in the biological research community. Muhamad Haries Ramdhani,_** **_a PhD Student at the_** **_University of Aberdeen_**, **_was awarded an OBF Event Fellowship to attend_** [**_ISMB/ECCB 2025_**](https://www.iscb.org/ismbeccb2025).
+![Keynote speakers and DREAM challenges talks at the ISMB/ECCB](/img/2025/2025-09-04-haries-ramdhani-1.png)
 
 ### **The Journey to Liverpool**
 
@@ -29,7 +28,6 @@ I had heard about ISMB before, but I wasn't entirely clear on its joint conferen
 As a PhD student, attending my first major international conference was a significant goal. My research focuses on benchmarking and cell-to-cell communication and the ISMB/ECCB program felt perfectly aligned with my work. I was particularly drawn to the **DREAM Challenges** track, as it offered a chance to see a wide variety of approaches to benchmarking, which is central to my own projects. Furthermore, the conference provided an ideal venue to present my own poster and receive feedback from experts in the field. Beyond the formal sessions, I was very excited about **CollaborationFest**. The opportunity to contribute directly to open-source projects and network with the developers behind the tools we use every day was a major motivation for me to apply and attend.
 
 ### **Navigating a Massive Conference**
-![Keynote speakers and DREAM challenges talks at the ISMB/ECCB](/img/2025/2025-09-04-haries-ramdhani-1.png)
 
 Upon arriving, I realised the main conference didn't formally kick off until Monday. Sunday's schedule was composed mostly of tutorials and the student council symposium, both of which required extra payment to attend. However, the scientific energy began to build that evening with an incredible opening keynote from Nobel Prize winner **Dr. John Jumper**. In his talk, "Predicting the universe of biomolecular interactions with artificial intelligence," Dr. Jumper walked attendees through the evolution of the AlphaFold project. He shared insights into the technical and conceptual milestones behind each generation of AlphaFold, including innovations like rawMSA masked language models, Evoformer modules and the importance of self-distillation. He emphasised that no single breakthrough carried the project, instead, AlphaFold’s success came from a steady accumulation of improvements and a methodology rooted in biological intuition and empirical iteration.
 
