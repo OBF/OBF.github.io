@@ -22,6 +22,7 @@ yet when confronted with the immediate demands of an academic career or the shor
 putting in the extra work to make all of the code and data publicly accessible and reusable may not be a priority.
 That is why individuals and organizations that not only embrace these principles but also persist with them over long periods are worthy of being recognized.
 They act not merely for themselves, but for the whole of human society.
+![Photo at GigaScience Birthday Party 2025 - Scott cutting the cake](/img/2025/2025-gigascience-cake.jpg)
 
 One of these organizations is the [GigaScience journal](https://academic.oup.com/gigascience).
 Since its founding, GigaScience has been at the forefront of open data science.
@@ -77,3 +78,10 @@ including board members. You can add your name via a pull request:
 Post-publication signatories (alphabetical, please
 [make a pull request](https://github.com/OBF/OBF.github.io/edit/main/content/posts/2025-09-30-gigascience.md)
 by the end of October if you wish to add your name):
+
+![Photo at GigaScience Birthday Party 2025](/img/2025/2025-gigascience-party.jpg)
+![Sreenshot of BCC online conference](/img/2025/2025-online-bcc.jpg)
+![Photo of Moni and Scott on-stage during BOSC 2025 panel](/img/2025/2025-gigascience-cake.jpg)
+![Photo highlighging GigaScience's BOSC 2025 sponsorship](/img/2025/2025-gigascience-sponsors.jpg)
+![Small group photo outside the Cavern Club, Liverpool, after BOSC 2025](/img/2025/2025-cavern-club-outside.jpg)
+![Photo of Moni and Scott inside the Cavern Club, Liverpool, after BOSC 2025](/img/2025/2025-cavern-club-inside.jpg)
