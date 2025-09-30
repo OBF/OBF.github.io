@@ -74,11 +74,12 @@ including board members. You can add your name via a pull request:
 * Deepak Unni
 * Hervé Ménager
 * Hilmar Lapp
-* J. Harry Caufield
 
 Post-publication signatories (alphabetical, please
 [make a pull request](https://github.com/OBF/OBF.github.io/edit/main/content/posts/2025-09-30-gigascience.md)
 by the end of October if you wish to add your name):
+
+* J. Harry Caufield
 
 ![Photo at GigaScience Birthday Party 2025](/img/2025/2025-gigascience-party.jpg)
 ![Sreenshot of BCC online conference](/img/2025/2025-online-bcc.jpg)
