@@ -74,6 +74,7 @@ including board members. You can add your name via a pull request:
 * Deepak Unni
 * Hervé Ménager
 * Hilmar Lapp
+* J. Harry Caufield
 
 Post-publication signatories (alphabetical, please
 [make a pull request](https://github.com/OBF/OBF.github.io/edit/main/content/posts/2025-09-30-gigascience.md)
