@@ -28,8 +28,8 @@ Since its founding, GigaScience has been at the forefront of open data science.
 Its initiative to build its own data repository, to assign curators, and to archive the data underlying accepted articles was truly pioneering, and other journals followed.
 Unlike traditional journals operated solely by editorial boards, GigaScience is, in effect, equivalent to establishing a full-fledged data center. 
 
-The recent news concerning GigaScience’s owners, BGI, laying off the Editor in Chief and the rest of the editorial team in Hong Kong on short notice,
-has filled us with both surprise and deep disappointment.
+The recent news concerning GigaScience’s owners, BGI, laying off the entire editorial,
+software and curation team in Hong Kong on short notice, has filled us with both surprise and deep disappointment.
 They are the very people who established the journal’s identity and direction and made it an essential journal in biomedical informatics.
 Departing Editor in Chief Scott Edmunds wrote a passionate article sharing a retrospective on
 [15 years of innovation at GigaScience](https://doi.org/10.59350/hzfr4-z0881) [1].
@@ -44,17 +44,15 @@ The work that GigaScience does to make sure that not just publications,
 but the data they are reporting on, is truly what the scientific community has long needed.
 
 GigaScience has been a longtime sponsor of the Bioinformatics Open Source Conference (BOSC).
-Members of its editorial office have joined BOSC and the encompassing Intelligent Systems for Molecular Biology (ISMB) conference for many years,
-at times giving talks and serving in discussion panels.
+Members of its editorial office have participated in BOSC and the encompassing Intelligent Systems for Molecular Biology (ISMB) conference for many years,
+at times giving talks and serving in discussion panels
+(for example, Scott was on the [2025 Data Sustainability panel](https://www.open-bio.org/events/bosc-2025/panel/)).
 Beyond their financial contributions and their support and hard work on behalf of open science, the people at GigaScience are our friends.
 
-BGI’s decision to lay off the GigaScience Hong Kong-based editorial team is not incomprehensible.
-In this field, it is not unusual for software or databases to fall into disrepair when funding ends or maintainers move on.
-Yet precisely for this reason, we have particular respect for projects that endure for long periods.
-
-We trust that the decision was made after much deliberation, and we sincerely hope that under its new management,
+We sincerely hope that under its new management,
 the assets that were so painstakingly constructed will be preserved and further developed for years to come.
-And to those talented and brilliant members who were let go, Scott, Nicole, Chris, Peter, Mary Ann, Bastien, and Ken,
+And to those talented and brilliant members who were let go &mdash;
+Scott, Nicole, Chris, Peter, Mary Ann, Bastien, and Ken &mdash;
 we wish you bright and fortunate opportunities ahead.
 From our hearts, we hope that we may once again see you at scientific meetings,
 still burning with a passionate commitment to open science and open publication.
@@ -69,12 +67,13 @@ including board members. You can add your name via a pull request:
 * Tazro Ohta
 * Nomi Harris
 * Peter Cock
+* Mónica Muñoz Torres
 * Chris Fields
 * Bastian Greshake Tzovaras
 * Deepak Unni
 * Hervé Ménager
+* Hilmar Lapp
 
 Post-publication signatories (alphabetical, please
 [make a pull request](https://github.com/OBF/OBF.github.io/edit/main/content/posts/2025-09-30-gigascience.md)
 by the end of October if you wish to add your name):
-
