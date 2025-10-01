@@ -80,6 +80,7 @@ Post-publication signatories (alphabetical, please
 by the end of October if you wish to add your name):
 
 * J. Harry Caufield
+* Nicola Soranzo
 
 ![Photo at GigaScience Birthday Party 2025](/img/2025/2025-gigascience-party.jpg)
 ![Sreenshot of BCC online conference](/img/2025/2025-online-bcc.jpg)
