@@ -75,7 +75,7 @@ including board members. You can add your name via a pull request:
 * Hervé Ménager
 * Hilmar Lapp
 
-Post-publication signatories (alphabetical, please
+Post-publication signatories (chronological, please
 [make a pull request](https://github.com/OBF/OBF.github.io/edit/main/content/posts/2025-09-30-gigascience.md)
 by the end of October if you wish to add your name):
 
