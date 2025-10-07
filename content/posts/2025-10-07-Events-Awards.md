@@ -5,17 +5,17 @@ category:
   - event-fellowship
   - travel-fellowship
 cover:
-  alt: Kyra-Feuer at the Conference
-  image: /img/2025/2025-04-30-Kyra-Feuer-02.jpg
+  alt: Tayyaba Alvi at the Conference
+  image: /img/2025/2025-08-25-TA4.png
 
-date: "2025-07-15T21:30:32+00:00"
+date: "2025-10-06T21:30:32+00:00"
 tag:
   - community
   - event-fellowship
   - travel-fellowship
  
 title: Call for the third 2025 round of the OBF Event Fellowship & overview of the second round of 2025
-url: /2025/07/15/event-fellowship-2025-3/
+url: /2025/10/07/event-fellowship-2025-3/
 
 ---
 The call for applications for **round 3** of the [OBF Event Fellowship](https://www.open-bio.org/event-awards/) for 2025 is now open. **The deadline for this round is 1 December 2025\.** You can submit your application through [this Google Form](https://forms.gle/D31zSs558aRwj2ig9). We have provided a Word template to help you draft the application locally before filling out the form – [make a copy of this template](https://docs.google.com/document/d/11Uiw3pVWHPhv-5_Zbnkd9EqS2J3dXWm_xqt3n6V2m4Y/edit?usp=sharing).
@@ -36,15 +36,17 @@ In the second round of 2025 (August 2025), we received numerous applications, an
 4. Hetvi Jethwani - BioHackathon Europe 2025
 5. Rafał Miłodrowski - BioHackathon Europe 2025
 
+Notably, the OBF Events Fellowship sponsored three participants at the BioHackathon Europe 2025. 
+
 We require each awardee to write a blog post about their conference experience, to share what they learned with the wider community. Here are some examples from our recent awardees: 
 
 {{< columns >}}
 
-![OBF Event awardee Kyra Feuer at the 2025 International Statistical Genetics Workshop](/img/2025/2025-04-30-Kyra-Feuer-02.jpg)
+![OBF Event awardee Tayyaba Alvi at the ISMB/ECCB2025](/img/2025/2025-08-25-TA4.png)
 
 {{< column >}}
 
-**Masturina Binti Md Mansor** (left) attended the 2025 International Statistical Genetics Workshop, supported by OBF Event Fellowships. [Read about their experience here](https://www.open-bio.org/2025/04/30/2025-04-30-Kyra-Feuer-2025-International-Statistical-Genetics-Workshop/).
+**Tayyaba Alvi** (left) attended the ISMB/ECCB2025 Conference, supported by OBF Event Fellowships. [Read about their experience here](https://www.open-bio.org/2025/08/25/2025-08-25-Tayyaba-Alvi-ISMB2025/).
 
 {{< endcolumns >}}
 
