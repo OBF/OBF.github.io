@@ -16,6 +16,7 @@ url: /2025/08/25/2025-08-25-Tayyaba-Alvi-ISMB2025/
 ---
 
 **_The_** [**_Open Bioinformatics Foundation (OBF) Event Fellowship program_**](/travel-awards) **_aims to promote diverse participation at events promoting open-source bioinformatics software development and open science practices in the biological research community. Tayyaba Alvi,_** _**a PhD student at**_ _**Fritz Lipmann Institute on Aging**_, **_was awarded an OBF Event Fellowship to attend_** **_[ISMB/ECCB2025](https://www.iscb.org/ismbeccb2025/home)_**.
+![David Baker on the screen on the left, and me with my poster on the right](/img/2025/2025-08-25-TA4.png)
 
 Thanks to the Event Fellowship from the Open Bioinformatics Foundation (OBF), I had the chance to attend the 33rd Conference on Intelligent Systems for Molecular Biology (ISMB 2025) in Liverpool. It’s the annual meeting of the International Society for Computational Biology (ISCB) and the biggest conference in the field. This year, it brought together over 2,000 researchers from all over the world at ACC Liverpool, a beautiful venue right by the Albert Dock.
 
@@ -43,8 +44,6 @@ There was a lot to take in—talks ranged from methods development to applicatio
 Outside the talks, the poster sessions and coffee breaks were great for meeting people. I had lots of interesting conversations, some about research, others just about navigating PhD life or sharing career advice. Chatting with poster presenters also helped me learn about tools and approaches I hadn’t seen before. Those casual exchanges were honestly one of the best parts of the week.
 
 The conference wrapped up with a conversation with David Baker, who shared his insights on protein design and creative science, followed by a final keynote from Fabian Theis. His talk focused on atlas-scale data integration and the Human Cell Atlas, a huge and ongoing effort to map cell types across tissues and conditions. It was a powerful reminder of how large-scale collaboration can really push the field forward.
-
-![David Baker on the screen on the left, and me with my poster on the right](/img/2025/2025-08-25-TA4.png)
 
 ## Exploring Liverpool
 In between conference sessions, I made sure to explore a bit of Liverpool. The dockside area near the venue was lovely to walk around—full of history, great views of the Mersey, and a surprisingly peaceful vibe despite all the conference hustle. 
