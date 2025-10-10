@@ -1,7 +1,6 @@
 ---
 author: nlharris
 date: "2025-05-30T16:50:23+00:00"
-guid: https://www.open-bio.org/wp/?page_id=2716
 title: BOSC 2025 Panel
 url: /events/bosc-2025/panel/
 bosc: yes
@@ -81,16 +80,31 @@ For decades, he has been a strong advocate for open-source bioinformatics softwa
 
 {{< endcolumns >}}
 
+### Scott Edmunds
+
+{{< columns >}}
+
+Dr Scott Edmunds is Editor in Chief of [GigaScience](https://academic.oup.com/gigascience), the Hong Kong based Open Science journal that publishes data and software papers (and which launched at ISMB in 2012).
+After PhD and postdoctoral research experience in Cancer Molecular Pathology, he has spent nearly 20 years working in open access publishing and open data.
+He has co-founded Citizen Science organisations Bauhinia Genome and CitizenScience.Asia, and is on the Board of Directors of the Dryad Digital Repository and Make Data Count. 
+He has also taught data management and curation at Hong Kong University.
+
+{{< column >}}
+
+<img src="/img/2025/2025-07-15_Scott-Edmunds.png" alt ="Scott Edmunds" style="width:90%"/>
+
+{{< endcolumns >}}
+
 ### MODERATOR: Monica Munoz-Torres
 
 {{< columns >}}
 
-Dr. Munoz-Torres is an Associate Professor at the University of Colorado Anschutz Medical Campus. She leads the Standards Team and is the Co-chair of the Steering Committee for the NIH-funded Bridge to Artificial Intelligence (Bridge2AI) Program.
-She is also Co-Lead of the Clinical & Phenotypic Data Capture Work Stream of the Global Alliance for Genomics and Health (GA4GH).
-Dr. Munoz-Torres's expertise spans genomics, biocuration, knowledge representation, and data harmonization, as well as the development of software tools and standards to advance these fields.
+<img src="/wp-content/uploads/2022/05/Monica_Munoz-Torres-2.jpeg" alt ="Monica Munoz-Torres" style="width:75%"/>
 
 {{< column >}}
 
-<img src="/wp-content/uploads/2022/05/Monica_Munoz-Torres-2.jpeg" alt ="Monica Munoz-Torres" style="width:75%"/>
+Dr. Munoz-Torres is an Associate Professor at the University of Colorado Anschutz Medical Campus. She leads the Standards Team and is the Co-chair of the Steering Committee for the NIH-funded Bridge to Artificial Intelligence (Bridge2AI) Program.
+She is also Co-Lead of the Clinical & Phenotypic Data Capture Work Stream of the Global Alliance for Genomics and Health (GA4GH).
+Dr. Munoz-Torres's expertise spans genomics, biocuration, knowledge representation, and data harmonization, as well as the development of software tools and standards to advance these fields.
 
 {{< endcolumns >}}

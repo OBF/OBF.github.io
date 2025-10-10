@@ -29,7 +29,13 @@ Working together to develop, promote and protect our data resources: Lessons lea
 
 {{< endcolumns >}}
 
-## Panel: Data Sustainability ([more info](/events/bosc-2025/panel/))
+</div>
+
+<div class="well">
+ 
+## [Panel: Data Sustainability](/events/bosc-2025/panel/)
+
+ <img src="/img/2025/2025-07-16-panel-ribbon.png" alt ="Panelists" style="width:90%"/>
 
 </div>
 

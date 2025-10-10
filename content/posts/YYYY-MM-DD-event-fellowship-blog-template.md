@@ -116,6 +116,8 @@ Describe the sessions, people, activities, or discoveries that stood out, emphas
 - Or numbered lists
 - Or paragraphs with images and links
 
+(Keep this section brief! You're not writing a grant proposal!)
+
 ### Add Images
 
 Upload your images to `static/img/YYYY/` for the current year.
@@ -124,10 +126,12 @@ Then use the following without the static prefix:
 ```markdown
 ![Alt text](/img/YYYY/YYYY-MM-DD-image-name.jpg)
 ```
+#### Add an image to your first paragraph
 
-Example:
-
-![Group photo at hackathon](/wp-content/uploads/YYYY/hackathon-group.jpg)
+Due to a quirk in the way our web templating system is set up, you need to include an image in the opening paragraph in order to have it show up on the [Posts page](https://www.open-bio.org/blog/).
+You can put a good image (ideally, one that shows you at the conference, and is more wide than tall) at the end of the canned text about the OBF Event Fellowship,
+on the next line but with no blank line in between.
+See, for example, https://github.com/OBF/OBF.github.io/blob/main/content/posts/2025-08-25-Tayyaba-Alvi-ISMB2025.md.
 
 ### Add Links
 
@@ -139,7 +143,7 @@ Example: [OBF Event Fellowship](https://www.open-bio.org/event-awards/)
 
 ### Add Code Blocks
 
-Use fenced blocks:
+There's probably no need to add code blocks to a blog post, but if you do, use fenced blocks:
 
 \`\`\`bash
 nextflow run awesome-workflow.nf
@@ -147,7 +151,7 @@ nextflow run awesome-workflow.nf
 
 ### Add Videos
 
-Embed a video with a simple link or screenshot and description.
+You can embed a video with a simple link or screenshot and description.
 
 Example:
 
@@ -164,8 +168,6 @@ What did you learn? Who did you connect with? How will you promote open science 
 ## Acknowledgements
 
 Thank your funders, mentors, collaborators, or community members.
-
-> "Thank you OBF Event Fellowship for supporting my travel to [Event Name]!"
 
 ---
 

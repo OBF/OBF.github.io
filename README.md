@@ -139,6 +139,8 @@ image, use this html:
   - If you want to preview posts on localhost, set the date to the current date and add a line "draft: true". Then kill your hugo server and start it again with the argument "--buildDrafts". This allows you to commit the blog post to the repo without having it show up on the live site (you'll have to remove "draft: true" to make it show up).
   - To get posts to show up on the BOSC news page, include the category "bosc" (the tag doesn't seem to matter).
   - Note that new posts may not show up on the main OBF home page until you kill and restart hugo.
+- Photos/Images in posts
+   - Images in the arcticle preview on the frontpage/blog page will only show up if they are part of the first paragraph    
 
 ## Steps taken to port content from old WP site
 

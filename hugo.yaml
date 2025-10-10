@@ -61,15 +61,6 @@ menu:
       url: 'about'
       parent: 'about'
       weight: 1
-    - name: 'Get Involved'
-      parent: 'about'
-      url: 'get-involved'
-    - name: 'Diversity, Equity & Inclusion'
-      parent: 'about' 
-      url: '/obf-dei/'
-    - name: 'Donate'
-      parent: 'about'
-      url: 'donate'
     - name: 'Board'
       parent: 'about'
       url: 'board'
@@ -78,6 +69,22 @@ menu:
       parent: 'about'
       url: '/projects'
       weight: 3
+    - name: 'OBF Event Awards'
+      parent: 'about'
+      url: '/event-awards/'
+      weight: 4
+    - name: 'Get Involved'
+      parent: 'about'
+      url: 'get-involved'
+      weight: 5
+    - name: 'Diversity, Equity & Inclusion'
+      parent: 'about' 
+      url: '/obf-dei/'
+      weight: 6
+    - name: 'Donate'
+      parent: 'about'
+      url: 'donate'
+      weight: 7
     - name: 'BOSC'
       identifier: 'bosc'
       weight: 2
@@ -85,18 +92,18 @@ menu:
       parent: 'bosc'
       url: 'events/bosc-2025/'
       weight: 1
-    - name: 'Submit abstract'
-      parent: 'bosc'
-      url: 'events/bosc-2025/submit/'
-      weight: 2
     - name: 'Schedule'
       parent: 'bosc'
       url: 'events/bosc-2025/bosc-2025-schedule/'
-      weight: 3
+      weight: 2
     - name: 'Keynotes'
-      weight: 4 
+      weight: 3 
       parent: 'bosc'
       url: 'events/bosc-2025/bosc-2025-keynotes/'
+    - name: 'Panel'
+      weight: 4 
+      parent: 'bosc'
+      url: 'events/bosc-2025/panel/'
     - name: "CollaborationFest"
       weight: 5
       parent: 'bosc'
@@ -113,10 +120,10 @@ menu:
       weight: 8
       parent: 'bosc'
       url: 'events/bosc/sponsors/'
-    - name: 'Event Awards'
-      weight: 3
-      url: 'event-awards/'
     - name: 'News'
-      url: 'posts'
+      url: 'blog'
       weight: 4
- 
+
+permalinks:
+  section:
+    posts: /blog/
