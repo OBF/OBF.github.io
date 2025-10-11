@@ -88,23 +88,19 @@ menu:
     - name: 'BOSC'
       identifier: 'bosc'
       weight: 2
-    - name: 'BOSC 2025'
+    - name: 'BOSC 2026'
       parent: 'bosc'
-      url: 'events/bosc-2025/'
+      url: 'events/bosc-2026/'
       weight: 1
-    - name: 'Schedule'
+    - name: 'Schedule (2025)'
       parent: 'bosc'
       url: 'events/bosc-2025/bosc-2025-schedule/'
       weight: 2
-    - name: 'Keynotes'
-      weight: 3 
-      parent: 'bosc'
-      url: 'events/bosc-2025/bosc-2025-keynotes/'
-    - name: 'Panel'
+    - name: 'Panel (2025)'
       weight: 4 
       parent: 'bosc'
       url: 'events/bosc-2025/panel/'
-    - name: "CollaborationFest"
+    - name: "CollaborationFest (2025)"
       weight: 5
       parent: 'bosc'
       url: 'events/bosc-2025/ismb-collaborationfest-2025/'
