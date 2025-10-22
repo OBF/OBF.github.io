@@ -2,7 +2,7 @@
 author: nlharris
 date: "2023-03-27T19:05:24+00:00"
 guid: https://www.open-bio.org/?page_id=6961
-title: Sponsors
+title: Sponsors - BOSC 2025
 url: /events/bosc/sponsors-2025/
 bosc: yes
 ---
