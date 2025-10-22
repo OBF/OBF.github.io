@@ -1,12 +1,9 @@
 ---
 author: nlharris
-cover:
-  alt: panel-with-Nomi - 1
-  image: /wp-content/uploads/2022/11/panel-with-Nomi-1.jpeg
 date: "2023-03-27T19:05:24+00:00"
 guid: https://www.open-bio.org/?page_id=6961
 title: Sponsors
-url: /events/bosc/sponsors/
+url: /events/bosc/sponsors-2025/
 bosc: yes
 ---
 
