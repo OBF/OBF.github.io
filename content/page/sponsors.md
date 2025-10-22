@@ -5,12 +5,14 @@ title: Sponsors
 url: /events/bosc/sponsors/
 bosc: yes
 ---
+
+<div class="well">
+  
 ### Sponsoring BOSC
 
 {{< columns >}}
 
 Sponsorships from companies and non-profit organizations help to defray some of our costs and enable us to offer free registration for some conference participants. In 2024, thanks to our sponsors’ generous support, we were able to grant free registration to 15 participants, offer honoraria to keynote speakers, and cover other expenses.
-
 
 #### Interested in sponsoring BOSC?
 
@@ -45,7 +47,6 @@ Sponsorships from companies and non-profit organizations help to defray some of 
 
 <br/>
 
-<div class="well">
 
 ## What is BOSC?
 
