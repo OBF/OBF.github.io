@@ -17,6 +17,7 @@ editor_options:
 ---
 
 ***The*** [***Open Bioinformatics Foundation (OBF) Event Fellowship program***](/travel-awards) **aims to promote diverse participation at events promoting open-source bioinformatics software development and open science practices in the biological research community. Ruby Krasnow, a PhD student at the University of Maine, was awarded an OBF Event Fellowship to attend the [2025 ESIIL Innovation Summit](https://cu-esiil.github.io/Innovation-Summit-2025/)**.
+![A group photo of six researchers (three men and three women) taken in a classroom. A draft food web is visible on the whiteboard behind them.](/img/2025/2025-11-03-ESIIL-Summit-group4.png) *My team (Group 4) from the 2025 ESIIL Innovation Summit.*
 
 ## Introduction
 
@@ -45,8 +46,6 @@ Forest Service, Bureau of Land Management, and other agencies.
 My team chose to focus on environmental tipping points within freshwater food webs, exploring how the stability and resilience of food webs might be affected by—or serve as an early warning signal for—environmental tipping points or “regime shifts.” As an initial case study, we concentrated on Lake Champlain, a relatively data-rich system that one of our team members, [Dr. Alyssa Gleichsner](https://www.plattsburgh.edu/academics/schools/arts-sciences/biological-sciences/faculty/gleichsner-alyssa.html), knows well.
 
 ![Four-level trophic diagram composed of boxes labeled piscivorous fish, planktivorous fish, zooplankton, and phytoplankton, accompanied by cartoons of each organism. To the right of the hierarchy is a box containing images of a zebra mussel and Eurasian milfoil, labeled invasives.](/img/2025/2025-11-03-ESIIL-simple-foodweb.jpg) ![Food web diagram for Lake Champlain, following the same general structure as the simplified diagram but with individual species labeled within the larger trophic groups.](/img/2025/2025-11-03-ESIIL-moderate-foodweb.jpg) *Preliminary drafts of a simplified food web of the Lake Champlain ecosystem, with more (left) or less (right) abstraction of individual species into trophic groups. Dates in parentheses in the right figure indicate the year of first appearance for invasive species.*
-
-![A group photo of six researchers (three men and three women) taken in a classroom. A draft food web is visible on the whiteboard behind them.](/img/2025/2025-11-03-ESIIL-Summit-group4.png) *My team (Group 4) from the 2025 ESIIL Innovation Summit.*
 
 ESIIL staff encouraged us to use reproducible data analysis workflows from the very beginning of our project.
 Each team received a [template GitHub repository](https://cu-esiil.github.io/stressors-food-web-connectivity-stability-innovation-summit-2025__4/) to track progress and share code, which we used when presenting our initial results during report-back sessions to all participants.
