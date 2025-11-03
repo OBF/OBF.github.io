@@ -28,7 +28,7 @@ An annual event, this year’s ESIIL Summit had the following goals:
 -   Champion ethical practices in environmental science, and encourage the responsible use of AI.
 -   Support teams by establishing collaborations around data-inspired themes across different disciplines, sectors, and career stages.
 
-![Summit participants stand on a staircase inside the Sustainability, Energy and Environment Community building at CU Boulder. A dinosaur skeleton is visible to the left of the stairs.](/img/2025/2025-11-03-ESIIL-Summit-everyone.jpg) *Summit participants at the Sustainability, Energy and Environment Community (SEEC) building, part of the University of Colorado Boulder.*
+![Summit participants stand on a staircase inside the Sustainability, Energy and Environment Community building at CU Boulder. A dinosaur skeleton is visible to the left of the stairs.](/img/2025/2025-11-03-ESIIL-Summit-everyone-small.jpg) *Summit participants at the Sustainability, Energy and Environment Community (SEEC) building, part of the University of Colorado Boulder.*
 
 The Summit was designed as an “unconference,” where much of the time was dedicated to forming teams that each tackled a specific research question related to understanding and predicting environmental tipping points and working in those teams to begin a collaborative project that ideally lasts far beyond the end of the in-person gathering.
 This event was a remarkable opportunity to meet and collaborate with other scientists from a variety of backgrounds.
@@ -60,7 +60,7 @@ Perhaps the most meaningful aspect of the event was the emphasis on learning fro
 It was impossible not to be moved by the words of the Indigenous leaders present at the Summit, who spoke about the deep connection we have to every part of the natural world and our responsibility to honor and protect the land, water, and life around us.
 Although I was aware in an academic sense of Traditional Ecological Knowledge (TEK) and efforts to incorporate TEK with traditional western science, the Summit was the first place I’ve experienced it in action, and it was very powerful to see how diverse ways of knowing can be weaved together to support environmental protection and management efforts.
 
-![Sunrise over the mountains in Boulder, Colorado, visible in the distance beyond a field with trees.](/img/2025/2025-11-03-ESIIL-mountains.png) ![A mule deer standing in tall grass, eating leaves from a tree.](/img/2025/2025-11-03-ESIIL-deer.png) *Pictures of the mountains in Boulder and a grazing mule deer taken while walking to the University of Colorado Boulder East Campus, where the Summit was held.*
+![Sunrise over the mountains in Boulder, Colorado, visible in the distance beyond a field with trees.](/img/2025/2025-11-03-ESIIL-mountains-small.jpg) ![A mule deer standing in tall grass, eating leaves from a tree.](/img/2025/2025-11-03-ESIIL-deer-small.jpg) *Pictures of the mountains in Boulder and a grazing mule deer taken while walking to the University of Colorado Boulder East Campus, where the Summit was held.*
 
 In many ways, the Summit showed me the value of diversity in scientific communities and the importance of community itself in maintaining hope and joy when facing immense challenges.
 Having learned more about ESIIL and its core values, I see many similarities with OBF, and I hope that OBF’s support of my participation in this ESIIL event will be only one of many examples of collaboration between the two organizations.
