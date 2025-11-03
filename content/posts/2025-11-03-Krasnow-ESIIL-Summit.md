@@ -34,7 +34,9 @@ The Summit was designed as an “unconference,” where much of the time was ded
 This event was a remarkable opportunity to meet and collaborate with other scientists from a variety of backgrounds.
 
 I learned a great deal about the conference theme as well as the open-source software tools that support the use of big data to answer questions related to the environmental transformations or disturbances.
-The topics chosen by the groups were extremely diverse, such as: - Examining how hydrology, governance, and management interact within and across the Snake, Green, and Wind River Basins in the western U.S. - Synthesizing forest management and intervention strategies that can mitigate the impacts of linked disturbances (e.g., drought, windstorm, wildfire, and insect/pathogen disturbances).
+The topics chosen by the groups were extremely diverse, such as:
+
+- Examining how hydrology, governance, and management interact within and across the Snake, Green, and Wind River Basins in the western U.S. - Synthesizing forest management and intervention strategies that can mitigate the impacts of linked disturbances (e.g., drought, windstorm, wildfire, and insect/pathogen disturbances).
 - Creating a dashboard and interactive search tool for tribal decision-makers to access and understand meaningful information about extractive activities in the HeSapa (Black Hills) through \>2,400 Environmental Impact Statement/Assessment documents from the U.S.
 Forest Service, Bureau of Land Management, and other agencies.
 - Evaluating how the order, duration, frequency, and intensity of disturbances affect the likelihood of regime shifts from forests to nonforests.
