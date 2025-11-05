@@ -48,10 +48,10 @@ Bioinformatician at the [International Center of Insect Physiology and Ecology, 
   src="/img/Hilmar-Lapp-1.jpg"
   alt="Image of Hilmar Lapp"
   link= "https://lappland.io"
-  title= "[Hilmar Lapp](https://lappland.io/)"
+  title= "[Hilmar Lapp](https://orcid.org/0000-0001-9107-0714)"
   caption=`
 _At-large Member_ 
-Representing [BioPerl](http://www.bioperl.org/), Director of Informatics at the [Center for Genomic and Computational Biology](http://genome.duke.edu/) (GCB) at Duke University. Former OBF President.
+Representing [BioPerl](http://www.bioperl.org/), Open Research Faculty at [Neuromatch](https://neuromatch.io/). Former OBF President.
 `
 >}}
 
