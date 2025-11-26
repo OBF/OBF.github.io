@@ -16,7 +16,7 @@ url: /2025/11/03/2025-11-03-Fatemeh-Elixir-BioHackathon-experience/
 ---
 
 The Open Bioinformatics Foundation (OBF) Event Fellowship program aims to promote diverse participation at events promoting open-source bioinformatics software development and open science practices in the biological research community. Fatemeh Mirzade, a PhD researcher at the University of Antwerp, was awarded an OBF Event Fellowship to attend the BioHackathon Europe 2025 ([https://biohackathon-europe.org/2025](https://biohackathon-europe.org/)).
-![BioHackathon Europe 2025 group photo](/img/2025/2025-11-03-qc-workflow-sketch.png)
+![BioHackathon Europe 2025 group photo](/static/img/2025/2025-11-03-qc-workflow-sketch.png)
 
 # My BioHackathon Experience: Contributing to Open Science in Proteomics
 
