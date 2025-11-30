@@ -93,7 +93,7 @@ We expect that your participation in the event will
 - promote open source software development and/or open science in the biological research community
 - promote diversity in this community.
 
-Awardees are required to write a [post on the OBF blog](/category/event-fellowship/) about their experience attending the event. This should be completed within three weeks after the event ends, and is a prerequisite before the awardee can receive payment.
+Awardees are required to write a [post for the OBF blog](/category/event-fellowship/) about their experience attending the event. This should be completed within three weeks after the event ends, and is a prerequisite before the awardee can receive payment. Blog posts should be written in your own words, not AI-generated.
 
 # Applications
 
@@ -107,7 +107,8 @@ Any panelist with a clear conflict of interest will recuse themselves from delib
 
 Fill out the [application form](https://forms.gle/L96UvgCGMDgye7su9). Applicants will be notified of the outcome about three weeks after the application deadline.
 
-We have created [a word template](https://docs.google.com/document/d/11Uiw3pVWHPhv-5_Zbnkd9EqS2J3dXWm_xqt3n6V2m4Y/edit?usp=sharing) of the form, which can be used for creating a draft of your application. Please make a copy or download this document as a ‘.docx’ file. If Google Docs and Forms are not accessible from your geographical location, please email the fellowship chair to receive a template document by email.
+We have created [a Google docs template](https://docs.google.com/document/d/11Uiw3pVWHPhv-5_Zbnkd9EqS2J3dXWm_xqt3n6V2m4Y/edit?usp=sharing) that can be used for creating a draft of your application. 
+Please make a copy for you to edit, or download this document as a ‘.docx’ file. If Google Docs and Forms are not accessible from your geographical location, please email the fellowship chair to receive a template document by email.
 
 **Application Deadlines:**
 
