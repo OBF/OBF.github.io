@@ -34,7 +34,7 @@ The projects are all in bioinformatics but spanning a variety of topics— every
 
 ## Brief information about my project
 
-I was part of Project 4: Beyond Beacons- Establishing genomic background in European and international biobanks.
+I was part of Project 4: _Beyond Beacons- Establishing genomic background in European and international biobanks_.
 
 We had 5 in person members and 1 online member working collaboratively on this project. The broad goal of this project was to assess the effect of genomic context as defined by haploblocks on the penetrance of mendelian variants.
 
