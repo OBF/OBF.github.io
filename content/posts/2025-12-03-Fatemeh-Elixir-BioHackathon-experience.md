@@ -21,7 +21,7 @@ The Open Bioinformatics Foundation (OBF) Event Fellowship program aims to promot
 
 From the 3rd to 7th of November 2025, I had an incredible opportunity that shaped my early PhD journey: participating in BioHackathon Europe 2025 as part of **Project #29 on proteomics quality control**. Thanks to the Open Bioinformatics Foundation (OBF) Event Fellowship, I joined a team of bioinformaticians and proteomics researchers working to solve a critical challenge in our field.
 
-🔗 Project #29 repository: https://github.com/MS-Quality-Hub/biohackathon2025  
+🔗 Project #29 repository: https://github.com/MS-Quality-Hub/biohackathon2025
 🔗 OBF on GitHub: https://github.com/OBF
 
 ## Why I Joined
@@ -31,13 +31,13 @@ As someone just starting their PhD, I was both nervous and excited to dive into 
 I was assigned to create a formal taxonomy for QC metrics in mass spectrometry. When I first looked at the existing PSI-MS Controlled Vocabulary, I was overwhelmed. There were metrics scattered everywhere, categorized in ways that mixed fundamentally different information together.
 
 Working with the team, I helped develop a **seven-dimensional classification system** that describes each metric along orthogonal axes:
-- workflow stage  
-- analytical dimension  
-- information dependency  
-- measurement scope  
-- acquisition strategy  
-- quality interpretation  
-- metric value type  
+- workflow stage
+- analytical dimension
+- information dependency
+- measurement scope
+- acquisition strategy
+- quality interpretation
+- metric value type
 
 ![QC workflow sketch](/img/2025/2025-11-03-obf-logo.png)
 
@@ -49,9 +49,9 @@ This was my first real experience contributing to open-source infrastructure tha
 What struck me most was the collaborative nature of open science. I watched established researchers patiently explain concepts, saw consensus emerge through respectful debate, and learned that asking “stupid” questions often reveals important assumptions.
 
 Meanwhile, other team members built incredible tools:
-- an **mzQC export function for pMultiQC**  
-- an **ID-free QC calculator using pyOpenMS**  
-- a **web-based validator** for our classification system  
+- an **mzQC export function for pMultiQC**
+- an **ID-free QC calculator using pyOpenMS**
+- a **web-based validator** for our classification system
 
 These weren’t just internal prototypes but contributions to the broader proteomics ecosystem.
 
@@ -68,9 +68,7 @@ This hackathon showed me what open science looks like in practice: people from d
 I'm grateful to the Open Bioinformatics Foundation for making my participation possible and excited to continue contributing throughout my PhD.
 
 ## Want to Explore More?
-❖ **Full story on Medium:**  
-https://medium.com/@fatemehmirzadehsarcheshmeh/building-the-future-of-proteomics-quality-control-my-experience-at-biohackathon-europe-2025-8487191e170f  
-❖ **Project repo:** https://github.com/MS-Quality-Hub/biohackathon2025  
-❖ **OBF GitHub:** https://github.com/OBF  
-
-
+❖ **Full story on Medium:**
+https://medium.com/@fatemehmirzadehsarcheshmeh/building-the-future-of-proteomics-quality-control-my-experience-at-biohackathon-europe-2025-8487191e170f
+❖ **Project repo:** https://github.com/MS-Quality-Hub/biohackathon2025
+❖ **OBF GitHub:** https://github.com/OBF
