@@ -16,7 +16,7 @@
 
     <div class="row">
       <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-        {{ if isset .Params "bosc" }} 
+        {{ if isset .Params "bosc" }}
           {{- partial "footer_custom.html" . }}
         <hr/>
         <h1 class="text-center">Follow OBF</h1>
@@ -116,7 +116,7 @@
 <script src="{{ "js/photoswipe.min.js" | absURL }}"></script>
 <script src="{{ "js/photoswipe-ui-default.min.js" | absURL }}"></script>
 {{- else -}}
-<!-- 
+<!--
 <script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe.min.js" integrity="sha384-QELNnmcmU8IR9ZAykt67vGr9/rZJdHbiWi64V88fCPaOohUlHCqUD/unNN0BXSqy" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/photoswipe/4.1.2/photoswipe-ui-default.min.js" integrity="sha384-m67o7SkQ1ALzKZIFh4CiTA8tmadaujiTa9Vu+nqPSwDOqHrDmxLezTdFln8077+q" crossorigin="anonymous"></script>-->
 {{- end -}}
@@ -168,22 +168,20 @@
 $(function(){
   $('#show-comments').on('click', function(){
     var disqus_shortname = '{{ .Site.Config.Services.Disqus.Shortname }}';
-      
+
     (function() {
-      var disqus = document.createElement('script'); 
-      disqus.type = 'text/javascript'; 
+      var disqus = document.createElement('script');
+      disqus.type = 'text/javascript';
       disqus.async = true;
       disqus.src = '//' + disqus_shortname + '.disqus.com/embed.js';
       (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(disqus);
     })();
-      
-    $(this).hide(); 
+
+    $(this).hide();
     });
   });
-      
+
 </script>
 <script id="dsq-count-scr" src="//{{ .Site.Config.Services.Disqus.Shortname }}.disqus.com/count.js" async></script>
 <!-- End Delayed Disqus -->
 {{ end }}
-
-
