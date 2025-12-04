@@ -39,7 +39,7 @@ Working with the team, I helped develop a **seven-dimensional classification sys
 - quality interpretation  
 - metric value type  
 
-![QC workflow sketch](/img/2025/2025-11-03-qc-workflow-sketch.png)
+![QC workflow sketch](/static/obf_logo_icon-circle-tr.png)
 
 I compiled and classified **94 metrics** from scientific literature, covering everything from chromatographic performance to identification confidence. For each one, I documented PSI-MS accession numbers, wrote descriptions, specified units, and noted applicability to different acquisition workflows. The work was tedious but deeply educational. By the end, I understood what “quality” actually means in proteomics.
 
