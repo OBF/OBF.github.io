@@ -39,7 +39,7 @@ Working with the team, I helped develop a **seven-dimensional classification sys
 - quality interpretation  
 - metric value type  
 
-![QC workflow sketch](/static/obf_logo_icon-circle-tr.png)
+![QC workflow sketch](/static/img/2025/2025-11-03-obf-logo.png)
 
 I compiled and classified **94 metrics** from scientific literature, covering everything from chromatographic performance to identification confidence. For each one, I documented PSI-MS accession numbers, wrote descriptions, specified units, and noted applicability to different acquisition workflows. The work was tedious but deeply educational. By the end, I understood what “quality” actually means in proteomics.
 
@@ -66,7 +66,6 @@ We're building something that will help researchers worldwide make better use of
 This hackathon showed me what open science looks like in practice: people from different backgrounds coming together to tackle shared challenges, contributing their expertise freely, and building infrastructure that lifts the entire field.
 
 I'm grateful to the Open Bioinformatics Foundation for making my participation possible and excited to continue contributing throughout my PhD.
-![OBF logo](/img/2025/2025-11-03-obf-logo.png)
 
 ## Want to Explore More?
 ❖ **Full story on Medium:**  
