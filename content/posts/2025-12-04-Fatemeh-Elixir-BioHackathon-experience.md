@@ -68,7 +68,10 @@ This hackathon showed me what open science looks like in practice: people from d
 I'm grateful to the Open Bioinformatics Foundation for making my participation possible and excited to continue contributing throughout my PhD.
 
 ## Want to Explore More?
+
 ❖ **Full story on Medium:**
 https://medium.com/@fatemehmirzadehsarcheshmeh/building-the-future-of-proteomics-quality-control-my-experience-at-biohackathon-europe-2025-8487191e170f
+
 ❖ **Project repo:** https://github.com/MS-Quality-Hub/biohackathon2025
+
 ❖ **OBF GitHub:** https://github.com/OBF
