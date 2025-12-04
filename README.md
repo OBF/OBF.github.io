@@ -1,4 +1,6 @@
-# conversion of the obf website to GitHub pages
+[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/OBF/OBF.github.io/main.svg)](https://results.pre-commit.ci/latest/github/OBF/OBF.github.io/main)
+
+# Conversion of the obf website to GitHub pages
 
 Migration of the OBF WP site to a static site generator (Hugo)
 
