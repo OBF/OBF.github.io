@@ -2,7 +2,7 @@
 author: hetvij
 date: 2025-12-02 # format is YYYY-MM-DD
 
-category: 
+category:
  - community
  - event-fellowship
  - travel-fellowship
@@ -12,7 +12,7 @@ tag:
  - travel-fellowship
 
 title: "BioHackathon Europe 2025: A Week full of Brainstorming, Coding & Collaboration"
-url: /2025/12/02/2025-12-02-Hetvi-J-BioHackathon-Europe-2025/ 
+url: /2025/12/02/2025-12-02-Hetvi-J-BioHackathon-Europe-2025/
 ---
 
 **_The_** [**_Open Bioinformatics Foundation (OBF) Event Fellowship program_**](/travel-awards) **_aims to promote diverse participation at events promoting open-source bioinformatics software development and open science practices in the biological research community. Hetvi J,_** _**a PhD student at**_ _**Imperial College London**_, **_was awarded an OBF Event Fellowship to attend_** **_[BioHackathon Europe 2025](https://biohackathon-europe.org/)_**.
@@ -41,7 +41,7 @@ We had 5 in person members and 1 online member working collaboratively on this p
 <!--- TODO: ADD IMAGE -->
 ![Figure shows a visual summary of the pipeline created by us during this hackathon. Our pipeline begins with input VCF files which are clustered using mmseqs2 to obtain the population structure. We then combine information about the haploblocks, obtained clusters, and SNPs to generate binary encodings per individual and propose a simple linear model to associate these binary encodings with individual-level phenotypes.](/img/2025/2025-12-02-project-summary-biohack25.png)
 
-We segregated sequences from specific haploblocks that contain genes of interest and clustered them using mmseqs2 over 2600 individuals from the 1000 genomes project. Further, we developed a nomenclature system using binary strings to jointly-label the chromosomal, haploblock, cluster, and variant context per individual. 
+We segregated sequences from specific haploblocks that contain genes of interest and clustered them using mmseqs2 over 2600 individuals from the 1000 genomes project. Further, we developed a nomenclature system using binary strings to jointly-label the chromosomal, haploblock, cluster, and variant context per individual.
 
 <!--- TODO: ADD IMAGE -->
 ![A photo of the flipchart during one of our many brainstorming sessions for Project 4](/img/2025/2025-12-02-brainstorm-biohack25.jpg)
