@@ -17,7 +17,7 @@ url: /2025/12/02/2025-12-02-Hetvi-J-BioHackathon-Europe-2025/
 
 **_The_** [**_Open Bioinformatics Foundation (OBF) Event Fellowship program_**](/travel-awards) **_aims to promote diverse participation at events promoting open-source bioinformatics software development and open science practices in the biological research community. Hetvi J,_** _**a PhD student at**_ _**Imperial College London**_, **_was awarded an OBF Event Fellowship to attend_** **_[BioHackathon Europe 2025](https://biohackathon-europe.org/)_**.
 
-Thanks to the Event Fellowship from the Open Bioinformatics Foundation (OBF), I had the opportunity to attend BioHackathon Europe 2025 located in the beautiful city of Baad Saarow, Germany. I’m currently a 3rd year PhD student in Biostatistics and my work focuses on human mitochondrial genetics. Specifically, I construct statistical models to test whether the presence or absence of somatic mitochondrial variants is associated with gene expression changes indicative of stress and aging. As part of my PhD, I work with single-cell -omics data, and run bioinformatics pipelines over high performance computing systems. My broader interests in the fields of open-source scientific computing and bioinformatics motivated me to participate in this hackathon.
+Thanks to the Event Fellowship from the Open Bioinformatics Foundation (OBF), I had the opportunity to attend BioHackathon Europe 2025 located in the beautiful city of Bad Saarow, Germany. I’m currently a 3rd year PhD student in Biostatistics and my work focuses on human mitochondrial genetics. Specifically, I construct statistical models to test whether the presence or absence of somatic mitochondrial variants is associated with gene expression changes indicative of stress and aging. As part of my PhD, I work with single-cell -omics data, and run bioinformatics pipelines over high performance computing systems. My broader interests in the fields of open-source scientific computing and bioinformatics motivated me to participate in this hackathon.
 
 ![The Location of the Hackathon](/img/2025/2025-12-02-venue-biohack25.jpg)
 
@@ -39,7 +39,7 @@ I was part of Project 4: _Beyond Beacons- Establishing genomic background in Eur
 We had 5 in person members and 1 online member working collaboratively on this project. The broad goal of this project was to assess the effect of genomic context as defined by haploblocks on the penetrance of mendelian variants.
 
 <!--- TODO: ADD IMAGE -->
-![Visual summary of achievements of our project](/img/2025/2025-12-02-project-summary-biohack25.png)
+![Figure shows a visual summary of the pipeline created by us during this hackathon. Our pipeline begins with input VCF files which are clustered using mmseqs2 to obtain the population structure. We then combine information about the haploblocks, obtained clusters, and SNPs to generate binary encodings per individual and propose a simple linear model to associate these binary encodings with individual-level phenotypes.](/img/2025/2025-12-02-project-summary-biohack25.png)
 
 We segregated sequences from specific haploblocks that contain genes of interest and clustered them using mmseqs2 over 2600 individuals from the 1000 genomes project. Further, we developed a nomenclature system using binary strings to jointly-label the chromosomal, haploblock, cluster, and variant context per individual. 
 
@@ -78,4 +78,4 @@ Moreover, getting a chance to interact with people from the wider bioinformatics
 Thanks again to OBF for enabling my participation in this project.
 
 <!--- TODO: ADD IMAGE -->
-![Photo of Baad Saarow Lake](/img/2025/2025-12-02-boat-biohack25.jpg)
+![Photo of Bad Saarow Lake](/img/2025/2025-12-02-boat-biohack25.jpg)
