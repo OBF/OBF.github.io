@@ -78,7 +78,7 @@ menu:
       url: 'get-involved'
       weight: 5
     - name: 'Diversity, Equity & Inclusion'
-      parent: 'about' 
+      parent: 'about'
       url: '/obf-dei/'
       weight: 6
     - name: 'Donate'
@@ -97,7 +97,7 @@ menu:
       url: 'events/bosc-2025/bosc-2025-schedule/'
       weight: 2
     - name: 'Panel (2025)'
-      weight: 4 
+      weight: 4
       parent: 'bosc'
       url: 'events/bosc-2025/panel/'
     - name: "CollaborationFest (2025)"

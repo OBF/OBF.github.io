@@ -67,10 +67,10 @@ hugo server &
 Historic images from when the website was on WordPress live in a large separate
 repo https://github.com/OBF/wp-content/ which is included as a git submodule.
 If you want to view images in the web pages on `localhost:1313`, you will need
-to also initialise this repository, which is currently setup using the 
+to also initialise this repository, which is currently setup using the
 `git submodule` workflow.
 
-To load it you can run: 
+To load it you can run:
 
 ```
 cd OBF.github.io/
@@ -86,7 +86,7 @@ This may change.
 
 For new images, you can place these into the `static/img/yyyy/` folder of this repository, where `yyyy` means the four digit year as a subfolder.
 
-When compiling the website during the build, Hugo will move everything in `static/` into the website root, i.e. to `open-bio.org/`. This means that when linking images you do not have to include the `static/` as part of the media/image link. 
+When compiling the website during the build, Hugo will move everything in `static/` into the website root, i.e. to `open-bio.org/`. This means that when linking images you do not have to include the `static/` as part of the media/image link.
 
 As an example: A file that resides in `static/img/2025/test-image.jpg` should be linked in the markdown files like this: `![an image](/img/2025/test-image.jpg)`
 
@@ -127,7 +127,7 @@ image, use this html:
   ```
   <div class="well">
   ```
-  
+
 - To make two columns (e.g. to run text next to an image), use
 "columns" (look for an example in one of our .mds)
 - You can make a button like this:
@@ -140,7 +140,7 @@ image, use this html:
   - To get posts to show up on the BOSC news page, include the category "bosc" (the tag doesn't seem to matter).
   - Note that new posts may not show up on the main OBF home page until you kill and restart hugo.
 - Photos/Images in posts
-   - Images in the arcticle preview on the frontpage/blog page will only show up if they are part of the first paragraph    
+   - Images in the arcticle preview on the frontpage/blog page will only show up if they are part of the first paragraph
 
 ## Steps taken to port content from old WP site
 
@@ -150,6 +150,3 @@ image, use this html:
    not deployed on open-bio.org). (For now, the first line of
    hugo.yaml should say "baseURL: https://OBF.github.io" but that will
    change later)
-   
-
-

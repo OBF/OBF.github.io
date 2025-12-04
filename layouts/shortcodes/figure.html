@@ -3,7 +3,7 @@
 	  {{- if .Get "link" -}}
 	    <a href="{{ .Get "link" }}"{{ with .Get "target" }} target="{{ . }}"{{ end }}{{ with .Get "rel" }} rel="{{ . }}"{{ end }}>
 	  {{- end -}}
-	
+
 	  {{- $u := urls.Parse (.Get "src") -}}
 	  {{- $src := $u.String -}}
 	  {{- if not $u.IsAbs -}}
@@ -11,7 +11,7 @@
 	      {{- $src = .RelPermalink -}}
 	    {{- end -}}
 	  {{- end -}}
-	
+
 	  <img src="{{ $src }}"
 	    {{- if or (.Get "alt") (.Get "caption") }}
 	    alt="{{ with .Get "alt" }}{{ . }}{{ else }}{{ .Get "caption" | markdownify| plainify }}{{ end }}"
