@@ -20,7 +20,7 @@ The main change is that `Bio.Alphabet` is no longer used. In some cases you will
 
 `Bio.SeqIO.parse()` is faster with "fastq" format due to small improvements in the `Bio.SeqIO.QualityIO` module.
 
-The `SeqFeature` object's `.extract()` method can now be used for  
+The `SeqFeature` object's `.extract()` method can now be used for
 trans-spliced locations via an optional dictionary of references.
 
 As in recent releases, more of our code is now explicitly available under either our original " _Biopython License Agreement_", or the very similar but more commonly used " _3-Clause BSD License_". See the `LICENSE.rst` file for more details.

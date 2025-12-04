@@ -31,7 +31,7 @@ Limited remote participation will be possible, but engagement opportunities will
 
 {{< column >}}
 
-![Lunch at CoFest 2023](/wp-content/uploads/2023/08/CoFest2023-lunch-1-736x1024.png) 
+![Lunch at CoFest 2023](/wp-content/uploads/2023/08/CoFest2023-lunch-1-736x1024.png)
 
 {{< endcolumns >}}
 
@@ -69,7 +69,7 @@ The emergence of generative AI and large language models (LLMs) presents new opp
 
 **Objective**
 
-Learn how to manually assign Gene Ontology terms or develop innovative approaches using LLM tools to enhance the curation workflow, enabling efficient and accurate extraction of experimental data from scientific literature. 
+Learn how to manually assign Gene Ontology terms or develop innovative approaches using LLM tools to enhance the curation workflow, enabling efficient and accurate extraction of experimental data from scientific literature.
 
 https://github.com/anphan0828/ISMB_CollaborationFest_EBI
 
@@ -79,7 +79,7 @@ Integrate drop in GPU-accelerated MMseq2 into biopython for acceleration.
 
 https://github.com/collaborativebioinformatics/GPU_MSA_Integration
 
-#### 5. Integrate iCn3D viewer with Jalview MSA  
+#### 5. Integrate iCn3D viewer with Jalview MSA
 
 Jalview shows MSA and structure alignment with Jmol. Jalview could also link to iCn3D to show MSA together with structure alignment.
 https://github.com/jiywang3/Integrate-iCn3D-viewer-with-Jalview-MSA
@@ -103,7 +103,7 @@ https://github.com/osercinoglu/grinn-ismb-2025
 
 #### 8. Improving how we describe and discover Bioinformatics tools
 
-Bioconductor hosts over 3,000 R packages, but finding the right one can be challenging. biocEDAM is an experimental tool that uses large language models and the EDAM ontology to suggest meaningful package tags. 
+Bioconductor hosts over 3,000 R packages, but finding the right one can be challenging. biocEDAM is an experimental tool that uses large language models and the EDAM ontology to suggest meaningful package tags.
 
 At CoFest, we’ll work on integrating Gemini (a free, key‑free option) and testing the tool on more packages. We also welcome input on Model Context Protocols (MCPs), exploring how they might help surface package metadata in the future.
 

@@ -2,7 +2,7 @@
 author: "Your name as you'd like it to be shown on the website"
 date: 2025-05-20 # format is YYYY-MM-DD
 draft: true
-category: 
+category:
  - community
  - event-fellowship
  - travel-fellowship
@@ -37,7 +37,7 @@ If you don’t have a GitHub account, create one at https://github.com/signup
 
 ### 2. Fork the OBF Website Repository
 
-Go to the OBF website repository:  
+Go to the OBF website repository:
  https://github.com/OBF/OBF.github.io
 
 Click the **"Fork"** button (top right) to create a copy under your GitHub account.
@@ -50,8 +50,8 @@ In your forked repository:
 
 1. Navigate to `content/posts/`
 2. Click **"Add file" → "Create new file"**
-3. Name your file based on the date using the format:  
- `YYYY-MM-DD-your-name-blog-title.md`  
+3. Name your file based on the date using the format:
+ `YYYY-MM-DD-your-name-blog-title.md`
  _Example:_ `2025-04-29-your-name-nfcore-nextflow-hackathon.md`
 
 4. View template raw, and Copy and paste all the contents of this template into the new file.
@@ -79,7 +79,7 @@ Once your edits are complete:
 
 1. Go to your fork’s main page on GitHub
 2. Click **"Contribute" → "Open pull request"**
-3. Make sure it targets the `main` branch of  
+3. Make sure it targets the `main` branch of
   https://github.com/OBF/OBF.github.io
 4. Use the title: `New blog post: [your title] by [your name]`
 5. Click **"Create pull request"**
@@ -171,5 +171,5 @@ Thank your funders, mentors, collaborators, or community members.
 
 ---
 
-Ready to Submit?  
+Ready to Submit?
 Follow the pull request steps above under “ How to Submit Your Blog Post”

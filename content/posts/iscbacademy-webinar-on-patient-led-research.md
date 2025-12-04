@@ -17,9 +17,9 @@ title: ISCBacademy webinar on Patient-Led Research
 url: /2023/03/07/iscbacademy-webinar-on-patient-led-research/
 
 ---
-Date and Time: Tuesday, March 14, 11am EDT/ 15:00 (not 16:00!) UTC  
-Location: [Online webinar](https://iscb.junolive.co/Nucleus/live/mainstage/iscbacademycosi79) hosted by ISCB and free to the public. (Video now available at [https://youtu.be/M2vAotWKd\_Q](https://youtu.be/M2vAotWKd_Q))   
-Speaker: Hannah Wei, co-founder and technologist at the Patient-Led Research Collaborative  
+Date and Time: Tuesday, March 14, 11am EDT/ 15:00 (not 16:00!) UTC
+Location: [Online webinar](https://iscb.junolive.co/Nucleus/live/mainstage/iscbacademycosi79) hosted by ISCB and free to the public. (Video now available at [https://youtu.be/M2vAotWKd\_Q](https://youtu.be/M2vAotWKd_Q)) 
+Speaker: Hannah Wei, co-founder and technologist at the Patient-Led Research Collaborative
 Topic: Re-Thinking the Patient's Role in a Learning Health System: Lessons from the Patient-Led Research Collaborative
 
 > The ISCB, which runs the annual ISMB conference, is offering a series of [ISCBacademy webinars](https://www.iscb.org/iscbacademy) hosted by the Communities of Special Interest (COSIs), which include BOSC/OBF. These webinars are now open to the public; you'll just need to create an ISCB Nucleus account to [register for the webinar](https://iscb.junolive.co/Nucleus/live/mainstage/iscbacademycosi79).

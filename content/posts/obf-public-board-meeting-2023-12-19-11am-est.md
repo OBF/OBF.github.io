@@ -31,5 +31,3 @@ url: /2023/12/04/obf-public-board-meeting-2023-12-19/
 - This will be an electronic ballot of the current board members
 
 #### After the meeting, the meeting minutes will be made available in the [obf-docs GitHub repository](https://github.com/OBF/obf-docs/tree/master/minutes) as a pull request.
-
-

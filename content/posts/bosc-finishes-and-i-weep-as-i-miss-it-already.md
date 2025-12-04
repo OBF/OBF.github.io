@@ -80,7 +80,7 @@ pretending that I actually know something about philosophical thinking further
 then watching Kevin Spacey play a philosophy professor in a movie on the
 plane, here's how the talks have been going:
 
-**You're my PAL. Heh. Heh. -- Matthew Goode**  
+**You're my PAL. Heh. Heh. -- Matthew Goode**
 
 Let's say you have to do phylogenies. Lots of us do. I can faithfully say as a
 current study of phylogenetic techniques that these analyses might be the
@@ -98,7 +98,7 @@ substitution models and all those good things. Beautiful. My highest
 recommendation. Four stars. I recommend the oyster platter with sea clams in
 mint garlic sauce. Tasty.
 
-**Generic Model Organisms and their Database -- Suzanna Lewis**  
+**Generic Model Organisms and their Database -- Suzanna Lewis**
 
 Continuing on a food theme (damn, when is lunch?), let's say you take a dash
 of collaboration, a pinch of model organisms (geez, these cheesy recipe
@@ -127,12 +127,12 @@ open source, code, and then take six months off traveling around the world on
 a sailboat you built yourself when you are "working" on developing this
 database. I think I'm gonna sail my boat to Puerto Rico.
 
-**Biopython -- me**  
+**Biopython -- me**
 
 This was the worst talk I've ever seen. This speaker is complete bollocks. I
 would have walked out if I wasn't up there giving the talk.
 
-**Lightning Talks -- lots of people**  
+**Lightning Talks -- lots of people**
 
 Come on these go every five minutes. The only good way to describe them is
 with stream of consciousness. Plus I've been reading lots of Joyce, so what
@@ -184,7 +184,7 @@ Python. PyPop. Nice. It uses dataflows and goes back and forth with Excel.
 Once again, we know what it's like to work with laboratory biologists
 completely in love with Excel. Here's the URL for those of you who would be
 searching just like me:
-[http://allele5.biol.berkeley.edu/pypop/](http://allele5.biol.berkeley.edu/pypop/)  
+[http://allele5.biol.berkeley.edu/pypop/](http://allele5.biol.berkeley.edu/pypop/)
 
 The really nice thing about BOSC this year is that there is lots of room for
 people to make contributions "on-the-fly." A really nice example of this type

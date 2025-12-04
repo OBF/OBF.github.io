@@ -10,7 +10,7 @@ url: /2015/05/12/minutes2015-may-confcall/
 ---
 ### Agenda
 
-**Venue:** to be held by conference call on May 12, 2015, 1pm EDT (17:00 UTC, 18:00 BST, 19:00 CEST, 10am PDT)   
+**Venue:** to be held by conference call on May 12, 2015, 1pm EDT (17:00 UTC, 18:00 BST, 19:00 CEST, 10am PDT) 
 Dial-in Information: +1-857-216-2939 PIN: 62534 [http://www.uberconference.com/hlapp](http://www.uberconference.com/hlapp)
 
 1. Old business

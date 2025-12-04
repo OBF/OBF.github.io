@@ -1,5 +1,5 @@
 ---
-author: 
+author:
 cover:
   alt: BOSC-room - 1
   image: /wp-content/uploads/2024/08/BOSC-room-1.jpeg
@@ -7,7 +7,7 @@ date: "2019-02-08T16:46:51+00:00"
 guid: https://www.open-bio.org/wp/?page_id=2705
 title: About BOSC
 url: /events/bosc/about
-bosc: yes 
+bosc: yes
 
 ---
 # What is BOSC?

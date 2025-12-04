@@ -62,7 +62,7 @@ BOSC is usually preceded or followed by what we now call [CollaborationFest (CoF
 
 ## Sponsoring BOSC
 
-[Sponsorships](/events/bosc/sponsors/) from private companies and organizations help to defray some of our costs. This year, BOSC will be part of [BCC2020](https://bcc2020.github.io/).  
+[Sponsorships](/events/bosc/sponsors/) from private companies and organizations help to defray some of our costs. This year, BOSC will be part of [BCC2020](https://bcc2020.github.io/).
 
 See the BCC [Partners](https://bcc2020.github.io/partners/) page for information about the BCC sponsors and how you can become one!
 
@@ -76,7 +76,7 @@ See the BCC [Partners](https://bcc2020.github.io/partners/) page for information
 
 - Technology Chair: Karsten Hokamp (Smurfit Institute of Genetics, Trinity College Dublin, Ireland)
 - **Program Chair: Chris Fields** ( [Bioperl developer](http://bioperl.org/); [HPCBio](https://hpcbio.illinois.edu/), University of Illinois)
-- [Peter Cock](http://www.scri.ac.uk/staff/petercock) ( [Biopython developer](http://biopython.org/); [James Hutton Institute](http://www.hutton.ac.uk/))  
+- [Peter Cock](http://www.scri.ac.uk/staff/petercock) ( [Biopython developer](http://biopython.org/); [James Hutton Institute](http://www.hutton.ac.uk/))
 
 - Jessica Maia (BD)
 - Monica Munoz-Torres (Oregon State University)

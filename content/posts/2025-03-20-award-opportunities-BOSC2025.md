@@ -38,7 +38,7 @@ Awards are made three times a year; the next **deadline is April 1, 2025** (note
 
 **[More info about applying for an OBF Event Fellowship](/2025/03/02/event-fellowship-2025-1/)**
 
-*Left: 
+*Left:
 [Awardee Ruth Nanjala and her poster at ICHG 2023](/2023/03/21/ruth-nanjala-experience-at-the-ichg-2023-conference/)*
 
 {{< endcolumns >}}
@@ -58,7 +58,7 @@ Only presenting authors whose abstracts are accepted for talk or poster presenta
 
 {{< endcolumns >}}
 
-Requests from early-career applicants and people from underrepresented geographical areas will be given priority. 
+Requests from early-career applicants and people from underrepresented geographical areas will be given priority.
 Applicants will be notified about whether their fee waiver request was granted around the same time that abstract acceptance notifications go out (May 14).
 
 <br/>

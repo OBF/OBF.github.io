@@ -2,12 +2,12 @@
 author: Bastian Greshake Tzovaras
 category:
   - community
-  - obf 
+  - obf
 date: "2025-03-04T18:23:00+00:00"
 tag:
   - obf
   - internal
- 
+
 title: "Welcome to the new OBF website!"
 ---
 

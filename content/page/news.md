@@ -6,4 +6,3 @@ title: News
 url: /blog/
 
 ---
-

@@ -10,7 +10,7 @@ url: /2016/10/04/minutes2016-oct-confcall/
 ---
 ### Agenda
 
-**Venue:** To be held by conference call on Oct 4, 2016, 12.30pm EDT (16:30 UTC, 17:30 BST, 18:30 CEST, 9.30am PDT)   
+**Venue:** To be held by conference call on Oct 4, 2016, 12.30pm EDT (16:30 UTC, 17:30 BST, 18:30 CEST, 9.30am PDT) 
 **Dial-in Information:** +1-857-216-2939 PIN: 62534 [http://www.uberconference.com/hlapp](http://www.uberconference.com/hlapp)
 
 1. Old business

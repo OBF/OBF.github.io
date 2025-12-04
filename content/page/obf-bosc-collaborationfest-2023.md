@@ -30,14 +30,14 @@ Saturday July 22nd to Sunday 23rd, from 9am to 5.30pm.
 
 ## Location
 
-The 2023 BOSC CoFest will take place in Condorcet meeting room, at the ENS Lyon:  
+The 2023 BOSC CoFest will take place in Condorcet meeting room, at the ENS Lyon:
 
-Address:  
-[1, place de l’École  
+Address:
+[1, place de l’École
 \
-69007 Lyon  
+69007 Lyon
 \
-France  
+France
 ](https://goo.gl/maps/9qEpK8smZ8TpDFFh9)
 GPS coordinates: (﻿45.729846881035385, ﻿4.828230822514165)
 

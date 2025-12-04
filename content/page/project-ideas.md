@@ -101,7 +101,7 @@ The overall goal of this project is to improve the configurability of the featur
 
 **Project description**
 
-OpenMS is a framework for computational mass spectrometry. Modern mass spectrometers produce large files (e.g., 100 GB) that can’t be easily stored or accessed in the established XML file format mzML. Recently, an update to mzML has been developed that uses HDF5 to store Blosc compressed spectra in binary format: called mzMLb.  
+OpenMS is a framework for computational mass spectrometry. Modern mass spectrometers produce large files (e.g., 100 GB) that can’t be easily stored or accessed in the established XML file format mzML. Recently, an update to mzML has been developed that uses HDF5 to store Blosc compressed spectra in binary format: called mzMLb.
 In this project, the student will add a reader and writer for the mzMLb file format to OpenMS. To some extent, code from the OpenMS reader and writer for the mzML file format can be reused, as well as inspiration can be taken from reference implementations by other parties.
 
 **Project size**
@@ -144,7 +144,7 @@ In this project, the student will add a reader and writer for the mzMLb file for
 
 **Project description**
 
-OpenMS is a framework for computational mass spectrometry. It features a wide range of algorithms and data structures to process and analyze mass spectra. For some very computationally demanding parts, we performed manual code conversion to make the layout of our data better fit the data access patterns of our algorithms. We observed the biggest speedup switching the data layout from an Array of Structs (AoS) to a Structure of Arrays (SoA).  
+OpenMS is a framework for computational mass spectrometry. It features a wide range of algorithms and data structures to process and analyze mass spectra. For some very computationally demanding parts, we performed manual code conversion to make the layout of our data better fit the data access patterns of our algorithms. We observed the biggest speedup switching the data layout from an Array of Structs (AoS) to a Structure of Arrays (SoA).
 In this project, the GSoC contributor will adapt our core data structure for mass spectra to AoS. Ideally, the contributor should be using a modern C++ zero-cost abstraction (e.g., building on https://github.com/crosetto/SoAvsAoS) that makes the old code work without (or minimal) manual changes.
 
 **Project size**

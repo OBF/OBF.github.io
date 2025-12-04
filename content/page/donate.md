@@ -16,5 +16,5 @@ Our annual meetings, [BOSC](/events/bosc/) and the [CollaborationFest](/events/b
 
 Through our fiscal sponsor, [Software in the Public Interest, Inc.](http://spi-inc.org/donations), you can donate to the OBF via [PayPal](http://spi-inc.org/projects/obf/) or [online by credit card](https://co.clickandpledge.com/advanced/default.aspx?wid=66788#). Donations made through SPI are 501(c)3 tax-exempt in the US. Your contribution helps fund a growing community of people committed to developing reusable open-source software for advancing biological research.
 
-[Donate!  
+[Donate!
 ](https://co.clickandpledge.com/advanced/default.aspx?wid=66788#)

@@ -7,7 +7,7 @@ bosc: yes
 ---
 
 <div class="well">
-  
+
 ### Sponsoring BOSC
 
 {{< columns >}}
@@ -99,7 +99,7 @@ was part of the main ISMB/ECCB conference.
 
 ## Benefits of Sponsorship
 
-Sponsoring BOSC increases your visibility in the bioinformatics community. 
+Sponsoring BOSC increases your visibility in the bioinformatics community.
 We acknowledge our sponsors before, during and after the event in multiple ways:
 
 - We list our sponsors on the BOSC website

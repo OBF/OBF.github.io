@@ -1,7 +1,7 @@
 ---
 author: nlharris
 date: "2025-09-24"
-category: 
+category:
  - community
  - conference
  - bosc

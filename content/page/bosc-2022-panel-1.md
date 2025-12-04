@@ -9,7 +9,7 @@ title: BOSC 2022 Panel
 url: /events/bosc-2022/bosc-2022-panel/
 
 ---
-# BOSC 2022 Panel: Building and Sustaining Inclusive Open Science Communities  
+# BOSC 2022 Panel: Building and Sustaining Inclusive Open Science Communities
 
 Building open source software is a great start, but to maximize the impact, it’s also necessary to put effort into maintaining it. Similarly, open source / open science communities don’t just need to be built; they also need to be maintained and expanded. We’ve seen increasing calls for inclusion and diversity, but once you’ve reached out to a new community, attracted new contributors, or recruited a new team member, how do you go beyond surface-level changes and achieve meaningful and sustainable inclusion? What difficult work, self-education, and research is needed to make more diverse groups thrive?
 

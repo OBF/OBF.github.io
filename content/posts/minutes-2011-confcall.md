@@ -130,24 +130,24 @@ Adjourned at 1.03pm. Board elections could not be held as planned due to loss of
 
 Prepared by Rob Buels, who served as organization administrator for the OBF.
 
-> We had 6 students this year, the same number as last year. I had hoped we might grow the program somewhat over last year's numbers, but the number and quality of applications turned out approximately the same. However, the solicitations for student applications went out quite a bit later this year than last year. I think us having a similar applicant pool despite the late solicitations may point to there being a latent potential to grow the program next year, if I make sure to be more on top of the schedule, which I intend to do.  
+> We had 6 students this year, the same number as last year. I had hoped we might grow the program somewhat over last year's numbers, but the number and quality of applications turned out approximately the same. However, the solicitations for student applications went out quite a bit later this year than last year. I think us having a similar applicant pool despite the late solicitations may point to there being a latent potential to grow the program next year, if I make sure to be more on top of the schedule, which I intend to do.
 As for this year's 6 students, they were quite a good group. Pasted from the [OBF GSoC page](/wiki/Google_Summer_of_Code), the 6 student projects were:
 >
-> BioPython  
+> BioPython
 
-> Justinas Vygintas Daugmaudis, Michele dos Santos da Silva (2 students), mentored by Thomas Hamelryck and Eric Talevich  
+> Justinas Vygintas Daugmaudis, Michele dos Santos da Silva (2 students), mentored by Thomas Hamelryck and Eric Talevich
 Mocapy++Biopython: from data to probabilistic models of biomolecules BioPython Integration and Mocapy++ Plugin System
 >
-> BioJava  
+> BioJava
 Chuan Hock Koh, mentored by Peter Troshin, Andreas Prlic, and Jay Vyas: Amino Acid Physico-Chemical Properties Calculation
 >
-> BioRuby  
+> BioRuby
 Michał Koziarski, mentored by Raoul J.P. Bonnal and Francesco Strozzi: Represent bio-objects and related information with images
 >
-> BioPerl  
+> BioPerl
 Sheena Scroggins, mentored by Robert Buels and Chris Fields: Major BioPerl reorganization
 >
-> BioPython  
+> BioPython
 Mikael Eric Trellet, mentored by João Rodrigues and Eric Talevich: Interface analysis module for BioPython
 >
 > Happily, all of the students accomplished their project objectives and were eligible for full stipend payments from Google. This is a bit better than last year, when we had one student who failed to complete the program.

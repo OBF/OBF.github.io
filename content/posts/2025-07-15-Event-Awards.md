@@ -13,7 +13,7 @@ tag:
   - community
   - event-fellowship
   - travel-fellowship
- 
+
 title: Call for the second 2025 round of the OBF Event Fellowship & overview of the first round of 2025
 url: /2025/07/15/event-fellowship-2025-2/
 
@@ -26,7 +26,7 @@ We invite applications from candidates seeking financial support to attend relev
 
 ### Overview of the First 2025 round of the OBF Event Fellowship
 
-The [Open Bioinformatics Foundation (OBF) Event Fellowship program](https://www.open-bio.org/event-awards/) is now in its 8th year. Since 2023, we have three application rounds per year with the following deadlines: 1 April, 1 August, and 1 December. 
+The [Open Bioinformatics Foundation (OBF) Event Fellowship program](https://www.open-bio.org/event-awards/) is now in its 8th year. Since 2023, we have three application rounds per year with the following deadlines: 1 April, 1 August, and 1 December.
 
 In the first round of 2025 (April 2025), we received numerous applications, and four applicants were selected for funding to support their participation in various events. **Congratulations to the following recipients**:
 
@@ -35,7 +35,7 @@ In the first round of 2025 (April 2025), we received numerous applications, and 
 3. Seun Olufemi	RSECon25	 9-11 September 2025
 4. Muhamad Haries Ramdhani  ISMB/ECCB 2025	20th July 2025 - 24th July 2025
 
-We require each awardee to write a blog post about their conference experience, to share what they learned with the wider community. Here are some examples from our recent awardees: 
+We require each awardee to write a blog post about their conference experience, to share what they learned with the wider community. Here are some examples from our recent awardees:
 
 {{< columns >}}
 

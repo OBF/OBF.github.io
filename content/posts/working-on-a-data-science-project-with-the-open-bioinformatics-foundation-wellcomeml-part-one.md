@@ -38,7 +38,7 @@ The objective for my [GSoC 2021](https://summerofcode.withgoogle.com/projects/#4
 
 During the community bonding period in which I met the mentors, got introduced to the staff of OBF and the staff of WellcomeML I virtually met also the other students working on differents OBF projects. Me and my mentor Antonio brainstormed some ideas for the TODO list of the project by creating a [Kanban board](https://github.com/wellcometrust/WellcomeML/projects/2).
 
-Since WellcomeML is mostly developed on UNIX/UNIX-based systems, installing and running on Windows is not as straightforward as we would expect. During the talk-with-mentors period before the proposal submission I already encountered an issue when running the WellcomeML library on my Windows laptop, that has been fixed [in this issue](https://github.com/wellcometrust/WellcomeML/issues/257) with the help of the mentors.  
+Since WellcomeML is mostly developed on UNIX/UNIX-based systems, installing and running on Windows is not as straightforward as we would expect. During the talk-with-mentors period before the proposal submission I already encountered an issue when running the WellcomeML library on my Windows laptop, that has been fixed [in this issue](https://github.com/wellcometrust/WellcomeML/issues/257) with the help of the mentors.
 The correct way to install WellcomeML on Windows is:
 
 ```
@@ -78,6 +78,6 @@ Now that I have a tested and running library in my laptop I can’t wait to star
 
 ## Notes:
 
-1. Statistics from GSoC’21: 1292 students were selected from a total of 4795.  
+1. Statistics from GSoC’21: 1292 students were selected from a total of 4795.
 [https://opensource.googleblog.com/2021/05/google-summer-of-code-2021-students-are.html](https://opensource.googleblog.com/2021/05/google-summer-of-code-2021-students-are.html)
 1. Instruction for Windows thanks to [https://github.com/wellcometrust/WellcomeML/pull/302/files](https://github.com/wellcometrust/WellcomeML/pull/302/files)

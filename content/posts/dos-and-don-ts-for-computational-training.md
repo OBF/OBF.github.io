@@ -25,9 +25,9 @@ This was my first CCMcr19 and first Carpentry event. I was curious to know more 
 
 I joined the computational world a few years ago, after moving from “wet” to “dry” lab. Shortly after the transition, I started delivering computational training and naturally, as a novice trainer, my main focus was on the material in terms of what to cover, how relevant it is, in what order do I present it and so on.
 
-When I faced my first classroom, I quickly realized that prepping the material and doing my research was the easy part. Instead, I found myself thinking of the other factors that contribute to the participants' learning experience such as; how do I address and interact with them, how do I account for their very diverse demographics such as gender, age and language.   
+When I faced my first classroom, I quickly realized that prepping the material and doing my research was the easy part. Instead, I found myself thinking of the other factors that contribute to the participants' learning experience such as; how do I address and interact with them, how do I account for their very diverse demographics such as gender, age and language.
 
-![](https://i.imgur.com/5ppP8SE.jpg)Diversity and Inclusion CCMcr19   
+![](https://i.imgur.com/5ppP8SE.jpg)Diversity and Inclusion CCMcr19
 Ms. Brönte
 
 Our classrooms today are not what they used to be 10 years ago. Participants come from all over the world and all walks of life, in other words, very diverse. This is especially true in computational training. For instance, bioinformatics training events in EMBL-EBI have two different types of attendees, one of which is made of plastic; [robot avatars](https://www.ebi.ac.uk/about/news/announcements/bioinformatics-training-with-robot-avatars) allowing students to participate virtually without having to be physically there.
@@ -84,10 +84,10 @@ We also discussed breaks during sessions, such as;
 
 **“Brain Breaks”**, a mental break of 1-3 minutes each hour of the session, to help participants to re-energize, re-focus and relax, allowing people to reflect or clear their minds.
 
-## Since we are focused on computational teaching, it didn’t go amiss to include advice on technological solutions to facilitate training sessions while catering for different abilities and needs.   
+## Since we are focused on computational teaching, it didn’t go amiss to include advice on technological solutions to facilitate training sessions while catering for different abilities and needs.
 Check out the list of Do's and Don'ts in computational training and please feel free to share your tips and advice on [GitHub](https://github.com/selgebali/CCMcr19_dos).
 
-#### Sara El-Gebali  
-Email: selgebali@gmail.com  
-Twitter: @yalahowy  
-GitHub: @selgebali  
+#### Sara El-Gebali
+Email: selgebali@gmail.com
+Twitter: @yalahowy
+GitHub: @selgebali

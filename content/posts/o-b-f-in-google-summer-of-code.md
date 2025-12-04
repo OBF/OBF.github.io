@@ -30,7 +30,7 @@ url: /2010/03/21/obf-in-google-summer-of-code/
 ---
 The Open Bioinformatics Foundation has been accepted as a mentoring organization for this summer's Google Summer of Code.  Our list of project ideas and mentors is linked from the [O\|B\|F GSoC page](http://open-bio.org/wiki/Google_Summer_of_Code "O|B|F GSoC").
 
-Student applications must be submitted to Google by **April 9, 2010,** see the [official GSoC 2010 FAQ](http://socghop.appspot.com/document/show/gsoc_program/google/gsoc2010/faqs). That is less than three weeks away! 
+Student applications must be submitted to Google by **April 9, 2010,** see the [official GSoC 2010 FAQ](http://socghop.appspot.com/document/show/gsoc_program/google/gsoc2010/faqs). That is less than three weeks away!
 
 Students, have a look at that wiki page, contact the project you're interested in working with, and get rolling on that application post-haste.  A good GSoC application takes quite a bit of thought and effort to put together.  **Students are encouraged to get help from mentors to put together a good application.**
 

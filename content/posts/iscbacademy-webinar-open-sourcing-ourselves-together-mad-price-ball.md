@@ -23,7 +23,7 @@ The first BOSC/OBF ISCBacademy COSI webinar will take place on Tuesday, Septembe
 
 ### Open Sourcing Ourselves - Together
 
-Mad Price Ball (Open Humans Foundation)  
+Mad Price Ball (Open Humans Foundation)
 
 September 14, 2021 at 15:00 UTC / 11:00AM EDT
 

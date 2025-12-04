@@ -55,7 +55,7 @@ BOSC​ ​participants​ ​come​ ​from​ ​a​ ​wide​ ​variety�
 
 - Biological​ ​researchers,​ ​students,​ ​and​ ​post-docs​ ​who​ ​​ ​are​ ​learning​ ​bioinformatics​ ​analysis tools and techniques
 - Power​ ​bioinformatics​ ​users
-- Bioinformatics​ ​tool​ ​and​ ​workflow​ ​developers  
+- Bioinformatics​ ​tool​ ​and​ ​workflow​ ​developers
 
 - Bioinformatics​-focused​ ​principal​ ​investigators​ ​and​ ​researchers
 - Sequencing​ ​core​ ​facility​ ​staff
@@ -64,7 +64,7 @@ BOSC​ ​participants​ ​come​ ​from​ ​a​ ​wide​ ​variety�
 
 # Previous Events
 
-The​ ​OBF​ ​has​ ​organized​ ​BOSC​ ​ [every​ ​year​ ​since​ ​2000](/events/bosc/about/).​ From 2000 to 2017 and again in 2019,​ ​BOSC​ ​was ​run​ ​as​ ​part​ ​of​ ​the​ ​large​ ​ISMB conference. In 2018 (and again in 2020) it partnered with the Galaxy Community Conference.​ ​The​ ​OBF​ ​CodeFest​s (now renamed CollaborationFest, or CoFest) have ​been​ ​held​ ​every​ ​year​ after BOSC ​since​ ​2010.  
+The​ ​OBF​ ​has​ ​organized​ ​BOSC​ ​ [every​ ​year​ ​since​ ​2000](/events/bosc/about/).​ From 2000 to 2017 and again in 2019,​ ​BOSC​ ​was ​run​ ​as​ ​part​ ​of​ ​the​ ​large​ ​ISMB conference. In 2018 (and again in 2020) it partnered with the Galaxy Community Conference.​ ​The​ ​OBF​ ​CodeFest​s (now renamed CollaborationFest, or CoFest) have ​been​ ​held​ ​every​ ​year​ after BOSC ​since​ ​2010.
 
 # Sponsorship
 
@@ -144,7 +144,7 @@ We acknowledge our sponsors before, during and after the event in multiple ways:
 
 - Helicos Biosciences
 
-- Humboldt University of Berlin Institute  
+- Humboldt University of Berlin Institute
 of Biology
 
 - Intel

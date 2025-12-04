@@ -12,8 +12,8 @@ The July 2019 Open Bioinformatics Foundation Public Board Meeting was held in pe
 
 ## Date, Location and Dial-In
 
-Date and time: July 25, 12:45pm CEST  
-Venue: Congress Center Basel, Switzerland, in the Dehli Room (ground floor, same room as BOSC)  
+Date and time: July 25, 12:45pm CEST
+Venue: Congress Center Basel, Switzerland, in the Dehli Room (ground floor, same room as BOSC)
 Dial-In for participating remotely: _expired_
 
 ## Agenda
