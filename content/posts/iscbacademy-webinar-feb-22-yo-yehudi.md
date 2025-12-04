@@ -18,11 +18,11 @@ title: 'ISCBacademy webinar Feb 22: Yo Yehudi'
 url: /2022/01/20/iscbacademy-webinar-feb-22-yo-yehudi/
 
 ---
-Date & Time: Tuesday, February 22, 2022, 15:00 UTC / 11am EDT  
+Date & Time: Tuesday, February 22, 2022, 15:00 UTC / 11am EDT
 
-Location: online webinar hosted by ISCB  
+Location: online webinar hosted by ISCB
 
-Speaker: Yo Yehudi, Open Life Science (former OBF board member and Google Summer of Code admin & mentor)  
+Speaker: Yo Yehudi, Open Life Science (former OBF board member and Google Summer of Code admin & mentor)
 
 Topic: Growing open source communities with internships
 
@@ -36,11 +36,11 @@ One effective way to grow your community can be via internships. Programs such a
 
 This webinar will cover the ins and outs of participating in internship programs like this, from the perspective of a mentoring organisation. Topics will include:
 
-1\. Getting started with internship programs - finding mentors and defining a set of projects  
+1\. Getting started with internship programs - finding mentors and defining a set of projects
 
-2\. Time commitments for mentors, before the application period and after interns are selected.  
+2\. Time commitments for mentors, before the application period and after interns are selected.
 
-3\. Funding for internship programs! (It's not as tricky as you may fear - others handle this bit!)  
+3\. Funding for internship programs! (It's not as tricky as you may fear - others handle this bit!)
 
 4\. Keeping interns engaged during the program and bringing them in as long-term contributors afterwards.
 

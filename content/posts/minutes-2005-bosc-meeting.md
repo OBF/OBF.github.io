@@ -8,7 +8,7 @@ title: Minutes:2005 BOSC Meeting
 url: /2005/06/23/minutes2005-bosc-meeting/
 
 ---
-**Venue:** Renaissance Center in Detroit, on the first floor next to the Starbucks.   
+**Venue:** Renaissance Center in Detroit, on the first floor next to the Starbucks. 
 **Date:** June 23, 2005, 16:15.
 
 #### **Call to order:**
@@ -71,8 +71,8 @@ Travel to Brazil is expensive and out of the way. Not everyone on the Board is s
 
 A general lament on how we're a bunch of white men and we should encourage more diversity. For that matter, we're rather close knit, which is good, but it doesn't help bring in enough new people to lead projects, help with BOSC, be on the Board, etc.
 
-_Chris:_ Move to adjourn.   
-_Jason:_ Seconded.   
+_Chris:_ Move to adjourn. 
+_Jason:_ Seconded. 
 Motion passed by unanimous consent.
 
 Closed at 18:15. A two hour meeting.

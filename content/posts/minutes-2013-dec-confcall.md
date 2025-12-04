@@ -10,8 +10,8 @@ url: /2013/12/12/minutes2013-dec-confcall/
 ---
 ### Agenda
 
-**Venue:** to be held by conference call on Dec 12, 2013, 12pm EDT (17:00 UTC)   
-Dial-in Number: 1-605-475-5950 (US Midwest)   
+**Venue:** to be held by conference call on Dec 12, 2013, 12pm EDT (17:00 UTC) 
+Dial-in Number: 1-605-475-5950 (US Midwest) 
 Participant Access Code: 279610
 
 1. Old business

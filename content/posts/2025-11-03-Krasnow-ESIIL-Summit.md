@@ -1,7 +1,7 @@
 ---
 author: rmk118
 date: 2025-11-03
-category: 
+category:
  - community
  - event-fellowship
  - travel-fellowship
@@ -10,9 +10,9 @@ tag:
  - event-fellowship
  - travel-fellowship
 title: "2025 ESIIL Innovation Summit: Collaborative and Open Environmental Data Science in Boulder"
-url: /2025/11/03/2025-11-03-Krasnow-ESIIL-Summit/ 
-editor_options: 
-  markdown: 
+url: /2025/11/03/2025-11-03-Krasnow-ESIIL-Summit/
+editor_options:
+  markdown:
     wrap: sentence
 ---
 

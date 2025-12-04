@@ -108,7 +108,7 @@ A project not currently affiliated with OBF can seek to attain Candidate OBF Pro
 #### Removal of affiliation status
 The ballot can include a vote on removing OBF affiliation from a project. Possible reasons for such a vote include consistent failure to meet expectations for OBF affiliated projects; consistent failure to adhere to OBF's Code of Conduct; and a project being no longer maintained.
 
-## Maintenance of affiliation status 
+## Maintenance of affiliation status
 
 The status of Affiliated and Candidate OBF Projects that are not voted on stays the same, unless one of the following conditions occurs:
 
@@ -165,5 +165,3 @@ If by signing over ownership you only mean assigning intellectual property right
 ### I'm interested in taking donations for my project, or I've recently received a grant. Can the OBF handle my cash flow?
 
 The OBF can accept donations and grants on behalf of its member projects through SPI, the OBF's fiscal sponsor. The OBF also can, again through SPI, request the disbursement of funds earmarked for a member project. Management of cash flow with a high rate of transactions, will, however, likely exceed the capacity of SPI's (almost entirely volunteer) financial administrators, and we therefore advise projects expecting this need to apply independently for fiscal sponsorship. Organisations providing fiscal sponsorship for software projects include SPI, Software Freedom Conservancy, NumFocus, and OpenCollective.
-
-

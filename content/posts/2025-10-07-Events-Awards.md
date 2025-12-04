@@ -13,7 +13,7 @@ tag:
   - community
   - event-fellowship
   - travel-fellowship
- 
+
 title: Call for the third 2025 round of the OBF Event Fellowship & overview of the second round of 2025
 url: /2025/10/07/event-fellowship-2025-3/
 
@@ -36,9 +36,9 @@ In the second round of 2025 (August 2025), we received numerous applications, an
 4. Hetvi Jethwani - BioHackathon Europe 2025
 5. Rafał Miłodrowski - BioHackathon Europe 2025
 
-Notably, the OBF Events Fellowship sponsored three participants at the BioHackathon Europe 2025. 
+Notably, the OBF Events Fellowship sponsored three participants at the BioHackathon Europe 2025.
 
-We require each awardee to write a blog post about their conference experience, to share what they learned with the wider community. Here are some examples from our recent awardees: 
+We require each awardee to write a blog post about their conference experience, to share what they learned with the wider community. Here are some examples from our recent awardees:
 
 {{< columns >}}
 
@@ -53,4 +53,3 @@ We require each awardee to write a blog post about their conference experience, 
 Congratulations to all of our awardees\!  We are delighted to support their participation with OBF Event Fellowships, and we wish them all the best for their future work.
 
 **Please share this post and [apply for the fellowship](https://forms.gle/D31zSs558aRwj2ig9) before 1 December 2025\.**
-

@@ -48,4 +48,4 @@ The OBF has [a process for projects in the open bioinformatics realm to become m
 * [BlipKit](https://github.com/cmungall/blipkit): Chris Mungall’s Prolog toolkit for Bioinformatics and BioMedical Informatics.
 * [Biolib](https://github.com/biolib/obf-biolib): Cross-project/language C bindings for a shared codebase across the different Bio* projects (Pjotr Prins).
 * DAS / BioDAS: The Distributed Annotation System defines a communication protocol used to exchange annotations on genomic or protein sequences.
-* [EMBOSS](https://emboss.sourceforge.net/): An analysis package developed for the needs of the molecular biology (e.g. EMBnet) user community. 
+* [EMBOSS](https://emboss.sourceforge.net/): An analysis package developed for the needs of the molecular biology (e.g. EMBnet) user community.

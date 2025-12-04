@@ -57,10 +57,10 @@ The CoFest will be covered by [ISMB’s Code of Conduct](https://www.iscb.org/i
 
 The host venue for CoFest will be:
 
-[DayOne - The Swiss Innovation Hub for Personalized Medicine](https://www.dayone.swiss/dayone.html)  
+[DayOne - The Swiss Innovation Hub for Personalized Medicine](https://www.dayone.swiss/dayone.html)
 Hochbergerstrasse 60C, 4057 Basel, Switzerland.
 
-[https://goo.gl/maps/AvZkyjvsm1DQrGmL6](https://goo.gl/maps/AvZkyjvsm1DQrGmL6)  
+[https://goo.gl/maps/AvZkyjvsm1DQrGmL6](https://goo.gl/maps/AvZkyjvsm1DQrGmL6)
 [https://osm.org/go/0CdsbPozF?node=3215472544](https://osm.org/go/0CdsbPozF?node=3215472544)
 
 More details like building access arrangements will be forthcoming.

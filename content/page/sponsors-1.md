@@ -64,7 +64,7 @@ BOSC​ ​participants​ ​come​ ​from​ ​a​ ​wide​ ​variety�
 
 - Biological​ ​researchers,​ ​students,​ ​and​ ​post-docs​ ​who​ ​​ ​are​ ​learning​ ​bioinformatics​ ​analysis tools and techniques
 - Power​ ​bioinformatics​ ​users
-- Bioinformatics​ ​tool​ ​and​ ​workflow​ ​developers  
+- Bioinformatics​ ​tool​ ​and​ ​workflow​ ​developers
 
 - Bioinformatics​-focused​ ​principal​ ​investigators​ ​and​ ​researchers
 - Sequencing​ ​core​ ​facility​ ​staff
@@ -73,7 +73,7 @@ BOSC​ ​participants​ ​come​ ​from​ ​a​ ​wide​ ​variety�
 
 # Previous Events
 
-The​ ​OBF​ ​has​ ​organized​ ​BOSC​ ​ [every​ ​year​ ​since​ ​2000](/events/bosc/about/).​ From 2000 to 2017 and again in 2019,​ ​BOSC​ ​was ​run​ ​as​ ​part​ ​of​ ​the​ ​large​ ​ISMB conference. In 2018 (and again in 2020) it partnered with the Galaxy Community Conference.​ ​The​ ​OBF​ ​CodeFest​s (now renamed CollaborationFest, or CoFest) have ​been​ ​held​ ​every​ ​year​ after BOSC ​since​ ​2010.  
+The​ ​OBF​ ​has​ ​organized​ ​BOSC​ ​ [every​ ​year​ ​since​ ​2000](/events/bosc/about/).​ From 2000 to 2017 and again in 2019,​ ​BOSC​ ​was ​run​ ​as​ ​part​ ​of​ ​the​ ​large​ ​ISMB conference. In 2018 (and again in 2020) it partnered with the Galaxy Community Conference.​ ​The​ ​OBF​ ​CodeFest​s (now renamed CollaborationFest, or CoFest) have ​been​ ​held​ ​every​ ​year​ after BOSC ​since​ ​2010.
 
 The table below shows the approximate number of participants in BOSC and the CoFest. Figures​ ​for​ ​the​ ​CoFest​ ​and​ ​BOSC​ ​are​ ​number​ ​of​ ​people​ ​registered​ ​for​ ​at​ ​least​ ​one​ ​day​ ​of​ ​the​ ​meeting.​ ​The​ ​BOSC figures​ ​do​ ​not​ ​include​ ​drop-in​ ​attendees​ ​from​ ​the​ ​parallel​ ​sessions​ ​organized​ ​by​ ​other​ ​groups.​ ​The​ ​figures​ ​for CoFest​ ​do​ ​not​ ​include​ ​remote​ ​participants.
 
@@ -143,8 +143,8 @@ We acknowledge our sponsors before, during and after the event in multiple ways:
 
 ## BOSC 2021 Silver Sponsors
 
-[![](/wp-content/uploads/2021/04/image.png)](https://elifesciences.org/)  
-[![Genevia](/wp-content/uploads/2021/06/genevia_logo_cmyk.png)](https://geneviatechnologies.com/)  
+[![](/wp-content/uploads/2021/04/image.png)](https://elifesciences.org/)
+[![Genevia](/wp-content/uploads/2021/06/genevia_logo_cmyk.png)](https://geneviatechnologies.com/)
 [![Oxford University Press](/wp-content/uploads/2021/06/OUP_logo_navy.png)](https://oup.com/)[![](/wp-content/uploads/2021/07/logo_bioteam_transp_bg.png)](https://bioteam.net)
 
 If you are interested in becoming a sponsor, please contact us at bosc@open-bio.org!

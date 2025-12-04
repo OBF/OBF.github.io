@@ -16,7 +16,7 @@ url: /2018/03/16/minutes2018-mar-confcall/
 
 ## Agenda
 
-**Venue:** To be held by conference call on March 16, 2018, 11.00am EDT (15:00 UTC, 16:00 CET, 8.00am PDT). _Note that at the time of the meeting, the US will have switched already to DST, whereas Europe will not, so the time zone difference is an hour less than it would normally be._  
+**Venue:** To be held by conference call on March 16, 2018, 11.00am EDT (15:00 UTC, 16:00 CET, 8.00am PDT). _Note that at the time of the meeting, the US will have switched already to DST, whereas Europe will not, so the time zone difference is an hour less than it would normally be._
 **Dial-in Information:** +1-857-216-2939 PIN: 62534 [http://www.uberconference.com/hlapp](http://www.uberconference.com/hlapp)
 
 1. Old business

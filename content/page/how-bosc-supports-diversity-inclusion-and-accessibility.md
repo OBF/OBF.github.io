@@ -7,7 +7,7 @@ date: "2023-08-19T17:48:09+00:00"
 guid: https://www.open-bio.org/?page_id=7251
 title: How we support diversity, inclusion and accessibility
 url: /obf-dei/
-aliases: 
+aliases:
   - /bosc-dei/
 ---
 Diversity, inclusion and accessibility (also known as Diversity, Equity and Inclusion, DEI) are a major part of OBF and [BOSC's](/?obf-events=bosc-2023) mission and core values.
@@ -31,8 +31,8 @@ The Open Bioinformatics Foundation, **funds the [OBF event fellowships](/event-a
 
 Since we introduced this option three years ago, we've been able to offer free registration to dozens of people, most of whom are from groups underrepresented at ISMB/BOSC:
 
-* In 2022, 19 people (of whom 18 were from groups that are underrepresented in our community) were granted free registration thanks to a combination of these registration fee waivers and OBF event fellowships. 
-* In 2023, 15 people (13 from underrepresented groups) were given free registration to ISMB/BOSC. 
+* In 2022, 19 people (of whom 18 were from groups that are underrepresented in our community) were granted free registration thanks to a combination of these registration fee waivers and OBF event fellowships.
+* In 2023, 15 people (13 from underrepresented groups) were given free registration to ISMB/BOSC.
 * In 2024, 14 people (13 from underrepresented groups) received free registration.
 
 
@@ -100,7 +100,7 @@ Although there is not a formal rubric for choosing [BOSC organizing committee](/
 
 {{< columns >}}
 
-Some recent BOSCs have included **DEI-focused sessions** such as ["Inclusion & Open Science"](/events/bosc-2022/bosc-2022-schedule) in 2022, and BOSC's landscape of open science includes citizen science, in which the research subjects themselves (for example, those with a disability) participate in the research. [BOSC 2023](/events/bosc-2023/bosc-2023-schedule/) included a talk entitled "AutSPACEs: a co-created and open source citizen science project to improve environments for sensory processing in autistic people". 
+Some recent BOSCs have included **DEI-focused sessions** such as ["Inclusion & Open Science"](/events/bosc-2022/bosc-2022-schedule) in 2022, and BOSC's landscape of open science includes citizen science, in which the research subjects themselves (for example, those with a disability) participate in the research. [BOSC 2023](/events/bosc-2023/bosc-2023-schedule/) included a talk entitled "AutSPACEs: a co-created and open source citizen science project to improve environments for sensory processing in autistic people".
 
 In a 2023 ISCBacademy webinar organized by BOSC, Long COVID sufferer and advocate Hannah Wei presented [Lessons from the Patient-Led Research Collaborative](/2023/03/07/iscbacademy-webinar-on-patient-led-research/).
 

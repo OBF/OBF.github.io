@@ -28,15 +28,15 @@ Here is a brief summary of changes.
 
 In addition, many changes have been made, including incompatible changes. For more information, see [RELEASE\_NOTES.rdoc](https://github.com/bioruby/bioruby/blob/1.4.3/RELEASE_NOTES.rdoc) and [ChangeLog](https://github.com/bioruby/bioruby/blob/1.4.3/ChangeLog).
 
-The archive is available at: [http://bioruby.org/archive/bioruby-1.4.3.tar.gz](http://bioruby.org/archive/bioruby-1.4.3.tar.gz)  
+The archive is available at: [http://bioruby.org/archive/bioruby-1.4.3.tar.gz](http://bioruby.org/archive/bioruby-1.4.3.tar.gz)
 
 Gem file is also available at: [http://bioruby.org/archive/gems/bio-1.4.3.gem](http://bioruby.org/archive/gems/bio-1.4.3.gem)
 
-We also put RubyGems pacakge at RubyGems.org and RubyForge. You can easily install by using RubyGems. First, check the version number by using search command:  
+We also put RubyGems pacakge at RubyGems.org and RubyForge. You can easily install by using RubyGems. First, check the version number by using search command:
 
-% gem search --remote bio  
+% gem search --remote bio
 
-and find “bio (1.4.3)” in the list. Then,  
+and find “bio (1.4.3)” in the list. Then,
 
 % sudo gem install bio
 

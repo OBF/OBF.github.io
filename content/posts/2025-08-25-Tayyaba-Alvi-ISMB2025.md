@@ -2,7 +2,7 @@
 author: alviitayyaba
 date: 2025-08-25 # format is YYYY-MM-DD
 
-category: 
+category:
  - community
  - event-fellowship
  - travel-fellowship
@@ -12,7 +12,7 @@ tag:
  - travel-fellowship
 
 title: "ISMB 2025: A Week of Learning, Teaching, and Connecting in Liverpool"
-url: /2025/08/25/2025-08-25-Tayyaba-Alvi-ISMB2025/ 
+url: /2025/08/25/2025-08-25-Tayyaba-Alvi-ISMB2025/
 ---
 
 **_The_** [**_Open Bioinformatics Foundation (OBF) Event Fellowship program_**](/travel-awards) **_aims to promote diverse participation at events promoting open-source bioinformatics software development and open science practices in the biological research community. Tayyaba Alvi,_** _**a PhD student at**_ _**Fritz Lipmann Institute on Aging**_, **_was awarded an OBF Event Fellowship to attend_** **_[ISMB/ECCB2025](https://www.iscb.org/ismbeccb2025/home)_**.
@@ -35,7 +35,7 @@ In the evening, we heard a fantastic keynote from John Jumper, who shared the st
 The second day opened with a keynote from Amos Bairoch, who spoke about the ongoing challenges in biocuration. With so much biological data being generated, his talk highlighted just how important curated, high-quality data resources are, and how we need to keep investing in them.
 After that, the days were packed with talks across different tracks and COSIs. I attended sessions from:
 * GenComp (Comparative Genomics)
-* DREAM 
+* DREAM
 * BOSC (Bioinformatics Open Source Conference)
 * And MICROBIOME, which had some especially interesting talks on Tuesday and Thursday
 
@@ -46,7 +46,7 @@ Outside the talks, the poster sessions and coffee breaks were great for meeting 
 The conference wrapped up with a conversation with David Baker, who shared his insights on protein design and creative science, followed by a final keynote from Fabian Theis. His talk focused on atlas-scale data integration and the Human Cell Atlas, a huge and ongoing effort to map cell types across tissues and conditions. It was a powerful reminder of how large-scale collaboration can really push the field forward.
 
 ## Exploring Liverpool
-In between conference sessions, I made sure to explore a bit of Liverpool. The dockside area near the venue was lovely to walk around—full of history, great views of the Mersey, and a surprisingly peaceful vibe despite all the conference hustle. 
+In between conference sessions, I made sure to explore a bit of Liverpool. The dockside area near the venue was lovely to walk around—full of history, great views of the Mersey, and a surprisingly peaceful vibe despite all the conference hustle.
 
 ![John Lennon Peace Monument on the left, and the Wheel of Liverpool on the right](/img/2025/2025-08-25-TA5.png)
 

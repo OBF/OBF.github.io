@@ -22,9 +22,9 @@ url: /2025/02/26/ISMB-CollaborationFest-2025
 
 [CollaborationFest 2025](/events/bosc/collaborationfest/) will be a two-day collaborative work event at which participants work together to contribute code, documentation, training materials, and challenging analysis problems and use cases. Bring your own project ideas or come ready to collaborate with others on their projects!
 
-[![CoFest gallery](/wp-content/uploads/2025/01/CoFest-gallery.png)](/events/bosc/collaborationfest/)  
- 
-BOSC has held CollaborationFests (aka CoFests) every year before or after ISMB since 2010. This year, we decided to hold the CollaborationFest as part of ISMB/ECCB and open it to all registered ISMB/ECCB participants. It will take place during the last two days of ISMB/ECCB. 
+[![CoFest gallery](/wp-content/uploads/2025/01/CoFest-gallery.png)](/events/bosc/collaborationfest/)
+
+BOSC has held CollaborationFests (aka CoFests) every year before or after ISMB since 2010. This year, we decided to hold the CollaborationFest as part of ISMB/ECCB and open it to all registered ISMB/ECCB participants. It will take place during the last two days of ISMB/ECCB.
 
 [ISMB CollaborationFest 2025](/events/bosc/collaborationfest/) is co-organized by volunteers from four COSIs:
 - Bioinformatics Open Source Conference (BOSC)

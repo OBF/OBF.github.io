@@ -15,7 +15,7 @@ Hi everyone!
 
 My name is Melissa and I’m happy to be collaborating with OBF as lead GSoC admin this year along with support from Yo Yehudi. I had a great (virtual) time at BOSC 2021 as an Outreachy intern and am glad to be supporting another internship program this year.
 
-It’s time to start coming up with GSoC project ideas again! Below is some info that should help with that.  
+It’s time to start coming up with GSoC project ideas again! Below is some info that should help with that.
 
 
 

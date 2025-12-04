@@ -20,10 +20,10 @@ Christie Bahlai, PhD, is a computational ecologist in the Department of Biologic
 
 ### Thomas Hervé Mboa Nkoudou ( [Mboalab](https://www.mboalab.africa/) and [Open AIR](https://openair.africa/))
 
-_Contribution du mouvement maker dans le domaine de la biotechnologie en Afrique: Une perspective de la science ouverte   
+_Contribution du mouvement maker dans le domaine de la biotechnologie en Afrique: Une perspective de la science ouverte 
  (Contribution of the maker movement to biotechnology in Africa: An open science perspective)_
-_  
-Note: This talk will be delivered in French with English subtitles._  
+_
+Note: This talk will be delivered in French with English subtitles._
 ABSTRACT: The maker movement is a community-based movement driven by a common understanding that democratizing access to tools and technologies will revolutionize the distribution of material goods and disrupt existing socio-economic systems. With the Internet, the maker movement is reinforced by trends of openness, better, open science. Indeed, nowadays, information circulates instantaneously from one end of the world to the other, offering the possibility to exchange, share and contribute to the enrichment of knowledge with implications in the fields of health, environment, education, etc.
 In this presentation, I will show evidence of the contribution of the maker movement to the democratisation of biotechnology in Africa. I will also discuss the local realities that need to be considered in order to ensure the success of such an undertaking. To do this, I will address the following points:
 
@@ -38,7 +38,7 @@ He founded the [Mboalab](https://www.mboalab.africa/) innovation lab in Cameroon
 
 ![Dr. Lara Mangravite](/wp-content/uploads/2021/04/Lara-Mangravite.jpeg)
 
-### Lara Mangravite ( [Sage Bionetworks](https://sagebionetworks.org/))  
+### Lara Mangravite ( [Sage Bionetworks](https://sagebionetworks.org/))
 (Talk co-hosted with [Function-COSI](https://www.biofunctionprediction.org/meetings/))
 
 _Open approaches to advance data-intensive biomedicine_

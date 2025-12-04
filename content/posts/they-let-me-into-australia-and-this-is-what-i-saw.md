@@ -57,7 +57,7 @@ up immediately as a threat to myself and others. Come on, friends, I am
 completely harmless. And this is what I've seen so far in the land down under
 at the number one meeting in the entire world of open-source biology folks.
 
-**Python and Systems Biology -- Michiel de Hoon**  
+**Python and Systems Biology -- Michiel de Hoon**
 
 Cool graphics with python. So let's say we've got one hundred million
 expression data and we want to make a gene regulatory network from them. To
@@ -79,7 +79,7 @@ all in Python. Always Python. Sweet. Of course, also sweet open-source since
 you can get the code and documentation and tutorials about how to get started
 programming with Python. We want to help you help yourself.
 
-**Eukaryotic Linear Motifs and Disorder -- Rune Linding**  
+**Eukaryotic Linear Motifs and Disorder -- Rune Linding**
 
 This one day I'm walking along, minding my own business, whistling gently the
 tune to my favorite Frank Sinatra song, and I run into this protein. Bam,
@@ -101,7 +101,7 @@ There is a nice database to search and classify proteins using these methods,
 which is what this talk is all about. As with all good things it's developed
 in Python using Biopython. Bonus.
 
-**Sort of like close to Lectin Domains -- Alex Zelensky**  
+**Sort of like close to Lectin Domains -- Alex Zelensky**
 
 This domain completely rules. It has more then 2000 references in GenPept and
 tons of ligands and groups and types all over vertebrates. So, we have got to
@@ -123,7 +123,7 @@ develop an on-line database of these motifs completely sorted out. Beautiful,
 MySQL, BioPerl. Life is good and I'm gonna make that lunch date; give Claudia
 a call to let her know.
 
-**Nice popular terms like Web Services -- Martin Senger**  
+**Nice popular terms like Web Services -- Martin Senger**
 
 If you ever accidentally forget to uncheck one of those "send me as many mails
 as possible" boxes while filling out a form to download Java from the good

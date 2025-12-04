@@ -6,4 +6,3 @@ title: Events
 url: /events/
 
 ---
-

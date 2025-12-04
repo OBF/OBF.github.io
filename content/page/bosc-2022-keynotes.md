@@ -36,7 +36,7 @@ _I will describe the work of an international group of scientist-educators to de
 _- “Core Principles” (“Best Evidence”, “Catalytic”, Effective”, and “Inclusion”) apply to all SFT and are grounded in research and work in education, diversity, equity, and inclusion._
 _- “Community Principles” (“Reaching”, “Scaling”, and “Sustaining”) apply when SFT is organized by groups to achieve the objectives of a community (e.g., science discipline, institution, career stage)._
 
-_Community refinement, adoption, and adaptation of the Bicycle Principles will help accelerate scientific progress by making SFT more effective, inclusive, and career-spanning for all.  
+_Community refinement, adoption, and adaptation of the Bicycle Principles will help accelerate scientific progress by making SFT more effective, inclusive, and career-spanning for all.
 _
 
 [Jason Williams](https://jasonjwilliamsny.github.io/profile/) has worked at Cold Spring Harbor Laboratory since 2004, first at the bench in the Plant Science group and currently as an Assistant Director at the lab’s [DNA Learning Center](https://www.cshl.edu/dna-learning-center/). Jason is on numerous Advisory Boards and Diversity/Equity/Inclusion committees for organizations including the Earth BioGenome Project, Data Dryad, Global Alliance for Genomics and Health, BioData Catalyst, and ELIXIR UK. In 2020, he was chosen as a Kavli Frontiers of Science Fellow by the National Academy of Sciences, and won the [NSF 2026 Idea Machine Competition](https://www.cshl.edu/jason-williams-wins-nsf-2026-idea-machine-competition/).

@@ -98,7 +98,7 @@ will be part of the main ISMB/ECCB conference and will be open to all.
 
 ## Benefits of Sponsorship
 
-Sponsoring BOSC increases your visibility in the bioinformatics community. 
+Sponsoring BOSC increases your visibility in the bioinformatics community.
 We acknowledge our sponsors before, during and after the event in multiple ways:
 
 - We list our sponsors on the BOSC website

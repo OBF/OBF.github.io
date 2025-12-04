@@ -25,4 +25,4 @@ Congratulations to our April 2019 recipients:
 
 ·      **Vid Ayer** will attend [BOSC 2019](/events/bosc/) and plans to conduct a Bird Of Feathers (BOF) session on Research Data Management. Having completed her Software Carpentry training, Vid has been actively mentoring and inspiring fellow women researchers to be more involved in open source software development.
 
-The next deadline for [travel awards](/travel-awards/) is August 15, 2019. You can apply to travel to participate in any event that develops or promotes open source development and open science in the biological research community. The program is aimed at increasing diverse participation at such events.  
+The next deadline for [travel awards](/travel-awards/) is August 15, 2019. You can apply to travel to participate in any event that develops or promotes open source development and open science in the biological research community. The program is aimed at increasing diverse participation at such events.

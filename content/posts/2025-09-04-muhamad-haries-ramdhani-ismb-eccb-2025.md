@@ -1,7 +1,7 @@
 ---
 author: hariesramdhani
 date: 2025-09-04 # format is YYYY-MM-DD
-category: 
+category:
  - community
  - event-fellowship
  - travel-fellowship

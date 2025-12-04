@@ -2,7 +2,7 @@
 author: inutano
 date: 2025-09-30
 draft: false
-category: 
+category:
  - community
 tag:
  - community
@@ -27,7 +27,7 @@ They act not merely for themselves, but for the whole of human society.
 One of these organizations is the [GigaScience journal](https://academic.oup.com/gigascience).
 Since its founding, GigaScience has been at the forefront of open data science.
 Its initiative to build its own data repository, to assign curators, and to archive the data underlying accepted articles was truly pioneering, and other journals followed.
-Unlike traditional journals operated solely by editorial boards, GigaScience is, in effect, equivalent to establishing a full-fledged data center. 
+Unlike traditional journals operated solely by editorial boards, GigaScience is, in effect, equivalent to establishing a full-fledged data center.
 
 The recent news concerning GigaScience’s owners, BGI, laying off the entire editorial,
 software and curation team in Hong Kong on short notice, has filled us with both surprise and deep disappointment.

@@ -61,7 +61,7 @@ http://makeashorterlink.com/?S17521DA3
 
 # Questions
 
-- **Searching the mailing list archives**  
+- **Searching the mailing list archives**
 
   This seemed like an appropriate topic to put at the top of my list.
   The Bioperl-l mailing list isn't exactly as high-traffic as
@@ -91,7 +91,7 @@ http://makeashorterlink.com/?S17521DA3
   http://bioperl.org/pipermail/bioperl-l/
   ```
 
-- **Bioperl 1.2 builds under cygwin**  
+- **Bioperl 1.2 builds under cygwin**
 
   John Nash reports that he was able to build the 1.2 distribution
   under cygwin once MakeMaker issues were overcome (in his case by
@@ -102,7 +102,7 @@ http://makeashorterlink.com/?S17521DA3
   http://makeashorterlink.com/?M27643DA3
   ```
 
-- **Getting/untarring the 1.2 distribution**  
+- **Getting/untarring the 1.2 distribution**
 
   Some people had trouble either FTPing the 1.2 distribution, or with
   successfully untarring the tarball. These problems seemed to have
@@ -113,7 +113,7 @@ http://makeashorterlink.com/?S17521DA3
   http://www.bioperl.org/ftp/DIST/bioperl-1.2.tar.gz
   ```
 
-- **man pages with bioperl-1.2**  
+- **man pages with bioperl-1.2**
 
   People may have noticed that the "make" process for bioperl-1.2 does
   not generate nor install man pages. Ewan Birney explains, "In 1.2 we
@@ -126,7 +126,7 @@ http://makeashorterlink.com/?S17521DA3
   http://makeashorterlink.com/?F10761DA3
   ```
 
-- **Converting ABI trace to Phred format**  
+- **Converting ABI trace to Phred format**
 
   When asked why an ABI trace file read via SeqIO::abi didn't generate a
   Bio::Seq::SeqWithQuality (a sequence with associated quality values),
@@ -138,7 +138,7 @@ http://makeashorterlink.com/?S17521DA3
   http://makeashorterlink.com/?H2C954DA3
   ```
 
-- **biocorba status**  
+- **biocorba status**
 
   When asked about the status of the biocorba project, Jason Stajich
   replied, "We have working bindings in java,perl,python and bridges to
@@ -152,7 +152,7 @@ http://makeashorterlink.com/?S17521DA3
   http://makeashorterlink.com/?G57A42DA3
   ```
 
-- **DNA Smith-Waterman**  
+- **DNA Smith-Waterman**
 
   Yee Man has reimplemented the classic Smith-Waterman algorithm, with
   algorithmic improvements as suggested by Gotoh (affine gaps) and Myers
@@ -174,7 +174,7 @@ http://makeashorterlink.com/?S17521DA3
   http://makeashorterlink.com/?M12B23DA3
   ```
 
-- **using AUTOLOAD for get/set accessors**  
+- **using AUTOLOAD for get/set accessors**
 
   The BioPerl code is full of explicitly coded accessor methods; often
   we are asked why we don't use more code-efficient methods of
@@ -192,7 +192,7 @@ http://makeashorterlink.com/?S17521DA3
   http://makeashorterlink.com/?Z22C32DA3
   ```
 
-- **Bio:Seq no longer a RangeI (bug in Bio::Graphics::Panel)**  
+- **Bio:Seq no longer a RangeI (bug in Bio::Graphics::Panel)**
 
   Much to the consternation of Lincoln Stein (and his legions of
   Bio::Graphics users), BioPerl 1.2 introduced a change to Bio::Seq in
@@ -216,7 +216,7 @@ http://makeashorterlink.com/?S17521DA3
   http://makeashorterlink.com/?S3AC21DA3
   ```
 
-- **complement(join(e1, e2)) vs. join(complement(e1), `complement(e2))`**  
+- **complement(join(e1, e2)) vs. join(complement(e1), `complement(e2))`**
 
   Periodically, people ask "Is it possible to have bioperl output
   features in Genbank format of the form
@@ -232,7 +232,7 @@ http://makeashorterlink.com/?S17521DA3
   http://makeashorterlink.com/?H2CC16DA3
   ```
 
-- **GenBank `bond()` FT operator**  
+- **GenBank `bond()` FT operator**
 
   Recent GenBank files have begun to exhibit a new feature location
   operator, "bond", to identify dicysteine bonds in proteins and mRNA
@@ -250,7 +250,7 @@ http://makeashorterlink.com/?S17521DA3
 
 # Changes/Additions
 
-- **SearchIO now has megablast parser**  
+- **SearchIO now has megablast parser**
 
   Jason Stajich writes, "The oft requested megablast parser has now been
   implemented in SearchIO". This should be available in the upcoming
@@ -260,7 +260,7 @@ http://makeashorterlink.com/?S17521DA3
   http://makeashorterlink.com/?O29D62DA3
   ```
 
-- **bl2seq parser needs to know report type to get strand right**  
+- **bl2seq parser needs to know report type to get strand right**
 
   No matter how hard he tried, Dave Arenillas couldn't retrieve HSP
   strand information from a bl2seq (BLAST two sequences against each
@@ -273,7 +273,7 @@ http://makeashorterlink.com/?S17521DA3
   http://makeashorterlink.com/?M2ED52DA3
   ```
 
-- **bioperl.rpm in biolinux.org distribution**  
+- **bioperl.rpm in biolinux.org distribution**
 
   Marc Logghe reports that "A couple of friends of mine have started up
   www.biolinux.org \[ ... and\] are offering a number of rpm packages for
@@ -290,7 +290,7 @@ http://makeashorterlink.com/?S17521DA3
   http://makeashorterlink.com/?S16E22DA3
   ```
 
-- **example scripts reorganization for installation as "production" code**  
+- **example scripts reorganization for installation as "production" code**
 
   Spurred on by an earlier conversation regarding the perl scripts
   scattered between examples/ and scripts/, Brian Osborne has taken up
@@ -305,7 +305,7 @@ http://makeashorterlink.com/?S17521DA3
   http://makeashorterlink.com/?R29E32DA3
   ```
 
-- **Bio::Seq::SequenceTrace**  
+- **Bio::Seq::SequenceTrace**
 
   Chad Matsalla has added a Bio::Seq::SequenceTrace object, to "mimic
   the information available in a scf 'Sequence Chromatogram File"'. It
@@ -317,7 +317,7 @@ http://makeashorterlink.com/?S17521DA3
   http://makeashorterlink.com/?R3AE25DA3
   ```
 
-- **MLAGAN/LAGAN support**  
+- **MLAGAN/LAGAN support**
 
   Stephen Montgomery has supplied both MLAGAN and LAGAN wrappers and
   parsers (the Lagan Tookit is a set of alignment programs for
@@ -331,14 +331,14 @@ http://makeashorterlink.com/?S17521DA3
 
 # Fixes
 
-- **SeqIO/scf.pm bug**  
+- **SeqIO/scf.pm bug**
 
   Tony Cox "finally got around to checking in a fix for the SeqIO/scf
   module when it has to deal with 8-bit encoded trace data". It's not
   yet clear where this fix stands with Chad Matsalla's rewrite of
   Bio/SeqIO/scf.pm
 
-- **Bio::Tools::Run::WrapperBase.pm missing from 1.2**  
+- **Bio::Tools::Run::WrapperBase.pm missing from 1.2**
 
   Because of some code migration between bioperl subprojects,
   Bio/Tools/Run/WrapperBase.pm went missing in the 1.2 release, causing
@@ -349,7 +349,7 @@ http://makeashorterlink.com/?S17521DA3
   http://makeashorterlink.com/?B20015EA3
   ```
 
-- **bug fixes in Blast HSP tiling code**  
+- **bug fixes in Blast HSP tiling code**
 
   After finding that for certain BLAST reports the "blast" and
   "psiblast" SearchIO parsers gave mildly differing values for
@@ -366,7 +366,7 @@ http://makeashorterlink.com/?S17521DA3
 
 # Proposals
 
-- **Project ideas for the aspiring biohacker**  
+- **Project ideas for the aspiring biohacker**
 
   Periodically, we're asked "I'd like to get involved, do you have any
   project ideas a newbie could work on?". Jason Stajich shot out a few
@@ -377,7 +377,7 @@ http://makeashorterlink.com/?S17521DA3
   http://makeashorterlink.com/?D28022EA3
   ```
 
-- **Bio::Perl namespace export groups**  
+- **Bio::Perl namespace export groups**
 
   The Bio::Perl module is a top-level, "novice" interface to a few small
   tidbits of BioPerl functionality. Many first-time users appreciate

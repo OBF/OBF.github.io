@@ -14,8 +14,8 @@ title: Global Community Biosummit 2019 @MIT
 url: /2019/12/17/global-community-biosummit-2019-mit/
 
 ---
-  
-_The [Open Bioinformatics Foundation (OBF)](https://www.open-bio.org) sponsors a Travel Fellowship program aimed at increasing diverse participation at events promoting Open Source bioinformatics software development and open science in the biological research community. Arunav Konwar's participation at_ [Global Community Biosummit (GCBS),](https://www.biosummit.org/) _2019 was supported by this fellowship. Find more information [here.](/travel-awards/)_  
+
+_The [Open Bioinformatics Foundation (OBF)](https://www.open-bio.org) sponsors a Travel Fellowship program aimed at increasing diverse participation at events promoting Open Source bioinformatics software development and open science in the biological research community. Arunav Konwar's participation at_ [Global Community Biosummit (GCBS),](https://www.biosummit.org/) _2019 was supported by this fellowship. Find more information [here.](/travel-awards/)_
 
 ![No photo description available.](https://scontent.fgau3-1.fna.fbcdn.net/v/t1.0-9/s960x960/67842987_2309735785809363_3830016113882693632_o.jpg?_nc_cat=101&_nc_oc=AQm74VYRk_p9ARtE5OLImFJCu8MxugqdsQ55hIVnqJnTXHznMYznmJQHelCqxSxfAes&_nc_ht=scontent.fgau3-1.fna&oh=58c849b2e805e6e004f10d37e9558771&oe=5E56663C)
 

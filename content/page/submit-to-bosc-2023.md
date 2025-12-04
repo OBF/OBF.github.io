@@ -89,7 +89,7 @@ In addition to the requirements listed at left, we consider the following when s
 
 ![](/wp-content/uploads/2022/01/Screen-Shot-2022-01-19-at-3.59.31-PM.png)
 
-Watch a video of [BOSC organizing committee member Jason Williams discussing how to write a great BOSC abstract](https://youtu.be/DwJRrh1Tpew)!  
+Watch a video of [BOSC organizing committee member Jason Williams discussing how to write a great BOSC abstract](https://youtu.be/DwJRrh1Tpew)!
 
 [Submit Abstract](https://easychair.org/conferences/?conf=ismbeccb2023abstract)
 
@@ -97,7 +97,7 @@ Watch a video of [BOSC organizing committee member Jason Williams discussing how
 
 The [Open Bioinformatics Foundation](/wiki/OBF), which coordinates BOSC, is dedicated to promoting the practice and philosophy of Open Source Software Development and Open Science within the biological research community.
 
-For this reason, if a submitted abstract concerns a specific software system for use by the research community, then that software must include a recognized Open Source License or Public Domain dedication, and be available for download, including source code. We recommend Open Source Initiative (OSI) Approved Licenses where appropriate.  
+For this reason, if a submitted abstract concerns a specific software system for use by the research community, then that software must include a recognized Open Source License or Public Domain dedication, and be available for download, including source code. We recommend Open Source Initiative (OSI) Approved Licenses where appropriate.
 
 Similarly, abstracts with a focus on data, analysis methods, and/or documentation must make these available in a manner consistent with Open Science standards, utilizing appropriate licensing and approaches that promote open sharing, reuse, and redistribution.
 

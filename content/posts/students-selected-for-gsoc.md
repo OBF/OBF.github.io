@@ -22,20 +22,20 @@ I'm very pleased and excited to announce that the Open Bioinformatics Foundation
 
 The accepted students, their projects, and their mentors (in alphabetical order):
 
-- **[Wibowo Arindrarto](http://bow.web.id/blog/tag/gsoc/)**:  
-_SearchIO Implementation in Biopython_  
+- **[Wibowo Arindrarto](http://bow.web.id/blog/tag/gsoc/)**:
+_SearchIO Implementation in Biopython_
 mentored by Peter Cock
-- **[Lenna Peterson](http://arklenna.tumblr.com/tagged/gsoc2012)**:  
-_Diff My DNA: Development of a Genomic Variant Toolkit for Biopython_  
+- **[Lenna Peterson](http://arklenna.tumblr.com/tagged/gsoc2012)**:
+_Diff My DNA: Development of a Genomic Variant Toolkit for Biopython_
 mentored by Brad Chapman, Reece Hart, James Casbon
-- **[Marjan Povolni](http://blog.mpthecoder.com/tagged/gsoc)**:  
-_The worlds fastest parallelized GFF3/GTF parser in D, and an interfacing biogem plugin for Ruby_  
+- **[Marjan Povolni](http://blog.mpthecoder.com/tagged/gsoc)**:
+_The worlds fastest parallelized GFF3/GTF parser in D, and an interfacing biogem plugin for Ruby_
 mentored by Pjotr Prins, Francesco Strozzi, Raoul Bonnal
-- **[Artem Tarasov](http://lomereiter.wordpress.com/tag/gsoc/)**:  
-_Fast parallelized GFF3/GTF parser in C++, with Ruby FFI bindings_  
+- **[Artem Tarasov](http://lomereiter.wordpress.com/tag/gsoc/)**:
+_Fast parallelized GFF3/GTF parser in C++, with Ruby FFI bindings_
 mentored by Pjotr Prins, Francesco Strozzi, Raoul Bonnal
-- **[Clayton Wheeler](http://csw.github.com/bioruby-maf/)**:  
-_Multiple Alignment Format parser for BioRuby_  
+- **[Clayton Wheeler](http://csw.github.com/bioruby-maf/)**:
+_Multiple Alignment Format parser for BioRuby_
 mentored by Francesco Strozzi and Raoul Bonnal
 
 As in every year, we received many great applications and ideas. However, funding and mentor resources are limited, and we were not able to accept as many as we would have liked. Our deepest thanks to all the students who applied: we sincerely appreciate the time and effort you put into your applications, and hope you will still consider being a part of the OBF's open source projects, even without Google funding. I speak for myself and all of the mentors who read and scored applications when I say that we were truly honored by the number and quality of the applications we received.
@@ -44,5 +44,5 @@ For the accepted students: congratulations! You have risen to the top of a very 
 
 Best regards,
 
-Robert Buels  
+Robert Buels
 OBF GSoC 2012 Organization Administrator

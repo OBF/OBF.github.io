@@ -25,7 +25,7 @@ OBF runs the annual [Bioinformatics Open Source Conference (BOSC)](events/bosc/a
 
 ![Poster session at GCCBOSC2018](/wp-content/uploads/2019/03/people-at-poster-session-GCC2018-1.jpg)
 
- 
+
 ![OBF Treasurer Heather Wiencko introducing OBF at BOSC 2024](/wp-content/uploads/2024/08/Heather-presenting-1.jpeg)
 
 {{< endcolumns >}}

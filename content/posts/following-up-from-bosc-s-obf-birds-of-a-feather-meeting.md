@@ -48,11 +48,11 @@ After reading all this, if you’re interested in helping out with any of the id
 - Leaving a comment on this post!
 - Tweet to [@obf\_news](https://twitter.com/obf_news)
 
-Also - please don’t forget to [**join the OBF**](/wiki/Membership) if you haven’t already. Any BOSC attendee automatically qualifies for membership, and even if you haven’t attended BOSC before, if you’re reading this post there’s a good chance you’ll fulfil the requirements anyway. [Details are in the form!](/wiki/Membership)  
-{{< gallery cols="1" >}}  
+Also - please don’t forget to [**join the OBF**](/wiki/Membership) if you haven’t already. Any BOSC attendee automatically qualifies for membership, and even if you haven’t attended BOSC before, if you’re reading this post there’s a good chance you’ll fulfil the requirements anyway. [Details are in the form!](/wiki/Membership)
+{{< gallery cols="1" >}}
 {{< figure src="/wp-content/uploads/2018/07/OBF-BoF-2018-25.jpg" title="OBF-BoF-2018 - 25" alt="OBF-BoF-2018 - 25" >}}
 
 {{< figure src="/wp-content/uploads/2018/07/OBF-BoF-2018-31.jpg" title="OBF-BoF-2018 - 31" alt="OBF-BoF-2018 - 31" >}}
 
-{{< figure src="/wp-content/uploads/2018/07/OBF-BoF-2018-22-e1531151626641.jpg" title="Hilmar, Peter, and Yo" alt="Hilmar, Peter, and Yo" >}}  
-{{< /gallery >}}  
+{{< figure src="/wp-content/uploads/2018/07/OBF-BoF-2018-22-e1531151626641.jpg" title="Hilmar, Peter, and Yo" alt="Hilmar, Peter, and Yo" >}}
+{{< /gallery >}}

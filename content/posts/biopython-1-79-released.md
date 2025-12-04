@@ -36,11 +36,11 @@ Additionally, a number of small bugs and typos have been fixed with further addi
 
 Many thanks to the Biopython developers and community for making this release possible, especially the following contributors:
 
-\- Damien Goutte-Gattat  
-\- Gert Hulselmans  
-\- João Rodrigues  
-\- Markus Piotrowski  
-\- Sergio Valqui  
-\- Suyash Gupta  
-\- Vini Salazar (first contribution)  
+\- Damien Goutte-Gattat
+\- Gert Hulselmans
+\- João Rodrigues
+\- Markus Piotrowski
+\- Sergio Valqui
+\- Suyash Gupta
+\- Vini Salazar (first contribution)
 \- Leighton Pritchard

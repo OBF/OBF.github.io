@@ -103,7 +103,7 @@ In addition to the requirements listed above, we consider the following when sel
 
 The [Open Bioinformatics Foundation](/), which coordinates BOSC, is dedicated to promoting the practice and philosophy of Open Source Software Development and Open Science within the biological research community.
 
-For this reason, if a submitted abstract concerns a specific software system for use by the research community, then that software must include a recognized Open Source License or Public Domain dedication, and be available for download, including source code. We recommend Open Source Initiative (OSI) Approved Licenses where appropriate.  
+For this reason, if a submitted abstract concerns a specific software system for use by the research community, then that software must include a recognized Open Source License or Public Domain dedication, and be available for download, including source code. We recommend Open Source Initiative (OSI) Approved Licenses where appropriate.
 Similarly, abstracts with a focus on data, analysis methods, and/or documentation must make these available in a manner consistent with Open Science standards, utilizing appropriate licensing and approaches that promote open sharing, reuse, and redistribution.
 
 See the following websites for further information and examples of recognized Open Source Licenses and Public Domain Dedications:

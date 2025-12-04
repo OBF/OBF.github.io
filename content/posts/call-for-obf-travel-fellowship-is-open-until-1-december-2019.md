@@ -25,4 +25,4 @@ Applications are particularly encouraged from members from historically underrep
 
 Since 2018, OBF has offered this fellowship to **12 awardees** to defray or subsidize their travel-related cost of up to **$1000 each**. You can read their blog posts in [OBF blog](/category/travel-fellowship/) where they have shared their experiences from attending different events as OBF travel fellows.
 
-In 2020, there will be two application calls that will close on 1 March and 1 September 2020. \[ **NOTE**: This was later changed to 1 April and 1 October.\] Please read more details on the [fellowship program](https://github.com/OBF/obf-docs/blob/master/Travel_fellowships.md) and feel free to contact the committee by writing an email to [board@open-bio.org](mailto:board@open-bio.org).  
+In 2020, there will be two application calls that will close on 1 March and 1 September 2020. \[ **NOTE**: This was later changed to 1 April and 1 October.\] Please read more details on the [fellowship program](https://github.com/OBF/obf-docs/blob/master/Travel_fellowships.md) and feel free to contact the committee by writing an email to [board@open-bio.org](mailto:board@open-bio.org).

@@ -86,7 +86,7 @@ For decades, he has been a strong advocate for open-source bioinformatics softwa
 
 Dr Scott Edmunds is Editor in Chief of [GigaScience](https://academic.oup.com/gigascience), the Hong Kong based Open Science journal that publishes data and software papers (and which launched at ISMB in 2012).
 After PhD and postdoctoral research experience in Cancer Molecular Pathology, he has spent nearly 20 years working in open access publishing and open data.
-He has co-founded Citizen Science organisations Bauhinia Genome and CitizenScience.Asia, and is on the Board of Directors of the Dryad Digital Repository and Make Data Count. 
+He has co-founded Citizen Science organisations Bauhinia Genome and CitizenScience.Asia, and is on the Board of Directors of the Dryad Digital Repository and Make Data Count.
 He has also taught data management and curation at Hong Kong University.
 
 {{< column >}}

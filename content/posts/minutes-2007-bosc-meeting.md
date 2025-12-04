@@ -8,8 +8,8 @@ title: Minutes:2007 BOSC Meeting
 url: /2007/07/21/minutes2007-bosc-meeting/
 
 ---
-**Venue:** Cafe Prückl, Vienna  
-**Date:** 7/21/2007, 5.30pm  
+**Venue:** Cafe Prückl, Vienna
+**Date:** 7/21/2007, 5.30pm
 **Attending:** Jason Stajich (OBF President), Hilmar Lapp (OBF Parliamentarian), Darin London, Kam Dahlquist
 
 ### BOSC
