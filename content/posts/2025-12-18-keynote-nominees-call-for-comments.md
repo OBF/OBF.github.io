@@ -17,7 +17,7 @@ url: /2025/12/18/2026-keynote-community-comment/
 
 ---
 
-![Christine Orengo keynote - BOSC 2025](/img/2025/bosc2025-img/Christine-Orengo-keynote.jpeg)
+![Christine Orengo keynote - BOSC 2025](/img/2025/bosc2025-img/Christine-Orengo-by-podium.jpeg)
 
 We thank our community for the excellent keynote speaker suggestions for [BOSC 2026](/events/bosc).
 The next phase of our selection process invites you to share any concerns about the suitability of the nominated individuals.
