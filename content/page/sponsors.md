@@ -89,7 +89,7 @@ conference, which attracted a record 2238 participants. For the first time,
 [CollaborationFest](/events/bosc-2025/ismb-collaborationfest-2025/)
 was part of the main ISMB/ECCB conference.
 
-[BOSC 2026](/events/bosc/) will be held in Washington, DC (with an online participation option) July 13-14, 2026 as part of ISMB 2026.
+[BOSC 2026](/events/bosc/) will be held in Washington, DC (with an online participation option) July 14-15, 2026 as part of ISMB 2026.
 
 <a href="/events/bosc/about" class="btn btn-lg btn-primary">More about BOSC</a>
 
