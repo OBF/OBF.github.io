@@ -12,7 +12,7 @@ tag:
  - bosc
  - ismb
 
-title: "Call for Nominations: BOSC 2026 Keynote Speakers"
+title: "Call for Comments on BOSC 2026 Keynote Speaker Candidates"
 url: /2025/12/18/2026-keynote-community-comment/
 
 ---
