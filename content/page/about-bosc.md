@@ -37,7 +37,7 @@ Since it launched in 2000, BOSC has been part of ISMB every year except for 2018
 
 ### Previous BOSCs
 
-- [BOSC 2025](/events/bosc-2025/) took place July 21-22, 2025 in Liverpool, UK (as part of [ISMB/ECCB 2025](https://www.iscb.org/ismbeccb2025/home)). 
+- [BOSC 2025](/events/bosc-2025/) took place July 21-22, 2025 in Liverpool, UK (as part of [ISMB/ECCB 2025](https://www.iscb.org/ismbeccb2025/home)).
 - [BOSC 2024](/events/bosc-2024/) The 25th annual BOSC was held July 15-16, 2024, as part of [ISMB 2024](https://www.iscb.org/ismbeccb2024), in person in Montréal, Canada, and online.
 - [BOSC 2023](/events/bosc-2023/) took place July 26-27, 2023 as part of [ISMB/ECCB 2023](https://www.iscb.org/ismbeccb2023), in person in Lyon, France, and online.
 - [BOSC 2022](/events/bosc-2022/) took place July 13-14, 2022, as part of [ISMB 2022](https://www.iscb.org/ismb2022), in person in Madison, Wisconsin, USA, and also online.
