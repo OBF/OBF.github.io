@@ -12,7 +12,7 @@ bosc: yes
 # BOSC 2026 Abstract Submission
 
 {{< columns >}}
-**BOSC 2026**, the 27th annual Bioinformatics Open Source Conference, will take place July 13-14 or July 15-16 in Washington, DC, as part of [ISMB 2026](https://www.iscb.org/ismb2026/home). We hope you will join us in person or online!
+**BOSC 2026**, the 27th annual Bioinformatics Open Source Conference, will take place **July 14-15** as part of [ISMB 2026](https://www.iscb.org/ismb2026/home) in Washington DC. We hope you will join us in person or online!
 
 Please see below for submission instructions.
 
@@ -30,7 +30,7 @@ Please see below for submission instructions.
 
 {{< columns >}}
 - April 1, 2026: [OBF Event Award application deadline](/event-awards/)
-- **April 9: Abstract submission deadline (talks and posters)**
+- **April 9: Abstract submission deadline (talks and posters)**. Submission will be via ISMB's EasyChair.
 - May 5: Talk/poster acceptance notifications
 - May 7: Late poster submission deadline
 - July 12-16: [ISMB 2026](https://www.iscb.org/ismb2026/home) (Washington, DC and online)
