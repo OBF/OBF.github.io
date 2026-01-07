@@ -27,29 +27,30 @@ Please use **[this anonymous form](https://docs.google.com/forms/d/e/1FAIpQLSe3h
 including as much detail as you are comfortable providing, by **Friday, January 9th, 2026**.
 
 ### This year’s nominees are:
-Katy Börner
-Anne Carpenter
-Ishwar Chandramouliswaran
-Kyunghyun Cho
-Francis Collins
-Medha Devare
-Casey Greene
-Eric Green
-Susan Gregurick
-Lukas Heumos
-Mikhail Kolmogorov
-Heng Li
-Thomas Leitner
-Marcia McNutt
-Alondra Nelson
-Sandra Orchard
-Francis Oullette
-Cyril Pommier
-John Quackenbush
-Heidi Sofia
-Paul Thomas
-Kirstie Whitaker
-Maryam Zaringhalam
+
+- Katy Börner
+- Anne Carpenter
+- Ishwar Chandramouliswaran
+- Kyunghyun Cho
+- Francis Collins
+- Medha Devare
+- Casey Greene
+- Eric Green
+- Susan Gregurick
+- Lukas Heumos
+- Mikhail Kolmogorov
+- Heng Li
+- Thomas Leitner
+- Marcia McNutt
+- Alondra Nelson
+- Sandra Orchard
+- Francis Oullette
+- Cyril Pommier
+- John Quackenbush
+- Heidi Sofia
+- Paul Thomas
+- Kirstie Whitaker
+- Maryam Zaringhalam
 
 The BOSC Organizing Committee will extend invitations for keynote speakers using the community-nominated list after the comment period closes.
 Since the Committee cannot guarantee a speaker's acceptance, they may need to consider individuals not on the original list without repeating the entire nomination process.
