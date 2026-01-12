@@ -34,7 +34,7 @@ Please see below for submission instructions.
 - May 5: Talk/poster acceptance notifications
 - May 7: Late poster submission deadline
 - July 12-16: [ISMB 2026](https://www.iscb.org/ismb2026/home) (Washington, DC and online)
-- **July 13-14 or July 15-16:** **BOSC 2026** (part of ISMB 2026)
+- **July 14-15:** **BOSC 2026** (part of ISMB 2026)
 
 {{< column >}}
 ![Larry Hunter and Melanie Courtot at BOSC 2024](/wp-content/uploads/2024/08/Larry-and-Melanie-in-BOSC-audience-1.jpeg)
@@ -49,7 +49,7 @@ Please see below for submission instructions.
 ### What to submit
 
 - A 250-word short abstract (text only) is required for ALL submissions (talk and/or poster).
-- If you want to be considered for a talk, you also MUST attach a 1-2 page "long abstract" as a PDF. Figures welcome as long as the total length is 2 pages or less.
+- If you want to be considered for a talk, you also MUST attach a 1-2 page "long abstract" as a PDF. Figures are welcome as long as the total length is 2 pages or less.
 - In your long abstract, please describe how your work fits into the open source / open science ecosystem. We like to see examples of biological applications of your work, and a summary of the current and/or projected community aspects of your project.
 
 <div class="well">
@@ -68,7 +68,7 @@ To be accepted, abstracts submitted to BOSC must be:
 
 - **Relevant**: Your abstract must describe how your work relates to some aspect of open source software, open science or open data applied to biology or biomedical science.
 - **Available**: Your code / data / materials must be available **at the time of review** at the URL you list.
-- **Open Content**: Work discussed in BOSC presentations must be open source / open content, with a recognized license (which must be included in the repository). For abstracts about non-software products (e.g., educational materials), these should also be freely available with an appropriate open license (see below).
+- **Open Content**: Work discussed in BOSC presentations must be open source / open content, with a recognized license (which should also be included in the repository). If your abstract concerns non-software products (e.g., educational materials), these should also be freely available with an appropriate open license (see below).
 - **Updated**: If you presented this work at a previous BOSC in any form, your abstract must describe progress since the last BOSC presentation.
 
 {{< endcolumns >}}
@@ -95,6 +95,10 @@ In addition to the requirements listed above, we consider the following when sel
 - Abstract template for formatting your PDF (optional): [bosc-abstract-template](/wp-content/uploads/2022/04/bosc2022-abstract-template.docx) (MS Word)
 - You don't need to register before you submit your abstract, but to present your talk or poster you will need to register for ISMB.
 
+<center>
+<a href="https://easychair.org/conferences/?conf=ismb2026" class="btn btn-lg btn-primary">Submit Abstract</a>
+</center>
+
 ## BOSC Open Content Requirement
 
 The [Open Bioinformatics Foundation](/), which coordinates BOSC, is dedicated to promoting the practice and philosophy of Open Source Software Development and Open Science within the biological research community.
@@ -120,7 +124,7 @@ See the following websites for further information and examples of recognized Op
 
 ### Presentation formats
 
-Talks chosen from submitted abstracts are generally either "long" (around 15-20 minutes + 3 minutes for question) or short/"lightning" (5 minutes, scheduled in groups of three lightning talks followed by 5 minutes for questions for all three). Abstracts submitted in the Late Poster round are not eligible for talks.
+At BOSC, talks chosen from submitted abstracts are generally either "long" (around 15-20 minutes + 3 minutes for question) or short/"lightning" (5 minutes, scheduled in groups of three lightning talks followed by 5 minutes for questions for all three). Abstracts submitted in the Late Poster round are not eligible for talks.
 
 ![BOSC 2024 organizing committee](/wp-content/uploads/2024/08/BOSC-org-committee-Montreal-1.jpeg)
 
@@ -141,3 +145,7 @@ We realize that the cost of ISMB may be prohibitive for some. If you are submitt
 
 {{< endcolumns >}}
 </div>
+
+<center>
+<a href="https://easychair.org/conferences/?conf=ismb2026" class="btn btn-lg btn-primary">Submit Abstract</a>
+</center>
