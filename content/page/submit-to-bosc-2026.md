@@ -14,7 +14,7 @@ bosc: yes
 {{< columns >}}
 **BOSC 2026**, the 27th annual Bioinformatics Open Source Conference, will take place **July 14-15** as part of [ISMB 2026](https://www.iscb.org/ismb2026/home) in Washington DC. We hope you will join us in person or online!
 
-Please see below for submission instructions.
+**Abstract submission is open!** See below for instructions.
 
 {{< column >}}
 
@@ -30,7 +30,7 @@ Please see below for submission instructions.
 
 {{< columns >}}
 - April 1, 2026: [OBF Event Award application deadline](/event-awards/)
-- **April 9: Abstract submission deadline (talks and posters)**. Submission will be via ISMB's EasyChair.
+- **April 9: Abstract submission deadline (talks and posters)**. Submission is via ISMB's EasyChair.
 - May 5: Talk/poster acceptance notifications
 - May 7: Late poster submission deadline
 - July 12-16: [ISMB 2026](https://www.iscb.org/ismb2026/home) (Washington, DC and online)
@@ -46,7 +46,7 @@ Please see below for submission instructions.
 
 {{< columns>}}
 
-### What to submit
+### What to submit: Overview
 
 - A 250-word short abstract (text only) is required for ALL submissions (talk and/or poster).
 - If you want to be considered for a talk, you also MUST attach a 1-2 page "long abstract" as a PDF. Figures are welcome as long as the total length is 2 pages or less.
@@ -99,7 +99,7 @@ In addition to the requirements listed above, we consider the following when sel
 <a href="https://easychair.org/conferences/?conf=ismb2026" class="btn btn-lg btn-primary">Submit Abstract</a>
 </center>
 
-## BOSC Open Content Requirement
+## BOSC open content requirement
 
 The [Open Bioinformatics Foundation](/), which coordinates BOSC, is dedicated to promoting the practice and philosophy of Open Source Software Development and Open Science within the biological research community.
 
