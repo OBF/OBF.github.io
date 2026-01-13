@@ -92,6 +92,10 @@ menu:
       parent: 'bosc'
       url: 'events/bosc-2026/'
       weight: 1
+    - name: 'Submit an abstract'
+      parent: 'bosc'
+      url: 'events/bosc-2026/submit/'
+      weight: 1
     - name: 'Schedule (2025)'
       parent: 'bosc'
       url: 'events/bosc-2025/bosc-2025-schedule/'
