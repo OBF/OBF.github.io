@@ -14,6 +14,8 @@ tag:
 title: "Bridging Learning Gaps Through Open-Source Tools"
 url: /2026/02/02/2026-02-02-David-Mwaura-AIBBC2025/
 ---
+
+**_The_** [**_Open Bioinformatics Foundation (OBF) Event Fellowship program_**](/travel-awards) **_aims to promote diverse participation at events promoting open-source bioinformatics software development and open science practices in the biological research community. David Kiragu Mwaura,_** _**an Assistant Research Scientist at the**_ _**Kenya Institute of Primate Research**_, **_was awarded an OBF Event Fellowship to attend_** **_[2025 AIBBC conference](https://www.aibbc-society.org/))_**.
  
 My desire to share my masters’ research output into a real world demonstration had finally come to its fruition. This was achieved by securing a competitive travel grant from the **Open Bioinformatics Foundation Event Fellowship**. Leaving the chilly landscapes of Glasgow, Scotland for the warm, tropical weather in my home country, Kenya, I was honored to attend the [2025 African International Biotechnology and Biomedical Conference](https://www.aibbc-society.org/), where scientists from around the world gather to exchange ideas that directly address Africa’s needs.  
 
