@@ -17,13 +17,13 @@ url: /2026/02/02/2026-02-02-David-Mwaura-AIBBC2025/
 
 **_The_** [**_Open Bioinformatics Foundation (OBF) Event Fellowship program_**](/travel-awards) **_aims to promote diverse participation at events promoting open-source bioinformatics software development and open science practices in the biological research community. David Kiragu Mwaura,_** _**an Assistant Research Scientist at the**_ _**Kenya Institute of Primate Research**_, **_was awarded an OBF Event Fellowship to attend_** **_[2025 AIBBC conference](https://www.aibbc-society.org/))_**.
 
+![David Kiragu standing beside his mounted poster](/img/2026-02-02-image-kiragu.jpg.png)
+
  ## Introduction
 My desire to share my masters’ research output into a real world demonstration had finally come to its fruition. This was achieved by securing a competitive travel grant from the **Open Bioinformatics Foundation Event Fellowship**. Leaving the chilly landscapes of Glasgow, Scotland for the warm, tropical weather in my home country, Kenya, I was honored to attend the [2025 African International Biotechnology and Biomedical Conference](https://www.aibbc-society.org/), where scientists from around the world gather to exchange ideas that directly address Africa’s needs.
 
 ## Poster Presentation
 My simple and urgent plan was to showcase that open-source educational tools are practical, fair, high-impact solutions and not just an alternative means to the huge learning gap created by expensive proprietary software, especially in resource-constrained environments like Africa. My core contribution was to demonstrate how freely available platforms, particularly R Shiny, can revolutionize learning. My poster, **"BRIDGING TECHNOLOGY AND GENETIC EDUCATION: AN OPEN SOURCE SHINY APPLICATION FOR TEACHING PATERNITY ANALYSIS"**, served as the definitive proof of concept.
-
-![David Kiragu standing beside his mounted poster](/img/2026-02-02-image-kiragu.jpg.png)
 
 Standing proudly beside my poster, I highlighted the complexity of teaching kinship inference and presented our solution, [DadApp](https://github.com/KIRAGU-MWAURA/DadApp_Shiny_Web_App), the open source R shiny tool. I shared the successful results from the Kenya Institute of Primate Research (KIPRE) pilot study that described the increase of interest and confidence upon using DadApp as an active learning tool. The results were uniquely compelling to the audience which sparked the discussion among lecturers and researchers from many institutions across Africa, who recognized the immense value of such open source tools. They saw an accessible, validated tool that could be replicated and scaled here in Africa where technology is gradually accessible.
 
