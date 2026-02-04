@@ -1,6 +1,6 @@
 ---
 author: milodrowski
-date: 2026-01-03
+date: 2026-02-04
 
 category:
  - community
@@ -17,7 +17,7 @@ url: /2026/02/03/2026-02-03-Rafal-Milodrowski-BioHackathon-Europe-2025/
 
 The Open Bioinformatics Foundation (OBF) Event Fellowship program aims to promote diverse participation at events promoting open-source bioinformatics software development and open science practices in the biological research community. I was awarded an OBF Event Fellowship to attend BioHackathon Europe 2025, held 3–7 November at the Esplanade Resort & Spa in Bad Saarow, near Berlin, Germany.
 I am a PhD student at the Jagiellonian University in Kraków, working with insect genomes and large-scale comparative datasets. BUSCO is part of my everyday toolkit, so spending a week contributing to a BUSCO-based phylogenomics workflow with an international team felt like a perfect fit. The fellowship covered my travel costs and made it possible for me to fully participate in the hackathon.
-![View of Lake Scharmützelsee and the Esplanade Resort & Spa from the lakeside promenade.](#ADD_PHOTO)
+![View of Lake Scharmützelsee and the Esplanade Resort & Spa from the lakeside promenade.](static/img/2026/2026-02-04-hotel.jpg)
 
 ## A hackathon by the lake
 
@@ -30,21 +30,21 @@ BioHackathon Europe took over a lakeside hotel that turned into a giant shared o
 I joined project #03, “Automatic workflow for benchmarking BUSCO genes for phylogenomics”. BUSCO lineage datasets are widely used to assess genome completeness and to extract putatively single-copy orthologs for phylogenetic analyses. However, once you look across many genomes at once, especially in groups with whole‑genome duplications, it quickly becomes clear that many BUSCO loci are not truly single copy. Our project aims to make this complexity visible and manageable.
 The goal for the week was to turn existing scripts and a prototype workflow into a robust Snakemake pipeline that starts from BUSCO output and ends with phylogenomic trees. The workflow includes steps for multiple‑sequence alignment and trimming, gene‑tree inference, detection of in‑ and out‑paralogs, and construction of concatenated supermatrices and species trees that explicitly account for paralogy.
 
-![Morning meeting  on zoom and coding session.](#ADD_PHOTO)
+![Morning meeting  on zoom and coding session.](static/img/2026/2026-02-04-meeting.jpg)
 
 ## My role: testing and debugging 
 
 Coming from a background of running Snakemake pipelines on HPC systems, I focused on the “does this actually run for a new user?” side of the project. A surprising amount of hackathon time can disappear into environment issues, so as a team we invested early in getting a clean, reproducible setup with conda and Snakemake  with clearly pinned software versions.
 My main contribution was to run the pipeline on a curated set of genomes and report back where things broke or behaved unexpectedly. This included checking intermediate outputs (alignments, gene trees, paralog reports), tracking down missing dependencies, and helping to standardise file naming conventions for genome FASTA files and BUSCO output directories. These details may sound minor, but they are crucial when scaling up to dozens or hundreds of genomes.
 
-![Schema of the pipeline used in our project](#ADD_PHOTO)
+![Schema of the pipeline used in our project](static/img/2026/2026-02-04-pipeline.jpg)
 
 ## Community and mid‑week reporting
 
 A highlight of the week was the mid‑week reporting session, where each project prepared a short poster and gave lightning updates. Walking around the room, it was impressive to see the variety of topics being tackled in parallel: workflows, training materials, AI‑readiness, data standards and more. Presenting our BUSCO project forced us to summarise why this workflow matters, not just how it works.
 The poster session also helped to connect with people from other projects who use BUSCO or phylogenomics in their own work. Several visitors were interested in applying the workflow to their clades, and their questions helped us clarify which configuration options and outputs will be most useful for future users.
 
-![Photo of me and our mid‑week reporting poster.](#ADD_PHOTO)
+![Photo of me and our mid‑week reporting poster.](static/img/2026/2026-02-04-poster.jpg)
 
 ## Take‑home messages
 
@@ -58,7 +58,7 @@ The week left me with a few key lessons:
 
 The work we began at BioHackathon Europe 2025 will continue as the team refines the workflow, runs it on additional clades and prepares it for broader release. For my own research, I am excited to apply the BUSCO phylogenomics pipeline to insect genomes and to compare patterns of paralogy across groups with very different genome architectures. I expect this will directly improve the robustness of the phylogenies I use in my PhD.
 
-![Official BioHackathon Europe 2025 group picture in the courtyard.](#ADD_PHOTO)
+![Official BioHackathon Europe 2025 group picture in the courtyard.](static/img/2026/2026-02-04-people.jpg)
 
 ---
 
