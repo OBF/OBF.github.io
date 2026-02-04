@@ -32,7 +32,7 @@ The goal for the week was to turn existing scripts and a prototype workflow into
 
 ![Morning meeting  on zoom and coding session.](static/img/2026/2026-02-04-meeting.jpg)
 
-## My role: testing and debugging 
+## My role: testing and debugging
 
 Coming from a background of running Snakemake pipelines on HPC systems, I focused on the “does this actually run for a new user?” side of the project. A surprising amount of hackathon time can disappear into environment issues, so as a team we invested early in getting a clean, reproducible setup with conda and Snakemake  with clearly pinned software versions.
 My main contribution was to run the pipeline on a curated set of genomes and report back where things broke or behaved unexpectedly. This included checking intermediate outputs (alignments, gene trees, paralog reports), tracking down missing dependencies, and helping to standardise file naming conventions for genome FASTA files and BUSCO output directories. These details may sound minor, but they are crucial when scaling up to dozens or hundreds of genomes.
