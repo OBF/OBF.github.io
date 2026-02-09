@@ -15,8 +15,8 @@ title: "BioHackathon Europe 2025: BUSCO genes, lakeside hacking, and open workfl
 url: /2026/02/03/2026-02-03-Rafal-Milodrowski-BioHackathon-Europe-2025/
 ---
 
-The Open Bioinformatics Foundation (OBF) Event Fellowship program aims to promote diverse participation at events promoting open-source bioinformatics software development and open science practices in the biological research community. I was awarded an OBF Event Fellowship to attend BioHackathon Europe 2025, held 3–7 November at the Esplanade Resort & Spa in Bad Saarow, near Berlin, Germany.
-I am a PhD student at the Jagiellonian University in Kraków, working with insect genomes and large-scale comparative datasets. BUSCO is part of my everyday toolkit, so spending a week contributing to a BUSCO-based phylogenomics workflow with an international team felt like a perfect fit. The fellowship covered my travel costs and made it possible for me to fully participate in the hackathon.
+The Open Bioinformatics Foundation (OBF) Event Fellowship program aims to promote diverse participation at events promoting open-source bioinformatics software development and open science practices in the biological research community. I was awarded an OBF Event Fellowship to attend [BioHackathon Europe 2025](https://biohackathon-europe.org), held 3–7 November at the Esplanade Resort & Spa in Bad Saarow, near Berlin, Germany.
+I am a PhD student at the Jagiellonian University in Kraków, working with insect genomes and large-scale comparative datasets. [BUSCO](https://busco.ezlab.org) is part of my everyday toolkit, so spending a week contributing to a BUSCO-based phylogenomics workflow with an international team felt like a perfect fit. The fellowship covered my travel costs and made it possible for me to fully participate in the hackathon.
 ![View of Lake Scharmützelsee and the Esplanade Resort & Spa from the lakeside promenade.](/img/2026/2026-02-04-hotel.jpg)
 
 ## A hackathon by the lake
@@ -29,6 +29,7 @@ BioHackathon Europe took over a lakeside hotel that turned into a giant shared o
 
 I joined project #03, “Automatic workflow for benchmarking BUSCO genes for phylogenomics”. BUSCO lineage datasets are widely used to assess genome completeness and to extract putatively single-copy orthologs for phylogenetic analyses. However, once you look across many genomes at once, especially in groups with whole‑genome duplications, it quickly becomes clear that many BUSCO loci are not truly single copy. Our project aims to make this complexity visible and manageable.
 The goal for the week was to turn existing scripts and a prototype workflow into a robust Snakemake pipeline that starts from BUSCO output and ends with phylogenomic trees. The workflow includes steps for multiple‑sequence alignment and trimming, gene‑tree inference, detection of in‑ and out‑paralogs, and construction of concatenated supermatrices and species trees that explicitly account for paralogy.
+
 
 ![Morning meeting  on zoom and coding session.](/img/2026/2026-02-04-meeting.jpg)
 
@@ -49,10 +50,12 @@ The poster session also helped to connect with people from other projects who us
 ## Take‑home messages
 
 The week left me with a few key lessons:
-**- Reproducible workflows are a collective effort.** Agreeing on file naming, pinning software versions and writing documentation takes time, but doing it together during a hackathon pays off immediately.
-**- “Single‑copy” genes are often more complicated than they look.** The preliminary results we explored during the week highlight just how common paralogy is, even in supposedly universal BUSCO sets.
-**- Hackathons are great for collaboration across time zones.** Our work in Bad Saarow connected with contributions from an Australian outpost of the project, with progress passed back and forth through shared repositories and notes.
-**- Open tools lower the entry barrier.** By investing in a polished, documented workflow instead of a one‑off analysis, we make it easier for others to reuse and extend our work.
+- **Reproducible workflows are a collective effort.** Agreeing on file naming, pinning software versions and writing documentation takes time, but doing it together during a hackathon pays off immediately.
+- **“Single‑copy” genes are often more complicated than they look.** The preliminary results we explored during the week highlight just how common paralogy is, even in supposedly universal BUSCO sets.
+- **Hackathons are great for collaboration across time zones.** Our work in Bad Saarow connected with contributions from an Australian outpost of the project, with progress passed back and forth through shared repositories and notes.
+- **Open tools lower the entry barrier.** By investing in a polished, documented workflow instead of a one‑off analysis, we make it easier for others to reuse and extend our work.
+- **Pipelines live and grow in the open.** The BUSCO phylogenomics pipeline we worked on is being developed in the open as the “buscophy” workflow on [GitHub](https://github.com/tbrown91/biohackathon-projects-2025/tree/main/03-automatic-workflow-for-benchmarking/buscophy). It takes BUSCO output from many genomes, aligns and trims the corresponding genes, builds gene trees, flags in- and out-paralogs, and then builds concatenated supermatrices and summary species trees from the filtered genes. Having all of this encoded in one reproducible pipeline means others can rerun exactly the same analysis, adapt it to their own taxa, or extend it with new methods.
+
 
 ## What comes next
 
