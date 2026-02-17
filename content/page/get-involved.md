@@ -22,7 +22,7 @@ There are many ways you can become part of our growing community, regardless of 
 
 The OBF community has a number of different online spaces that are open to everyone and can be used to network and discuss anything related to open bioinformatics. You can:
 
-* Follow our [blog](https://www.open-bio.org/posts/)
+* Follow our [blog](/blog/)
 * [Subscribe to our OBF newsletter](https://mailman.open-bio.org/mailman/listinfo/open-bio-l/) (and if you have news to share, you can [also suggest topics](https://github.com/OBF/newsletter/issues)).
 * [Join our community _Slack_](https://join.slack.com/t/open-bio/shared_invite/zt-1pnswao9y-8igcckVxBXhQHCMweHt_NA), where you will find fellow open bioinformatics folks to chat with.
 * We also have an open [_LinkedIn_ group](https://www.linkedin.com/groups/9539620/), where you can hear about open bioinformatics events, job opportunities and more.
