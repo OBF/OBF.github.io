@@ -55,7 +55,7 @@ The OBF is open to anyone who is interested in promoting open source bioinformat
 
 # Main Activities
 
-- Running the yearly [BOSC](events/bosc/) conference.
+- Running the yearly [BOSC](/events/bosc/about/) conference.
 - Organizing the [CollaborationFest](/events/bosc/collaborationfest/) collaborative work events (which usually follow or precede BOSC).
 - Running the [OBF Event Award program](/event-awards/) (launched March 2016), aimed at increasing diverse participation at events promoting open-source bioinformatics or open science.
 - Participating in the Google Summer of Code program as an umbrella mentoring organization for member projects and related open source bioinformatics efforts, when there is sufficient interest.
