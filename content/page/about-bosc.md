@@ -24,7 +24,7 @@ Since it launched in 2000, BOSC has been part of ISMB every year except for 2018
 
 {{< columns >}}
 
-- Inform the research community of important developments in open source bioinformatics
+- Inform the research community of important developments in open source bioinformatics and open science
 - Provide a focused environment for developers and users to interact and share ideas about open source approaches in bioinformatics
 - Make connections between participants that could enhance the open source ecosystem and lead to collaborations
 - Promote open science, with its focus on sharing data and tools, transparency, reproducibility, and data provenance
@@ -75,7 +75,7 @@ Since it launched in 2000, BOSC has been part of ISMB every year except for 2018
 
 ### CollaborationFest
 
-In recent years, the BOSC meetings have been preceded or followed by a two day [CollaborationFest](/events/bosc/collaborationfest/), an informal collaborative work event. Initially called CodeFest, the event was renamed CollaborationFest in 2018 to reflect the fact that it's not just about coding.
+In recent years, the BOSC meetings have been preceded or followed by a two-day [CollaborationFest](/events/bosc/collaborationfest/), an informal collaborative work event. Initially called CodeFest, the event was renamed CollaborationFest in 2018 to reflect the fact that it's not just about coding.
 
 ![Part of the audience of BOSC 2024](/wp-content/uploads/2024/12/BOSC-audience-with-Jessica-1.jpeg)
 
@@ -98,13 +98,11 @@ There's no conference without attendees! Your presence is crucial to the success
 
 ### Present your work
 
-Our focus is on open source work and communities. Code presented at BOSC must be open and properly licensed. If your work is more about training materials than code, we'd like your materials to be open and licensed so others can benefit from it!
-
-In the early days of BOSC, an abstract that was basically "I wrote some bioinformatics code, and it's open source" was good enough to merit at least a short talk, but we've grown since then. Even if a project is new and therefore doesn't yet have a community, there should be some sort of plan for building a community of users and/or developers.
+Our focus is on open source work and communities. Code presented at BOSC must be open and properly licensed. If your work is more about training materials than code, we want your materials to be open and licensed so others can benefit from it!
 
 We try to provide a platform to everyone who wants to present appropriate work. We have "long" talks (typically 17 minutes + 3 minutes for questions), short/"lightning" talks (5 minutes), and posters.
 
-<a href="/events/bosc-2025/submit/" class="btn btn-lg btn-primary">Submit an abstract</a>
+<a href="/events/bosc-2026/submit/" class="btn btn-lg btn-primary">Submit an abstract</a>
 
 
 ### Review abstracts
@@ -115,7 +113,8 @@ We try to provide a platform to everyone who wants to present appropriate work. 
 
 {{< column >}}
 
-Conference abstracts are reviewed by volunteers who express their interest. We encourage reviewers to be constructive in their comments, and some choose to sign their reviews. Most reviewers are assigned about 6 abstracts to review. We acknowledge our reviewers on the conference website and in the program.
+Conference abstracts are reviewed by volunteers who express their interest and have appropriate experience. We encourage reviewers to be constructive in their comments, and some choose to sign their reviews. Reviewers are typically assigned about 6-8 abstracts to review.
+We acknowledge our reviewers on the conference website.
 
 <a href="https://github.com/OBF/bosc_materials/blob/master/BOSC_review_process.md" target="_new" class="btn btn-lg btn-primary">More about the review process</a>
 
@@ -126,10 +125,8 @@ Conference abstracts are reviewed by volunteers who express their interest. We e
 
 The organizing committee does most of the work to make BOSC a successful meeting. Committee members help write communications to reviewers, participants, and attendees; decide on the program; design conference materials; find dinner locations; chair sessions during the conference; and more! The workload gets heavy in two waves: first when abstracts are being reviewed and the program is being put together, and again as the conference gets closer. Most organizing committee members start out by becoming abstract reviewers.
 
-We acknowledge organizing committee members on the conference website and in the program, and they are entitled to complimentary conference registration if their institution/employer can't cover it.
-
 ![](/wp-content/uploads/2022/01/BOSC-roundtable-2021-Jul-29-1-1.jpeg)
 
 ### Sponsor BOSC and/or CollaborationFest
 
-The Open Bioinformatics Foundation welcomes donations to help support the BOSC and [CollaborationFest](/events/bosc/collaborationfest/) events. Please see the [Sponsors](/events/bosc/sponsors/) page for more information.
+The Open Bioinformatics Foundation welcomes sponsorships to help support the BOSC and [CollaborationFest](/events/bosc/collaborationfest/) events. Please see the [Sponsors](/events/bosc/sponsors/) page for more information.
