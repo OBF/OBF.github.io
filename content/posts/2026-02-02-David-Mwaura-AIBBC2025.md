@@ -14,12 +14,12 @@ title: "Bridging Learning Gaps Through Open-Source Tools"
 url: /2026/02/23/2026-02-23-David-Mwaura-AIBBC2025/
 ---
 
-**_The_** [**_Open Bioinformatics Foundation (OBF) Event Fellowship program_**](/travel-awards) **_aims to promote diverse participation at events promoting open-source bioinformatics software development and open science practices in the biological research community. David Kiragu Mwaura,_** _**an Assistant Research Scientist at the**_ _**Kenya Institute of Primate Research**_, **_was awarded an OBF Event Fellowship to attend_** **_[2025 AIBBC conference](https://www.aibbc-society.org/))_**.
+The [Open Bioinformatics Foundation (OBF) Event Fellowship program](/travel-awards) aims to promote diverse participation at events promoting open-source bioinformatics software development and open science practices in the biological research community. David Kiragu Mwaura,_an Assistant Research Scientist at the Kenya Institute of Primate Research, was awarded an OBF Event Fellowship to attend the [2025 AIBBC conference](https://www.aibbc-society.org/).
 
 ![David Kiragu standing beside his mounted poster](/img/2026-02-02-image-kiragu.jpg.png)
 
  ## Introduction
-My desire to share my masters’ research output into a real world demonstration had finally come to its fruition. This was achieved by securing a competitive travel grant from the **Open Bioinformatics Foundation Event Fellowship**. Leaving the chilly landscapes of Glasgow, Scotland for the warm, tropical weather in my home country, Kenya, I was honored to attend the [2025 African International Biotechnology and Biomedical Conference](https://www.aibbc-society.org/), where scientists from around the world gather to exchange ideas that directly address Africa’s needs.
+My desire to share my masters’ research output in a real world demonstration had finally come to fruition. This was achieved by securing a competitive travel grant from the **Open Bioinformatics Foundation Event Fellowship**. Leaving the chilly landscapes of Glasgow, Scotland for the warm, tropical weather in my home country, Kenya, I was honored to attend the [2025 African International Biotechnology and Biomedical Conference](https://www.aibbc-society.org/), where scientists from around the world gather to exchange ideas that directly address Africa’s needs.
 
 ## Poster Presentation
 My simple and urgent plan was to showcase that open-source educational tools are practical, fair, high-impact solutions and not just an alternative means to the huge learning gap created by expensive proprietary software, especially in resource-constrained environments like Africa. My core contribution was to demonstrate how freely available platforms, particularly R Shiny, can revolutionize learning. My poster, **"BRIDGING TECHNOLOGY AND GENETIC EDUCATION: AN OPEN SOURCE SHINY APPLICATION FOR TEACHING PATERNITY ANALYSIS"**, served as the definitive proof of concept.
