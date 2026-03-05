@@ -1,0 +1,20 @@
+{{- with .Title | default .Site.Title }}
+<meta property="og:title" content="{{ . }}" />
+{{- end }}
+{{- with .Description | default .Params.subtitle | default .Summary }}
+<meta property="og:description" content="{{ . }}">
+{{- end }}
+{{ if isset .Params "bosc" }}
+<meta property="og:image" content="{{ .Site.Params.bosc_logo | absURL }}" />
+{{ else }}
+{{- with .Params.share_img | default .Params.image | default .Site.Params.logo }}
+<meta property="og:image" content="{{ . | absURL }}" />
+{{- end }}
+{{ end }}
+{{- with .Site.Params.fb_app_id }}
+<meta property="fb:app_id" content="{{ . }}" />
+{{- end }}
+<meta property="og:url" content="{{ .Permalink | absLangURL }}" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="{{ .Site.Title }}" />
+
