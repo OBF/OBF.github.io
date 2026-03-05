@@ -47,7 +47,7 @@ Awards are made three times a year; the next **deadline is April 1, 2026** (note
 
 ![CoFest 2026 participants](/img/2025/bosc2025-img/CoFest%20-%20Carlo%2C%20Harry%2C%20other%20person%20working%20at%20table%20-%201.jpeg)
 
-Authors who [submit their work to BOSC](/events/bosc-2025/submit/) can request ISMB registration fee support on the abstract submission form (these requests are not seen by reviewers). This initiative is funded by [sponsorships](/events/sponsors/).
+Authors who [submit their work to BOSC](/events/bosc-2026/submit/) can request ISMB registration fee support on the abstract submission form (these requests are not seen by reviewers). This initiative is funded by [sponsorships](/events/sponsors/).
 
 Only presenting authors whose abstracts are accepted for talk or poster presentation are eligible for this fee support, and not all requests will be granted.
 
