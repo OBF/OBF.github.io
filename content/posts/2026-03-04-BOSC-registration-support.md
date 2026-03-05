@@ -22,13 +22,13 @@ url: /posts/financial-support-BOSC2026/
 
 BOSC is part of the big [ISMB 2026](https://www.iscb.org/ismb2026/home) conference, so you need to register for ISMB to participate in BOSC.
 
-We recognize that the high price of travel and registration can make it hard for some people to attend BOSC.
-Below are some ways to apply for financial assistance.
+We recognize that the high price of travel and registration can be a barrier.
+Below are some ways to apply for financial assistance to attend ISMB / BOSC.
 
 
 {{< columns >}}
 
-![Iva Tutis](img/2025/bosc2025-img/Iva%20Tutis%20by%20poster.jpeg)
+![Iva Tutis](/img/2025/bosc2025-img/Iva%20Tutis%20by%20poster.jpeg)
 
 {{< column >}}
 
