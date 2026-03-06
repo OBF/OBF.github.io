@@ -63,10 +63,10 @@ Applicants will be notified about whether their request was granted shortly afte
 
 {{< column >}}
 
-The ISCB (the organization that runs the ISMB conference) offers a limited number of [conference fellowships](https://www.iscb.org/ismb2026/general-info/conference-fellowships) for students and postdocs to present their work at ISMB.
+The ISCB (the organization that runs the ISMB conference) offers a limited number of [conference fellowships](https://www.iscb.org/ismb2026/general-info/conference-fellowships) that cover the registration fee to help students and postdocs to present their work at ISMB.
 
 These fellowships are only open to those who have a **Proceeding, Talk, or Poster (not late poster) accepted for presentation at ISMB**.
-The application will be sent automatically to eligible people around May 6 (the day after talk/poster acceptances go out).
+The application will be sent automatically to eligible people on May 5.
 The number of awards is limited; not all eligible applicants will receive awards.
 Please consult the [ISMB page](https://www.iscb.org/ismb2026/general-info/conference-fellowships) for more information.
 
@@ -76,5 +76,5 @@ Please consult the [ISMB page](https://www.iscb.org/ismb2026/general-info/confer
 
 ![ISCB logo](https://www.iscb.org/images/banners/banner.ConferenceBanner.ISMB.2026.png)
 
-You can [apply to work at ISMB 2026 for approximately 20-24 hours](https://www.iscb.org/ismb2026/general-info/apply-to-be-event-staff) in exchange for free registration and time-based pay.
+You can [apply to work at ISMB 2026](https://www.iscb.org/ismb2026/general-info/apply-to-be-event-staff) for approximately 20-24 hours in exchange for free registration and time-based pay.
 (When you're not working, you can attend talks.) The **application deadline is May 1, 2026**.
