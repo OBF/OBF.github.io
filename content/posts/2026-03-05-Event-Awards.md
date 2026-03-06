@@ -19,7 +19,7 @@ url: /2026/03/05/event-fellowship-2026-1/
 
 ---
 The call for applications for **round 1** of the [OBF Event Fellowship](https://www.open-bio.org/event-awards/) for 2026 is now open. **The deadline for this round is 1 April 2026\.** You can submit your application through [this Google Form](https://forms.gle/maZEJzCF4rifEJgz5). We have provided a Word template to help you draft the application locally before filling out the form – [make a copy of this template](https://forms.gle/maZEJzCF4rifEJgz5).
-![A team at the ESIIL Innovation Summit](/img/2025/2025-11-03-ESIIL-Summit-group4-cropped.png)
+![A team at the ESIIL Innovation Summit](/img/2025/2025-11-03-ESIIL-Summit-group4-cropped.jpeg)
 
 The Open Bioinformatics Foundation (OBF)'s Event Fellowship program is aimed at increasing diverse participation at events promoting open science in the bioinformatics and biological research communities. Awards are made three times a year; the next deadline is April 1, 2026. (For those who want to apply for [BOSC](/events/bosc/), note that this is earlier than the BOSC/ISMB submission deadline of April 9.)
 
