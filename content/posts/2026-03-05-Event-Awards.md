@@ -1,7 +1,7 @@
 ---
 author: hzahroh
 date: 2026-03-05 # format is YYYY-MM-DD
-draft: true
+
 category:
  - community
  - event-fellowship
