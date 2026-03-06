@@ -13,14 +13,15 @@ tag:
  - event-fellowship
  - travel-fellowship
 
-title: Call for the first 2026 round of the OBF Event Fellowship & overview of the overall round of 2025.
+title: Call for the first 2026 round of the OBF Event Fellowship & overview of the awards made in 2025
 url: /2026/03/05/event-fellowship-2026-1/
 ---
 
 ---
 The call for applications for **round 1** of the [OBF Event Fellowship](https://www.open-bio.org/event-awards/) for 2026 is now open. **The deadline for this round is 1 April 2026\.** You can submit your application through [this Google Form](https://forms.gle/maZEJzCF4rifEJgz5). We have provided a Word template to help you draft the application locally before filling out the form – [make a copy of this template](https://forms.gle/maZEJzCF4rifEJgz5).
+![A team at the ESIIL Innovation Summit](/img/2025/2025-11-03-ESIIL-Summit-group4-cropped.png)
 
-The Open Bioinformatics Foundation (OBF)'s Event Fellowship program is aimed at increasing diverse participation at events promoting open science in the bioinformatics and biological research communities. Awards are made three times a year; the next deadline is April 1, 2026. (For those who want to apply for BOSC, note that this is earlier than the BOSC/ISMB submission deadline of April 9.)
+The Open Bioinformatics Foundation (OBF)'s Event Fellowship program is aimed at increasing diverse participation at events promoting open science in the bioinformatics and biological research communities. Awards are made three times a year; the next deadline is April 1, 2026. (For those who want to apply for [BOSC](/events/bosc/), note that this is earlier than the BOSC/ISMB submission deadline of April 9.)
 
 We invite applications from candidates seeking financial support to attend relevant scientific events between May 2026 to April 2027\. ***These events include conferences, workshops, code fests, hackathons, training courses, collaborative sprints, informal meet-ups or other skill-building and networking events***. For more details, please read our [OBF Event Fellowship policy document](https://github.com/OBF/obf-docs/blob/master/Travel_fellowships.md).
 
