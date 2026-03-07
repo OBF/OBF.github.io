@@ -92,7 +92,7 @@ In addition to the requirements listed above, we consider the following when sel
 - If you want to be considered for a talk, you also MUST submit a 1-2 page "long abstract" as a PDF. (Yes, we did suggest to ISMB that calling both of these things "abstracts" was confusing.)
 - If you submit for a talk but your abstract is not chosen for a talk, it will automatically be considered for a poster.
 - New ISMB rule this year: a presenting author may present NO MORE THAN ONE talk or poster. If you want your work to be presented as both a talk and a poster, a different presenting author needs to submit for a poster.
-- Abstract template for formatting your PDF (optional): [bosc-abstract-template](/wp-content/uploads/2022/04/bosc2022-abstract-template.docx) (MS Word)
+- Abstract template for formatting your PDF (optional): [bosc2026-abstract-template.md](/img/2026/bosc2026-abstract-template.md) (Markdown). You can convert it to PDF using [pandoc](https://pandoc.org/) (e.g., `pandoc bosc2026-abstract-template.md -o abstract.pdf`) or any other Markdown-to-PDF tool.
 - You don't need to register before you submit your abstract, but to present your talk or poster you will need to register for ISMB.
 
 <center>
@@ -115,6 +115,15 @@ See the following websites for further information and examples of recognized Op
 - [Public Domain Dedications](https://creativecommons.org/share-your-work/public-domain/) and [Public-domain-equivalent licenses](https://en.wikipedia.org/wiki/Public-domain-equivalent_license): [CC0](https://creativecommons.org/share-your-work/public-domain/cc0), [Unlicense](https://unlicense.org/)
 
 ![At BOSC 2024, Paul Pavlidis asks Andrew Su a question](/wp-content/uploads/2025/01/Paul-Pavlidis-asks-Andrew-Su-a-question.jpg)
+
+## AI use policy
+
+BOSC follows the [ISCB policy on acceptable use of large language models (LLMs)](https://www.iscb.org/about-iscb/policy-statements-bylaws-and-legal-documents/acceptable-use-of-large-language-models-policy). Key points:
+
+- Abstracts and papers **must be written by humans**. LLMs must not be used to draft or write sections of your submission.
+- LLMs must not be listed as authors.
+- Acceptable uses of LLMs include spell/grammar checking, language translation assistance, and code development support — but the submitting authors remain responsible for all content.
+- If you used AI tools as part of the research described in your submission, please describe that usage in your abstract.
 
 ## ISMB rules
 
