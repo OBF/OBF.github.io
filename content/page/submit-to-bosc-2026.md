@@ -70,6 +70,7 @@ To be accepted, abstracts submitted to BOSC must be:
 - **Available**: Your code / data / materials must be available **at the time of review** at the URL you list.
 - **Open Content**: Work discussed in BOSC presentations must be open source / open content, with a recognized license (which should also be included in the repository). If your abstract concerns non-software products (e.g., educational materials), these should also be freely available with an appropriate open license (see below).
 - **Updated**: If you presented this work at a previous BOSC in any form, your abstract must describe progress since the last BOSC presentation.
+- **Human-written**: AI/LLMs must not be used to draft or write sections of your submission--please see the "AI Use Policy" section below.
 
 {{< endcolumns >}}
 
