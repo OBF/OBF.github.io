@@ -92,7 +92,6 @@ In addition to the requirements listed above, we consider the following when sel
 - If you want to be considered for a talk, you also MUST submit a 1-2 page "long abstract" as a PDF. (Yes, we did suggest to ISMB that calling both of these things "abstracts" was confusing.)
 - If you submit for a talk but your abstract is not chosen for a talk, it will automatically be considered for a poster.
 - New ISMB rule this year: a presenting author may present NO MORE THAN ONE talk or poster. If you want your work to be presented as both a talk and a poster, a different presenting author needs to submit for a poster.
-- Abstract template for formatting your PDF (optional): [bosc2026-abstract-template.md](/img/2026/bosc2026-abstract-template.md) (Markdown). You can convert it to PDF using [pandoc](https://pandoc.org/) (e.g., `pandoc bosc2026-abstract-template.md -o abstract.pdf`) or any other Markdown-to-PDF tool.
 - You don't need to register before you submit your abstract, but to present your talk or poster you will need to register for ISMB.
 
 <center>
