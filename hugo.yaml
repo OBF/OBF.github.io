@@ -102,7 +102,7 @@ menu:
       weight: 3
     - name: 'Keynotes (NEW)'
       parent: 'bosc'
-      url: 'events/bosc-2025/bosc-2025-schedule/'
+      url: 'events/bosc-2026/bosc-2026-keynotes/'
       weight: 4
     - name: '(2025 Schedule)'
       parent: 'bosc'
