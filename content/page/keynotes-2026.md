@@ -21,15 +21,15 @@ For over two decades, Dr. Green directed a research program that included start-
 
 <br/><br/>
 
-<img src="/img/2026/2026-03-06-Maryam-Zaringhalam.png" alt ="Maryam Zaringhalam" style="width:50%"/>
+<img src="/img/2026/2026-03-09-Maryam-Zaringhalam.jpeg" alt ="Maryam Zaringhalam" style="width:50%"/>
 
 ### Maryam Zaringhalam (Center for Open Science)
 
 #### Talk title TBD
 
-<b>Maryam Zaringhalam, Ph.D.</b>, is the Senior Director of Policy at the [Center for Open Science (COS)](https://www.cos.io/). She leads COS’s policy efforts to increase openness, integrity, and reproducibility of research.
+<b>Maryam Zaringhalam, Ph.D.</b>, is the Senior Director of Policy at the [Center for Open Science (COS)](https://www.cos.io/). In that position, she leads COS’s policy efforts to increase openness, integrity, and trustworthiness of research.
 
-Prior to joining the Center for Open Science, Maryam served as the Data Science and Open Science Officer at the National Library of Medicine (NLM) at the U.S. National Institutes of Health (NIH), working to enhance capacity in the biomedical research community for data science and open science through strategic programs and policy support. From 2022 to 2024, she also served as the Assistant Director for Public Access and Research Policy at the White House Office of Science and Technology Policy (OSTP) where she oversaw the implementation of the 2022 OSTP Memorandum on Ensuring Free, Immediate, and Equitable Access to Federally Funded Research and the 2021 Presidential Memorandum on Restoring Trust in Government Through Scientific Integrity and Evidence-Based Policymaking. She coordinated federal agency involvement in the 2023 Federal Year of Open Science to advance open, equitable, and secure research.
+Prior to joining COS, Maryam served as the Data Science and Open Science Officer at the National Library of Medicine (NLM) at the National Institutes of Health (NIH), working to enhance capacity in the biomedical research community for data science and open science. From 2022 to 2024, she also served as the Assistant Director for Public Access and Research Policy at the White House Office of Science and Technology Policy (OSTP) where she oversaw federal policy development around public access, open science, and scientific integrity.
 
 Maryam is also a Senior Producer for the Story Collider, where she co-hosts the science policy podcast Science Soapbox, bringing true, personal stories of science to live audiences in Washington, DC. She received her PhD in Molecular Biology from the Rockefeller University.
 
