@@ -84,48 +84,51 @@ menu:
     - name: 'Donate'
       parent: 'about'
       url: 'donate'
-      weight: 7
+      weight: 7    
+    - name: 'News'
+      url: 'blog'
+      weight: 8
+
     - name: 'BOSC'
       identifier: 'bosc'
-      weight: 2
+      weight: 1
     - name: 'BOSC 2026'
       parent: 'bosc'
       url: 'events/bosc-2026/'
-      weight: 1
+      weight: 2
     - name: 'Submit an abstract'
       parent: 'bosc'
       url: 'events/bosc-2026/submit/'
-      weight: 2
+      weight: 3
     - name: 'Keynotes (NEW)'
       parent: 'bosc'
       url: 'events/bosc-2025/bosc-2025-schedule/'
+      weight: 4
     - name: '(2025 Schedule)'
       parent: 'bosc'
       url: 'events/bosc-2025/bosc-2025-schedule/'
-      weight: 2
+      weight: 5
     - name: '(2025 Panel)'
-      weight: 4
+      weight: 6
       parent: 'bosc'
       url: 'events/bosc-2025/panel/'
     - name: "CollaborationFest (2025)"
-      weight: 5
+      weight: 7
       parent: 'bosc'
       url: 'events/bosc-2025/ismb-collaborationfest-2025/'
-    - name: 'BOSC News'
-      weight: 6
-      parent: 'bosc'
-      url: 'category/bosc/'
-    - name: 'About BOSC'
-      parent: 'bosc'
-      weight: 7
-      url: 'events/bosc/about/'
     - name: 'Sponsors'
       weight: 8
       parent: 'bosc'
       url: 'events/bosc/sponsors/'
-    - name: 'News'
-      url: 'blog'
-      weight: 4
+   - name: 'BOSC News'
+      weight: 9
+      parent: 'bosc'
+      url: 'category/bosc/'
+    - name: 'About BOSC'
+      parent: 'bosc'
+      weight: 10
+      url: 'events/bosc/about/'
+
 
 permalinks:
   section:
