@@ -120,7 +120,7 @@ menu:
       weight: 8
       parent: 'bosc'
       url: 'events/bosc/sponsors/'
-   - name: 'BOSC News'
+    - name: 'BOSC News'
       weight: 9
       parent: 'bosc'
       url: 'category/bosc/'
