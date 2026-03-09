@@ -96,6 +96,8 @@ It is also good practice to name media files with the date you add them/the date
 
 #### Some other random tips
 
+- Where is the menu?? It's in hugo.yaml.
+
 - To set up a URL redirect, add an alias to the page you want to
   redirect *to*. This goes in the header part of the .md (the part
   between the three dashes) and looks like this:
