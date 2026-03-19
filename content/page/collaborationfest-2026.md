@@ -43,4 +43,3 @@ these activities are on dynamically updated Github pages, and will only be fully
 ### Code of Conduct
 
 As part of ISMB/ECCB 2025, CollaborationFest 2025 is covered by the [ISCB Code of Ethics and Professional Conduct](https://www.iscb.org/iscb-policy-statements/iscb-code-of-ethics-and-professional-conduct).
-
