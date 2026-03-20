@@ -15,7 +15,7 @@ CollaborationFest 2026 will be a collaborative work event at which participants 
 
 ![Participants at CoFest 2025](static/img/2025/bosc2025-img/CoFest room - Iddo.jpeg)
 
-BOSC has organized CollaborationFests (aka CoFests) every year before or after ISMB since 2010 (see, for example, [the 2025 CoFest page](https://www.open-bio.org/events/bosc-2025/ismb-collaborationfest-2025/).).
+BOSC has organized CollaborationFests (aka CoFests) every year before or after ISMB since 2010 (see, for example, [the 2025 CoFest page](https://www.open-bio.org/events/bosc-2025/ismb-collaborationfest-2025/)).
 
 ### Dates
 
