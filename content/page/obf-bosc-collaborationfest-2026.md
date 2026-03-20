@@ -26,9 +26,7 @@ Friday July 17 to Saturday July 18 (right after ISMB 2026).
 
 {{< columns >}}
 
-Due to space constraints, participation in CollaborationFest is limited. A registration link will be available shortly.
-
-Limited remote participation will be possible, but engagement opportunities will depend on the people and projects active on the day. A video feed from the room will be available, but joining will require you to be a registered (virtual or in-person) ISMB/ECCB participant.
+Due to space constraints, participation in CollaborationFest is limited. Participation is free, but registration is mandatory. A registration link will be available shortly.
 
 {{< column >}}
 
