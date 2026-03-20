@@ -7,6 +7,7 @@ date: "2025-02-16T09:35:44+00:00" #creation date
 title: CollaborationFest 2026
 url: /events/bosc-2026/collaborationfest
 aliases:
+  - /events/bosc/collaborationfest2026/
   - /events/bosc/collaborationfest/
 bosc: yes
 ---
