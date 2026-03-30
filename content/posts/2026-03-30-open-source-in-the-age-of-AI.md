@@ -24,7 +24,7 @@ We may also invite some of the chosen speakers to participate in a panel. The [s
 
 For example, here are some possible topics (but don't feel restricted to these):
 
-- Reuse: why does open source matter if there’s now little incentive to reuse?
+- Reuse: how can we encourage and facilitate reuse of tools and frameworks when AI makes it easy to code things up from scratch?
 - Evaluating open source projects: AI tools can generate thousands of lines of code in seconds. The most costly process is now verifying that code for scientific accuracy (https://arxiv.org/abs/2507.09089). What are some good approaches to address this?
 - Contribution guidelines: balancing scale and utility of AI-assisted development with community-building
   - How should an open source project assess pull requests from AI agents? 
