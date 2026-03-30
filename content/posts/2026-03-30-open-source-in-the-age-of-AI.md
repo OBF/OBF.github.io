@@ -16,7 +16,7 @@ url: /posts/Open-Source-in-the-Age-of-AI/
 
 ---
 
-![CoFest 2026 participants](/img/2026-03-29-elephant-and-pears.png)
+![AI-generated image of an elephant surrounded by colorful pears](/img/2026-03-29-elephant-and-pears.png)
 
 At BOSC 2026, we want to talk about the elephant in the open-source room: **Is generative AI an advantage or a hindrance to open source?**
 
