@@ -16,9 +16,8 @@ url: /posts/Open-Source-in-the-Age-of-AI/
 
 ---
 
-![AI-generated image of an elephant surrounded by colorful pears](/img/2026-03-29-elephant-and-pears.png)
-
 At BOSC 2026, we want to talk about the elephant in the open-source room: **Is generative AI an advantage or a hindrance to open source?**
+![AI-generated image of an elephant surrounded by colorful pears](/img/2026/2026-03-29-elephant-and-pears.png)
 
 We invite abstracts on this topic. Some might be selected to give talks at BOSC (which will be part of ISMB 2026).
 We may also invite some of the chosen speakers to participate in a panel. The [submission deadline](/events/bosc-2026/submit/) is April 9.
