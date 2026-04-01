@@ -6,13 +6,15 @@ url: /events/bosc-2026/panels/
 bosc: yes
 
 ---
+For the first time ever, BOSC will include **two** panels on important and timely topics.
+
 # Policies and Strategies for Resilient Open Science
 
 As we gather in Washington, D.C. for BOSC 2026, we stand at the literal and figurative crossroads of the policies that dictate the pulse of our field. For years, the open science community has operated under a steady wind of progress, but the past year has shifted the weather. We have moved from an era of "open by default" to an environment where the infrastructure of open science—funding, federal data repositories, and international collaborations—is increasingly under scrutiny. This panel moves beyond theoretical support for open science to focus on the strategies of resilience and active advocacy required to navigate a landscape that is being rapidly redefined.
 
 The current climate in the United States has seen federal agencies, which are the traditional engines of open research, reorienting under new mandates that prioritize "national interest" and "operational efficiency." While these shifts have created uncertainty, they have also demonstrated **the power of the community**; despite early threats of deep cuts, concerted advocacy has kept certain key research budgets remarkably stable. Resilience, therefore, is not just about surviving these shifts; it is about building a proactive presence in the rooms where these decisions are made. We will explore how these domestic tensions mirror global trends, from the rise of protectionist data policies to the decentralized alternatives emerging in the wake of federal volatility.
 
-Our discussion will move from high-level policy to the practical "how-to" of remaining principled and productive, addressing: the Advantage of Advocacy, Navigating Funding Fragility, Protecting the Digital Commons, and Institutional Fortification.
+Our discussion will range from high-level policy to the practical "how-to" of remaining principled and productive, addressing topics that include: the Advantage of Advocacy, Navigating Funding Fragility, Protecting the Digital Commons, and Institutional Fortification.
 
 # Panelists
 
@@ -24,11 +26,13 @@ Dr. Muñoz Torres is an Associate Professor at the University of Colorado Anschu
 
 # Open Source in the Age of AI
 
-In the rapidly evolving landscape of bioinformatics, open-source software (OSS) has long served as the engine of collaborative innovation and reproducible science. However, the emergence of generative AI represents a fundamental shift in how code is authored, maintained, and shared. This panel will examine the "elephant in the room": whether generative AI is a powerful advantage for open-source communities or a complex hindrance to their long-term health. We will explore how AI tools—which can generate thousands of lines of code in seconds—challenge our traditional notions of contribution, reuse, and the very value of human-authored frameworks.
+Open-source software has been a key part of the bioinformatics landscape for decades, enabling large-scale collaboration and supporting reproducible science.
+The emergence of generative AI represents a fundamental shift in how code is authored, maintained, and shared. This panel will examine the "elephant in the room": is generative AI a powerful advantage for open-source communities, or a threat to their long-term health, or both? 
+We will explore how AI tools—which can generate thousands of lines of code in seconds—challenge our notions of contribution, reuse, and the value of human-authored frameworks.
 
-The imperative to balance the scale of AI-assisted development with the core values of community-building has never been more acute. While AI makes it easier than ever to code solutions from scratch, it raises critical questions about the sustainability of existing projects and the scientific accuracy of machine-generated outputs. As the cost of software development shifts from writing code to the rigorous verification of that code for scientific integrity, we must determine how our communities can adapt. From assessing pull requests submitted by AI agents to debating the merits of zero-tolerance bans on AI-generated submissions, the open-source community is at a crossroads in defining how humans and AI agents can best work together.
+While AI makes it easier than ever to code solutions from scratch, it raises critical questions about the sustainability of existing projects and the scientific accuracy of machine-generated results. As the difficult part of software development shifts from writing code to verifying it for scientific integrity, our communities and the way they operate must evolve. From assessing pull requests submitted by AI agents to debating the merits of bans on AI-generated submissions, the open-source community is at a crossroads in defining how humans and AI agents can best work together.
 
-This panel will bring together a variety of perspectives to address pressing questions on the future of open science in an AI-driven world. We will discuss practical strategies and address topics including: Attribution and Accountability, Transparency and Licensing, Sustainability and Credit, and the Future of Open Data.
+This panel will bring together a variety of perspectives to discuss topics including: Reuse, Attribution and Accountability, Licensing, Sustainability, and the Future of Open Data.
 
 # Panelists
 
@@ -36,3 +40,8 @@ This panel will bring together a variety of perspectives to address pressing que
 
 
 ### MODERATOR: Jason Williams
+Jason Williams is Assistant Director of Cold Spring Harbor's Dolan DNA Learning Center.
+He was elected an AAAS Fellow in 2026. In 2025, he won the Elizabeth W. Jones Award for Excellence in Education!
+Williams has been instrumental in helping to bring the latest technologies and teaching approaches for working with DNA into classrooms around the world through dedicated hands-on programs for students and teachers.
+He develops national biology education programs and leads education, outreach, and training for CyVerse, the U.S. national cyberinfrastructure for life sciences. In addition to his work at the DNALC, Williams is the founder of LifeSciTrainers.org, a global initiative promoting a community of practice among professionals who develop short-format training for life scientists.
+He is also the Lead Investigator of the [Arecibo Center for Culturally Relevant and Inclusive Science Education, Computational Skills, and Community Engagement](https://areciboc3.dnalc.org/).
