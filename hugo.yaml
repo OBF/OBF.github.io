@@ -84,7 +84,7 @@ menu:
     - name: 'Donate'
       parent: 'about'
       url: 'donate'
-      weight: 7    
+      weight: 7
     - name: 'News'
       url: 'blog'
       weight: 8

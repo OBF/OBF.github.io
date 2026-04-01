@@ -12,14 +12,14 @@ As we gather in Washington, D.C. for BOSC 2026, we stand at the literal and figu
 
 The current climate in the United States has seen federal agencies, which are the traditional engines of open research, reorienting under new mandates that prioritize "national interest" and "operational efficiency." While these shifts have created uncertainty, they have also demonstrated **the power of the community**; despite early threats of deep cuts, concerted advocacy has kept certain key research budgets remarkably stable. Resilience, therefore, is not just about surviving these shifts; it is about building a proactive presence in the rooms where these decisions are made. We will explore how these domestic tensions mirror global trends, from the rise of protectionist data policies to the decentralized alternatives emerging in the wake of federal volatility.
 
-Our discussion will move from high-level policy to the practical "how-to" of remaining principled and productive, addressing: the Advantage of Advocacy, Navigating Funding Fragility, Protecting the Digital Commons, and Institutional Fortification. 
+Our discussion will move from high-level policy to the practical "how-to" of remaining principled and productive, addressing: the Advantage of Advocacy, Navigating Funding Fragility, Protecting the Digital Commons, and Institutional Fortification.
 
 # Panelists
 
 ### To be named
 
 ### MODERATOR: Mónica Muñoz Torres
-Dr. Muñoz Torres is an Associate Professor at the University of Colorado Anschutz. Her work focuses on the critical challenge of developing the socio-technical foundations needed to realize the promise of artificial intelligence in biomedical sciences. Her expertise includes genomics, biocuration, knowledge representation, and data harmonization. She leads the NIH-funded Bridge to Artificial Intelligence (Bridge2AI)’s teams focused on Standards, Practices, and Quality Assessment. She is also Co-Lead of the Clinical & Phenotypic Data Capture Work Stream of the Global Alliance for Genomics and Health (GA4GH). 
+Dr. Muñoz Torres is an Associate Professor at the University of Colorado Anschutz. Her work focuses on the critical challenge of developing the socio-technical foundations needed to realize the promise of artificial intelligence in biomedical sciences. Her expertise includes genomics, biocuration, knowledge representation, and data harmonization. She leads the NIH-funded Bridge to Artificial Intelligence (Bridge2AI)’s teams focused on Standards, Practices, and Quality Assessment. She is also Co-Lead of the Clinical & Phenotypic Data Capture Work Stream of the Global Alliance for Genomics and Health (GA4GH).
 
 
 # Open Source in the Age of AI
