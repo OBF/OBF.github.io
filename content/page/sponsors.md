@@ -15,9 +15,10 @@ bosc: yes
 Sponsorships from companies and non-profit organizations help enable us to provide free registration for some conference participants, offer honorariums to keynote speakers, and cover other expenses. Sponsors gain increased visibility and trust across the open source and open science ecosystem.
 
 <br/>
+
 #### Interested in sponsoring BOSC?
 
-#### Please contact us at bosc@open-bio.org!
+#### Please contact us: bosc@open-bio.org!
 
 {{< column >}}
 
@@ -27,9 +28,11 @@ Sponsorships from companies and non-profit organizations help enable us to provi
 
 </div>
 
+## Sponsors from previous years
+
 ### 2025 Platinum Sponsor:
 
-<a target="_new" href="https://chanzuckerberg.com/science/"><img src="/wp-content/uploads/2021/06/CZI_Logotype_RGB.jpg" style="width:40%" alt="CZI" /></a>
+<a target="_new" href="https://chanzuckerberg.com/science/"><img src="/wp-content/uploads/2021/06/CZI_Logotype_RGB.jpg" style="width:45%" alt="CZI" /></a>
 <center>The aim of CZI’s Open Science program is the universal and immediate open sharing of all scientific knowledge, processes, and outputs.
 </center>
 
@@ -44,16 +47,19 @@ Sponsorships from companies and non-profit organizations help enable us to provi
 
 **2025 Silver Sponsor:**
 
-<a target="_new" href="https://academic.oup.com/gigascience"><img src="/wp-content/uploads/2019/05/Gigascience.png" style="width:25%" alt="GigaScience" /></a>
+<a target="_new" href="https://academic.oup.com/gigascience"><img src="/wp-content/uploads/2019/05/Gigascience.png" style="width:20%" alt="GigaScience" /></a>
 
 <br/>
 
+<div class="well">
 
 ## What is BOSC?
 
 BOSC is an annual meeting organized by the [Open Bioinformatics Foundation (OBF)](/), a non-profit, volunteer-run group dedicated to promoting the practice and philosophy of Open Source software development and Open Science within the biological research community.
 
 Each BOSC ​includes keynote ​talks,​ talks chosen from submitted abstracts, ​poster​ ​sessions,​ ​panel, and ​lots​ ​of​ ​opportunities​ ​for​ ​networking. It is followed by​ ​collaborative​ ​working​ ​sessions​ ​at the [CollaborationFest](/events/bosc/collaborationfest/).​ ​These​ ​events​ ​bring​ ​together​ ​software​ ​engineers,​ ​bioinformaticians,​ ​and​ ​researchers​ ​to collaborate​ ​on ​open​ ​source​ ​bioinformatics​ ​tools and frameworks and approaches to open science.
+
+ Most years, BOSC has been part of the Intelligent Systems for Molecular Biology meeting (ISMB), which typically attracts over 2000 participants.
 
 ![Panel at BOSC 2015](/wp-content/uploads/2019/03/BOSC2015-panel-1-1024x521.jpg)
 
@@ -65,11 +71,13 @@ BOSC​ ​participants​ ​come​ ​from​ ​a​ ​wide​ ​variety�
 - Bioinformatics​-focused​ ​principal​ ​investigators​ ​and​ ​researchers
 - Sequencing​ ​core​ ​facility​ ​staff
 - Industry​ ​scientists​ ​and​ ​bioinformaticians
-- Data​ ​producers
+- Data​ ​scientists
+
+</div>
 
 ## Previous Events
 
-BOSC​ has been held [every​ ​year​ ​since​ ​2000](/events/bosc/about/).​ Most years, BOSC has been part of the Intelligent Systems for Molecular Biology meeting (ISMB), which typically attracts over 2000 participants.
+BOSC​ has been held [every​ ​year​ ​since​ ​2000](/events/bosc/about/).​ Most years, BOSC is part of the large Intelligent Systems for Molecular Biology meeting (ISMB).
 
 In 2018, BOSC partnered with the Galaxy Community Conference (GCC) in a very successful joint meeting in Portland, [GCCBOSC 2018](https://gccbosc2018.sched.com/). In July 2020, BOSC again joined forces with GCC to form the [Bioinformatics Community Conference (BCC2020)](https://bcc2020.github.io/). Held online, BCC2020 attracted over 600 participants from 62 countries.
 
