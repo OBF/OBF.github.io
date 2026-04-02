@@ -214,7 +214,7 @@ In 2021, sponsorships enabled us to offer free registration to 20 participants f
 <div class="well">
 <center>
 
-<b>If you are interested in becoming a BOSC sponsor, please contact us at bosc@open-bio.org!</b>
+#### If you are interested in becoming a BOSC sponsor, please contact us at bosc@open-bio.org!
 </center>
 
 
