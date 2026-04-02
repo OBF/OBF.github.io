@@ -6,9 +6,8 @@ url: /events/bosc/sponsors/
 bosc: yes
 ---
 
-### Sponsoring BOSC
-
 {{< columns >}}
+### Sponsoring BOSC
 
 Sponsorships from companies and non-profit organizations help enable us to provide free registration for some conference participants, offer honorariums to keynote speakers, and cover other expenses. Sponsors gain increased visibility and trust across the open source and open science ecosystem.
 
@@ -24,6 +23,7 @@ Sponsorships from companies and non-profit organizations help enable us to provi
 
 {{< endcolumns >}}
 
+<br/>
 <div class="well">
 
 ## 2026 Gold Sponsors:
