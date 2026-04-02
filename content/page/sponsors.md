@@ -35,7 +35,7 @@ Sponsorships from companies and non-profit organizations help enable us to provi
 
 <br/>
 
-<a target="_new" href="https://seqera.io/"><img src="/img/2026/2026-04-01-Seqera-logo.jpeg" style="width:50%" alt="Seqera" /></a>
+<a target="_new" href="https://seqera.io/"><img src="/img/2026/2026-04-01-Seqera-logo.jpeg" style="width:40%" alt="Seqera" /></a>
 <center><small>Seqera, built by the creators of Nextflow, is the enterprise-first bioinformatics platform trusted by leading pharma and diagnostics companies to build, validate, and scale bioinformatics with confidence.</small></center>
 
 <br/>
