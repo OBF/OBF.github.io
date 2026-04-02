@@ -27,7 +27,7 @@ Dr. Muñoz Torres is an Associate Professor at the University of Colorado Anschu
 # Open Source in the Age of AI
 
 Open-source software has been a key part of the bioinformatics landscape for decades, enabling large-scale collaboration and supporting reproducible science.
-The emergence of generative AI represents a fundamental shift in how code is authored, maintained, and shared. This panel will examine the "elephant in the room": is generative AI a powerful advantage for open-source communities, or a threat to their long-term health, or both? 
+The emergence of generative AI represents a fundamental shift in how code is authored, maintained, and shared. This panel will examine the "elephant in the room": is generative AI a powerful advantage for open-source communities, or a threat to their long-term health, or both?
 We will explore how AI tools—which can generate thousands of lines of code in seconds—challenge our notions of contribution, reuse, and the value of human-authored frameworks.
 
 While AI makes it easier than ever to code solutions from scratch, it raises critical questions about the sustainability of existing projects and the scientific accuracy of machine-generated results. As the difficult part of software development shifts from writing code to verifying it for scientific integrity, our communities and the way they operate must evolve. From assessing pull requests submitted by AI agents to debating the merits of bans on AI-generated submissions, the open-source community is at a crossroads in defining how humans and AI agents can best work together.
