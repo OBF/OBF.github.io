@@ -191,17 +191,17 @@ In 2021, sponsorships enabled us to offer free registration to 20 participants f
 
 ## BOSC 2022 Platinum Sponsors
 
-<a target="_new" href="https://chanzuckerberg.com/science"><img src="/wp-content/uploads/2021/06/CZI_Logotype_RGB.jpg" style="width:45%" alt="CZI" /></a>
+<a target="_new" href="https://chanzuckerberg.com/science"><img src="/wp-content/uploads/2021/06/CZI_Logotype_RGB.jpg" style="width:35%" alt="CZI" /></a>
 
 <br/>
 
-<a target="_new" href="http://aws.amazon.com"><img src="/wp-content/uploads/2021/05/AWS_logo_RGB.png" style="width:45%" alt="AWS" /></a>
+<a target="_new" href="http://aws.amazon.com"><img src="/wp-content/uploads/2021/05/AWS_logo_RGB.png" style="width:25%" alt="AWS" /></a>
 
 ## BOSC 2022 Gold Sponsors
 
 <a target="_new" href="https://www.broadinstitute.org/data-sciences-platform"><img src="/wp-content/uploads/2022/04/Broad-DSP-logo-1.png" style="width:30%" alt="Broad" /></a>
 
-<a target="_new" href="https://datascience.nih.gov"><img src="/wp-content/uploads/2022/04/NIH-ODSS_Horizontal_1Color-653.jpg" style="width:30%" alt="NIHODSS" /></a>
+<a target="_new" href="https://datascience.nih.gov"><img src="/wp-content/uploads/2022/04/NIH-ODSS_Horizontal_1Color-653.jpg" style="width:35%" alt="NIHODSS" /></a>
 
 
 ### BOSC 2022 Silver Sponsors
