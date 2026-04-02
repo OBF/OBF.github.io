@@ -185,7 +185,9 @@ In 2021, sponsorships enabled us to offer free registration to 20 participants f
 
 ### BOSC 2023 Silver Sponsors
 
-[![GigaScience](/wp-content/uploads/2019/05/Gigascience.png)](https://academic.oup.com/gigascience)[![Genevia](/wp-content/uploads/2021/06/genevia_logo_cmyk.png)](https://geneviatechnologies.com/)[![SSI logo](/wp-content/uploads/2023/04/SSI_PRIMARY-LOGO-300x96.png)](https://www.software.ac.uk/)
+<a href="https://academic.oup.com/gigascience"><img src="/wp-content/uploads/2019/05/Gigascience.png" style="width:20%" alt="GigaScience" /></a>
+<a href="https://geneviatechnologies.com/"><img src="/wp-content/uploads/2021/06/genevia_logo_cmyk.png" style="width:20%" alt="Genevia" /></a>
+<a href="https://www.software.ac.uk/"><img src="/wp-content/uploads/2023/04/SSI_PRIMARY-LOGO-300x96.png" style="width:20%" alt="SSI logo" /></a>
 
 ## BOSC 2022 Platinum Sponsors
 
@@ -204,7 +206,8 @@ In 2021, sponsorships enabled us to offer free registration to 20 participants f
 
 ### BOSC 2022 Silver Sponsors
 
-[![Arvados, supported by Curii](/wp-content/uploads/2022/05/ArvadosCurii.png)](https://arvados.org)[![Gigascience](/wp-content/uploads/2019/05/Gigascience.png)](https://academic.oup.com/gigascience)
+<a href="https://arvados.org"><img src="/wp-content/uploads/2022/05/ArvadosCurii.png" style="width:20%" alt="Arvados, supported by Curii" /></a>
+<a href="https://academic.oup.com/gigascience"><img src="/wp-content/uploads/2019/05/Gigascience.png" style="width:20%" alt="Gigascience" /></a>
 
 <br/>
 
