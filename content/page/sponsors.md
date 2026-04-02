@@ -28,6 +28,18 @@ Sponsorships from companies and non-profit organizations help enable us to provi
 
 </div>
 
+### 2026 Gold Sponsors:
+
+<a target="_new" href="https://datascience.nih.gov/"><img src="/img/2026/2026-04-01-NIH-ODSS-logo.jpeg" style="width:50%" alt="NIH ODSS" /></a>
+<center><small>The NIH Office of Data Science Strategy (ODSS) leads the implementation of the NIH Strategic Plan for Data Science through scientific, technical, and operational collaboration with the institutes, centers, and offices that comprise NIH.</small></center>
+
+<br/>
+
+<a target="_new" href="https://seqera.io/"><img src="/img/2026/2026-04-01-Seqera-logo.jpeg" style="width:40%" alt="Seqera" /></a>
+<center><small>Seqera, built by the creators of Nextflow, is the enterprise-first bioinformatics platform trusted by leading pharma and diagnostics companies to build, validate, and scale bioinformatics with confidence.</small></center>
+
+<br/>
+
 <div class="well">
 
 ## What is BOSC?
