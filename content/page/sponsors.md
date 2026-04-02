@@ -28,29 +28,6 @@ Sponsorships from companies and non-profit organizations help enable us to provi
 
 </div>
 
-## Sponsors from previous years
-
-### 2025 Platinum Sponsor:
-
-<a target="_new" href="https://chanzuckerberg.com/science/"><img src="/wp-content/uploads/2021/06/CZI_Logotype_RGB.jpg" style="width:45%" alt="CZI" /></a>
-<center>The aim of CZI’s Open Science program is the universal and immediate open sharing of all scientific knowledge, processes, and outputs.
-</center>
-
-<br/>
-
-#### 2025 Gold Sponsor:
-
-<a target="_new" href="https://seqera.io/"><img src="/wp-content/uploads/2024/04/Logo_Seqera-Color.png" style="width:30%" alt="Seqera" /></a>
-<center><small>Seqera, developed by the creators of Nextflow, empowers researchers to develop and deploy scalable bioinformatics pipelines faster</small></center>
-
-<p align="center"><iframe src="https://drive.google.com/file/d/1V1BbVcCPQHWN-8eMr4-yZ19xAK1p0Tfd/preview" width="640" height="480" allow="autoplay" ></iframe></p>
-
-**2025 Silver Sponsor:**
-
-<a target="_new" href="https://academic.oup.com/gigascience"><img src="/wp-content/uploads/2019/05/Gigascience.png" style="width:20%" alt="GigaScience" /></a>
-
-<br/>
-
 <div class="well">
 
 ## What is BOSC?
@@ -148,12 +125,33 @@ In 2021, sponsorships enabled us to offer free registration to 20 participants f
 
 # Sponsors from previous years
 
+## 2025 Platinum Sponsor:
+
+<a target="_new" href="https://chanzuckerberg.com/science/"><img src="/wp-content/uploads/2021/06/CZI_Logotype_RGB.jpg" style="width:45%" alt="CZI" /></a>
+<center>The aim of CZI's Open Science program is the universal and immediate open sharing of all scientific knowledge, processes, and outputs.
+</center>
+
+<br/>
+
+### 2025 Gold Sponsor:
+
+<a target="_new" href="https://seqera.io/"><img src="/wp-content/uploads/2024/04/Logo_Seqera-Color.png" style="width:30%" alt="Seqera" /></a>
+<center><small>Seqera, developed by the creators of Nextflow, empowers researchers to develop and deploy scalable bioinformatics pipelines faster</small></center>
+
+<p align="center"><iframe src="https://drive.google.com/file/d/1V1BbVcCPQHWN-8eMr4-yZ19xAK1p0Tfd/preview" width="640" height="480" allow="autoplay" ></iframe></p>
+
+**2025 Silver Sponsor:**
+
+<a target="_new" href="https://academic.oup.com/gigascience"><img src="/wp-content/uploads/2019/05/Gigascience.png" style="width:20%" alt="GigaScience" /></a>
+
+<br/>
+
 ## 2024 Platinum Sponsors:
 
-<a target="_new" href="https://seqera.io/"><img src="/wp-content/uploads/2024/04/Logo_Seqera-Color.png" style="width:75%" alt="Seqera" /></a>
+<a target="_new" href="https://seqera.io/"><img src="/wp-content/uploads/2024/04/Logo_Seqera-Color.png" style="width:45%" alt="Seqera" /></a>
 <center>Seqera makes complex data analysis accessible at any scale</center>
 
-<a target="_new" href="https://chanzuckerberg.com/science)"><img src="/wp-content/uploads/2021/06/CZI_Logotype_RGB.jpg" style="width:65%" alt="CZI" /></a>
+<a target="_new" href="https://chanzuckerberg.com/science)"><img src="/wp-content/uploads/2021/06/CZI_Logotype_RGB.jpg" style="width:45%" alt="CZI" /></a>
 
 {{< columns >}}
 
@@ -183,7 +181,7 @@ In 2021, sponsorships enabled us to offer free registration to 20 participants f
 
 ## BOSC 2023 Platinum Sponsor
 
-<a target="_new" href="https://chanzuckerberg.com/science)"><img src="/wp-content/uploads/2021/06/CZI_Logotype_RGB.jpg" style="width:60%" alt="CZI" /></a>
+<a target="_new" href="https://chanzuckerberg.com/science)"><img src="/wp-content/uploads/2021/06/CZI_Logotype_RGB.jpg" style="width:45%" alt="CZI" /></a>
 
 ### BOSC 2023 Silver Sponsors
 
@@ -191,17 +189,17 @@ In 2021, sponsorships enabled us to offer free registration to 20 participants f
 
 ## BOSC 2022 Platinum Sponsors
 
-<a target="_new" href="https://chanzuckerberg.com/science"><img src="/wp-content/uploads/2021/06/CZI_Logotype_RGB.jpg" style="width:60%" alt="CZI" /></a>
+<a target="_new" href="https://chanzuckerberg.com/science"><img src="/wp-content/uploads/2021/06/CZI_Logotype_RGB.jpg" style="width:45%" alt="CZI" /></a>
 
 <br/>
 
-<a target="_new" href="http://aws.amazon.com"><img src="/wp-content/uploads/2021/05/AWS_logo_RGB.png" style="width:35%" alt="AWS" /></a>
+<a target="_new" href="http://aws.amazon.com"><img src="/wp-content/uploads/2021/05/AWS_logo_RGB.png" style="width:45%" alt="AWS" /></a>
 
 ## BOSC 2022 Gold Sponsors
 
-<a target="_new" href="https://www.broadinstitute.org/data-sciences-platform"><img src="/wp-content/uploads/2022/04/Broad-DSP-logo-1.png" style="width:50%" alt="Broad" /></a>
+<a target="_new" href="https://www.broadinstitute.org/data-sciences-platform"><img src="/wp-content/uploads/2022/04/Broad-DSP-logo-1.png" style="width:30%" alt="Broad" /></a>
 
-<a target="_new" href="https://datascience.nih.gov"><img src="/wp-content/uploads/2022/04/NIH-ODSS_Horizontal_1Color-653.jpg" style="width:70%" alt="NIHODSS" /></a>
+<a target="_new" href="https://datascience.nih.gov"><img src="/wp-content/uploads/2022/04/NIH-ODSS_Horizontal_1Color-653.jpg" style="width:30%" alt="NIHODSS" /></a>
 
 
 ### BOSC 2022 Silver Sponsors
