@@ -51,10 +51,11 @@ bosc: yes
 - A 250-word short abstract (text only) is required for ALL submissions (talk and/or poster).
 - If you want to be considered for a talk, you also MUST attach a 1-2 page "long abstract" as a PDF. Figures are welcome as long as the total length is 2 pages or less.
 - In your long abstract, please describe how your work fits into the open source / open science ecosystem. We like to see examples of biological applications of your work, and a summary of the current and/or projected community aspects of your project.
+- Your abstract must not contain your title/position or any personal information (e.g., affiliation). These details will be collected through the EasyChair submission system.
 
 <div class="well">
 
-Watch a video of [BOSC organizing committee member Jason Williams discussing how to write a great BOSC abstract](https://youtu.be/DwJRrh1Tpew)!
+This 2021 video of [BOSC organizing committee member Jason Williams discusses how to write a great BOSC abstract](https://youtu.be/DwJRrh1Tpew). **Remember:** Prepare your abstract following the updated guidelines on this page (same as [ISMB's Submission Guidelines](https://www.iscb.org/ismb2026/call-for-submissions/abstracts)) and submit it by clicking the blue 'Submit Abstract' button below.
 
 <a target="_new" href="https://youtu.be/DwJRrh1Tpew"><img src="/wp-content/uploads/2022/01/Screen-Shot-2022-01-19-at-3.59.31-PM.png" style="width:60%" alt="Jason Williams" /></a>
 
