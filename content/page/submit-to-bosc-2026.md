@@ -54,7 +54,7 @@ bosc: yes
 
 <div class="well">
 
-Watch a video of [BOSC organizing committee member Jason Williams discussing how to write a great BOSC abstract](https://youtu.be/DwJRrh1Tpew)!
+This 2021 video of [BOSC organizing committee member Jason Williams discusses how to write a great BOSC abstract](https://youtu.be/DwJRrh1Tpew). **Remember:** Prepare your abstract following the updated guidelines on this page and submit it by clicking the blue 'Submit Abstract' button below.
 
 <a target="_new" href="https://youtu.be/DwJRrh1Tpew"><img src="/wp-content/uploads/2022/01/Screen-Shot-2022-01-19-at-3.59.31-PM.png" style="width:60%" alt="Jason Williams" /></a>
 
