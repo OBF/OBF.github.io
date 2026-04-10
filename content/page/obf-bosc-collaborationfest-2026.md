@@ -1,8 +1,6 @@
 ---
 author: hmenager
-cover:
-  alt: CoFest-2022
-  image: https://open-bio.org/wp-content/uploads/2022/08/image4.jpg
+
 date: "2025-02-16T09:35:44+00:00" #creation date
 title: CollaborationFest 2026
 url: /events/bosc-2026/collaborationfest
