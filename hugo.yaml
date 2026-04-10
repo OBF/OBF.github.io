@@ -115,7 +115,7 @@ menu:
     - name: "CollaborationFest (2025)"
       weight: 7
       parent: 'bosc'
-      url: 'events/bosc-2025/ismb-collaborationfest-2025/'
+      url: '/events/bosc/collaborationfest/'
     - name: 'Sponsors'
       weight: 8
       parent: 'bosc'

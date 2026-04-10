@@ -7,7 +7,7 @@ date: "2025-02-16T09:35:44+00:00" #creation date
 title: ISMB CollaborationFest 2025
 url: /events/bosc-2025/ismb-collaborationfest-2025/
 aliases:
-  - /events/bosc/collaborationfest/
+  - /events/bosc/collaborationfest2025/
 bosc: yes
 ---
 
