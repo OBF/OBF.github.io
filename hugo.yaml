@@ -112,7 +112,7 @@ menu:
       weight: 6
       parent: 'bosc'
       url: 'events/bosc-2026/panels/'
-    - name: "CollaborationFest (2025)"
+    - name: "CollaborationFest"
       weight: 7
       parent: 'bosc'
       url: '/events/bosc/collaborationfest/'
