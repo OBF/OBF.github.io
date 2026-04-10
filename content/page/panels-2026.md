@@ -43,5 +43,5 @@ This panel will bring together a variety of perspectives to discuss topics inclu
 Jason Williams is Assistant Director of Cold Spring Harbor's Dolan DNA Learning Center.
 He was elected an AAAS Fellow in 2026. In 2025, he won the Elizabeth W. Jones Award for Excellence in Education!
 Williams has been instrumental in helping to bring the latest technologies and teaching approaches for working with DNA into classrooms around the world through dedicated hands-on programs for students and teachers.
-He develops national biology education programs and leads education, outreach, and training for CyVerse, the U.S. national cyberinfrastructure for life sciences. In addition to his work at the DNALC, Williams is the founder of LifeSciTrainers.org, a global initiative promoting a community of practice among professionals who develop short-format training for life scientists.
-He is also the Lead Investigator of the [Arecibo Center for Culturally Relevant and Inclusive Science Education, Computational Skills, and Community Engagement](https://areciboc3.dnalc.org/).
+He develops national and international biology education and professional development programs. In addition to his work at the DNALC, Williams is the founder of LifeSciTrainers.org, a global initiative promoting a community of practice among professionals who develop short-format training for life scientists.
+He is also the Lead Investigator of the [NSF Arecibo Center for STEM Education, Computing, and Community Engagement](https://areciboc3.org/).
