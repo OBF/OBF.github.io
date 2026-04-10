@@ -108,11 +108,11 @@ menu:
       parent: 'bosc'
       url: 'events/bosc-2025/bosc-2025-schedule/'
       weight: 5
-    - name: '(2025 Panel)'
+    - name: 'Panels (NEW)'
       weight: 6
       parent: 'bosc'
-      url: 'events/bosc-2025/panel/'
-    - name: "CollaborationFest"
+      url: 'events/bosc-2026/panels/'
+    - name: "CollaborationFest (2025)"
       weight: 7
       parent: 'bosc'
       url: '/events/bosc/collaborationfest/'

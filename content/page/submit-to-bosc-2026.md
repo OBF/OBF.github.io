@@ -51,14 +51,7 @@ bosc: yes
 - A 250-word short abstract (text only) is required for ALL submissions (talk and/or poster).
 - If you want to be considered for a talk, you also MUST attach a 1-2 page "long abstract" as a PDF. Figures are welcome as long as the total length is 2 pages or less.
 - In your long abstract, please describe how your work fits into the open source / open science ecosystem. We like to see examples of biological applications of your work, and a summary of the current and/or projected community aspects of your project.
-
-<div class="well">
-
-Watch a video of [BOSC organizing committee member Jason Williams discussing how to write a great BOSC abstract](https://youtu.be/DwJRrh1Tpew)!
-
-<a target="_new" href="https://youtu.be/DwJRrh1Tpew"><img src="/wp-content/uploads/2022/01/Screen-Shot-2022-01-19-at-3.59.31-PM.png" style="width:60%" alt="Jason Williams" /></a>
-
-</div>
+- Your abstract should not contain your title/position or any personal information (e.g., affiliation). These details will be collected through the EasyChair submission system.
 
 {{< column>}}
 
@@ -70,7 +63,7 @@ To be accepted, abstracts submitted to BOSC must be:
 - **Available**: Your code / data / materials must be available **at the time of review** at the URL you list.
 - **Open Content**: Work discussed in BOSC presentations must be open source / open content, with a recognized license (which should also be included in the repository). If your abstract concerns non-software products (e.g., educational materials), these should also be freely available with an appropriate open license (see below).
 - **Updated**: If you presented this work at a previous BOSC in any form, your abstract must describe progress since the last BOSC presentation.
-- **Human-written**: AI/LLMs must not be used to draft or write sections of your submission--please see the "AI Use Policy" section below.
+- **Human-written**: AI/LLMs must not be used to write sections your abstract--please see the "AI Use Policy" section below.
 
 {{< endcolumns >}}
 
@@ -81,7 +74,7 @@ In addition to the requirements listed above, we consider the following when sel
 - **Community impact**: Please describe how your work fits into the open source bioinformatics / open science ecosystem. A summary of the current and/or projected community aspect of your project is very helpful.
 - **Novelty**: Innovative approaches are interesting to hear about, but it’s fine to build on existing technology! If you can compare your approach with existing approaches, that’s a plus.
 - **Examples**: We like abstracts with examples of how your approach works (e.g. a figure showing the output of a visualization tool, an example of software input/output, or benchmarks on relevant data).
-- **Runnable**: Although we are happy to consider abstracts that describe early-phase projects, our reviewers are likely to look at your code and try to run it. Reviewers like projects that they are able to download and run, and that are well-documented and easy to use.
+- **Usable**: Although we are happy to consider abstracts that describe early-phase projects, our reviewers are likely to look at your code and try to run it. Reviewers like projects that they are able to download and run, and that are well-documented and easy to use.
 
 ### How to Submit
 
@@ -92,7 +85,6 @@ In addition to the requirements listed above, we consider the following when sel
 - A 250-word short abstract is required for ALL submissions (talk and/or poster). (Confusingly, the submission form refers to this as simply "Abstract".)
 - If you want to be considered for a talk, you also MUST submit a 1-2 page "long abstract" as a PDF. (Yes, we did suggest to ISMB that calling both of these things "abstracts" was confusing.)
 - If you submit for a talk but your abstract is not chosen for a talk, it will automatically be considered for a poster.
-- New ISMB rule this year: a presenting author may present NO MORE THAN ONE talk or poster. If you want your work to be presented as both a talk and a poster, a different presenting author needs to submit for a poster.
 - You don't need to register before you submit your abstract, but to present your talk or poster you will need to register for ISMB.
 
 <center>
@@ -121,25 +113,24 @@ See the following websites for further information and examples of recognized Op
 BOSC follows the [ISCB policy on acceptable use of large language models (LLMs)](https://www.iscb.org/about-iscb/policy-statements-bylaws-and-legal-documents/acceptable-use-of-large-language-models-policy). Key points:
 
 - Abstracts and papers **must be written by humans**. LLMs must not be used to draft or write sections of your submission.
-- LLMs must not be listed as authors.
 - Acceptable uses of LLMs include spell/grammar checking, language translation assistance, and code development support — but the submitting authors remain responsible for all content.
-- If you used AI tools as part of the research described in your submission, please describe that usage in your abstract.
+- If you used AI tools as part of the research described in your submission, please describe that usage in the submission form.
 
 ## ISMB rules
 
-**In-person presentation**: "For a variety of reasons, ISCB strongly prefers that scientific research accepted for oral presentation be presented in-person at the conference venue. ISCB will grant remote presentation options for reasons associated with maternity/paternity leave, care for a family member, personal/medical disability, sickness, financial hardship, or potential visa problems."
+**In-person presentation**: "ISCB strongly prefers that scientific research accepted for oral presentation be presented in-person at the conference venue. ISCB will grant remote presentation options for reasons associated with maternity/paternity leave, care for a family member, personal/medical disability, sickness, financial hardship, or potential visa problems."
 
-**Talk OR poster**: The same abstract can't be presented as both a talk and a poster.
+**Talk OR poster**: ISMB does not allow a presenting author to present both a talk and a poster on the same topic. If you want your work to be presented as both a talk and a poster, a different presenting author needs to submit for each.
 
 ### Presentation formats
 
-At BOSC, talks chosen from submitted abstracts are generally either "long" (around 15-20 minutes + 3 minutes for question) or short/"lightning" (5 minutes, scheduled in groups of three lightning talks followed by 5 minutes for questions for all three). Abstracts submitted in the Late Poster round are not eligible for talks.
+At BOSC, talks chosen from submitted abstracts are generally either "long" (typically 16 minutes plus 4 minutes for questions) or short/"lightning" (5 minutes, scheduled in groups of three lightning talks followed by 5 minutes for questions for all three). Abstracts submitted in the Late Poster round are not eligible for talks.
 
 ![BOSC 2024 organizing committee](/wp-content/uploads/2024/08/BOSC-org-committee-Montreal-1.jpeg)
 
 ### BOSC review process
 
-Abstracts submitted to BOSC are typically reviewed by three reviewers. Our review process and rubric can be found [here](https://github.com/OBF/bosc_materials/blob/master/BOSC_review_process.md).
+Talk abstracts submitted to BOSC are typically reviewed by three reviewers; poster abstracts by two. Our review process and rubric can be found [here](https://github.com/OBF/bosc_materials/blob/master/BOSC_review_process.md).
 
 <div class="well">
 
