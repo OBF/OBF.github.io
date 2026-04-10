@@ -12,25 +12,30 @@ bosc: yes
 
 CollaborationFest 2026 will be a collaborative work event at which participants work together to contribute code, documentation, training materials, and challenging analysis problems and use cases. If you are interested in learning and contributing in an intensely collaborative environment, then CollaborationFest is for you. Bring your own project ideas or come ready to collaborate with others on their projects!
 
-![Participants at CoFest 2025](static/img/2025/bosc2025-img/CoFest room - Iddo.jpeg)
+![Participants at CoFest 2025](/img/2025/bosc2025-img/CoFest%20-%203%20people%20working%20at%20table.jpeg)
 
 BOSC has organized CollaborationFests (aka CoFests) every year before or after ISMB since 2010 (see, for example, [the 2025 CoFest page](https://www.open-bio.org/events/bosc-2025/ismb-collaborationfest-2025/)).
+The 2026 CoFest will start the day after ISMB 2026, in a nearby location in Washington, DC.
 
 ### Dates
 
-Friday July 17 to Saturday July 18 (right after ISMB 2026).
+Friday July 17 to Saturday July 18 (right after ISMB 2026), 9:00am - 5:00pm both days.
 
 ### How to sign up
 
 {{< columns >}}
 
-Due to space constraints, participation in CollaborationFest is limited. Participation is free, but registration is mandatory. A registration link will be available shortly.
+Due to space constraints, participation in CollaborationFest is limited. Participation is free, but registration is mandatory. A registration link will be available shortly. The exact location will be shared with those who register.
 
 {{< column >}}
 
 ![Lunch at CoFest 2023](/wp-content/uploads/2023/08/CoFest2023-lunch-1-736x1024.png)
 
 {{< endcolumns >}}
+
+### Cost
+
+CoFest is free to attend, but no food or drinks will be provided.
 
 ### CollaborationFest News and Activities
 
