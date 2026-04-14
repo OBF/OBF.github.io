@@ -31,7 +31,7 @@ Friday July 17 to Saturday July 18 (right after ISMB 2026), 9:00am - 5:00pm both
 
 ### How to sign up
 
-Due to space constraints, participation in CollaborationFest is limited. Participation is free, but registration is mandatory. A registration link will be available shortly. 
+Due to space constraints, participation in CollaborationFest is limited. Participation is free, but registration is mandatory. A registration link will be available shortly.
 
 We encourage you to register for ISMB, but the CoFest itself is free. Three easy steps to sign up:
 
