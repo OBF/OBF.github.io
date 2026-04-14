@@ -56,6 +56,11 @@ CoFest is free to attend, but no food or drinks will be provided.
 As we get closer to BOSC 2026 and the CollaborationFest, we will add relevant news and activities here. Note that some of
 these activities are on dynamically updated Github pages, and will only be fully ready "the day of", or shortly before.
 
+
+### Sponsors
+
+Thanks to Computercraft for generously providing the space for this event, we appreciate  their support in making it possible.
+
 ### Code of Conduct
 
 As an OBF-organized event, CollaborationFest 2026 is covered by the [OBF Code of Conduct](https://github.com/OBF/obf-docs/blob/master/code-of-conduct/CODE_OF_CONDUCT.md).
