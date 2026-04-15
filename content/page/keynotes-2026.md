@@ -11,7 +11,14 @@ bosc: yes
 
 ### Eric Green (Illumina)
 
-#### Talk title TBD
+#### Talk title: From the Human Genome Project to the Realization of Genomic Medicine:
+A Scientific, Medical, and Societal Journey
+
+##### Abstract
+
+The coming decade offers great promise for human genomics and genomic medicine. Since the completion of the Human Genome Project over two decades ago, genomics has become progressively entrenched within the bedrock of the biomedical research enterprise. Capitalizing on the momentum of the project’s successful completion, the field of genomics has increasingly expanded and matured, such that genomics is now central and catalytic in basic and translational research, and studies now regularly demonstrate the vital role that genomic information can play in clinical care. Looking ahead, the anticipated advances in technologies, biological insights, and clinical applications (among others) will lead to more widespread dissemination of genomics throughout biomedical research, a growing adoption of genomics into medical and public health practices, and an increasing relevance of genomics in everyday life. At the same time, many challenges remain and require ongoing attention, such as understanding the biological complexities of the human genome, untangling the complex roles that genomic variants play in health and disease, and ensuring that genomics gets broadly and equitably integrated in medicine around the world.
+
+#### Biography:
 
 <b>Dr. Eric Green, M.D., Ph.D.</b>,  is the recently appointed Chief Medical Officer at Illumina. As Illumina’s medical leader, Dr. Green is responsible for guiding global efforts to advance the clinical application of genomics, expand access to precision medicine, and increase diversity in genomic data to improve healthcare for people worldwide.
 
