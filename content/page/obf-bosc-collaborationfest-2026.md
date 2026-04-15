@@ -31,7 +31,15 @@ Friday July 17 to Saturday July 18 (right after ISMB 2026), 9:00am - 5:00pm both
 
 ### How to sign up
 
-Due to space constraints, participation in CollaborationFest is limited. Participation is free, but registration is mandatory. A registration link will be available shortly. The exact location will be shared with those who register.
+Due to space constraints, participation in CollaborationFest is limited. Participation is free, but registration is mandatory. A registration link will be available shortly.
+
+We encourage you to register for ISMB, but the CoFest itself is free. Three easy steps to sign up:
+
+- add yourself to this [spreadsheet](https://docs.google.com/spreadsheets/d/1HvB9nHCBiCrSLWR9BNG5ypMecEbn7MOOnWIZxagQwRo/edit?usp=sharing) to help us gauge interest, coordinate topic groups and logistics
+- add your project ideas in this [document]([https://docs.google.com/document/d/1-tvrtBBcJJ8EhiIXQhjo4B3x796cSb9OG_6ynPVM_zM/edit?usp=sharing](https://docs.google.com/document/d/1x7h4Tx3Y8IrcDSkSs_LylVFzQhjNKmQpwAbizQnyxYQ/edit?tab=t.0)) if you have something in mind,
+- join the #cofest2026 channel in the [OBF Slack](https://join.slack.com/t/obf-bosc/shared_invite/zt-3va3bz5qa-hR9nKXHXO9GmrkddIpJXcQ)!
+
+The exact location is central to Washington DC, and will be shared with those who register.
 
 {{< column >}}
 
@@ -47,6 +55,11 @@ CoFest is free to attend, but no food or drinks will be provided.
 
 As we get closer to BOSC 2026 and the CollaborationFest, we will add relevant news and activities here. Note that some of
 these activities are on dynamically updated Github pages, and will only be fully ready "the day of", or shortly before.
+
+
+### Sponsors
+
+Thanks to Computercraft for generously providing the space for this event, we appreciate  their support in making it possible.
 
 ### Code of Conduct
 
