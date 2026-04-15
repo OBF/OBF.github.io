@@ -18,14 +18,16 @@ bosc: yes
 
 CollaborationFest 2026 will be a collaborative work event at which participants work together to contribute code, documentation, training materials, and challenging analysis problems and use cases. If you are interested in learning and contributing in an intensely collaborative environment, then CollaborationFest is for you. Bring your own project ideas or come ready to collaborate with others on their projects!
 
-BOSC has organized CollaborationFests (aka CoFests) every year before or after ISMB since 2010 (see, for example, [the 2025 CoFest page](https://www.open-bio.org/events/bosc-2025/ismb-collaborationfest-2025/)).
+BOSC has organized CollaborationFests (aka CoFests) every year before or after ISMB since 2010.
 The 2026 CoFest will start the day after ISMB 2026, in a nearby location in Washington, DC.
 
 {{< endcolumns >}}
 
-### Dates
+### Dates and Location
 
 Friday July 17 to Saturday July 18 (right after ISMB 2026), 9:00am - 5:00pm both days.
+
+The location is in central Washington DC. The address will be shared with those who register.
 
 {{< columns >}}
 
@@ -36,10 +38,8 @@ Due to space constraints, participation in CollaborationFest is limited. Partici
 We encourage you to register for ISMB, but the CoFest itself is free. Three easy steps to sign up:
 
 - add yourself to this [spreadsheet](https://docs.google.com/spreadsheets/d/1HvB9nHCBiCrSLWR9BNG5ypMecEbn7MOOnWIZxagQwRo/edit?usp=sharing) to help us gauge interest, coordinate topic groups and logistics
-- add your project ideas in this [document]([https://docs.google.com/document/d/1-tvrtBBcJJ8EhiIXQhjo4B3x796cSb9OG_6ynPVM_zM/edit?usp=sharing](https://docs.google.com/document/d/1x7h4Tx3Y8IrcDSkSs_LylVFzQhjNKmQpwAbizQnyxYQ/edit?tab=t.0)) if you have something in mind,
+- add your project ideas to this [document]([https://docs.google.com/document/d/1-tvrtBBcJJ8EhiIXQhjo4B3x796cSb9OG_6ynPVM_zM/edit?usp=sharing](https://docs.google.com/document/d/1x7h4Tx3Y8IrcDSkSs_LylVFzQhjNKmQpwAbizQnyxYQ/edit?tab=t.0)) if you have something in mind
 - join the #cofest2026 channel in the [OBF Slack](https://join.slack.com/t/obf-bosc/shared_invite/zt-3va3bz5qa-hR9nKXHXO9GmrkddIpJXcQ)!
-
-The exact location is central to Washington DC, and will be shared with those who register.
 
 {{< column >}}
 
@@ -56,10 +56,9 @@ CoFest is free to attend, but no food or drinks will be provided.
 As we get closer to BOSC 2026 and the CollaborationFest, we will add relevant news and activities here. Note that some of
 these activities are on dynamically updated Github pages, and will only be fully ready "the day of", or shortly before.
 
-
 ### Sponsors
 
-Thanks to Computercraft for generously providing the space for this event, we appreciate  their support in making it possible.
+Thanks to Computercraft for generously providing the space for this event; we appreciate their support in making it possible.
 
 ### Code of Conduct
 
