@@ -9,12 +9,11 @@ bosc: yes
 
 <img src="/img/2026/2026-03-06-Eric-Green.jpeg" alt ="Eric Green" style="width:55%"/>
 
-### Eric Green (Illumina)
+## Eric Green (Illumina)
 
-#### Talk title: From the Human Genome Project to the Realization of Genomic Medicine:
-A Scientific, Medical, and Societal Journey
+### From the Human Genome Project to the Realization of Genomic Medicine: A Scientific, Medical, and Societal Journey
 
-##### Abstract
+#### Abstract
 
 The coming decade offers great promise for human genomics and genomic medicine. Since the completion of the Human Genome Project over two decades ago, genomics has become progressively entrenched within the bedrock of the biomedical research enterprise. Capitalizing on the momentum of the project’s successful completion, the field of genomics has increasingly expanded and matured, such that genomics is now central and catalytic in basic and translational research, and studies now regularly demonstrate the vital role that genomic information can play in clinical care. Looking ahead, the anticipated advances in technologies, biological insights, and clinical applications (among others) will lead to more widespread dissemination of genomics throughout biomedical research, a growing adoption of genomics into medical and public health practices, and an increasing relevance of genomics in everyday life. At the same time, many challenges remain and require ongoing attention, such as understanding the biological complexities of the human genome, untangling the complex roles that genomic variants play in health and disease, and ensuring that genomics gets broadly and equitably integrated in medicine around the world.
 
@@ -30,9 +29,9 @@ For over two decades, Dr. Green directed a research program that included start-
 
 <img src="/img/2026/2026-03-09-Maryam-Zaringhalam.jpeg" alt ="Maryam Zaringhalam" style="width:50%"/>
 
-### Maryam Zaringhalam (Center for Open Science)
+## Maryam Zaringhalam (Center for Open Science)
 
-#### Talk title TBD
+### Talk title TBD
 
 <b>Maryam Zaringhalam, Ph.D.</b>, is the Senior Director of Policy at the [Center for Open Science (COS)](https://www.cos.io/). In that position, she leads COS’s policy efforts to increase openness, integrity, and trustworthiness of research.
 
