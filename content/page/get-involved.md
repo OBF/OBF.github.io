@@ -24,7 +24,7 @@ The OBF community has a number of different online spaces that are open to every
 
 * Follow our [blog](/blog/)
 * [Subscribe to our OBF newsletter](https://mailman.open-bio.org/mailman/listinfo/open-bio-l/) (and if you have news to share, you can [also suggest topics](https://github.com/OBF/newsletter/issues)).
-* [Join our community _Slack_](https://join.slack.com/t/open-bio/shared_invite/zt-1pnswao9y-8igcckVxBXhQHCMweHt_NA), where you will find fellow open bioinformatics folks to chat with.
+* [Join our community _Slack_](https://docs.google.com/forms/d/e/1FAIpQLScJbdW0QcCS3432mHkTiir9D-HwT5g2iaXYiiy2aOOiCFS3RQ/viewform?usp=dialog), where you will find fellow open bioinformatics folks to chat with.
 * We also have an open [_LinkedIn_ group](https://www.linkedin.com/groups/9539620/), where you can hear about open bioinformatics events, job opportunities and more.
 * We also have active presences on social media, including [BlueSky](https://bsky.app/profile/openbio.bsky.social) and [Mastodon](https://genomic.social/@openbio).
 * Last but not least, our [member projects](/projects) like BioPython also have their own communication channels.
