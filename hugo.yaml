@@ -30,7 +30,7 @@ params:
     email: 'board@open-bio.org'
     github: 'obf'
     mastodon: 'genomic.social/@openbio'
-    slack: 'https://join.slack.com/t/open-bio/shared_invite/zt-1pnswao9y-8igcckVxBXhQHCMweHt_NA'
+    slack: 'https://docs.google.com/forms/d/e/1FAIpQLScJbdW0QcCS3432mHkTiir9D-HwT5g2iaXYiiy2aOOiCFS3RQ/viewform?usp=dialog'
     bluesky: 'openbio.bsky.social'
     linkedin: 'https://www.linkedin.com/groups/9539620/'
 markup:
