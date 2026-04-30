@@ -35,7 +35,7 @@ For over two decades, Dr. Green directed a research program that included start-
 
 #### Abstract
 
-The open science movement positions scientific knowledge as a global public good — yet in practice, open science is often not designed with public participation in mind. Policy efforts, including landmark federal public access policies to expand access to research, have largely focused on lowering barriers to accessing scholarly literature, datasets, and code. But access alone does not guarantee that research can meet communities where they are and address their most pressing needs. 
+The open science movement positions scientific knowledge as a global public good — yet in practice, open science is often not designed with public participation in mind. Policy efforts, including landmark federal public access policies to expand access to research, have largely focused on lowering barriers to accessing scholarly literature, datasets, and code. But access alone does not guarantee that research can meet communities where they are and address their most pressing needs.
 
 This gap has real consequences. The research community is increasingly discussing the erosion of public trust in science without fully reckoning with the gap between the research we produce and whether it actually reaches or serves the broader public. Simply put, we can do more to include and engage the communities with whom we seek to build trust. Open science, intentionally practiced, is a way to do that.
 
