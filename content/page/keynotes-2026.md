@@ -17,7 +17,7 @@ bosc: yes
 
 The coming decade offers great promise for human genomics and genomic medicine. Since the completion of the Human Genome Project over two decades ago, genomics has become progressively entrenched within the bedrock of the biomedical research enterprise. Capitalizing on the momentum of the project’s successful completion, the field of genomics has increasingly expanded and matured, such that genomics is now central and catalytic in basic and translational research, and studies now regularly demonstrate the vital role that genomic information can play in clinical care. Looking ahead, the anticipated advances in technologies, biological insights, and clinical applications (among others) will lead to more widespread dissemination of genomics throughout biomedical research, a growing adoption of genomics into medical and public health practices, and an increasing relevance of genomics in everyday life. At the same time, many challenges remain and require ongoing attention, such as understanding the biological complexities of the human genome, untangling the complex roles that genomic variants play in health and disease, and ensuring that genomics gets broadly and equitably integrated in medicine around the world.
 
-#### Biography:
+#### Biography
 
 <b>Dr. Eric Green, M.D., Ph.D.</b>,  is the recently appointed Chief Medical Officer at Illumina. As Illumina’s medical leader, Dr. Green is responsible for guiding global efforts to advance the clinical application of genomics, expand access to precision medicine, and increase diversity in genomic data to improve healthcare for people worldwide.
 
@@ -31,7 +31,19 @@ For over two decades, Dr. Green directed a research program that included start-
 
 ## Maryam Zaringhalam (Center for Open Science)
 
-### Talk title TBD
+### Science for the People: Open science to engage and build trust with communities
+
+#### Abstract
+
+The open science movement positions scientific knowledge as a global public good — yet in practice, open science is often not designed with public participation in mind. Policy efforts, including landmark federal public access policies to expand access to research, have largely focused on lowering barriers to accessing scholarly literature, datasets, and code. But access alone does not guarantee that research can meet communities where they are and address their most pressing needs. 
+
+This gap has real consequences. The research community is increasingly discussing the erosion of public trust in science without fully reckoning with the gap between the research we produce and whether it actually reaches or serves the broader public. Simply put, we can do more to include and engage the communities with whom we seek to build trust. Open science, intentionally practiced, is a way to do that.
+
+Drawing on her experience spanning federal open science policy, biomedical research, and science communication, Dr. Zaringhalam will argue that open science represents an underutilized opportunity to rebuild that trust. By layering science communication and community engagement onto open research outputs, researchers, institutions, and practitioners can create genuine on-ramps for diverse publics — connecting the products and process of science to the communities who stand to benefit from them.
+
+This talk will explore practical approaches to bridging open science and community engagement, centering the needs of communities as a starting point for more meaningful and trustworthy science.
+
+#### Biography
 
 <b>Maryam Zaringhalam, Ph.D.</b>, is the Senior Director of Policy at the [Center for Open Science (COS)](https://www.cos.io/). In that position, she leads COS’s policy efforts to increase openness, integrity, and trustworthiness of research.
 
