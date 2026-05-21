@@ -40,8 +40,8 @@ Sponsorships from companies and non-profit organizations help enable us to provi
 
 ### 2026 Silver Sponsor:
 
-<a target="_new" href="https://datadryad.org/"><img src="https://datadryad.org/assets/stash_engine/logo_dryad-b32f5177e6ed39ee6187d87f09c792d9df4a4919e39514fce1a688f843277f4c.png" style="width:30%" alt="Dryad" /></a>
-<center><small>Dryad is an open data publishing platform and a community committed to the open availability and routine re-use of all research data.</small></center>
+<a target="_new" href="https://datadryad.org/"><img src="/img/2026/2026-05-21-Dryad-logo.jpeg" style="width:30%" alt="Dryad" /></a>
+<center><small>Dryad is a non-profit open data publishing platform operating in the community interest, and committed to the open availability and routine re-use of all research data. Dryad makes FAIR-complaint data publishing simple through robust open-source infrastructure, hands-on researcher support, and an easy-to-use submission interface.</small></center>
 
 </div>
 
