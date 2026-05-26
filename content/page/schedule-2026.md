@@ -43,15 +43,13 @@ Panelists TBA
 
 ## BOSC 2026 Schedule at a Glance
 (Keep scrolling to see the full schedule of talks and posters!)
-<!-- <div style="position: relative; padding-top: 90%;">
-  <iframe style="position: absolute; top: 0; left: -5; width:102%; height: 100%"
-  src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS9Jp5x1dEsfdeLFAJYJiKrdHCdVirBMgQIIYNY6ANmRiiS1oJDmtxQmZKHwy-2Qxy-eP47Hpe3HXZ2/pubhtml?gid=961093314&amp;single=true&amp;widget=true&amp;headers=false" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
-</div> -->
+<div style="position: relative; padding-top: 90%;">
+  <iframe style="position: absolute; top: 0; left: -5; width:102%; height: 100%" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS9Jp5x1dEsfdeLFAJYJiKrdHCdVirBMgQIIYNY6ANmRiiS1oJDmtxQmZKHwy-2Qxy-eP47Hpe3HXZ2/pubhtml?gid=961093314&amp;single=true&amp;widget=true&amp;headers=false" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+</div>
 
 ## Schedule of Talks
 <div style="position: relative; padding-top: 90%;">
-  <iframe style="position: absolute; top: 0; left: -20; width:120%; height:100%"
-    src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS9Jp5x1dEsfdeLFAJYJiKrdHCdVirBMgQIIYNY6ANmRiiS1oJDmtxQmZKHwy-2Qxy-eP47Hpe3HXZ2/pubhtml?gid=1808415831&amp;single=true&amp;widget=true&amp;headers=false" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+  <iframe style="position: absolute; top: 0; left: -20; width:120%; height:100%" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS9Jp5x1dEsfdeLFAJYJiKrdHCdVirBMgQIIYNY6ANmRiiS1oJDmtxQmZKHwy-2Qxy-eP47Hpe3HXZ2/pubhtml?gid=1808415831&amp;single=true&amp;widget=true&amp;headers=false" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
 </div>
 
 ## Schedule of Posters
