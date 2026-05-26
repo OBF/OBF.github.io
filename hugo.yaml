@@ -100,15 +100,15 @@ menu:
       parent: 'bosc'
       url: 'events/bosc-2026/submit/'
       weight: 3
-    - name: 'Keynotes (NEW)'
+    - name: 'Keynotes'
       parent: 'bosc'
       url: 'events/bosc-2026/bosc-2026-keynotes/'
       weight: 4
-    - name: '(2025 Schedule)'
+    - name: 'Schedule (NEW)'
       parent: 'bosc'
-      url: 'events/bosc-2025/bosc-2025-schedule/'
+      url: 'events/bosc-2026/bosc-2026-schedule/'
       weight: 5
-    - name: 'Panels (NEW)'
+    - name: 'Panels'
       weight: 6
       parent: 'bosc'
       url: 'events/bosc-2026/panels/'
