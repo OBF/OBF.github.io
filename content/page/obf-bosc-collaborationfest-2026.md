@@ -49,7 +49,7 @@ We encourage you to register for ISMB, but the CoFest itself is free. Three easy
 
 ### Cost
 
-CoFest is free to attend, but no food or drinks will be provided.
+CoFest is free to attend, and lunches will be provided thanks to Seqera.
 
 ### CollaborationFest News and Activities
 
@@ -58,7 +58,17 @@ these activities are on dynamically updated Github pages, and will only be fully
 
 ### Sponsors
 
-Thanks to Computercraft for generously providing the space for this event; we appreciate their support in making it possible.
+{{< columns >}}
+
+<a target="_new" href="https://computercraft-usa.com"><img src="/img/2026/computercraft.png" alt="Computercraft" height="90px"/></a>
+<center><small>Thanks to <a target="_new" href="https://computercraft-usa.com/"><b>Computercraft</b></a>, for generously providing the space for this event; we appreciate their support in making it possible.</small></center>
+
+{{< column >}}
+
+<a target="_new" href="https://seqera.io/"><img src="/img/2026/2026-04-01-Seqera-logo.jpeg" alt="Seqera" height="90px"/></a>
+<center><small>Thanks to <a target="_new" href="https://seqera.io/"><b>Seqera</b></a> for providing food throughout the event.</small></center>
+
+{{< endcolumns >}}
 
 ### Code of Conduct
 
