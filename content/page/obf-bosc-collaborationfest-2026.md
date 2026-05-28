@@ -49,7 +49,7 @@ We encourage you to register for ISMB, but the CoFest itself is free. Three easy
 
 ### Cost
 
-CoFest is free to attend, but no food or drinks will be provided.
+CoFest is free to attend, and lunches will be provided thanks to Seqera.
 
 ### CollaborationFest News and Activities
 
