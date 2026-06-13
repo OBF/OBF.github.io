@@ -110,27 +110,67 @@ This panel will bring together a variety of perspectives to discuss topics inclu
 ### Aida Miro-Herrans
 **University of Florida**
 
+{{< columns >}}
+
+<img src="img/2026/2026_06-12-Aida-Miro-Herrans.jpg" alt ="Aida Miro-Herrans" style="width:90%"/>
+
+{{< column >}}
+
 Aida Miro-Herrans is the Bioinformatics Librarian at the University of Florida Libraries, where she focuses on supporting open science, open education, and instruction in bioinformatics methods. Her current work investigates the intersection of artificial intelligence and life science education, specifically exploring how generative AI tools can optimize student learning. Her upcoming presentation at BOSC 2026 highlights a specialized workshop design that empowers life science instructors to leverage AI chatbots to craft active learning activities built entirely on open-source software and open-access datasets.
+
+{{< endcolumns >}}
 
 ### Nahid Zeinali
 **California Medical Innovations Institute**
 
+{{< columns >}}
+
 Nahid Zeinali, PhD, is an AI Research Scientist at the California Medical Innovations Institute (CalMI2) and a core team member at the FAIR Data Innovations Hub (FAIRHub). She specializes in natural language processing, deep learning, and artificial intelligence architectures tailored for healthcare and biomedical data. She completed her PhD in Informatics at the University of Iowa in 2025, where her research focused on turning complex multi-modal data into deployable, trustworthy digital biomarkers and healthcare solutions. At CalMI2, her work bridges advanced machine learning methods with open data frameworks to build interoperable, AI-driven medical products.
+
+{{< column >}}
+
+<img src="img/2026/2026-06-12-Nahid-Zeinali.jpeg" alt ="Nahid Zeinali" style="width:90%"/>
+
+{{< endcolumns >}}
 
 ### Alex Bateman
 **EMBL-EBI**
 
+{{< columns >}}
+
+<img src="img/2026/2026-06-12-Alex-Bateman.jpeg" alt ="Alex Bateman" style="width:90%"/>
+
+{{< column >}}
+
 Alex Bateman, PhD, is a Senior Team Leader for Protein Sequence Resources at EMBL-EBI. He serves as a Principal Investigator for the UniProt consortium and has broad oversight over protein and non-coding RNA databases, including RNAcentral. Before joining EMBL-EBI in 2012, Alex managed several of the community's most widely utilized biological resources at the Wellcome Sanger Institute, including Pfam and Rfam. He has driven open-source data standards as a former Chairman of the International Society for Biocuration (ISB) Executive Committee, and has served as the Executive Editor for *Bioinformatics* and the Editor of *Nucleic Acids Research* Database Issue.
+
+{{< endcolumns >}}
 
 ### Eric Green
 **Illumina**
 
+{{< columns >}}
+
 Eric Green, MD, PhD, is the Chief Medical Officer at Illumina and a legendary figure in the history of genomics. He spent over two decades directing a premier research program at the National Human Genome Research Institute (NHGRI) at the U.S. National Institutes of Health, where he played a start-to-finish role in the historic Human Genome Project and founded the NIH Intramural Sequencing Center. He subsequently served as the Director of NHGRI for over 15 years, acting as a primary driver of the integration of genomics into clinical care and public health globally. An elected member of the National Academy of Medicine, he currently focuses on guiding global efforts to broaden access to precision medicine, ensure diversity in genomic data, and navigate the clinical applications of genomics in an era increasingly defined by advanced computational and AI tools.
 
+{{< column >}}
+
+<img src="img/2026/2026-03-06-Eric-Green.jpeg" alt ="Eric Green" style="width:90%"/>
+
+{{< endcolumns >}}
 
 ### MODERATOR: Jason Williams
-Jason Williams is Assistant Director of Cold Spring Harbor's Dolan DNA Learning Center.
-He was elected an AAAS Fellow in 2026. In 2025, he won the Elizabeth W. Jones Award for Excellence in Education!
-Williams has been instrumental in helping to bring the latest technologies and teaching approaches for working with DNA into classrooms around the world through dedicated hands-on programs for students and teachers.
+
+{{< columns >}}
+
+<img src="wp-content/uploads/2022/05/Jason-Williams-1.jpeg" alt ="Jason Williams" style="width:90%"/>
+
+{{< column >}}
+
+Jason Williams, PhD, is the Assistant Director of Cold Spring Harbor's Dolan DNA Learning Center.
+He was elected an AAAS Fellow in 2026. In 2025, he won the Elizabeth W. Jones Award for Excellence in Education.
+Dr. Williams has been instrumental in bringing the latest technologies and teaching approaches for working with DNA into classrooms around the world through dedicated hands-on programs for students and teachers.
 He develops national and international biology education and professional development programs. In addition to his work at the DNALC, Williams is the founder of LifeSciTrainers.org, a global initiative promoting a community of practice among professionals who develop short-format training for life scientists.
 He is also the Lead Investigator of the [NSF Arecibo Center for STEM Education, Computing, and Community Engagement](https://areciboc3.org/).
+
+{{< endcolumns >}}
