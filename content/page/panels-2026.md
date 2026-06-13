@@ -1,12 +1,12 @@
 ---
 author: monicacecilia
-date: "2026-03-31T18:50:23+00:00"
+date: "2026-06-12T19:20:23+00:00"
 title: BOSC 2026 Panels
 url: /events/bosc-2026/panels/
 bosc: yes
 
 ---
-For the first time ever, BOSC will include **two** panels on important and timely topics.
+For the first time ever, BOSC will include **two** panel discussions featuring perspectives from across the open science, bioinformatics, policy, and AI landscapes.
 
 # Policies and Strategies for Resilient Open Science
 
@@ -18,11 +18,82 @@ Our discussion will range from high-level policy to the practical "how-to" of re
 
 # Panelists
 
-### To be named
+### Maryam Zaringhalam
+**Center for Open Science**
+
+{{< columns >}}
+
+Maryam Zaringhalam, PhD, is the Senior Director of Policy at the Center for Open Science (COS), where she leads strategic policy efforts to improve the openness, integrity, and reproducibility of scientific research. Prior to joining COS, she served as the Data Science and Open Science Officer at the National Library of Medicine (NLM) at the NIH and as the Assistant Director for Public Access and Research Policy at the White House Office of Science and Technology Policy (OSTP), where she oversaw the implementation of the landmark 2022 public access memo and coordinated the 2023 Federal Year of Open Science. A molecular biologist by training, Maryam received her PhD from Rockefeller University. She is also a Senior Producer for *The Story Collider*, utilizing narrative storytelling to foster community engagement and dismantle barriers to open, inclusive science.
+
+{{< column >}}
+
+<img src="img/2026/2026-03-06-Maryam-Zaringhalam.jpeg" alt ="Maryam Zaringhalam" style="width:90%"/>
+
+{{< endcolumns >}}
+
+### Ann Nowakowski
+**Sage Bionetworks**
+
+{{< columns >}}
+
+<img src="img/2026/2026-06-08-Ann-Kim-Novakowski.jpeg" alt ="Ann Nowakowski" style="width:90%"/>
+
+{{< column >}}
+
+Ann Nowakowski, MPH, is the Associate Technical Director of Product Strategy at Sage Bionetworks. With an extensive background in health informatics, computational infrastructure, and biomedical data coordination, her work centers on implementing the practical standards necessary to support ethical, open, and reproducible research workflows. At Sage Bionetworks, she collaborates closely with multidisciplinary consortia to establish open-access data platforms and transparent data governance policies that maximize the utility of public health data.
+
+{{< endcolumns >}}
+
+### Mallory Freeberg
+**EMBL-EBI**
+
+{{< columns >}}
+
+Mallory Freeberg, PhD, is the Human Genomics Team Leader at EMBL’s European Bioinformatics Institute (EMBL-EBI). She directs major genomic variation resources, including the Ensembl Variant Effect Predictor (VEP) tool, human variation interpretation platforms (such as DECIPHER and Gene2Phenotype), and the European Genome-phenome Archive (EGA). Mallory’s career is dedicated to promoting the responsible and standardized sharing of FAIR human clinical and omics data. She actively guides international data harmonization frameworks and serves as Co-Lead of the Global Alliance for Genomics and Health (GA4GH) Implementation Forum, facilitating interoperability between clinical and research domains. She earned her PhD in Bioinformatics from the University of Michigan.
+
+{{< column >}}
+
+<img src="img/2026/2026-06-08-Mallory-Freeberg.jpg" alt ="Mallory Freeberg" style="width:90%"/>
+
+{{< endcolumns >}}
+
+### Guy Cochrane
+**Global BioData Coalition (GBC)**
+
+{{< columns >}}
+
+<img src="img/2026/2026-06-08-Guy-Chochrane.jpg" alt ="Guy Cochrane" style="width:90%"/>
+
+{{< column >}}
+
+Guy Cochrane, PhD, is the Scientific Head of the Global BioData Coalition (GBC) and a faculty member at EMBL-EBI. He works internationally to unite life science and biomedical funding organizations around long-term sustainability models for core data infrastructure. Guy previously served as the Head of the European Nucleotide Archive (ENA) and led critical pandemic-response infrastructure as a leader of the European COVID-19 Data Platform. His long-standing advocacy for open data encompasses policy development for access and benefit sharing, international metadata standards development, and leadership within the International Nucleotide Sequence Database Collaboration (INSDC).
+
+{{< endcolumns >}}
+
+### Sam Halabi
+**Georgetown University**
+
+{{< columns >}}
+
+Sam Halabi, JD, MPhil, is the Bette Jacobs Endowed Professor in Georgetown University's Department of Health Management and Policy and directs the Center for Transformational Health Law at the O'Neill Institute for National and Global Health Law. His research focuses on the law and ethics of pandemic preparedness, global vaccine deployment, and the complexities of international biomedical data sharing. He has authored over 100 manuscripts and five books covering data sharing, global health security, and liability in emergency public health responses. He regularly advises or has advised the World Health Organization (WHO), the World Bank, and the COVAX Facility, and is a member of the WHO’s Working Group on Regulatory Approaches to AI and Health. He holds a JD from Harvard University and an MPhil from the University of Oxford.
+
+{{< column >}}
+
+<img src="img/2026/2026-06-08-Sam-Halabi.jpeg" alt ="Sam Halabi" style="width:90%"/>
+
+{{< endcolumns >}}
 
 ### MODERATOR: Mónica Muñoz Torres
-Dr. Muñoz Torres is an Associate Professor at the University of Colorado Anschutz. Her work focuses on the critical challenge of developing the socio-technical foundations needed to realize the promise of artificial intelligence in biomedical sciences. Her expertise includes genomics, biocuration, knowledge representation, and data harmonization. She leads the NIH-funded Bridge to Artificial Intelligence (Bridge2AI)’s teams focused on Standards, Practices, and Quality Assessment. She is also Co-Lead of the Clinical & Phenotypic Data Capture Work Stream of the Global Alliance for Genomics and Health (GA4GH).
 
+{{< columns >}}
+
+<img src="img/2026/2026-06-08-MunozTorres.jpg" alt ="Mónica Muñoz Torres" style="width:90%"/>
+
+{{< column >}}
+
+Dr. Muñoz Torres is an Associate Professor at the University of Colorado Anschutz. Her work focuses on the critical challenge of developing the socio-technical foundations needed to realize the promise of artificial intelligence in biomedical sciences. Her expertise includes genomics, biocuration, knowledge representation, and data harmonization. She leads the NIH-funded Bridge to Artificial Intelligence (Bridge2AI)’s team focused on Standards, Practices, and Quality Assessment. She is also Co-Lead of the Clinical & Phenotypic Data Capture Work Stream of the Global Alliance for Genomics and Health (GA4GH).
+
+{{< endcolumns >}}
 
 # Open Source in the Age of AI
 
