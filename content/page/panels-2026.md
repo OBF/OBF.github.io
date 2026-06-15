@@ -8,7 +8,7 @@ bosc: yes
 ---
 For the first time ever, BOSC will include **two** panel discussions featuring perspectives from across the open science, bioinformatics, policy, and AI landscapes.
 
-# Policies and Strategies for Resilient Open Science
+# Panel 1: Policies and Strategies for Resilient Open Science
 
 As we gather in Washington, D.C. for BOSC 2026, we stand at the literal and figurative crossroads of the policies that dictate the pulse of our field. For years, the open science community has operated under a steady wind of progress, but the past year has shifted the weather. We have moved from an era of "open by default" to an environment where the infrastructure of open science—funding, federal data repositories, and international collaborations—is increasingly under scrutiny. This panel moves beyond theoretical support for open science to focus on the strategies of resilience and active advocacy required to navigate a landscape that is being rapidly redefined.
 
@@ -53,7 +53,7 @@ Mallory Freeberg, PhD, is the Human Genomics Team Leader at EMBL’s European Bi
 
 {{< column >}}
 
-<img src="/img/2026/2026-06-08-Mallory-Freeberg.jpg" alt ="Mallory Freeberg" style="width:90%"/>
+<img src="/img/2026/2026-06-08-Mallory-Freeberg-2.png" alt ="Mallory Freeberg" style="width:90%"/>
 
 {{< endcolumns >}}
 
@@ -95,7 +95,9 @@ Dr. Muñoz Torres is an Associate Professor at the University of Colorado Anschu
 
 {{< endcolumns >}}
 
-# Open Source in the Age of AI
+<hr>
+
+# Panel 2: Open Source in the Age of AI
 
 Open-source software has been a key part of the bioinformatics landscape for decades, enabling large-scale collaboration and supporting reproducible science.
 The emergence of generative AI represents a fundamental shift in how code is authored, maintained, and shared. This panel will examine the "elephant in the room": is generative AI a powerful advantage for open-source communities, or a threat to their long-term health, or both?
