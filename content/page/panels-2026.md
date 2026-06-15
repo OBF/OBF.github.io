@@ -27,7 +27,7 @@ Maryam Zaringhalam, PhD, is the Senior Director of Policy at the Center for Open
 
 {{< column >}}
 
-<img src="/img/2026/2026-03-06-Maryam-Zaringhalam.jpeg" alt ="Maryam Zaringhalam" style="width:90%"/>
+<img src="/img/2026/2026-03-09-Maryam-Zaringhalam.jpeg" alt ="Maryam Zaringhalam" style="width:90%"/>
 
 {{< endcolumns >}}
 
@@ -53,7 +53,7 @@ Mallory Freeberg, PhD, is the Human Genomics Team Leader at EMBL’s European Bi
 
 {{< column >}}
 
-<img src=/img/2026/2026-06-08-Mallory-Freeberg.jpg" alt ="Mallory Freeberg" style="width:90%"/>
+<img src="/img/2026/2026-06-08-Mallory-Freeberg.jpg" alt ="Mallory Freeberg" style="width:90%"/>
 
 {{< endcolumns >}}
 
