@@ -34,10 +34,12 @@ Science for the People: Open science to engage and build trust with communities
 <div class="well">
 
 ## [Panel: Policies and Strategies for Resilient Open Science](/events/bosc-2026/panels/)
-Panelists TBA
+Panelists: Maryam Zaringhalam, Ann Nowakowski, Mallory Freeberg, Guy Cochrane, Sam Halabi<br/>
+Moderator: Mónica Muñoz Torres
 
 ## [Panel: Open Source in the Age of AI](/events/bosc-2026/panels/)
-Panelists TBA
+Panelists: Eric Green, Aida Miro-Herrans, Nahid Zeinali, Alex Bateman<br/>
+Moderator: Jason Williams
 
 </div>
 
@@ -53,5 +55,10 @@ Panelists TBA
 </div>
 
 ## Schedule of Posters
-The [ISMB poster page](https://www.iscb.org/ismb2026/scientific-programme/posters) will have more information soon.
-BOSC posters will be up for both days of BOSC.
+Posters are displayed for two days (July 13-14 or 14-15). The presenter is assigned one of those two days to stand by their posters.
+These dates are listed in the table below, and can also be found on [the ISMB poster schedule](https://www.iscb.org/ismb2026/scientific-programme/posters).
+On that page, there are four different BOSC links to see which posters are being presented each of the four days.
+
+<div style="position: relative; padding-top: 90%;">
+  <iframe style="position: absolute; top: 0; left: 0; width:100%; height:100%" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS9Jp5x1dEsfdeLFAJYJiKrdHCdVirBMgQIIYNY6ANmRiiS1oJDmtxQmZKHwy-2Qxy-eP47Hpe3HXZ2/pubhtml?gid=217082929&single=true&amp;widget=true&amp;headers=false" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+</div>
