@@ -27,7 +27,7 @@ Maryam Zaringhalam, PhD, is the Senior Director of Policy at the Center for Open
 
 {{< column >}}
 
-<img src="img/2026/2026-03-06-Maryam-Zaringhalam.jpeg" alt ="Maryam Zaringhalam" style="width:90%"/>
+<img src="/img/2026/2026-03-06-Maryam-Zaringhalam.jpeg" alt ="Maryam Zaringhalam" style="width:90%"/>
 
 {{< endcolumns >}}
 
@@ -36,7 +36,7 @@ Maryam Zaringhalam, PhD, is the Senior Director of Policy at the Center for Open
 
 {{< columns >}}
 
-<img src="img/2026/2026-06-08-Ann-Kim-Novakowski.jpeg" alt ="Ann Nowakowski" style="width:90%"/>
+<img src="/img/2026/2026-06-08-Ann-Kim-Novakowski.jpeg" alt ="Ann Nowakowski" style="width:90%"/>
 
 {{< column >}}
 
@@ -53,7 +53,7 @@ Mallory Freeberg, PhD, is the Human Genomics Team Leader at EMBL’s European Bi
 
 {{< column >}}
 
-<img src="img/2026/2026-06-08-Mallory-Freeberg.jpg" alt ="Mallory Freeberg" style="width:90%"/>
+<img src=/img/2026/2026-06-08-Mallory-Freeberg.jpg" alt ="Mallory Freeberg" style="width:90%"/>
 
 {{< endcolumns >}}
 
@@ -62,7 +62,7 @@ Mallory Freeberg, PhD, is the Human Genomics Team Leader at EMBL’s European Bi
 
 {{< columns >}}
 
-<img src="img/2026/2026-06-08-Guy-Chochrane.jpg" alt ="Guy Cochrane" style="width:90%"/>
+<img src="/img/2026/2026-06-08-Guy-Chochrane.jpg" alt ="Guy Cochrane" style="width:90%"/>
 
 {{< column >}}
 
@@ -79,7 +79,7 @@ Sam Halabi, JD, MPhil, is the Bette Jacobs Endowed Professor in Georgetown Unive
 
 {{< column >}}
 
-<img src="img/2026/2026-06-08-Sam-Halabi.jpeg" alt ="Sam Halabi" style="width:90%"/>
+<img src="/img/2026/2026-06-08-Sam-Halabi.jpeg" alt ="Sam Halabi" style="width:90%"/>
 
 {{< endcolumns >}}
 
@@ -87,7 +87,7 @@ Sam Halabi, JD, MPhil, is the Bette Jacobs Endowed Professor in Georgetown Unive
 
 {{< columns >}}
 
-<img src="img/2026/2026-06-08-MunozTorres.jpg" alt ="Mónica Muñoz Torres" style="width:90%"/>
+<img src="/img/2026/2026-06-08-MunozTorres.jpg" alt ="Mónica Muñoz Torres" style="width:90%"/>
 
 {{< column >}}
 
@@ -112,7 +112,7 @@ This panel will bring together a variety of perspectives to discuss topics inclu
 
 {{< columns >}}
 
-<img src="img/2026/2026_06-12-Aida-Miro-Herrans.jpg" alt ="Aida Miro-Herrans" style="width:90%"/>
+<img src="/img/2026/2026_06-12-Aida-Miro-Herrans.jpg" alt ="Aida Miro-Herrans" style="width:90%"/>
 
 {{< column >}}
 
@@ -129,7 +129,7 @@ Nahid Zeinali, PhD, is an AI Research Scientist at the California Medical Innova
 
 {{< column >}}
 
-<img src="img/2026/2026-06-12-Nahid-Zeinali.jpeg" alt ="Nahid Zeinali" style="width:90%"/>
+<img src="/img/2026/2026-06-12-Nahid-Zeinali.jpeg" alt ="Nahid Zeinali" style="width:90%"/>
 
 {{< endcolumns >}}
 
@@ -138,7 +138,7 @@ Nahid Zeinali, PhD, is an AI Research Scientist at the California Medical Innova
 
 {{< columns >}}
 
-<img src="img/2026/2026-06-12-Alex-Bateman.jpeg" alt ="Alex Bateman" style="width:90%"/>
+<img src="/img/2026/2026-06-12-Alex-Bateman.jpeg" alt ="Alex Bateman" style="width:90%"/>
 
 {{< column >}}
 
@@ -155,7 +155,7 @@ Eric Green, MD, PhD, is the Chief Medical Officer at Illumina and a legendary fi
 
 {{< column >}}
 
-<img src="img/2026/2026-03-06-Eric-Green.jpeg" alt ="Eric Green" style="width:90%"/>
+<img src="/img/2026/2026-03-06-Eric-Green.jpeg" alt ="Eric Green" style="width:90%"/>
 
 {{< endcolumns >}}
 
@@ -163,7 +163,7 @@ Eric Green, MD, PhD, is the Chief Medical Officer at Illumina and a legendary fi
 
 {{< columns >}}
 
-<img src="wp-content/uploads/2022/05/Jason-Williams-1.jpeg" alt ="Jason Williams" style="width:90%"/>
+<img src="/wp-content/uploads/2022/05/Jason-Williams-1.jpeg" alt ="Jason Williams" style="width:90%"/>
 
 {{< column >}}
 
