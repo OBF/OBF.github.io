@@ -40,7 +40,7 @@ Maryam Zaringhalam, PhD, is the Senior Director of Policy at the Center for Open
 
 {{< column >}}
 
-Ann Nowakowski, MPH, is the Associate Technical Director of Product Strategy at Sage Bionetworks. With an extensive background in health informatics, computational infrastructure, and biomedical data coordination, her work centers on implementing the practical standards necessary to support ethical, open, and reproducible research workflows. At Sage Bionetworks, she collaborates closely with multidisciplinary consortia to establish open-access data platforms and transparent data governance policies that maximize the utility of public health data.
+Ann Novakowski, MPH, is Associate Technical Director of Product Strategy at Sage Bionetworks, where she helps translate policy, governance, and community needs into products that support open and responsible biomedical research. Her work spans federated data ecosystems, data access and reuse, digital use conditions, and emerging approaches to AI-enabled research. Drawing on more than 20 years of experience in public health, global health, and research infrastructure, she is particularly interested in how technical systems, governance models, and community practices can work together to make open science more sustainable, trustworthy, and resilient. She holds an MPH from Yale University and a BS in Molecular and Cellular Biology from the University of Arizona.
 
 {{< endcolumns >}}
 
