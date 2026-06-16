@@ -169,9 +169,9 @@ Eric Green, MD, PhD, is the Chief Medical Officer at Illumina and a legendary fi
 
 {{< column >}}
 
-Jason Williams, PhD, is the Assistant Director of Cold Spring Harbor's Dolan DNA Learning Center.
+Jason Williams, is the Assistant Director of Cold Spring Harbor's Dolan DNA Learning Center.
 He was elected an AAAS Fellow in 2026. In 2025, he won the Elizabeth W. Jones Award for Excellence in Education.
-Dr. Williams has been instrumental in bringing the latest technologies and teaching approaches for working with DNA into classrooms around the world through dedicated hands-on programs for students and teachers.
+Mr. Williams has been instrumental in bringing the latest technologies and teaching approaches for working with DNA into classrooms around the world through dedicated hands-on programs for students and teachers.
 He develops national and international biology education and professional development programs. In addition to his work at the DNALC, Williams is the founder of LifeSciTrainers.org, a global initiative promoting a community of practice among professionals who develop short-format training for life scientists.
 He is also the Lead Investigator of the [NSF Arecibo Center for STEM Education, Computing, and Community Engagement](https://areciboc3.org/).
 
