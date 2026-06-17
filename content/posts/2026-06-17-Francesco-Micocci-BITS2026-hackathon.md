@@ -66,8 +66,3 @@ Looking back at this whole experience, I think it taught me that you don’t nee
 Once again, I want to express my gratitude to OBF for making all of this possible.
 If you are an undergraduate student thinking about applying for an OBF travel grant to attend these events: don’t hesitate, do it.
 You could get an opportunity to learn, meet incredible people that you wouldn't experience otherwise, and you might also walk away with a win you didn’t expect coming!
-
-
-
-
-
