@@ -94,6 +94,8 @@ As an example: A file that resides in `static/img/2025/test-image.jpg` should be
 
 It is also good practice to name media files with the date you add them/the date of the page/post you want to add them to, e.g. `static/img/2025/2025-03-04-blogpost-image.jpg` (using `yyyy-mm-dd` as the start of the filename).
 
+Aim to keep within 1024 pixels high/wide to keep the file sizes reasonable for our pages to load quicky.
+
 #### Some other random tips
 
 - Where is the menu?? It's in hugo.yaml.
