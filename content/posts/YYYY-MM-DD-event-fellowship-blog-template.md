@@ -61,9 +61,11 @@ In your forked repository:
 
 ### 4. Upload Your Images
 
-1. Navigate to the folder: `static/img/YYYY/` for the current year
-2. Click **"Add file" → "Upload files"**
-3. Upload your image(s) here using the format YYYY-MM-DD-image-name.jpg
+1. Resize your images if needed to at most 1024 pixels high/wide
+   (to keep the download size reasonable so the page loads quicky).
+2. Navigate to the folder: `static/img/YYYY/` for the current year
+3. Click **"Add file" → "Upload files"**
+4. Upload your image(s) here using the format YYYY-MM-DD-image-name.jpg
 
 To insert images in your blog post, use the following format (without the static prefix):
 
