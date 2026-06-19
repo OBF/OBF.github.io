@@ -19,7 +19,7 @@ title: "Undergraduate to Best Poster Awardee: My experience at BITS2026 and BioH
 url: /2026/06/17/2026-06-17-francesco-micocci-bits2026/
 ---
 
-**_The_** [**_Open Bioinformatics Foundation (OBF) Event Fellowship program_**](/travel-awards) **_aims to promote diverse participation at events promoting open-source bioinformatics software development and open science practices in the biological research community. Francesco Maria Antonio Micocci,_** _**a Undergraduate Student at**_ _**University Of Turin**_, **_was awarded an OBF Event Fellowship to attend_** _**the**_ **_[BITS2026 Conference](https://bioinformatics.it/bits2026)_** _**and**_ **_[BioHackathon2026](https://younginfolife.github.io/events/2026-biohackathon)_**.
+**_The_** [**_Open Bioinformatics Foundation (OBF) Event Fellowship program_**](/travel-awards) **_aims to promote diverse participation at events promoting open-source bioinformatics software development and open science practices in the biological research community. [Francesco Maria Antonio Micocci](https://github.com/Vehx35),_** _**a Undergraduate Student at**_ _**University Of Turin**_, **_was awarded an OBF Event Fellowship to attend_** _**the**_ **_[BITS2026 Conference](https://bioinformatics.it/bits2026)_** _**and**_ **_[BioHackathon2026](https://younginfolife.github.io/events/2026-biohackathon)_**.
 
 
 
@@ -31,7 +31,7 @@ I want to thank the Open Bioinformatics Foundation (OBF) for giving me the oppor
 
 ## The BioHackathon
 
-As soon as I arrived in the city and after a rapid lunch, I found myself catapulted right in the action. After the groups were formed by the organizers and got the GitHub, as an undergraduate looking at the tasks given to us was a mix of excitement and panic.
+As soon as I arrived in the city and after a rapid lunch, I found myself catapulted right into the action. After the groups were formed by the organizers and got the GitHub, as an undergraduate looking at the tasks given to us was a mix of excitement and panic.
 Quickly I came to realize that most of what we had to do I had only little knowledge of.
 While I felt like I couldn't be of much help to the rest of the group, I got to learn a lot from the other members that didn’t leave me out even when I was clearly having difficulties.
 ![A group photo of all the Biohackathon participants](/static/img/2026/2026-06-17-Micocci-Francesco-hackathon.jpg)
