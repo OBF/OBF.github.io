@@ -31,7 +31,7 @@ I want to thank the Open Bioinformatics Foundation (OBF) for giving me the oppor
 
 ## The BioHackathon
 
-As soon as I arrived in the city and after a rapid lunch, I found myself catapulted right into the action. After the groups were formed by the organizers and got the GitHub, as an undergraduate looking at the tasks given to us was a mix of excitement and panic.
+As soon as I arrived in the city and after a rapid lunch, I found myself catapulted right into the action. After the groups were formed by the organizers, we got access to the GitHub repository. As an undergraduate, looking at the assigned tasks was a mix of excitement and panic.
 Quickly I came to realize that most of what we had to do I had only little knowledge of.
 While I felt like I couldn't be of much help to the rest of the group, I got to learn a lot from the other members that didn’t leave me out even when I was clearly having difficulties.
 ![A group photo of all the Biohackathon participants](/static/img/2026/2026-06-17-Micocci-Francesco-hackathon.jpg)
