@@ -39,14 +39,14 @@ While I felt like I couldn't be of much help to the rest of the group, I got to 
 ## The Conference
 
 After the Hackathon, on the second day the conference finally started.
-To be really honest, the various talk sessions were packed with advanced topics that were lightyears ahead of my actual knowledge. But while the technical details went mostly over my head, listening to the speakers gave me an idea of where the field of bioinformatics is heading. Instead of feeling discouraged, it was actually motivating. Seeing how some of the knowledge I already possess is used in real life applications gave me a boost of motivation.
+To be really honest, the various talk sessions were packed with advanced topics that were lightyears ahead of my actual knowledge. But while the technical details went mostly over my head, listening to the speakers gave me an idea of where the field of bioinformatics is heading. Instead of feeling discouraged, it was actually motivating. Seeing how some of the knowledge I already possess is used in real life applications gave me a boost.
 ![A group photo of all the BITS2026 participants](/static/img/2026/2026-06-17-Micocci-Francesco-conference.jpg)
 
 ## The Poster Session: The turning point
 
 While I felt a bit out of place during the oral sessions, now it was time for the poster session.
 That was my chance to share our work and get feedback from the community.
-My initial feeling was to feel nervous, but soon people came to read our poster and had a chat about it, then all the nervousness faded away.
+At first, I was quite nervous, but soon people came to read our poster and had a chat about it, then all the nervousness faded away.
 It was amazing to explain our project and to receive feedback from experienced researchers.
 This fantastic experience ended then with wonderful news. We won the best poster award!
 Getting this recognition completed this experience in the best possible way. I couldn’t really believe it!
