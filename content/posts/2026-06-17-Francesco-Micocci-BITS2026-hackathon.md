@@ -51,6 +51,7 @@ It was amazing to explain our project and to receive feedback from experienced r
 This fantastic experience ended then with wonderful news. We won the best poster award!
 Getting this recognition completed this experience in the best possible way. I couldn’t really believe it!
 For an undergraduate like me getting an award like this and seeing people actually appreciating my work felt unreal.
+*You can view and download the full award-winning poster on [Zenodo](https://zenodo.org/records/20763335).*
 ![Presenting the JupyDo Poster](/static/img/2026/2026-06-17-Micocci-Francesco-poster.jpg)
 
 ## Not only Science
