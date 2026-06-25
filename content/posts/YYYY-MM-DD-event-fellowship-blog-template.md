@@ -29,6 +29,9 @@ Do NOT edit this template file directly. Instead, follow the steps below to subm
 
 ## How to Submit Your Blog Post
 
+This assumes you've already shared a first draft with the OBF Board for comment
+and feedback - we'd like to catch and fix minor issues like typos before this point.
+
 ### 1. Create a GitHub Account (if needed)
 
 If you don’t have a GitHub account, create one at https://github.com/signup
@@ -56,6 +59,7 @@ In your forked repository:
 
 4. View template raw, and Copy and paste all the contents of this template into the new file.
 5. Replace the placeholder text (date, title, author, content, image name, etc.) with your actual blog content.
+6. Remove the `draft: true` line (we don't want the template published, we do want your post published).
 
 ---
 
