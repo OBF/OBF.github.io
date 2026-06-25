@@ -1,7 +1,6 @@
 ---
 author: "Francesco Maria Antonio Micocci"
-date: 2026-06-17 # format is YYYY-MM-DD
-draft: true
+date: 2026-06-26 # format is YYYY-MM-DD
 category:
  - community
  - event-fellowship
