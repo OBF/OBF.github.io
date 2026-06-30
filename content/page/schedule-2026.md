@@ -55,7 +55,7 @@ Moderator: Jason Williams
 </div>
 
 ## Schedule of Posters
-Posters are displayed for two days (July 13-14 or 14-15). The presenter is assigned one of those two days to stand by their posters.
+Posters are displayed for two days (July 13-14 or 15-16). The presenter is assigned one of those two days to stand by their posters.
 These dates are listed in the table below, and can also be found on [the ISMB poster schedule](https://www.iscb.org/ismb2026/scientific-programme/posters).
 On that page, there are four different BOSC links to see which posters are being presented each of the four days.
 
