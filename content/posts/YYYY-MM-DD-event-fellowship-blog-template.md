@@ -29,8 +29,8 @@ Do NOT edit this template file directly. Instead, follow the steps below to subm
 
 ## How to Submit Your Blog Post
 
-This assumes you've already shared a first draft with the OBF Board for comment
-and feedback - we'd like to catch and fix minor issues like typos before this point.
+Before starting a PR here, please share your blog post draft (eg as a Google Doc) with the OBF Board for comments.
+Once the Board has reviewed and approved it, please make a PR as described here.
 
 ### 1. Create a GitHub Account (if needed)
 
