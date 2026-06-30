@@ -33,13 +33,13 @@ I want to thank the Open Bioinformatics Foundation (OBF) for giving me the oppor
 As soon as I arrived in the city and after a rapid lunch, I found myself catapulted right into the action. After the groups were formed by the organizers, we got access to the GitHub repository. As an undergraduate, looking at the assigned tasks was a mix of excitement and panic.
 Quickly I came to realize that most of what we had to do I had only little knowledge of.
 While I felt like I couldn't be of much help to the rest of the group, I got to learn a lot from the other members that didn’t leave me out even when I was clearly having difficulties.
-![A group photo of all the Biohackathon participants](/static/img/2026/2026-06-17-Micocci-Francesco-hackathon.jpg)
+![A group photo of all the Biohackathon participants](/img/2026/2026-06-17-Micocci-Francesco-hackathon.jpg)
 
 ## The Conference
 
 After the Hackathon, on the second day the conference finally started.
 To be really honest, the various talk sessions were packed with advanced topics that were lightyears ahead of my actual knowledge. But while the technical details went mostly over my head, listening to the speakers gave me an idea of where the field of bioinformatics is heading. Instead of feeling discouraged, it was actually motivating. Seeing how some of the knowledge I already possess is used in real life applications gave me a boost.
-![A group photo of all the BITS2026 participants](/static/img/2026/2026-06-17-Micocci-Francesco-conference.jpg)
+![A group photo of all the BITS2026 participants](/img/2026/2026-06-17-Micocci-Francesco-conference.jpg)
 
 ## The Poster Session: The turning point
 
@@ -51,13 +51,13 @@ This fantastic experience ended then with wonderful news. We won the best poster
 Getting this recognition completed this experience in the best possible way. I couldn’t really believe it!
 For an undergraduate like me getting an award like this and seeing people actually appreciating my work felt unreal.
 *You can view and download the full award-winning poster on [Zenodo](https://zenodo.org/records/20763335).*
-![Presenting the JupyDo Poster](/static/img/2026/2026-06-17-Micocci-Francesco-poster.jpg)
+![Presenting the JupyDo Poster](/img/2026/2026-06-17-Micocci-Francesco-poster.jpg)
 
 ## Not only Science
 
 This experience was not only about science.
 The social moments have been one of the best sides of this conference. Whether it was discussing projects over a coffee during breaks, having a laugh during dinners, or enjoying a drink with people, I always felt welcomed in the community.
-![A Social Aperitif with all the Biohackathon participants](/static/img/2026/2026-06-17-Micocci-Francesco-social.jpg)
+![A Social Aperitif with all the Biohackathon participants](/img/2026/2026-06-17-Micocci-Francesco-social.jpg)
 
 ## Conclusion: A message to other Undergraduate students
 
