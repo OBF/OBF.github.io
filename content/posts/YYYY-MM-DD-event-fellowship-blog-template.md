@@ -29,6 +29,9 @@ Do NOT edit this template file directly. Instead, follow the steps below to subm
 
 ## How to Submit Your Blog Post
 
+Before starting a PR here, please share your blog post draft (eg as a Google Doc) with the OBF Board for comments.
+Once the Board has reviewed and approved it, please make a PR as described here.
+
 ### 1. Create a GitHub Account (if needed)
 
 If you don’t have a GitHub account, create one at https://github.com/signup
@@ -56,6 +59,7 @@ In your forked repository:
 
 4. View template raw, and Copy and paste all the contents of this template into the new file.
 5. Replace the placeholder text (date, title, author, content, image name, etc.) with your actual blog content.
+6. Remove the `draft: true` line (we don't want the template published, we do want your post published).
 
 ---
 
