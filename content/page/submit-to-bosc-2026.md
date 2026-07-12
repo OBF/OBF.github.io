@@ -14,7 +14,7 @@ bosc: yes
 {{< columns >}}
 **BOSC 2026**, the 27th annual Bioinformatics Open Source Conference, will take place **July 14-15** as part of [ISMB 2026](https://www.iscb.org/ismb2026/home) in Washington DC. We hope you will join us in person or online!
 
-**Abstract submission is open!** See below for instructions.
+Abstract submission is now closed.
 
 {{< column >}}
 
@@ -88,7 +88,7 @@ In addition to the requirements listed above, we consider the following when sel
 - You don't need to register before you submit your abstract, but to present your talk or poster you will need to register for ISMB.
 
 <center>
-<a href="https://easychair.org/conferences/?conf=ismb2026" class="btn btn-lg btn-primary">Submit Abstract</a>
+<!-- <a href="https://easychair.org/conferences/?conf=ismb2026" class="btn btn-lg btn-primary">Submit Abstract</a> -->
 </center>
 
 ## BOSC open content requirement
@@ -147,5 +147,5 @@ We realize that the cost of ISMB may be prohibitive for some. If you are submitt
 </div>
 
 <center>
-<a href="https://easychair.org/conferences/?conf=ismb2026" class="btn btn-lg btn-primary">Submit Abstract</a>
+<!-- <a href="https://easychair.org/conferences/?conf=ismb2026" class="btn btn-lg btn-primary">Submit Abstract</a> -->
 </center>
