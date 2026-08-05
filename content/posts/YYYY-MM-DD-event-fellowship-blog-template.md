@@ -29,6 +29,9 @@ Do NOT edit this template file directly. Instead, follow the steps below to subm
 
 ## How to Submit Your Blog Post
 
+**Before** starting a PR here, please share your blog post draft (e.g. as a Google Doc) with the OBF Board for comments.
+Once the Board has reviewed and approved your draft post, please make a PR as described here.
+
 ### 1. Create a GitHub Account (if needed)
 
 If you don’t have a GitHub account, create one at https://github.com/signup
@@ -56,6 +59,8 @@ In your forked repository:
 
 4. View template raw, and Copy and paste all the contents of this template into the new file.
 5. Replace the placeholder text (date, title, author, content, image name, etc.) with your actual blog content.
+6. Remove the "draft: true" line from the header text
+7. The url you supply should be fairly short--e.g., 2026-08-05-Person-Name-Conference, not 2026-08-05-Person-Name-Learned-Three-Important-Things-at-Conference
 
 ---
 
@@ -91,12 +96,11 @@ We will review your post, help with final edits, and publish it for you.
 ---
 
 
-##  Paste the Reviewed Content below and use the instructions to add images, URLs, etc
+##  Paste the reviewed content below and use the instructions to add images, URLs, etc
 
 Delete the instructions above once you are ready to submit your blog post. Feel free to structure your content as you like, but here are some suggestions to get you started.
 
-
-# Your Blog Post (do not inlude this line or repeat the title here)
+# Your blog post (do not include this line or repeat the title here)
 
 **_The_** [**_Open Bioinformatics Foundation (OBF) Event Fellowship program_**](/travel-awards) **_aims to promote diverse participation at events promoting open-source bioinformatics software development and open science practices in the biological research community. [FULL NAME],_** _**a [YOUR POSITION, e.g., MSc/PhD researcher] at**_ _**[YOUR INSTITUTION]**_, **_was awarded an OBF Event Fellowship to attend_** _**the**_ **_[EVENT NAME](EVENT URL)_**.
 
