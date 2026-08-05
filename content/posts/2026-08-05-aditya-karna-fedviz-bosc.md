@@ -6,6 +6,7 @@ category:
  - community
  - event-fellowship
  - travel-fellowship
+ - bosc
 cover:
   image: /img/2026/2026-08-05-aditya-karna-bosc-talk.jpg
   alt: "Aditya Karna presenting FedViz at BOSC ISMB 2026"
@@ -14,6 +15,7 @@ tag:
  - community
  - event-fellowship
  - travel-fellowship
+ - bosc
 
 title: "From FedViz to BOSC: My First Look into an Open Bioinformatics Community"
 url: /2026/08/05/2026-08-05-aditya-karna-fedviz-bosc/
