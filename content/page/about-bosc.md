@@ -42,7 +42,7 @@ Since it launched in 2000, BOSC has been part of ISMB every year except for 2018
 - [BOSC 2023](/events/bosc-2023/) took place July 26-27, 2023 as part of [ISMB/ECCB 2023](https://www.iscb.org/ismbeccb2023), in person in Lyon, France, and online.
 - [BOSC 2022](/events/bosc-2022/) took place July 13-14, 2022, as part of [ISMB 2022](https://www.iscb.org/ismb2022), in person in Madison, Wisconsin, USA, and also online.
 - [BOSC 2021](/events/bosc-2021/), part of [ISMB/ECCB 2021 online](https://www.iscb.org/ismbeccb2021), took place July 29-30, 2021.
-- [BOSC 2020](/events/bosc/) online (as part of Bioinformatics Community Conference, [BCC2020](https://bcc2020.github.io/))
+- [BOSC 2020](/events/bosc-2020/) online (as part of Bioinformatics Community Conference, [BCC2020](https://bcc2020.github.io/))
 - [BOSC 2019](/events/bosc-2019/) Basel, Switzerland (as part of ISMB/ECCB 2019)
 
 {{< columns >}}
