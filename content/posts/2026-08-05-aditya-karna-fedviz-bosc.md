@@ -1,7 +1,7 @@
 ---
 author: "Aditya Karna"
 date: 2026-08-05
-draft: true
+draft: false
 category:
  - community
  - event-fellowship
