@@ -12,7 +12,7 @@ bosc: yes
 ---
 # What is BOSC?
 
-The **B** ioinformatics **O** pen **S** ource **C** onference promotes and facilitates the [open source](https://en.wikipedia.org/wiki/open_source) development of [bioinformatics](https://en.wikipedia.org/wiki/bioinformatics) tools and open science.
+The **B**ioinformatics **O**pen **S**ource **C**onference promotes and facilitates the [open source](https://en.wikipedia.org/wiki/open_source) development of [bioinformatics](https://en.wikipedia.org/wiki/bioinformatics) tools and open science.
 
 Since it launched in 2000, BOSC has been part of ISMB every year except for 2018 and 2020, when it partnered with the Galaxy Community Conference.
 
