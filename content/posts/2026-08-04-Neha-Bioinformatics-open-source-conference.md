@@ -6,8 +6,8 @@ category:
  - event-fellowship
  - travel-fellowship
 cover:
-  image: /wp-content/uploads/YYYY/YYYY-MM-DD-cover-image-name.png
-  alt: "Image description for accessibility"
+  image: /wp-content/uploads/2026/2026-08-06-Neha.png
+  alt: "poster presentation at BOSC"
 
 tag:
  - community
