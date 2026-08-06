@@ -15,7 +15,7 @@ tag:
  - travel-fellowship
 
 title: "My Experience at  BOSC 2026"
-url: /YYYY/MM/DD/YYYY-MM-DD-your-name-blog-title/
+url: 2026-08-04-Neha-Bioinformatics-open-source-conference.md
 ---
 
 Taking part in the **BOSC 2026 (Bioinformatics Open Source Conference)**, was a valuable learning experience for me. I appreciate the **Open Bioinformatics Foundation (OBF)** for supporting me with their fellowship, which made it possible for me to attend this event. OBF represents a non-profit group that promotes open source software and open science. Every year, it runs the BOSC flagship meeting to promote community-driven open science as a part of larger **ISMB(Intelligent System Molecular Biology)** Conference.
