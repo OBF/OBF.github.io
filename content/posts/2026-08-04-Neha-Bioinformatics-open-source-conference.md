@@ -32,7 +32,7 @@ Besides this, I also learned about tools like **MEDFORD and OBO Foundry** for me
 
 Spatial transcriptomics, especially using Visium data, is another fascinating area. This technology lets researchers map gene expression directly onto tissue structures. It will have a big impact on understanding cell niches, where the local environment influences how cells behave and function.
 
-I feel so grateful to have presented my poster, "Realistic Synthetic Data Generation for Biomedical Research and Computational Modeling in Endometrial Cancer," on such a large platform. I learned about **poster.science**, a platform that could help me improve my poster.
+I feel so grateful to have presented my poster, "Realistic Synthetic Data Generation for Biomedical Research and Computational Modeling in Endometrial Cancer," on such a large platform. I learned about [poster.science](https://posters.science/), a platform that could help me improve my poster.
 
 ![Poster Presentation](/img/2026/2026-08-06-Neha.png)
 
