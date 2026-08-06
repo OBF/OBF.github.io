@@ -14,11 +14,14 @@ tag:
  - event-fellowship
  - travel-fellowship
 
-title: "My Experience at BOSC 2026"
+title: "Reflections from BOSC 2026: A Travel Fellowship Recipient's Story"
 url: 2026-08-04-Neha-Bioinformatics-open-source-conference.md
 ---
 
-Taking part in the **BOSC 2026 (Bioinformatics Open Source Conference)**, was a valuable learning experience for me. I appreciate the **Open Bioinformatics Foundation (OBF)** for supporting me with their fellowship, which made it possible for me to attend this event. OBF represents a non-profit group that promotes open source software and open science. Every year, it runs the BOSC flagship meeting to promote community-driven open science as a part of larger **ISMB(Intelligent System Molecular Biology)** Conference.
+**_The_** [**_Open Bioinformatics Foundation (OBF) Event Fellowship program_**](/travel-awards) **_aims to promote diverse participation at events promoting open-source bioinformatics software development and open science practices in the biological research community.  Neha,_** _**a PHD canddate at University of Newcastle, Australia**_, **_was awarded an OBF Event Fellowship to attend_** _**the**_ **_[Bioinformatics Open Source Conference (BOSC) 2026](https://www.open-bio.org/events/bosc-2026/)_**.
+
+Taking part in [BOSC 2026 (Bioinformatics Open Source Conference)](https://www.open-bio.org/events/bosc/) was a valuable learning experience. I am grateful to the [Open Bioinformatics Foundation (OBF)](https://www.open-bio.org/) for supporting me through their fellowship, which made it possible for me to attend. It was a unique space where open-source software, biology, and the research community converged in a truly collaborative way. Every year, OBF runs the BOSC flagship meeting to promote community-driven open science as a part of larger ISMB(Intelligent System Molecular Biology) Conference.
+
 
 Even though I could not attend in person, the sessions offered valuable technical insights into current trends and challenges in bioinformatics and computational biology. A main theme in several talks was integrating multi-omics data. I learned about different strategies, such as horizontal, vertical, and diagonal integration. Diagonal integration is still a challenging research area because there are no shared anchors. These talks helped me understand how complex it is to combine different types of biological data.
 
@@ -26,7 +29,7 @@ The conference also introduced me to several computational techniques, like mixO
 
 An additional significant learning experience was attending the BOSC session on **Knowledge Graphs and KG-Registry on 14 July**. The session illustrated how knowledge graphs integrate disparate biological resources by representing relationships among genes, proteins, diseases, pathways, drugs, and other biomedical entities. I was particularly interested in how knowledge graphs address challenges related to broken biological information by helping researchers to reveal concealed connections and formulate new hypotheses.
 
-The discussion on **KG-Registry** also offered important insights into the initiatives designed to improve the discoverability, accessibility, and reuse of the knowledge graph resources within the bioinformatics community. The registry  lets researchers identify available knowledge graphs, comprehend their scope and applications, and promote interoperability among different resources. This discussion stressed the key role of open-source infrastructure and community-led initiatives in furthering the FAIR (Findable, Accessible, Interoperable, and Reusable) principles for biological knowledge.
+The discussion on [**KG-Registry**]( https://kghub.org/kg-registry/docs/intro/ ) also offered important insights into the initiatives designed to improve the discoverability, accessibility, and reuse of the knowledge graph resources within the bioinformatics community. The registry  lets researchers identify available knowledge graphs, comprehend their scope and applications, and promote interoperability among different resources. This discussion stressed the key role of open-source infrastructure and community-led initiatives in furthering the FAIR (Findable, Accessible, Interoperable, and Reusable) principles for biological knowledge.
 
 Besides this, I also learned about tools like **MEDFORD and OBO Foundry** for metadata descriptions.
 
