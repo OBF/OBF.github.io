@@ -30,7 +30,7 @@ The Bioinformatics Open Source Conference (BOSC) has been [held annually since 2
 - July 16 (July 17 in eastern hemisphere): [pre-BCC open house](/2020/07/08/bcc2020-pre-conference-open-house/) for registered attendees
 - July 17-18 (July 18-19 in eastern hemisphere): BCC2020 optional [training sessions](https://bcc2020.sched.com/overview/subject/Training)
 - **July 19-21 (July 20-22 in eastern hemisphere): [BOSC 2020](/events/bosc/schedule/)**, part of [BCC2020](https://bcc2020.github.io/) (online)
-- July 22-23 and 24-25: [CoFest](/events/bosc/collaborationfest/) and CoFest Encore
+- July 22-23 and 24-25: [CoFest](/events/bosc-2020/bosc-2020-collaborationfest/) and CoFest Encore
 
 ## Session Topics
 
@@ -52,7 +52,7 @@ BOSC is organized by the [Open Bioinformatics Foundation (OBF)](/wiki/Main_Page
 
 Since its inception in 2000, BOSC has provided a forum for developers and users to interact and share research results and ideas in open source bioinformatics. BOSC’s broad spectrum of topics includes practical techniques for solving bioinformatics problems; software development practices; standards and ontologies; approaches that promote open science and sharing of data, results and software; and ways to grow open source communities while promoting diversity within them.
 
-BOSC is usually preceded or followed by what we now call [CollaborationFest (CoFest](/events/bosc/collaborationfest/) for short), a two-day community development session. This is an opportunity for anyone interested in open science, biology and programming to meet, talk and work collaboratively. All are welcome to attend CoFest, whether or not you attend BOSC!
+BOSC is usually preceded or followed by what we now call [CollaborationFest (CoFest for short)](/events/bosc-2020/bosc-2020-collaborationfest/), a two-day community development session. This is an opportunity for anyone interested in open science, biology and programming to meet, talk and work collaboratively. All are welcome to attend CoFest, whether or not you attend BOSC!
 
 [More about BOSC...](/events/bosc/about/)
 
