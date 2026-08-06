@@ -37,6 +37,3 @@ I feel so grateful to have presented my poster, "Realistic Synthetic Data Genera
 ![Poster Presentation](/img/2026/2026-08-06-Neha.png)
 
 All things considered, ISMB 2026 and BOSC 2026 were really educational events, and I am thankful to the Open Bioinformatics Foundation for giving me this opportunity.
-
-
-
