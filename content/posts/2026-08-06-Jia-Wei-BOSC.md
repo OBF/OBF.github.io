@@ -35,7 +35,7 @@ I have also gained invaluable bioinformatics skills through the ISMB Virtual Tut
 
 ![ISMB Virtual Tutorial](/img/2026/2026-08-06-JWLee-2.jpg)
 
-## Conclusion 
+## Conclusion
 As researchers, it is easy to become absorbed in the daily grind of reading papers, analyzing data and writing manuscripts. Amidst this, attending the conference gave me the opportunity to step back and be inspired by the exciting advances taking place across the field. Learning about the incredible pace of innovation in bioinformatics has reminded me that there is still so much to learn and discover. More importantly, this experience has left me with a renewed sense of purpose. While our individual research contributions may seem small, we are all part of a larger scientific community united by a shared goal of driving innovation, advancing science, and improving lives.
 
 ## Acknowledgements
