@@ -18,7 +18,7 @@ title: "Reflections from BOSC 2026: A Travel Fellowship Recipient's Story"
 url: 2026-08-04-Neha-Bioinformatics-open-source-conference.md
 ---
 
-**_The_** [**_Open Bioinformatics Foundation (OBF) Event Fellowship program_**](/travel-awards) **_aims to promote diverse participation at events promoting open-source bioinformatics software development and open science practices in the biological research community.  Neha,_** _**a PHD canddate at University of Newcastle, Australia**_, **_was awarded an OBF Event Fellowship to attend_** _**the**_ **_[Bioinformatics Open Source Conference (BOSC) 2026](https://www.open-bio.org/events/bosc-2026/)_**.
+**_The_** [**_Open Bioinformatics Foundation (OBF) Event Fellowship program_**](/travel-awards) **_aims to promote diverse participation at events promoting open-source bioinformatics software development and open science practices in the biological research community.  Neha,_** _**a PHD student at University of Newcastle, Australia**_, **_was awarded an OBF Event Fellowship to attend_** _**the**_ **_[Bioinformatics Open Source Conference (BOSC) 2026](https://www.open-bio.org/events/bosc-2026/)_**.
 
 Taking part in [BOSC 2026 (Bioinformatics Open Source Conference)](https://www.open-bio.org/events/bosc/) was a valuable learning experience. I am grateful to the [Open Bioinformatics Foundation (OBF)](https://www.open-bio.org/) for supporting me through their fellowship, which made it possible for me to attend. It was a unique space where open-source software, biology, and the research community converged in a truly collaborative way. Every year, OBF runs the BOSC flagship meeting to promote community-driven open science as a part of larger ISMB(Intelligent System Molecular Biology) Conference.
 
