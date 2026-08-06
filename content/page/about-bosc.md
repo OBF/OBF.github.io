@@ -16,7 +16,7 @@ The **B**ioinformatics **O**pen **S**ource **C**onference promotes and facil
 
 Since it launched in 2000, BOSC has been part of ISMB every year except for 2018 and 2020, when it partnered with the Galaxy Community Conference.
 
-[BOSC 2027] will be part of [ISMB/ECCB 2027](https://www.iscb.org/ismbeccb2027/home) in Copenhagen, Denmark
+BOSC 2027 will be part of [ISMB/ECCB 2027](https://www.iscb.org/ismbeccb2027/home) in Copenhagen, Denmark
 
 ![](/wp-content/uploads/2019/03/codefest-some-people.jpg)
 
