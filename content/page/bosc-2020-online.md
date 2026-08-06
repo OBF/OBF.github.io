@@ -30,7 +30,7 @@ The Bioinformatics Open Source Conference (BOSC) has been [held annually since 2
 - July 16 (July 17 in eastern hemisphere): [pre-BCC open house](/2020/07/08/bcc2020-pre-conference-open-house/) for registered attendees
 - July 17-18 (July 18-19 in eastern hemisphere): BCC2020 optional [training sessions](https://bcc2020.sched.com/overview/subject/Training)
 - **July 19-21 (July 20-22 in eastern hemisphere): [BOSC 2020](/events/bosc/schedule/)**, part of [BCC2020](https://bcc2020.github.io/) (online)
-- July 22-23 and 24-25: [CoFest](/events/bosc/collaborationfest/) and CoFest Encore
+- July 22-23 and 24-25: [CoFest](/events/bosc-2020/bosc-2020-collaborationfest/) and CoFest Encore
 
 ## Session Topics
 
