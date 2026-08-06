@@ -16,32 +16,6 @@ title: "Advancing Precision Biomarker Discovery through Open Science"
 url: /2026/08/06/2026-08-06-Jia-Wei-BOSC/
 ---
 
-
----
-
-### 4. Upload Your Images
-
-1. Resize your images if needed to at most 1024 pixels high/wide
-   (to keep the download size reasonable so the page loads quicky).
-2. Navigate to the folder: `static/img/YYYY/` for the current year
-3. Click **"Add file" → "Upload files"**
-4. Upload your image(s) here using the format YYYY-MM-DD-image-name.jpg
-
-
----
-
-### 5. Submit a Pull Request (PR)
-
-Once your edits are complete:
-
-1. Go to your fork’s main page on GitHub
-2. Click **"Contribute" → "Open pull request"**
-3. Make sure it targets the `main` branch of
-  https://github.com/OBF/OBF.github.io
-4. Use the title: `New blog post: [your title] by [your name]`
-5. Click **"Create pull request"**
-
----
 **_The_** [**_Open Bioinformatics Foundation (OBF) Event Fellowship program_**](/travel-awards) **_aims to promote diverse participation at events promoting open-source bioinformatics software development and open science practices in the biological research community. [Lee Jia Wei],_** _**a [PhD candidate] at**_ _**[the National University of Singapore]**_, **_was awarded an OBF Event Fellowship to attend_** _**the**_ **_[Bioinformatics Open Source Conference](https://www.open-bio.org/events/bosc-2026/)_**.
 ![Interactive, publicly accessible catalogue of childhood AD biomarkers](/img/2026/2026-08-06-JWLee-1.jpg)
 
@@ -60,8 +34,6 @@ My most memorable part of BOSC was attending the keynote lecture by Dr. Eric Gre
 I have also gained invaluable bioinformatics skills through the ISMB Virtual Tutorial 4: Multimodal Integration and Multimodal Causal Inference, taught by Dr. Himel Mallick. The tutorial provided a fascinating overview of the emerging computational approaches for multi-omics data integration, complemented by a guided hands-on session where we learned how to implement these methods using R. With these newfound insights, I am excited to apply these approaches to my current research on biomarker discovery for childhood atopic dermatitis.
 
 ![ISMB Virtual Tutorial](/img/2026/2026-08-06-JWLee-2.jpg)
-
----
 
 ## Conclusion 
 As researchers, it is easy to become absorbed in the daily grind of reading papers, analyzing data and writing manuscripts. Amidst this, attending the conference gave me the opportunity to step back and be inspired by the exciting advances taking place across the field. Learning about the incredible pace of innovation in bioinformatics has reminded me that there is still so much to learn and discover. More importantly, this experience has left me with a renewed sense of purpose. While our individual research contributions may seem small, we are all part of a larger scientific community united by a shared goal of driving innovation, advancing science, and improving lives.
