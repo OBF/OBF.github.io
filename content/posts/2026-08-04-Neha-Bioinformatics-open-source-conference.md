@@ -6,7 +6,7 @@ category:
  - event-fellowship
  - travel-fellowship
 cover:
-  image: /wp-content/uploads/2026/2026-08-06-Neha.png
+  image: /img/2026/2026-08-06-Neha.png
   alt: "poster presentation at BOSC"
 
 tag:
@@ -14,7 +14,7 @@ tag:
  - event-fellowship
  - travel-fellowship
 
-title: "My Experience at  BOSC 2026"
+title: "My Experience at BOSC 2026"
 url: 2026-08-04-Neha-Bioinformatics-open-source-conference.md
 ---
 
