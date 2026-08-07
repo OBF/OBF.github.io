@@ -1,5 +1,6 @@
+---
 author: "Anastasia Bratulin"
-date: 2026-07-16
+date: 2026-08-07
 draft: false
 category:
  - community
@@ -16,7 +17,6 @@ title: "Reflections from ISMB 2026 in Washington, D.C."
 url: /2026/07/16/2026-07-16-anastasia-bratulin-ismb-2026
 ---
 
----
 # Reflections from ISMB 2026 in Washington, D.C.
 
 **_The_** [**_Open Bioinformatics Foundation (OBF) Event Fellowship program_**](/travel-awards) **_aims to promote diverse participation at events promoting open-source bioinformatics software development and open science practices in the biological research community. Anastasia Bratulin,_** _**a PhD candidate at**_ _**the Ohio State University**_, **_was awarded an OBF Event Fellowship to attend_** _**the**_ **_[ISMB 2026](https://www.iscb.org/ismb2026/home)_**.
