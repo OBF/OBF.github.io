@@ -24,14 +24,16 @@ Thanks to the generous support of the Open Bioinformatics Foundation (OBF), I ha
 ## Poster Presentation
 At BOSC, I was thrilled to present my research poster, titled “An AI-Enabled Review Workflow and Interactive Resource for Biomarker Discovery”. My project involved the development of an AI-enabled systematic review workflow and an interactive biomarker resource. By leveraging active learning and large language models, I established an efficient and scalable framework for AI-augmented biomedical evidence synthesis. Using pediatric atopic dermatitis (AD) as a case study, I developed an interactive, publicly accessible catalogue of childhood AD biomarkers to facilitate efficient biomarker exploration and enhance scientific usability.
 
-[GitHub Repository](https://github.com/LCFGChipmunt/ad_review)
-[Biomarker Catalogue](https://jiaweilee.shinyapps.io/eczema_review/)
+* [GitHub Repository](https://github.com/LCFGChipmunt/ad_review)
+* [Biomarker Catalogue](https://jiaweilee.shinyapps.io/eczema_review/)
 
 ## BOSC Keynote Speech
 My most memorable part of BOSC was attending the keynote lecture by Dr. Eric Green, Chief Medical Officer at Illumina, who delivered a passionate and engaging talk on the past, present, and future of genomic medicine. It was inspiring to step back and reflect on how far the field has come—from the completion of the Human Genome Project to today's vibrant landscape, where genomics plays a central role in both basic and translational research. Looking to the future, it is exciting to see how genomic medicine is poised to become increasingly integrated into clinical practice and public health. As advances in genomics continue to drive precision medicine, they have the potential to transform healthcare by enabling more personalized care for patients.
 
 ## ISMB Tutorial
 I have also gained invaluable bioinformatics skills through the ISMB Virtual Tutorial 4: Multimodal Integration and Multimodal Causal Inference, taught by Dr. Himel Mallick. The tutorial provided a fascinating overview of the emerging computational approaches for multi-omics data integration, complemented by a guided hands-on session where we learned how to implement these methods using R. With these newfound insights, I am excited to apply these approaches to my current research on biomarker discovery for childhood atopic dermatitis.
+
+* [GitHub Repository](https://github.com/himelmallick/ISMB2026MultimodalShortCourse)
 
 ![ISMB Virtual Tutorial](/img/2026/2026-08-06-JWLee-2.jpg)
 
