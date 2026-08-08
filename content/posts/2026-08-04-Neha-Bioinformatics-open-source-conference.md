@@ -1,6 +1,6 @@
 ---
 author: Neha
-date: 2026-08-04
+date: 22026-08-08 
 category:
  - community
  - event-fellowship
@@ -13,14 +13,18 @@ tag:
  - community
  - event-fellowship
  - travel-fellowship
+ - bosc
 
-title: "Reflections from BOSC 2026: A Travel Fellowship Recipient's Story"
+title: "Reflections from BOSC 2026: An Event Fellowship Recipient's Story"
 url: 2026-08-04-Neha-Bioinformatics-open-source-conference.md
 ---
 
 **_The_** [**_Open Bioinformatics Foundation (OBF) Event Fellowship program_**](/travel-awards) **_aims to promote diverse participation at events promoting open-source bioinformatics software development and open science practices in the biological research community.  Neha,_** _**a PHD student at University of Newcastle, Australia**_, **_was awarded an OBF Event Fellowship to attend_** _**the**_ **_[Bioinformatics Open Source Conference (BOSC) 2026](https://www.open-bio.org/events/bosc-2026/)_**.
 
-Taking part in [BOSC 2026 (Bioinformatics Open Source Conference)](https://www.open-bio.org/events/bosc/) was a valuable learning experience. I am grateful to the [Open Bioinformatics Foundation (OBF)](https://www.open-bio.org/) for supporting me through their fellowship, which made it possible for me to attend. It was a unique space where open-source software, biology, and the research community converged in a truly collaborative way. Every year, OBF runs the BOSC flagship meeting to promote community-driven open science as a part of larger ISMB(Intelligent System Molecular Biology) Conference.
+I feel so grateful to have presented my poster, "Realistic Synthetic Data Generation for Biomedical Research and Computational Modeling in Endometrial Cancer," on such a large platform. I learned about [poster.science](https://posters.science/), a platform that could help me improve my poster.
+![Poster Presentation](/img/2026/2026-08-06-Neha.png)
+
+Taking part in [BOSC 2026 (Bioinformatics Open Source Conference)](https://www.open-bio.org/events/bosc/) was a valuable learning experience. I am grateful to the [Open Bioinformatics Foundation (OBF)](https://www.open-bio.org/) for supporting me through their fellowship, which made it possible for me to attend. It was a unique space where open-source software, biology, and the research community converged in a truly collaborative way. Every year, OBF runs the BOSC flagship meeting to promote community-driven open science as part of the larger ISMB(Intelligent System Molecular Biology) Conference.
 
 
 Even though I could not attend in person, the sessions offered valuable technical insights into current trends and challenges in bioinformatics and computational biology. A main theme in several talks was integrating multi-omics data. I learned about different strategies, such as horizontal, vertical, and diagonal integration. Diagonal integration is still a challenging research area because there are no shared anchors. These talks helped me understand how complex it is to combine different types of biological data.
@@ -35,8 +39,5 @@ Besides this, I also learned about tools like **MEDFORD and OBO Foundry** for me
 
 Spatial transcriptomics, especially using Visium data, is another fascinating area. This technology lets researchers map gene expression directly onto tissue structures. It will have a big impact on understanding cell niches, where the local environment influences how cells behave and function.
 
-I feel so grateful to have presented my poster, "Realistic Synthetic Data Generation for Biomedical Research and Computational Modeling in Endometrial Cancer," on such a large platform. I learned about [poster.science](https://posters.science/), a platform that could help me improve my poster.
-
-![Poster Presentation](/img/2026/2026-08-06-Neha.png)
 
 All things considered, ISMB 2026 and BOSC 2026 were really educational events, and I am thankful to the Open Bioinformatics Foundation for giving me this opportunity.
