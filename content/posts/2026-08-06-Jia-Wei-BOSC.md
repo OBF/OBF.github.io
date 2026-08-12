@@ -6,11 +6,13 @@ category:
  - community
  - event-fellowship
  - travel-fellowship
+ - bosc
 
 tag:
  - community
  - event-fellowship
  - travel-fellowship
+ - bosc
 
 title: "Advancing Precision Biomarker Discovery through Open Science"
 url: /2026/08/06/2026-08-06-Jia-Wei-BOSC/
