@@ -1,6 +1,6 @@
 ---
 author: Jia Wei Lee
-date: 2026-08-06
+date: 2026-08-10
 
 category:
  - community
@@ -18,7 +18,7 @@ title: "Advancing Precision Biomarker Discovery through Open Science"
 url: /2026/08/06/2026-08-06-Jia-Wei-BOSC/
 ---
 
-**_The_** [**_Open Bioinformatics Foundation (OBF) Event Fellowship program_**](/travel-awards) **_aims to promote diverse participation at events promoting open-source bioinformatics software development and open science practices in the biological research community. [Lee Jia Wei],_** _**a [PhD candidate] at**_ _**[the National University of Singapore]**_, **_was awarded an OBF Event Fellowship to attend_** _**the**_ **_[Bioinformatics Open Source Conference](https://www.open-bio.org/events/bosc-2026/)_**.
+**_The_** [**_Open Bioinformatics Foundation (OBF) Event Fellowship program_**](/travel-awards) **_aims to promote diverse participation at events promoting open-source bioinformatics software development and open science practices in the biological research community. Lee Jia Wei,_** _**a PhD candidate at**_ _**the National University of Singapore**_, **_was awarded an OBF Event Fellowship to attend_** _**the**_ **_[Bioinformatics Open Source Conference](https://www.open-bio.org/events/bosc-2026/)_**.
 ![Interactive, publicly accessible catalogue of childhood AD biomarkers](/img/2026/2026-08-06-JWLee-1.jpg)
 
 Thanks to the generous support of the Open Bioinformatics Foundation (OBF), I had the privilege of attending and presenting a poster at this year’s Bioinformatics Open Source Conference (BOSC 2026), part of the Intelligent Systems for Molecular Biology (ISMB) conference. It was truly an eye-opening experience for me, particularly because it was my first international bioinformatics conference, and my first foray into the open bioinformatics community.
