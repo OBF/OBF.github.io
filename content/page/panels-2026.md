@@ -62,7 +62,7 @@ Mallory Freeberg, PhD, is the Human Genomics Team Leader at EMBL’s European Bi
 
 {{< columns >}}
 
-<img src="/img/2026/2026-06-08-Guy-Chochrane.jpg" alt ="Guy Cochrane" style="width:90%"/>
+<img src="/img/2026/2026-06-08-Guy-Cochrane.jpg" alt ="Guy Cochrane" style="width:90%"/>
 
 {{< column >}}
 
