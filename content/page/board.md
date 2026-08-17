@@ -61,7 +61,7 @@ Representing [BioPerl](http://www.bioperl.org/), Open Research Faculty at [Neuro
   title= "[Peter Cock](#)"
   caption=`
 _President_
-[Biopython](https://biopython.org/) core developer, bioinformatician at the James Hutton Institute for 16 years, currently at the University of Strathclyde. [BOSC 2016 co-chair](https://open-bio.org/wiki/BOSC_2016).
+[Biopython](https://biopython.org/) core developer, bioinformatician at the James Hutton Institute for 16 years, currently at Forest Research (UK). [BOSC 2016 co-chair](https://open-bio.org/wiki/BOSC_2016).
 `
 >}}
 
