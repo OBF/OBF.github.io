@@ -11,8 +11,8 @@ url: /2026/08/20/obf-public-board-meeting-sept-2026/
 ---
 
 We will be holding an online OBF Public Board meeting on Tuesday 15
-September 2026, on the Zoom platform (login details to follow in an
-update to this blog post).
+September 2026, at 15:00 GMT (8am PST, 11am EST, 4pm BST, 5pm CEST),
+on the Zoom platform (login details to follow in an update to this blog post).
 Under the [OBF bylaws](https://github.com/OBF/obf-docs/blob/master/OBF%20Bylaws.md)
 we must give at least 10 days notice of a public board meeting.
 This message should also have reached the [OBF
