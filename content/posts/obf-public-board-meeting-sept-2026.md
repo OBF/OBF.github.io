@@ -25,7 +25,7 @@ Agenda:
 minutes](https://github.com/OBF/obf-docs/pull/118).
 * Formally thank out-going board members at large, Iddo Friedberg and
 Hilyatuz Zahroh.
-* Elections to the Board:
+* Elections to the [OBF Board](/board):
   * The current board members have reached or are approaching the end
 of their expected three year terms, and are standing for re-election:
 Peter Cock (President), Nomi Harris (Vice President), Heather Wiencko
