@@ -1,10 +1,13 @@
 ---
 author: peterjc
+date: 2025-09-04
 category:
   - board
   - obf
+  - community
 tag:
   - board-meeting
+  - community
 title: OBF Public Board Meeting (15 Sept 2026)
 url: /2026/09/04/obf-public-board-meeting-sept-2026/
 
