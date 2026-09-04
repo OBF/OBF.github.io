@@ -6,7 +6,7 @@ category:
 tag:
   - board-meeting
 title: OBF Public Board Meeting (15 Sept 2026)
-url: /2026/08/20/obf-public-board-meeting-sept-2026/
+url: /2026/09/04/obf-public-board-meeting-sept-2026/
 
 ---
 
