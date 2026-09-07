@@ -14,7 +14,7 @@ url: /2026/09/04/obf-public-board-meeting-sept-2026/
 ---
 
 We will be holding an online OBF Public Board meeting on Tuesday 15
-September 2026, at 15:00 UTC (8am PST, 11am EST, 4pm BST, 5pm CEST),
+September 2026, at 15:00 UTC (8am PDT, 11am EDT, 4pm BST, 5pm CEST),
 on the Zoom platform (login details to follow in an update to this blog post).
 Under the [OBF bylaws](https://github.com/OBF/obf-docs/blob/master/OBF%20Bylaws.md)
 we must give at least 10 days notice of a public board meeting.
@@ -32,7 +32,7 @@ Hilyatuz Zahroh.
   * The current board members have reached or are approaching the end
 of their expected three year terms, and are standing for re-election:
 Peter Cock (President), Nomi Harris (Vice President), Heather Wiencko
-(Treasurer), Hilmar Lapp, Bastian Greshake Tzovaras, and Caleb Kibet
+(Treasurer), Hilmar Lapp, Bastian Greshake Tzovaras, Chris Fields, and Caleb Kibet
 (board members at large).
   * This will be an electronic ballot of the current board members.
   * Additional nominations to the board will be considered (ideally
