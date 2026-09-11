@@ -112,5 +112,4 @@ We have created [a word template](https://docs.google.com/document/d/11Uiw3pVWHP
 **Application Deadlines:**
 
 - Round 1: **1 April**
-- Round 2: **1 August**
-- Round 3: **1 December**
+- Round 2: **1 October**
