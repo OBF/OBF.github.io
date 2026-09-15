@@ -13,27 +13,6 @@ The Board can be contacted via email at board@open-bio.org (or, in case of maili
 {{< gallery class="content-gallery" cols='2' >}}
 
 {{< figure
-  src="/img/Friedberg_Iddo_0817_square.jpg"
-  alt="Image of Iddo Friedberg"
-  title= "Iddo Friedberg"
-  caption=`
-_At-large Member_
-Associate Professor at Iowa State University. Chair, Function COSI. Early contributor to the Biopython project.
-`
->}}
-
-{{< figure
-  src="/img/Hilya.jpg"
-  alt="Image of Hilyatuz Zahroh"
-  title= "[Hilyatuz Zahroh](https://www.linkedin.com/in/hilyatuz-zahroh-6671ab100/)"
-  link= "https://www.linkedin.com/in/hilyatuz-zahroh-6671ab100"
-  caption=`
-_At-large Member_
-[APBioNET](https://www.apbionet.org/current-exco-officers-2020-2022/) ExCo
-`
->}}
-
-{{< figure
   src="/img/Caleb_Kibet_pic.jpg"
   alt="Image of Caleb Kibet"
   title= "[Caleb Kibet](https://kipkurui.github.io/)"
@@ -122,6 +101,8 @@ Co-founder of [openSNP](https://opensnp.org) and Director of Research at [Open H
 * [Jason Stajich](http://stajichlab.fungalgenomes.org/) - Former OBF President
 * [Karen Cranston](https://github.com/kcranston) - Former At-large member
 * [Yo Yehudi](https://twitter.com/yoyehudi) - Former At-large member
+* [Hilyatuz Zahroh](https://www.linkedin.com/in/hilyatuz-zahroh-6671ab100/) - Former At-large member
+* [Iddo Friedberg](https://friedberglab.net/people/) - Former At-large member
 
 # Joining the Board
 
