@@ -95,12 +95,12 @@ Co-founder of [openSNP](https://opensnp.org) and Director of Research at [Open H
 * [Malvika Sharan](https://malvikasharan.github.io/) - Former at-large member
 * [Ewan Birney](https://www.ebi.ac.uk/about/people/ewan-birney) - Former OBF President
 * [Andrew Dalke](http://www.dalkescientific.com/) - Former Secretary
-* [Steven E. Brenner](http://plantandmicrobiology.berkeley.edu/profile/brenner) - Former At-large member
+* [Steven E. Brenner](https://compbio.berkeley.edu/) - Former At-large member
 * [Kam Dahlquist](http://kdahlquist.github.io/DahlquistLab/) - Former At-large member
 * [Chris Dagdigian](https://bioteam.net/bio/chris-dagdigian/) - Former Treasurer
-* [Jason Stajich](http://stajichlab.fungalgenomes.org/) - Former OBF President
+* [Jason Stajich](https://lab.stajich.org/members/jason-stajich.html) - Former OBF President
 * [Karen Cranston](https://github.com/kcranston) - Former At-large member
-* [Yo Yehudi](https://twitter.com/yoyehudi) - Former At-large member
+* [Yo Yehudi](https://yo-yehudi.com/) - Former At-large member
 * [Hilyatuz Zahroh](https://www.linkedin.com/in/hilyatuz-zahroh-6671ab100/) - Former At-large member
 * [Iddo Friedberg](https://friedberglab.net/people/) - Former At-large member
 
