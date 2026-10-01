@@ -24,10 +24,9 @@ The OBF community has a number of different online spaces that are open to every
 
 * Follow our [blog](/blog/)
 * [Subscribe to our OBF newsletter](https://mailman.open-bio.org/mailman/listinfo/open-bio-l/) (and if you have news to share, you can [also suggest topics](https://github.com/OBF/newsletter/issues)).
-* [Join our community _Slack_](https://join.slack.com/t/open-bio/shared_invite/zt-1pnswao9y-8igcckVxBXhQHCMweHt_NA), where you will find fellow open bioinformatics folks to chat with.
-* We also have an open [_LinkedIn_ group](https://www.linkedin.com/groups/9539620/), where you can hear about open bioinformatics events, job opportunities and more.
-* We also have active presences on social media, including [BlueSky](https://bsky.app/profile/openbio.bsky.social) and [Mastodon](https://genomic.social/@openbio).
-* Last but not least, our [member projects](/projects) like BioPython also have their own communication channels.
+* Join our [_LinkedIn_ group](https://www.linkedin.com/groups/9539620/), where you can hear about open bioinformatics events, job opportunities and more.
+* We also have presences on social media, including [BlueSky](https://bsky.app/profile/openbio.bsky.social) and [Mastodon](https://genomic.social/@openbio).
+* Last but not least, our [member projects](/projects) like BioPython have their own communication channels.
 
 ## Come to our in-person and virtual events
 
@@ -40,11 +39,9 @@ CollaborationFest offers the chance to work together with others on improving op
 
 You can also apply to become a voting member of the Open Bioinformatics Foundation, which allows voting on larger OBF issues, including changes to the OBF's governing document, the [bylaws](https://github.com/OBF/obf-docs/blob/master/OBF%20Bylaws.pdf).
 To be considered as a voting member, you must already be actively and demonstrably engaged in biology-related open science or open source in some form.
-Examples of such engagement could include contributing to existing open bioinformatics projects, publishing in the field, or attending open source bioinformatics conferences such as BOSC.
+To verify this, the application form asks you to describe and provide a link to at least one active open source bioinformatics project you currently maintain or contribute to.
 The reason for this requirement is that we expect voting members to have a long-term engagement with both the field and the OBF itself.
 The OBF requires a quorum for voting, so we want OBF members to remain actively involved.
-
-The best time and place to join is at the annual [BOSC](/events/bosc/) conference, because attendees are automatically deemed eligible based on the fact that they attended BOSC, but you can apply for membership at any time.
 
 ![](/wp-content/uploads/2019/02/obf_membership.jpg)
 
@@ -61,6 +58,7 @@ The Board established the membership body as the platform from which major futur
 - through active participation and discussion
 - through providing the future leadership of the OBF.
 
-If you are actively engaged in bioinformatics, have ideas and the energy to advocate them then we encourage you to apply to become a voting member, and perhaps to nominate yourself for future elections to the Board. The bylaws define terms for Directors as well as Officers. Elections are typically held yearly or when needed.
+If you are actively engaged in open-source bioinformatics, have ideas and the energy to advocate them then we encourage you to apply to become a voting member, and perhaps to nominate yourself for future elections to the Board.
+The bylaws define terms for Directors as well as Officers. Elections are typically held yearly or when needed.
 
 [Apply to become a voting member of the OBF](https://docs.google.com/forms/d/e/1FAIpQLSflxafcgc7BOLEgppy3h_yMWCIkV_9lJB3Z0a0Y2cJ63sRK-Q/viewform)
