@@ -25,7 +25,7 @@ url: /2026/09/30/2026-09-30-Disha-Tandon-nfdi4ls-IB/
 ![nfdi4ls-IB2026-individual](/img/2026/2026-09-30-DishaTandon-nfdi4LS-IB2026-Individual.jpg)
 *CC-BY-SA Mary-Ann Ebeling*
 
-Recently I attended the Nationale Forchungsdaten Infrastuktur for Life Sciences (NFDI4LS) - Integrative Bioinformatics conference organised at the Leibniz-Institut für Pflanzengenetik und Kulturpflanzenforschung (IPK) in Gatersleben, Germany. Thanks to the Open Bioinformatics Foundation's Event Award, I got to take my work beyond my desk and share it with a diverse community active in research data management.
+Recently I attended the Nationale Forschungsdaten Infrastuktur for Life Sciences (NFDI4LS) - Integrative Bioinformatics conference organised at the Leibniz-Institut für Pflanzengenetik und Kulturpflanzenforschung (IPK) in Gatersleben, Germany. Thanks to the Open Bioinformatics Foundation's Event Award, I got to take my work beyond my desk and share it with a diverse community active in research data management.
 
 On the first day, filled with mixed thoughts, I stepped into the hall. Since the time I submitted my abstract, I knew that the topics covered in the conference could be out of my comfort zone, even if my work was relevant to the theme. My entry in microbiology was serendipity, a chance encounter that made it 'my field'. But my work on organizing biodiversity data into knowledge graphs was a deliberate action, a choice that brought me to present that work at this event.
 
