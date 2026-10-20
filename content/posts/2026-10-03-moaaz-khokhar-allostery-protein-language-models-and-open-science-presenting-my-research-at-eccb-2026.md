@@ -6,7 +6,7 @@ category:
  - event-fellowship
  - travel-fellowship
 cover:
-  image: /wp-content/uploads/2026/2026-10-03-moaaz-presenting-deepalloweb-eccb-2026.jpeg
+  image: /img/2026/2026-10-03-moaaz-presenting-deepalloweb-eccb-2026.jpeg
   alt: "Moaaz Presenting DeepAlloWeb at ECCB 2026"
 
 tag:
