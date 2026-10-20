@@ -15,7 +15,7 @@ tag:
  - travel-fellowship
 
 title: "Allostery, Protein Language Models, and Open Science: Presenting My Research at ECCB 2026"
-url: /2026/10/03/2026-10-03-moaaz-khokhar-allostery-protein-language-models-and-open-science-presenting-my-research-at-eccb-2026/
+url: /2026/10/03/2026-10-03-moaaz-khokhar-eccb-2026/
 ---
 
 **_The_** [**_Open Bioinformatics Foundation (OBF) Event Fellowship program_**](/travel-awards) **_aims to promote diverse participation at events promoting open-source bioinformatics software development and open science practices in the biological research community. Moaaz Khokhar,_** _**a PhD Candidate at**_ _**Koç University**_, **_was awarded an OBF Event Fellowship to attend_** _**the**_ **_[European Conference on Computational Biology (ECCB 2026)](https://eccb2026.org/)_**.
