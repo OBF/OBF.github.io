@@ -17,7 +17,8 @@ The Open Bioinformatics Foundation (OBF) is a non-profit, volunteer-run group th
 
 OBF runs the annual [Bioinformatics Open Source Conference (BOSC)](events/bosc/about).
 
-[BOSC 2025](events/bosc-2025/) took place July 21-22, 2025, in Liverpool, UK (as part of [ISMB/ECCB 2025](https://www.iscb.org/ismbeccb2025/home)). BOSC 2026 will be part of ISMB 2026 in Washington, DC.
+[BOSC 2026](/events/bosc-2026/), the 27th annual Bioinformatics Open Source Conference, took place July 14-15 in Washington, DC, as part of ISMB 2026.
+[BOSC 2027](/events/bosc-2027) will be part of ISMB/ECCB 2027 in Copenhagen, Denmark.
 
 [Learn More](/about/)
 
@@ -30,6 +31,8 @@ OBF runs the annual [Bioinformatics Open Source Conference (BOSC)](events/bosc/a
 
 {{< endcolumns >}}
 
+<div class="well">
+  
 # OBF Event Awards
 
 {{< columns >}}
@@ -47,3 +50,5 @@ The OBF Event Fellowship program aims to increase diverse participation at event
 
 ![Ruth Nanjala, an OBF Event Award winner, by her poster](/wp-content/uploads/2023/03/Ruth-Nanjala-cropped-OBF-event-fellowship-winner.jpg)
 {{< endcolumns >}}
+
+{/div}
