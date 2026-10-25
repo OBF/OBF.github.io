@@ -103,7 +103,7 @@ Our focus is on open source work and communities. Code presented at BOSC must be
 
 We try to provide a platform to everyone who wants to present appropriate work. We have "long" talks (typically 17 minutes + 3 minutes for questions), short/"lightning" talks (5 minutes), and posters.
 
-<a href="/events/bosc-2026/submit/" class="btn btn-lg btn-primary">Submit an abstract</a>
+<a href="/events/bosc-2027/" class="btn btn-lg btn-primary">Submit an abstract</a>
 
 
 ### Review abstracts
