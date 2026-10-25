@@ -37,7 +37,7 @@ OBF runs the annual [Bioinformatics Open Source Conference (BOSC)](events/bosc/a
 
 {{< columns >}}
 
-The OBF Event Fellowship program aims to increase diverse participation at events promoting open source bioinformatics software development and open science in the biological research community.
+The OBF Event Fellowship program aims to increase diverse participation at events promoting open source bioinformatics software development and open science in the biological research community. There are two application rounds per year, in April and October.
 
 - [What are the selection criteria?](event-awards/#fellowships-selection-criteria)
 - [What does the fellowship cover?](event-awards#fellowships-coverage)
@@ -51,4 +51,4 @@ The OBF Event Fellowship program aims to increase diverse participation at event
 ![Ruth Nanjala, an OBF Event Award winner, by her poster](/wp-content/uploads/2023/03/Ruth-Nanjala-cropped-OBF-event-fellowship-winner.jpg)
 {{< endcolumns >}}
 
-{/div}
+</div>
