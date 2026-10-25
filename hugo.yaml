@@ -92,26 +92,18 @@ menu:
     - name: 'BOSC'
       identifier: 'bosc'
       weight: 1
-    - name: 'BOSC 2026'
+    - name: 'BOSC 2027'
       parent: 'bosc'
-      url: 'events/bosc-2026/'
+      url: 'events/bosc-2027/'
       weight: 2
-    - name: 'Submit an abstract'
+    - name: '(Submission closed)'
       parent: 'bosc'
       url: 'events/bosc-2026/submit/'
       weight: 3
-    - name: 'Keynotes'
-      parent: 'bosc'
-      url: 'events/bosc-2026/bosc-2026-keynotes/'
-      weight: 4
-    - name: 'Schedule (NEW)'
+    - name: 'Schedule (2026)'
       parent: 'bosc'
       url: 'events/bosc-2026/bosc-2026-schedule/'
       weight: 5
-    - name: 'Panels'
-      weight: 6
-      parent: 'bosc'
-      url: 'events/bosc-2026/panels/'
     - name: 'CollaborationFest'
       weight: 7
       parent: 'bosc'
