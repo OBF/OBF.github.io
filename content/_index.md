@@ -32,7 +32,7 @@ OBF runs the annual [Bioinformatics Open Source Conference (BOSC)](events/bosc/a
 {{< endcolumns >}}
 
 <div class="well">
-  
+
 # OBF Event Awards
 
 {{< columns >}}
