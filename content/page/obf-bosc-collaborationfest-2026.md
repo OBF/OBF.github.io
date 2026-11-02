@@ -7,6 +7,7 @@ url: /events/bosc-2026/collaborationfest
 aliases:
   - /events/bosc/collaborationfest2026/
   - /events/bosc/collaborationfest/
+  - /events/collaborationfest/
 bosc: yes
 ---
 
