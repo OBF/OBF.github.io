@@ -16,11 +16,10 @@ title: "OBF Event Award: 10 years in, moving to two cycles a year"
 url: /2026/11/06/2026-11-06-10-years-of-Event-Award
 ---
 
-# OBF Event Award: 10 years in, moving to two cycles a year
-
 The [OBF Event Award](https://www.open-bio.org/event-awards/) program has successfully completed its first 10 years.
 Initially called the Travel Fellowship program, the Event Award was [launched in March 2016](https://www.open-bio.org/2016/03/01/obf-travel-fellowship-program/) with the goal of increasing diverse participation at events promoting open-source bioinformatics or open science by providing financial support to selected applicants to help them attend these events.
 The program was conceived as a way to “put our money where our mouths were”, as a concrete way to help increase [diversity and representation in the open source / open science bioinformatics community](https://www.open-bio.org/obf-dei/). In April 2016, [the Phyloinformatics Summer of Code donated USD\$18,125](https://www.open-bio.org/2016/04/18/phylosoc-supports-obf-travel-fellowships/) to fund the program.
+![David Kiragu Mwaura, a 2026 OBF Event Award winner](/img/2026-02-02-image-kiragu.jpg.png)
 
 In our [announcement about the program](https://www.open-bio.org//2016/03/01/obf-travel-fellowship-program/), we noted that we hoped to continue the program for 10 years \- which we achieved this year.
 So far, the OBF Event Fellowship has supported 70 fellows to attend events promoting Open Science.  We are pleased that we are able to continue the OBF Event Award past the original 10-year goal.
