@@ -1,3 +1,21 @@
+---
+author: Nomi Harris
+date: 2026-11-06
+
+category:
+ - community
+ - event-fellowship
+ - travel-fellowship
+
+tag:
+ - community
+ - event-fellowship
+ - travel-fellowship
+
+title: "OBF Event Award: 10 years in, moving to two cycles a year"
+url: /2026/11/06/2026-11-06-10-years-of-Event-Award
+---
+
 # OBF Event Award: 10 years in, moving to two cycles a year
 
 The [OBF Event Award](https://www.open-bio.org/event-awards/) program has successfully completed its first 10 years.
