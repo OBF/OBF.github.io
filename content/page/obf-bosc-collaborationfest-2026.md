@@ -11,11 +11,7 @@ aliases:
 bosc: yes
 ---
 
-{{< columns >}}
-
-![Participants at CoFest 2025](/img/2025/bosc2025-img/CoFest%20-%203%20people%20working%20at%20table.jpeg)
-
-{{< column >}}
+![CoFest 2026 group photo](/img/2026/cofest2026-group-waving.jpeg)
 
 CollaborationFest 2026 was a collaborative work event at which about 30 participants worked together on 7 projects, contributing code, documentation, training materials, and challenging analysis problems and use cases.
 
@@ -24,7 +20,17 @@ The 2026 CoFest took place after ISMB 2026, July 17-18, in Washington, DC.
 
 Reports on BOSC 2026 and CollaborationFest 2026 will be published soon in [F1000Research](https://f1000research.com/collections/BOSC).
 
+{{< columns >}}
+
+![Allissa Dillman presenting at CoFest 2026](/img/2026/cofest2026-allissa-presenting.jpeg)
+
+{{< column >}}
+
+![Participants working at CoFest 2026](/img/2026/cofest2026-3-women-working.jpeg)
+
 {{< endcolumns >}}
+
+![Working at CoFest 2026](/img/2026/cofest2026-table-working.jpeg)
 
 ### Cost
 
