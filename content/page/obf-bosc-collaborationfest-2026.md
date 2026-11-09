@@ -20,15 +20,11 @@ bosc: yes
 CollaborationFest 2026 was a collaborative work event at which about 30 participants worked together on 7 projects, contributing code, documentation, training materials, and challenging analysis problems and use cases.
 
 BOSC has organized CollaborationFests (aka CoFests) every year before or after ISMB since 2010.
-The 2026 CoFest took place the day after ISMB 2026, in Washington, DC.
+The 2026 CoFest took place after ISMB 2026, July 17-18, in Washington, DC.
 
-A report on BOSC 2026 and CollaborationFest 2026 will be published in [F1000Research](https://f1000research.com/collections/BOSC).
+Reports on BOSC 2026 and CollaborationFest 2026 will be published soon in [F1000Research](https://f1000research.com/collections/BOSC).
 
 {{< endcolumns >}}
-
-### Dates and Location
-
-Friday July 17 to Saturday July 18 (right after ISMB 2026), 9:00am - 5:00pm both days, in Washington, DC.
 
 ### Cost
 
