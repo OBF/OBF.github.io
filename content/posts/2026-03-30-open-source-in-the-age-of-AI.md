@@ -11,7 +11,7 @@ tag:
   - ismb
   - conferences
 
-title: "Open Source in the Age of AI"
+title: "Open Source Values in the Age of AI"
 url: /posts/Open-Source-in-the-Age-of-AI/
 
 ---

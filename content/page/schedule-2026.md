@@ -37,7 +37,7 @@ Science for the People: Open science to engage and build trust with communities
 Panelists: Maryam Zaringhalam, Ann Nowakowski, Mallory Freeberg, Guy Cochrane, Sam Halabi<br/>
 Moderator: Mónica Muñoz Torres
 
-## [Panel: Open Source in the Age of AI](/events/bosc-2026/panels/)
+## [Panel: Open Source Values in the Age of AI](/events/bosc-2026/panels/)
 Panelists: Eric Green, Aida Miro-Herrans, Nahid Zeinali, Alex Bateman<br/>
 Moderator: Jason Williams
 

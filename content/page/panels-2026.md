@@ -97,15 +97,14 @@ Dr. Muñoz Torres is an Associate Professor at the University of Colorado Anschu
 
 <hr>
 
-# Panel 2: Open Source in the Age of AI
+# Panel 2: Open Source Values in the Age of AI
 
 Open-source software has been a key part of the bioinformatics landscape for decades, enabling large-scale collaboration and supporting reproducible science.
-The emergence of generative AI represents a fundamental shift in how code is authored, maintained, and shared. This panel will examine the "elephant in the room": is generative AI a powerful advantage for open-source communities, or a threat to their long-term health, or both?
-We will explore how AI tools—which can generate thousands of lines of code in seconds—challenge our notions of contribution, reuse, and the value of human-authored frameworks.
+The emergence of generative AI represents a fundamental shift in how code is authored, maintained, and shared. Open source has traditionally rewarded reuse, contribution, transparency, and community trust. This panel will examine how AI tools—which can generate thousands of lines of code in seconds—challenge those core values and our notions of what it means to contribute to a community project.
 
 While AI makes it easier than ever to code solutions from scratch, it raises critical questions about the sustainability of existing projects and the scientific accuracy of machine-generated results. As the difficult part of software development shifts from writing code to verifying it for scientific integrity, our communities and the way they operate must evolve. From assessing pull requests submitted by AI agents to debating the merits of bans on AI-generated submissions, the open-source community is at a crossroads in defining how humans and AI agents can best work together.
 
-This panel will bring together a variety of perspectives to discuss topics including: Reuse, Attribution and Accountability, Licensing, Sustainability, and the Future of Open Data.
+This panel will bring together a variety of perspectives to discuss how open-source values are being tested, including: Reuse, Attribution and Accountability, Licensing, Sustainability, and the Future of Open Data.
 
 # Panelists
 
