@@ -16,7 +16,7 @@ url: /2026/02/23/2026-02-23-David-Mwaura-AIBBC2025/
 
 The [Open Bioinformatics Foundation (OBF) Event Fellowship program](/travel-awards) aims to promote diverse participation at events promoting open-source bioinformatics software development and open science practices in the biological research community. David Kiragu Mwaura,_an Assistant Research Scientist at the Kenya Institute of Primate Research, was awarded an OBF Event Fellowship to attend the [2025 AIBBC conference](https://www.aibbc-society.org/).
 
-![David Kiragu standing beside his mounted poster](/img/2026-02-02-image-kiragu.jpg.png)
+![David Kiragu standing beside his mounted poster](/img/2026/2026-02-02-image-kiragu.jpg.png)
 
  ## Introduction
 My desire to share my masters’ research output in a real world demonstration had finally come to fruition. This was achieved by securing a competitive travel grant from the **Open Bioinformatics Foundation Event Fellowship**. Leaving the chilly landscapes of Glasgow, Scotland for the warm, tropical weather in my home country, Kenya, I was honored to attend the [2025 African International Biotechnology and Biomedical Conference](https://www.aibbc-society.org/), where scientists from around the world gather to exchange ideas that directly address Africa’s needs.
@@ -26,7 +26,7 @@ My simple and urgent plan was to showcase that open-source educational tools are
 
 Standing proudly beside my poster, I highlighted the complexity of teaching kinship inference and presented our solution, [DadApp](https://github.com/KIRAGU-MWAURA/DadApp_Shiny_Web_App), the open source R shiny tool. I shared the successful results from the Kenya Institute of Primate Research (KIPRE) pilot study that described the increase of interest and confidence upon using DadApp as an active learning tool. The results were uniquely compelling to the audience which sparked the discussion among lecturers and researchers from many institutions across Africa, who recognized the immense value of such open source tools. They saw an accessible, validated tool that could be replicated and scaled here in Africa where technology is gradually accessible.
 
-![Audience for the poster](/img/2026-02-02-image-kiragu01.jpg.png)
+![Audience for the poster](/img/2026/2026-02-02-image-kiragu01.jpg.png)
 
 However, what stood out was how diverse my audience was: Some asked what Open Source is and why it matters in the Biotechnology and Biomedical fields? Whereas some audience members were advanced to ask what license is the Shiny App released under and if it allows commercial use, modification and/or redistribution? The diverse audience validated the continuous need for sensitizing about the importance of Open Source tools and Open Science in general. One of the most satisfying highlights was having a Professor from one of the leading universities in Kenya appreciating the content of the poster and commenting that such Open Source tools are the future as they can help in enhancing flexibility in curriculum design. He further added that lecturers and those passionate in capacity development can tailor such tools to course goals especially in lessons that are mathematically and coding intensive.
 

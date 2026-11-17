@@ -23,7 +23,7 @@ The call for applications for round 2 of the[ OBF Event Fellowship](https://www.
 
 The OBF Event Fellowship program aims to increase diverse participation at events that promote open-source bioinformatics and/or open science. We invite applications from candidates seeking financial support to attend relevant scientific events between September 2026 to August 2027. These events include conferences, workshops, code fests, hackathons, training courses, collaborative sprints, informal meet-ups or other skill-building and networking events. For more details, please read our [OBF Event Fellowship policy document](https://github.com/OBF/obf-docs/blob/master/Travel_fellowships.md).
 
-![David Kiragu at the 2025 AIBBC conference](https://www.open-bio.org/img/2026-02-02-image-kiragu.jpg.png)
+![David Kiragu at the 2025 AIBBC conference](/img/2026/2026-02-02-image-kiragu.jpg.png)
 
 The[  Open Bioinformatics Foundation (OBF) Event Fellowship program](https://www.open-bio.org/event-awards/) is now in its 9th year. Since 2023, we have had three application rounds per year with the following deadlines: 1 April, 1 August, and 1 December.
 
