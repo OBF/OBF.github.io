@@ -42,6 +42,7 @@ To be considered as a voting member, you must already be actively and demonstrab
 To verify this, the application form asks you to describe and provide a link to at least one active open source bioinformatics project you currently maintain or contribute to.
 The reason for this requirement is that we expect voting members to have a long-term engagement with both the field and the OBF itself.
 The OBF requires a quorum for voting, so we want OBF members to remain actively involved.
+Due largely to increasing automated ineligible entries, the online membership form has been withdrawn while we consider how to better handle this process.
 
 ![](/wp-content/uploads/2019/02/obf_membership.jpg)
 
@@ -60,5 +61,3 @@ The Board established the membership body as the platform from which major futur
 
 If you are actively engaged in open-source bioinformatics, have ideas and the energy to advocate them then we encourage you to apply to become a voting member, and perhaps to nominate yourself for future elections to the Board.
 The bylaws define terms for Directors as well as Officers. Elections are typically held yearly or when needed.
-
-[Apply to become a voting member of the OBF](https://docs.google.com/forms/d/e/1FAIpQLSflxafcgc7BOLEgppy3h_yMWCIkV_9lJB3Z0a0Y2cJ63sRK-Q/viewform)
