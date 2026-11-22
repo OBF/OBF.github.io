@@ -42,6 +42,7 @@ To be considered as a voting member, you must already be actively and demonstrab
 To verify this, the application form asks you to describe and provide a link to at least one active open source bioinformatics project you currently maintain or contribute to.
 The reason for this requirement is that we expect voting members to have a long-term engagement with both the field and the OBF itself.
 The OBF requires a quorum for voting, so we want OBF members to remain actively involved.
+
 Due largely to increasing automated ineligible entries, the online membership form has been withdrawn while we consider how to better handle this process.
 
 ![](/wp-content/uploads/2019/02/obf_membership.jpg)
